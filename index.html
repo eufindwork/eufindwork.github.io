@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>Internship Intelligence — 欧洲实习情报库</title>
+  <meta name="description" content="34 家欧洲科技公司实习情报对比 (签证 / 面试 / Stipend / 面经)" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  <style>
+    :root {
+      --theme-color: #2c7be5;
+      --theme-color-secondary: #1a4fb0;
+    }
+    .sidebar { width: 320px; }
+    .markdown-section { max-width: 1100px; }
+    .markdown-section table {
+      display: table;
+      width: 100%;
+      font-size: 14px;
+    }
+    .markdown-section th {
+      background: #f1f5fb;
+    }
+    .markdown-section tr:nth-child(even) {
+      background: #fafbfd;
+    }
+    .sidebar ul li.section-title {
+      font-weight: 700;
+      color: #2c7be5;
+      margin-top: 10px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .app-name-link img { max-width: 100%; }
+    .cover-main h1 { color: #2c7be5 !important; }
+    body { background: #fcfdff; }
+  </style>
+</head>
+<body>
+  <div id="app">加载中...</div>
+  <script>
+    window.$docsify = {
+      name: 'Internship Intelligence',
+      nameLink: '#/',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      maxLevel: 4,
+      homepage: 'README.md',
+      coverpage: false,
+      relativePath: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜索公司 / 城市 / 关键词...',
+        noData: '找不到结果',
+        depth: 4,
+        hideOtherSidebarContent: false
+      },
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      copyCode: {
+        buttonText: '复制',
+        errorText: '失败',
+        successText: '已复制'
+      },
+      tabs: {
+        persist: true,
+        sync: true,
+        theme: 'classic',
+        tabComments: true,
+        tabHeadings: true
+      },
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
+      executeScript: false,
+      noEmoji: false
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+</body>
+</html>

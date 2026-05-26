@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:internship.jetbrains.com)",
+      "WebFetch(domain:www.jetbrains.com)",
+      "WebFetch(domain:www.levels.fyi)",
+      "WebFetch(domain:techpays.com)",
+      "WebFetch(domain:www.nowcoder.com)",
+      "WebFetch(domain:www.glassdoor.com)"
+    ]
+  }
+}
