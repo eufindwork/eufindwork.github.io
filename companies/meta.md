@@ -35,6 +35,47 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐ (London E3 数据扎实, Dublin/Paris/Amsterdam 工程 NG 数据稀薄)
+> 区别于实习: 全职 entry-level **E3 级别** (Meta 第一个 IC level), 永久合同 + 完整 RSU (4 年 vest)
+
+- **常见岗位名**: Software Engineer, University Grad (E3) / Production Engineer, University Grad / Research Scientist (PhD) / Data Scientist (Analytics) — Meta 公开招聘页用 "University Grad" tag 区分 entry-level vs 经验岗
+- **欧洲地点**: **London (主)** / Dublin (PE + Infra) / Paris (FAIR + AI infra) — Amsterdam **基本不招 SWE NG** (商业岗为主),Zurich 偶有 FAIR Research Scientist NG (PhD only)
+- **是否有独立 Graduate Programme**: **No** — Meta 全球没有结构化 graduate rotation。**"Meta University"** 是面向 underrepresented 学生的 8-10 周本科 summer intern 项目 (US 为主, 不是 FT NG),不要混淆。E3 NG 入职后 6 周 "Bootcamp" (在 London / Menlo Park) 是 onboarding 而非 graduate program
+- **非EU签证 (全职)**:
+  - UK: **Skilled Worker visa** — Meta UK 是注册 sponsor,E3 base £80K+ 远超 £38,700 threshold,sponsor 几乎自动批
+  - IE: **Critical Skills Employment Permit** (SWE 在 IE shortage list),Meta Dublin 在 IE 是 top sponsor 之一
+  - FR: **Passeport Talent** (Salarié Qualifié),Meta Paris 用此通道
+  - 与实习区别: NG 走永久工签 (5 年 + 永居路径),intern 走 Tier 5 GAE / 学生签证 (短期, 不积累永居)
+- **薪资范围 (base, gross/年, E3 entry-level)**:
+  | 城市 | Base | Total Comp (含 RSU + bonus) | 来源 |
+  |------|------|----------------------------|------|
+  | London | £80K (~$100K) base | £95K-£127K (range £95.4K-£1.3M E3-E8) | [Levels.fyi Meta E3 London](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
+  | Dublin | €80K-€95K base (估算, 数据点少) | €100K-€130K | 间接 Glassdoor + 1point3acres |
+  | Paris | €60K-€75K base | €85K-€110K | 间接 (TechPays + 1point3acres) |
+  - **Signing bonus**: London E3 historically $20K-$40K (Blind 数据);**RSU refresh**: Meta 高于 Google/Amazon, E3 → E4 promo 后 refresh 显著
+  - **London E3 vs Google L3**: Meta E3 base ~£80K vs Google L3 base £116K — **Google base 明显高**,但 Meta RSU 增长曲线更陡 (E4 跳跃后总包反超)
+- **申请窗口**: **Rolling** + 秋招 (8-10 月) + 春招 (1-3 月)。Meta 倾向 University Grad 在毕业前 6-9 个月锁定。**Return offer (实习转 NG) 是主路径** — 2024-2025 conversion 率 ~40-50% (vs 2022 ~70%, Blind 数据)。海外应届直申 EU FT 几率显著低于 return
+- **面试流程差异 vs 实习**:
+  - 轮数: 实习 1 tech round → NG **5 rounds** (2 coding + 1 **system design** + 1 behavioral + 1 hiring manager/team match)
+  - System design: NG 强制有 1 轮 45 min (e.g., design Newsfeed / Notification),intern 没有
+  - Coding 难度: intern 1 题 medium → NG 每轮 2 题 medium (45 min),Meta tag 重合度仍 >80%
+  - Behavioral: 用 Meta 5 大价值观 (Move Fast, Be Bold, Focus on Impact, Build Awesome Things, Live in the Future) 评分,intern 此项轻
+- **录取竞争**: London E3 acceptance 估算 < 3% (Blind / 1point3acres NG 帖); **2023-2024 EU NG HC 持续紧缩** — onsite 通过后 team match 仍可能失败 (有 case 等 12 周+) 见 [1point3acres Meta NG SWE 求 team match](https://www.1point3acres.com/bbs/thread-1074805-1-1.html)。国际生 friendliness: 中等 (London visa 友好, 但 EU 学历 + return offer 优先级最高)
+- **关键链接**:
+  - 官方 University & Grad: [https://www.metacareers.com/careerprograms/students](https://www.metacareers.com/careerprograms/students)
+  - Meta Careers Jobs (Early Career filter): [https://www.metacareers.com/jobs](https://www.metacareers.com/jobs)
+  - Levels.fyi Meta E3 London: [https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area)
+  - Levels.fyi Meta London 综合: [https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/london-metro-area)
+  - 1point3acres Meta 25 NG SDE 伦敦: [https://www.1point3acres.com/bbs/thread-1096596-1-1.html](https://www.1point3acres.com/bbs/thread-1096596-1-1.html)
+  - 1point3acres Meta NG SWE 伦敦 team match: [https://www.1point3acres.com/bbs/thread-1074805-1-1.html](https://www.1point3acres.com/bbs/thread-1074805-1-1.html)
+  - 1point3acres Meta DSA London 选组: [https://www.1point3acres.com/bbs/thread-1129134-1-1.html](https://www.1point3acres.com/bbs/thread-1129134-1-1.html)
+
+---
+
 ## 2. 签证与国际学生政策
 
 ### 2.1 英国 (London)

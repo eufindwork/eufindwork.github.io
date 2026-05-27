@@ -18,6 +18,44 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (Mistral 整体公司信息有限, 公开 Junior / new grad 数据极少, Levels.fyi 主要是 mid/senior 数据, 应届岗几乎不公开 leveling)
+> 区别于实习: 全职 entry-level (0-2 年经验); Mistral 招聘高度 senior-skewed, 真正意义上的 "new grad" 全职岗极少, 主要靠 **PhD 实习 + CIFRE 转正** 通道
+
+- **常见岗位名**: ML Research Engineer、Research Scientist、Applied AI Engineer、Forward Deployed Engineer、Software Engineer (Infrastructure); 招聘页**几乎不挂 "Junior" / "Graduate"** 标签 — Mistral 偏好已有 1-3 年大模型经验或 PhD 在读 / 应届 PhD
+- **欧洲地点**: 主基地 **Paris (9 区)**; 部分岗位 **London**; 极少 Zurich / Warsaw; Junior / 应届岗几乎默认 Paris onsite
+- **是否有独立 Graduate Programme**: **No** — Mistral 是 100-200 人规模的 scaleup, 没有 graduate scheme; 唯一接近的是 **CIFRE (法国博士企业联合培养) → Full-time Research Engineer** 通道, 这是 PhD 学生的主入口
+- **非EU签证 (全职)**:
+  - **France Passeport Talent (Salarié Qualifié)**: 月薪 ≥ 2x SMIC (~€3,494/月 gross), 应届 ML Engineer 通常达标; Mistral 会 sponsor (相比实习的"靠学生身份"差别大)
+  - **EU Blue Card (France)**: 阈值 ~€53,837/年 (2025), Mistral SWE 起薪 €78k+ 通常达标
+  - **APS (Autorisation Provisoire de Séjour)**: M2 法国毕业生 12 个月 + 可延 24 个月找工作, 期间可全职; 是中国 / 印度 candidate 常用的"先实习 → 找全职 → sponsor"路径
+- **薪资范围 (base, gross/年)** (Levels.fyi 2024-2025, Mistral 数据样本极小):
+  - **Paris Junior / Entry ML Engineer** (估计, 公开数据稀少): base ~€78,000-95,000, +equity (pre-IPO 期权, 估值 ~$14B 但液体性差)
+  - **Paris Mid ML Engineer**: Levels.fyi 中位 ~€108,000-142,000+ base
+  - **Paris Senior ML Engineer**: €130-180k base + equity
+  - 福利: 餐券、Gympass、私人医保、学习预算、全职股票期权
+  - 与法国本土 (Criteo / Doctolib) 相比 Mistral 全职起薪高 ~30-50%
+- **申请窗口**: **Rolling 全年滚动**; Mistral 招聘节奏快 (2024 100 人 → 2025 计划 +125 人), 但 bar 极高, 每个 req 候选人池庞大; 没有 cohort batch
+- **面试流程差异 vs 实习**:
+  - 实习 5-6 轮 (HR → Team Lead → LLM Quiz → Coding → System Design → Fit), 全职 **同样 5-6 轮但每轮深度上升**
+  - **从零实现 attention 仍是高频考点** (全职 / 实习共通), 全职还会加 multi-GPU 训练 / inference optim / distributed training 题
+  - System Design: 全职会问 inference serving (vLLM-style)、KV cache management、batch scheduling、multi-tenant serving
+  - Founder round 在全职流程出现频率更高 (实习偶有)
+- **录取竞争**: Mistral 公开"hire only the best", Master 实习命中率 < 5%, 全职 entry-level 类似严苛; 国际生 friendliness 中等 — sponsor visa 是支持的, 但 bar 远高于 Hugging Face / Criteo AI Lab; 顶会一作论文 / 大型开源 PR 是入场券
+- **关键链接**:
+  - Mistral Careers: https://mistral.ai/careers
+  - Lever Mistral Jobs (全部 req): https://jobs.lever.co/mistral
+  - Levels.fyi Mistral AI: https://www.levels.fyi/companies/mistral-ai/salaries
+  - Glassdoor Mistral AI Interviews: https://www.glassdoor.com/Interview/Mistral-AI-Interview-Questions-E9945031.htm
+  - datainterview Mistral Engineer Guide 2026: https://www.datainterview.com/blog/mistral-ai-engineer-interview
+  - Welcome to the Jungle Mistral (法国本土招聘 / 福利更细): https://www.welcometothejungle.com/en/companies/mistral-ai/jobs
+  - Reddit r/MachineLearning Mistral hiring 讨论: https://www.reddit.com/r/MachineLearning/search/?q=mistral
+
+---
+
 ## 2. 实习岗位类型
 
 | 岗位名 | 学位要求 | 团队 | 关键词 |

@@ -20,6 +20,52 @@ Criteo AI Lab 是核心研究单位, 出过不少推荐/排序方向 (CTR predic
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Paris Junior SWE / Apprenti 数据齐全, Glassdoor / Welcome to the Jungle / talentup 厚, 1point3acres 中文面经多)
+> 区别于实习: 全职 entry-level (0-2 年经验); Criteo 是 Paris 区**少数有正式 Graduate Programme 的科技公司之一**, 命名为 **Criteo Graduate Programme**
+
+- **常见岗位名**: Software Engineer (Junior / Associate)、Machine Learning Engineer (Junior)、Data Scientist (Junior)、Apprenti SWE/ML (法国 apprenticeship 1-3 年制); 招聘页同时有 "Graduate Programme" 和直接 Junior req 两种入口
+- **欧洲地点**: 全职工程主要 **Paris (32 rue Blanche, 9 区)** 和 **Grenoble (R&D 中心)**; 部分岗位 Barcelona, 偶有 London / 米兰; Junior SWE / ML 主要 Paris, Grenoble 偏 platform / infra
+- **是否有独立 Graduate Programme**: **Yes — Criteo Graduate Programme**
+  - 多种形式: **CDI Junior (全职无固定期合同)** + **Apprenticeship (法国 alternance 学徒制, 1-3 年, 学校 + 公司交替)** + **CDD (固定期合同)**
+  - Apprenticeship 是法国本土 grad 主入口: 学费由公司报销, 月薪约 €1,500-2,200, 满期默认转 CDI
+  - CDI Junior 直接全职入职, base ~€48-60k
+  - Buddy + Mentor 制度入职 6 个月覆盖
+- **非EU签证 (全职)**:
+  - **France Passeport Talent (Salarié Qualifié)**: Criteo 会 sponsor; 月薪 ≥ 2x SMIC (~€3,494/月) 应届 SWE 通常达标
+  - **EU Blue Card (France)**: 阈值 ~€53,837/年 (2025), Criteo Senior SWE 通常达标, Junior 偶有边缘
+  - **APS (Autorisation Provisoire de Séjour)**: M2 法国毕业 12 个月 + 可延 24 个月找工作, 大量中国 / 印度 candidate 走"实习 → APS → Criteo CDI sponsor"路径
+  - 实习 / Apprenticeship 通常学生身份覆盖, 全职 Criteo 主动 sponsor (与 Deezer 形成对比, Deezer 不为应届 sponsor)
+- **薪资范围 (base, gross/年)** (Levels.fyi / talentup / Glassdoor 2024-2025):
+  - **Paris Junior SWE (CDI)**: base ~€48,000-60,000, +bonus 5-10% + RSU (Criteo 上市, NASDAQ: CRTO)
+  - **Paris Mid SWE (1-3 yrs)**: base ~€55,000-75,000, TC ~€65k-90k (含 RSU)
+  - **Paris Senior SWE**: base ~€75,000-95,000+
+  - **Grenoble Junior SWE**: base 略低于 Paris ~5-10% (生活成本低)
+  - **Apprenti**: ~€1,500-2,200/月 (法国 alternance 法定区间 + 公司加成)
+  - 福利: 餐券 (titre-restaurant)、Navigo 50%、健康保险、月度公司 party、健身、AI Lab learning budget
+- **申请窗口**: **Rolling 全年滚动**; Apprenticeship 主要 7-9 月开始 (与法国学年同步); CDI Junior 全年, 3-5 月 / 9-11 月两期 peak
+- **面试流程差异 vs 实习**:
+  - 实习 4-6 轮, 全职 **同样 5-6 轮 + Manager round 偏重 long-term fit**
+  - **System Design 是 Junior+ 必考** (实习偶有): MapReduce、Kafka、Elasticsearch、cache、SQL/NoSQL trade-off、web crawler
+  - ML 全职会加 deeper ML system design: CTR prediction pipeline、feature store、online learning、A/B test infra
+  - Manager round 会问 1-2 年 career path
+  - 流程对国际生友好, 英文为主, 法语非必须
+- **录取竞争**: Criteo 通过率较高 (Glassdoor 67% positive interview rate, 难度 3.1/5 — 温和友好那一档), 远低于 FAANG 强度; 国际生 friendliness 高 — Paris 区性价比最高的 SWE / ML 全职入口之一, 历来招大量中国 / 印度 / 南欧 candidate; 工程师学校 (Polytechnique / Centrale / Telecom / Mines / ENSAE / EPITA) 校友通道强
+- **关键链接**:
+  - 官方 Careers: https://careers.criteo.com/
+  - Criteo Early Careers (含 Graduate / Apprenticeship): https://careers.criteo.com/en/early-careers/
+  - Criteo SWE Hiring Process Blog: https://careers.criteo.com/en/criteo-life-blog/start-your-journey/my-hiring-process-at-criteo-as-a-software-engineer/
+  - Levels.fyi Criteo Paris: https://www.levels.fyi/companies/criteo/salaries/software-engineer/locations/paris
+  - Glassdoor Criteo Paris Junior SWE: https://www.glassdoor.com/Interview/Criteo-Paris-Interview-Questions-EI_IE426672.0,6_IL.7,12_IM1080.htm
+  - 1point3acres Criteo 长期内推: https://www.1point3acres.com/bbs/thread-528136-1-1.html
+  - talentup Criteo 2025 Salaries: https://talentup.io/company/criteo-salaries
+  - Welcome to the Jungle Criteo: https://www.welcometothejungle.com/en/companies/criteo/jobs
+
+---
+
 ## 2. 实习岗位类型
 
 | 岗位 | 团队 | 关键词 | 城市 |

@@ -14,6 +14,53 @@
 | 申请窗口 | 全年 rolling,Summer cohort 主入口 1-3 月 |
 | 实习/视觉口碑 | 高薪、blue chip 名号、CV 加分;但**文化负评极多** |
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (London Junior SWE Levels.fyi / TechPays / Glassdoor / 1point3acres 数据厚, efinancialcareers 流程公开)
+> 区别于实习: 全职 entry-level (0-2 年经验); Revolut 有命名的 **Rev-celerator Graduate Programme** + 直接 Junior Engineer 入口两条线
+
+- **常见岗位名**: Junior Software Engineer、Graduate Software Engineer、Junior Data Engineer / Analyst、Junior ML Engineer; **Rev-celerator** 是命名 grad programme, 涵盖 SWE / DS / Product / Ops 多职能
+- **欧洲地点**: 工程主基地 **London (Canary Wharf)**; 较多 Vilnius (Lithuania, customer ops + 部分工程)、Krakow (Poland, 工程 + ops)、Porto / Lisbon (Portugal, 工程扩张)、Madrid、Berlin、Paris、Dublin (后几个偏 commercial); Junior SWE 主要 London + Krakow + Porto
+- **是否有独立 Graduate Programme**: **Yes — Rev-celerator Graduate Programme**
+  - 12-18 个月结构化, 含 rotation across teams、mentorship、社交
+  - 多职能: Software Engineering、Data、Product、Operations、Finance
+  - 满期 default convert 为 Junior / Mid Engineer 或对应 role
+  - 与实习 (Rev-celerator: Internship, 10 周暑期) 同属 Rev-celerator 品牌但是不同 program
+- **非EU签证 (全职)**:
+  - **UK Skilled Worker Visa**: Revolut Ltd 是持牌 sponsor; Junior SWE 全职会 sponsor (2024-04 起 going rate ≥ £38,700, new entrant 阈值较低 ~£30,960); Junior SWE 起薪通常达标
+  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Revolut 接受 PSW candidate 后再转 Skilled Worker
+  - 实习主要 Student Visa, 全职转 Skilled Worker, Revolut sponsor 流程成熟
+  - **Lithuania / Poland / Portugal 办公室**: 各自走 local work permit, 是非 EU candidate 绕过 UK 高门槛的备选路径
+- **薪资范围 (base, gross/年)** (Levels.fyi / TechPays / Glassdoor 2024-2025):
+  - **London Junior SWE / Graduate**: base ~£55,000-70,000, +variable bonus 10-20% + equity (Revolut pre-IPO), TC ~£65k-85k
+  - **London Mid SWE (1-2 yrs)**: base ~£75,000-95,000, TC ~£100k-130k
+  - **London Senior SWE**: base ~£110-140k, TC ~£150-200k+
+  - **Krakow / Porto Junior SWE**: base ~PLN 180k-260k / €30-45k (远低于 London)
+  - 福利: equity grant (vesting 4 年)、Revolut Premium / Metal 账户员工版、健身、心理咨询、stock buyback program
+  - 与 London fintech 顶部 (Stripe / Monzo Senior) 比 mid-tier, 但 Junior 起薪在 London 处于上游
+- **申请窗口**: **Rolling 全年滚动**; Rev-celerator Graduate Programme 主要 1-3 月开放 (秋季入职), 部分 7-9 月 (春季入职); 直接 Junior SWE req 是 rolling
+- **面试流程差异 vs 实习**:
+  - 实习 4-5 轮, 全职 **5-6 轮 (Recruiter → HackerRank OA → Live Coding → System Design → Team Fit → Bar Raiser)**
+  - **System Design 是全职必考** (实习偶有合并到 LC + SOLID): rate limiter / event tracking / chat system / payment ledger
+  - HackerRank OA 难度上升: 2-4 题 DSA + SQL + 部分类 IQ / 数学谜题, 全职版偏重 production-style
+  - Bar Raiser by Senior Leader 是 Revolut 全职流程的标志, 评 "long-term value + leadership potential"
+  - 文化 fit / 高强度文化对齐在全职更被严苛评估 — "为什么 Revolut" 必须有具体回答
+- **录取竞争**: Pass rate ~30-40% (公开样本), bar 在 London fintech 内属最严苛之一; 国际生 friendliness 中等偏高 — sponsor 流程成熟但偏好已有 1+ fintech / 投行 / 防务 / 医疗实习的 candidate; **文化负评极多 (Toxic / PIP 严苛 / 周末加班默认)**, 投前需评估
+- **关键链接**:
+  - Rev-celerator Graduate Programme: https://www.revolut.com/careers/graduates/
+  - Rev-celerator Internship: https://www.revolut.com/internship-programme/
+  - Revolut Careers (全部 Junior + Grad): https://www.revolut.com/careers/
+  - Levels.fyi Revolut London SWE: https://www.levels.fyi/companies/revolut/salaries/software-engineer/locations/greater-london
+  - Glassdoor Revolut London Junior SWE: https://www.glassdoor.com/Interview/Revolut-Junior-Software-Engineer-Interview-Questions-EI_IE1176471.0,7_KO8,32.htm
+  - efinancialcareers 5-stage process: https://www.efinancialcareers.co.uk/news/revolut-reveals-its-five-stage-interview-process-for-software-engineers
+  - 1point3acres Revolut 面经汇总: https://www.1point3acres.com/interview/company/revolut
+  - TechPrep Revolut Interview Guide: https://www.techprep.app/blog/revolut-interview-process
+  - Reddit r/cscareerquestionsEU Revolut 讨论 (含文化负评): https://www.reddit.com/r/cscareerquestionsEU/search/?q=revolut
+
+---
+
 ## 2. 实习岗位与方向
 
 | 岗位类别 | 主要团队 | 备注 |

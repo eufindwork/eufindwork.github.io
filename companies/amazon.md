@@ -40,6 +40,55 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi L4 数据齐全 UK/DE/IE/LU, 流程沿用实习同框架, Pathways 项目独立)
+> 区别于实习: 全职 entry-level **SDE I (L4)**, 永久合同 + 4 年 RSU backloaded vest (5/15/40/40)
+
+- **常见岗位名**: **Software Development Engineer I (SDE I, L4)** / Graduate Software Development Engineer / AWS Graduate / Applied Scientist I (Master/PhD) / **Pathways Operations Manager** (MBA, 非工程岗但流程相近)
+- **欧洲地点**: London / Cambridge UK / Manchester / Edinburgh / **Dublin (AWS 核心)** / **Berlin** / Munich / **Luxembourg** / Madrid / Paris — 与实习城市基本一致。**Dublin AWS 是欧洲最大 NG SDE HC 池** (因 AWS EMEA HQ),Luxembourg / Madrid HC 较小但竞争也小
+- **是否有独立 Graduate Programme**: **部分有** —
+  - **Amazon Pathways**: 主要 MBA / PhD / 军转 (Military) 通道,**3 年轮岗 → Senior Manager** 路径,在 Luxembourg / London / Madrid / Munich 都有,**不是 SDE 路径** (Pathways Operations / Pathways Tech Manager)
+  - **SDE I (L4) "Graduate" Hiring**: 走标准 university recruiting,不是结构化 rotation,直接进 team。**Graduate SDE** 是招聘 tag 而非独立项目
+  - **Apprenticeships (Czech/Slovakia/UK 部分)**: 2-3 月开放, 针对未读完本科 / 转行 candidates
+- **非EU签证 (全职)**:
+  - UK: **Skilled Worker visa** — Amazon UK 是 top 5 sponsor; SDE I £64K-£80K base 通过 threshold
+  - DE: **EU Blue Card** (2026 IT threshold €45,934, Amazon Berlin L4 €86K+ 完全 cover)
+  - IE: **Critical Skills Employment Permit** (SDE 在 IE shortage list,2 年后申永居),Amazon Dublin 历史 sponsor 案例最多
+  - LU: Luxembourg Work Permit + EU Blue Card,**Amazon LU 国际生最友好** (整个 office 60%+ 非 LU 本地, 工作语言全英)
+  - 与实习区别: NG 报销 visa + 国际搬家 (机票 + 30 天酒店 + relocation lump sum $5K-$15K),intern 通常只报销 visa + 短期住宿
+- **薪资范围 (base, gross/年, L4 entry-level)**:
+  | 城市 | Base | Stock (annual, backloaded) | Sign-on | Total Y1 | 来源 |
+  |------|------|---------------------------|---------|---------|------|
+  | London | £64K-£80K (~$80K) | £13K avg (£0 Y1 vest 5% = £650) | £10K-£20K Y1, £10K Y2 | **£106K total (Y1)** | [Levels.fyi UK L4](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom) |
+  | Dublin | €82K-€94K base | €16K avg | €10K-€15K Y1 | **€117K total** | [Levels.fyi IE L4](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland) |
+  | Berlin/Munich | €70K-€82K base | €11K avg | €10K-€15K Y1 | **€101K total** | [Levels.fyi DE L4](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany) |
+  | Luxembourg | €72K-€84K base | €12K avg | €10K-€15K Y1 | **€101K total** | [Levels.fyi LU L4](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/luxembourg) |
+  | Madrid | €40K-€50K base | €8K-€10K | €5K-€10K Y1 | **€55K-€68K** | TechPays + 1point3acres (Levels.fyi 数据点稀) |
+  - **关键: Amazon RSU 4 年 backloaded** (5/15/40/40), Y1 + Y2 sign-on 用 cash bonus 补足前 2 年缺口, **Y3 起 jump up**。比较 offer 时务必看 4 年总包不只看 Y1
+- **申请窗口**: **Rolling, 全年开放**。秋招主峰 9-11 月 (英美 grad 季), 春招 2-4 月。返校招与实习捆绑 (return offer 是稳路径, intern 强 perf 几乎自动 NG offer)。Luxembourg / Dublin 全年滚动招 AWS SDE I
+- **面试流程差异 vs 实习**:
+  - 轮数: 实习 2-3 轮 → NG **4-5 轮 onsite** (3-4 coding/system + 1 Bar Raiser)
+  - LP 比例: 实习每条 LP 1 个故事够 → NG 每条 LP **2-3 个故事**, Bar Raiser 单独评审
+  - System design: NG **强制 1 轮 LLD** (Low-Level Design / OOD), L4 不要求分布式 system design 但要求 OOP + class diagram
+  - Coding 难度: intern LC Easy-Medium → NG LC Medium-Hard (常出 LRU/Trie/Graph)
+  - Bar Raiser: NG 必有, 一票否决, intern 偶有
+- **录取竞争**: 中等偏激烈。Amazon 是 FAANG 中 NG HC 最大的, Dublin / Luxembourg / Berlin 全年都在招, **比 Google/Meta 友好得多**。Bar Raiser 文化让 weak hire 出局率高 (估算 final pass 25-35%)。**国际生 friendly**: Amazon EU 是全 Tier 1 中对 sponsor 最积极的 (尤其 LU/IE/DE Blue Card)
+- **关键链接**:
+  - 官方 University Grads: [https://www.amazon.jobs/content/en/career-programs/university/grads](https://www.amazon.jobs/content/en/career-programs/university/grads)
+  - 官方 Pathways (MBA/PhD/Military): [https://www.amazon.jobs/content/en/career-programs/pathways](https://www.amazon.jobs/content/en/career-programs/pathways)
+  - Levels.fyi Amazon L4 UK: [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom)
+  - Levels.fyi Amazon L4 IE: [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland)
+  - Levels.fyi Amazon L4 DE: [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany)
+  - Levels.fyi Amazon L4 LU: [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/luxembourg](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/luxembourg)
+  - Abhishek Garain Amazon Luxembourg NG SWE 面经: [https://medium.com/@abhi211199/my-interview-experience-with-amazon-luxembourg-as-a-new-grad-software-engineer-cc0a661d53c7](https://medium.com/@abhi211199/my-interview-experience-with-amazon-luxembourg-as-a-new-grad-software-engineer-cc0a661d53c7)
+  - JoinTaro Amazon SDE I Madrid: [https://www.jointaro.com/interviews/companies/amazon/experiences/software-development-engineer-i-madrid-april-1-2025-accepted-offer-positive-11978547/](https://www.jointaro.com/interviews/companies/amazon/experiences/software-development-engineer-i-madrid-april-1-2025-accepted-offer-positive-11978547/)
+  - LeetCode Amazon Berlin SDE NG: [https://leetcode.com/discuss/post/2317325/Amazon-or-SDE(New-Grad)-or-Berlin-or-July-2022-or-Offer/](https://leetcode.com/discuss/post/2317325/Amazon-or-SDE(New-Grad)-or-Berlin-or-July-2022-or-Offer/)
+
+---
+
 ## 2. 签证与国际学生政策
 
 | 国家 | 实习生签证支持 | 备注 |

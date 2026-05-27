@@ -18,6 +18,48 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐ (Alan 薪资全透明, Levels.fyi + Glassdoor 有数据点; 但 "Junior" 显式 title 少, 官方按 level 自动定薪)
+> 区别于实习: 全职 CDI entry-level (0-2 年经验) — 通常以 M2 毕业 stage → pre-embauche 转正路径, 也开放外部 new grad 直招
+
+- **常见岗位名**: Software Engineer (Backend / Frontend / Full-stack), Product Engineer, Data Engineer, Security Engineer; Alan **没有 "Senior I/II/III" 这种细分 title**, 也没有 "Junior" 显式 title — 全员统称 "Software Engineer" + 内部 level (Junior / Senior / Staff / Principal), level **全员可查**
+- **欧洲地点**: Paris (主力, 与实习一致); Spain (Barcelona / Madrid), Belgium (Brussels) 也可远程; 不开放 EU 之外 fully remote (法务限制)
+- **是否有独立 Graduate Programme**: **No 严格意义上** — Alan 不办 cohort 招聘 (不像 BCG / Capgemini); 但**实习转正路径明确**: M2 6 个月 stage → 表现好直接发 CDI offer (Alan 公开声称转正率高); 外部 new grad 也可直接申 Junior SWE
+- **非EU签证 (全职)**:
+  - **Passeport Talent (salarié qualifié)**: 法国主路径, base 需 ≥ €43,243 (2026, SMIC × 1.8 + M2 学位); Alan Junior SWE base 远超此线 (€60K+), 完全达标
+  - Alan 作为 €4B 估值 health tech, 法务成熟, **为非欧盟全职 hire 办签证有明确流程**; 与实习 (carte de séjour étudiant, Alan 不 sponsor 工签) 完全不同 — **全职阶段才真正解决长期留法问题**
+  - Barcelona / Madrid 远程岗走西班牙工签 (Beckham law 友好); Brussels 走比利时 single permit
+- **薪资范围 (base, gross/年)**:
+  - **Paris Junior SWE (0-2 年, level Junior)**: **€55-70K base** (来自 Alan 公开 salary grid + Glassdoor + Welcome to the Jungle reports); 估值 €4B 但薪资定位 "fair + transparent" 非顶档
+  - **Paris Senior SWE (3-5 年, level Senior)**: €80-100K base; Levels.fyi 显示 Alan Paris SWE 中位 **€91.1K total** (level E, ~Senior, 2026-05 更新)
+  - **Staff / Principal**: €110-150K base; 完全按 grid, **无 negotiation 空间** (这是 Alan 文化硬规则)
+  - Equity: 全员 BSPCE (法国 startup 股权工具), grant 大小按 level + tenure 公开
+  - **加成**: 完全透明 → 无信息差; 缺点是 "顶级候选人无法议高" (这是 Alan 主动放弃的策略)
+- **申请窗口**: rolling — Ashby 招聘页常年开 10-30 个 Engineering 岗; 转正路径走 stage 期间 perf review, 5-6 月 stage 结束前 1-2 个月触发
+- **面试流程差异 vs 实习**:
+  - 流程**结构相同** (Screening → CoderPad → Alaner Fit → Alan Day), 但 **Alan Day 难度提升**: Past Project 要求深度更高 (实习只要会讲一个 side project, 全职要讲一个真实 production 项目 + 你的 IC ownership)
+  - **Feature Design** 要求达到能独立带 small feature ship 的水平 (实习只要参与讨论)
+  - 实习转正路径**绕过 Alan Day** (大部分情况) — stage 期间已观察足够, 直接 manager + skip-level + 1-2 个 fit interview 即可发 CDI
+  - 外部 new grad 申 Junior SWE 走全流程 (~33 天)
+  - **No take-home, no algorithm puzzle** (与实习一致, 公司硬规则)
+- **录取竞争**:
+  - Glassdoor positive interview 39-42% — 中等偏严; bar 高但 transparent + respectful
+  - **国际生 friendly**: 工作语言英文, team 多语种, 学校牌子非决定 (Alan 公开反对 "elite university bias")
+  - Pass rate 估计 10-15% (外部 new grad); stage → CDI 转化率公开数据缺, 但 Alan 文化是 "hire 进来就认真留", 转正率高
+- **关键链接**:
+  - 官方 careers 页: [alan.com/en/careers](https://alan.com/en/careers)
+  - Alan Hiring Process 官方文档: [alan.com hiring process](https://alan.com/en/careers/a/hiring-process-step-by-step)
+  - Levels.fyi Alan SWE Paris: [levels.fyi/companies/alan](https://www.levels.fyi/companies/alan/salaries/software-engineer)
+  - Welcome to the Jungle Alan: [welcometothejungle.com/companies/alan](https://www.welcometothejungle.com/en/companies/alan)
+  - Glassdoor Alan SWE interview: [Glassdoor Alan SWE](https://www.glassdoor.ca/Interview/Alan-Software-Engineer-Interview-Questions-EI_IE1696043.0,4_KO5,22.htm)
+  - Medium - Engineering at Alan: [medium.com/alan](https://medium.com/alan)
+  - r/cscareerquestionsEU Alan 讨论: [r/cscareerquestionsEU](https://www.reddit.com/r/cscareerquestionsEU/search/?q=alan)
+
+---
+
 ## 2. 实习岗位
 
 Alan 的实习岗位**面向 M2 毕业 stage**, 单一明确 funnel:

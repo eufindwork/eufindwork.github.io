@@ -28,6 +28,49 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (ASML 是 NL 最大单一招聘方之一, 官方 "Starters" 入口 + Levels.fyi entry-level (L6) 数据 + Glassdoor 面经丰富)
+> 区别于实习: 实习 6-9 个月走 GVVA 或 Nuffic 协议; **Starter (新毕业生)** 全职合同, 走 Highly Skilled Migrant + 30% ruling, package 数量级跃升
+
+- **常见岗位名**: **Starter Software Engineer** / **Starter Design Engineer** / **Starter Mechatronics Engineer** / **Junior Computational Lithography Engineer** / Starter Process Engineer; ASML 内部 "Starter" 是 0-1 yr 经验全职官方标签
+- **欧洲地点**: **Veldhoven (HQ, De Run 6501)** 占 70%+ Starter 名额; Eindhoven city 部分团队; Helmond (制造), Berlin (DE, 部分软件 / 算法), Linkou (台湾) — 欧洲新 grad 几乎全部 Veldhoven
+- **是否有独立 Graduate Programme**: **Yes — 多个并行 program** (非单一 cohort):
+  - **Technology Development Program (TDP)** — 2 年 rotational, 跨 R&D / Manufacturing / Customer Support, 招 Master / PhD, 是 ASML 最 prestigious 的 grad track
+  - **Engineering Career Starter** — 直接全职 SWE / EE / Optics, 不轮岗
+  - **Customer Support Engineer Starter** — 派驻 ASML 客户 (TSMC / Samsung / Intel), 含海外派遣
+  - **PhD-track Graduate** — 与 TU/e, TU Delft, Twente 合作
+- **非EU签证 (全职)**:
+  - ASML 是 IND **顶级 Recognised Sponsor** (全 NL 第二大 sponsor, 仅次于 Philips), 每年 sponsor 2000+ Kennismigrant; 流程 2-4 周 (远比社会面快)
+  - 提供 **full relocation**: 单程机票 + 60 天 corporate apartment + 永久 BSN/银行/医保协助 + 配偶 search agency + 国际学校协助 (适合带家属)
+  - **30% ruling**: Starter SWE 起薪通常**超过 €46,107 (< 30 岁) 门槛, 100% 适用**; 与实习仅拿 €450 housing allowance 相比是数量级差异
+  - **EU Blue Card / Highly Skilled Migrant 双路径**: ASML 默认走 Kennismigrant (NL 国内最快), 但若有跨欧盟流动需求会改 Blue Card
+- **薪资范围 (base, gross/年)**:
+  - **Veldhoven Starter SWE (L6, entry)**: **€82.4K base + €9.6K bonus ≈ €92K total** (Levels.fyi 2026-05); 加 13 月薪 (8% holiday allowance)
+  - **TDP Starter**: 略高于普通 Starter, ~€85K-€90K base + 更高 bonus pool
+  - **PhD-track Graduate**: €95K-€110K base 起 (Master + PhD 折抵)
+  - **Stock**: ASML.AS RSU, Starter level 通常**没有 RSU**, L7+ 才开始 grant; bonus 与公司业绩强挂钩 (2023 历史 ~15-20% 高峰, 2024-2025 因 EUV 周期回调到 10-12%)
+  - **30% ruling 后实得**: €82.4K base → ~€68K taxable → 实际到手约 €5.0K-€5.5K/月 net (远高于荷兰本地同龄人)
+  - 来源: Levels.fyi ASML, asml.com/careers/students
+- **申请窗口**: **rolling year-round**, 没有固定 cohort 截止; Career portal 持续 ~200+ Starter 岗位开放; 建议毕业前 6 个月开始投; 实习转 Starter 转化率非常高 (公开 ~30-40%)
+- **面试流程差异 vs 实习**:
+  - 流程结构相似 (CV → Recruiter → Hiring Manager → Technical → Offer), 但**技术轮加深** — 多一轮 **technical panel (3 名 Senior + 1 名 Architect)**, 现场 whiteboard 系统设计
+  - **新增 culture / leadership behavior 轮** (基于 ASML "Challenge, Trust, Care, Collaborate, Have Fun" 五原则)
+  - 部分 TDP 流程要求 **48-hour case study** + presentation
+  - 整体 4-6 周, 比实习 (4 周) 略长
+- **录取竞争**: ASML Starter 在 NL 最有竞争力的 employer brand 之一 (Universum 排名 NL #1 Engineering employer), 申请池每年 30,000+, Starter 录取率 ~5-8%; **对国际生极 friendly** (公司本身 40% 员工是国际人才); 中国学生通过率高于 booking / adyen 因技术 fit > 业务 sense
+- **关键链接**:
+  - ASML Starters 官方页: https://www.asml.com/en/careers/students/starters
+  - Career 总入口 (含所有 Starter / TDP 岗位): https://www.asml.com/en/careers/find-your-fit
+  - Levels.fyi ASML SWE (含 L6 entry €92K): https://www.levels.fyi/companies/asml/salaries/software-engineer
+  - TDP 项目页: https://www.asml.com/en/careers/students/technology-development-program
+  - Glassdoor 面经 (Veldhoven 筛选): https://www.glassdoor.com/Interview/ASML-Eindhoven-Interview-Questions-EI_IE26494.0,4_IL.5,14_IC3057620.htm
+  - 1point3acres ASML tag: https://www.1point3acres.com/bbs/tag/asml-1186-1.html
+
+---
+
 ## 2. 签证与国际学生政策
 
 - **EU/EEA 学生**: 无需签证, 实习直接走

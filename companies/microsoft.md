@@ -45,6 +45,53 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi L59-L61 数据齐全 UK/IE/DE/NL, MACH 项目文档可考)
+> 区别于实习: 全职 entry-level **Level 59 (SDE) / 60 / 61 (SDE II)** ;Microsoft 是 Tier 1 中 **唯一保留完整结构化 graduate programme (MACH)** 的公司
+
+- **常见岗位名**: **Software Engineer (Aspire / University Hire)** / **MACH (Microsoft Academy of College Hires)** / Software Engineer II (Level 61) / Data Scientist Aspire / Program Manager Aspire
+- **欧洲地点**: London / **Reading (UK HQ)** / Cambridge UK (MSR) / **Dublin (大 NG hub)** / **Munich** / Amsterdam (少) / Paris / Stockholm / 部分 Belgrade (CEE hub)
+- **是否有独立 Graduate Programme**: **Yes — 两个并行**
+  - **Aspire Experience (前身 MACH, 2024 改名)**: 2 年结构化 onboarding 项目, 入职即 L59/60, 含 cohort training + mentorship + cross-team rotation possibility, 全球 cohort 制度。Dublin / Reading / Munich / Amsterdam 都有 cohort
+  - **University Hire 直招**: 不进 Aspire 也可直接入职 SDE I (L59), 走 hiring manager 单独 onboarding。两条路径 base 薪资一致
+- **非EU签证 (全职)**:
+  - UK: **Skilled Worker visa** — Microsoft UK 是 top sponsor (Reading HQ 历史 sponsor 量大); L59 base £70K+ 远超 threshold
+  - IE: **Critical Skills Employment Permit** (Microsoft Dublin 是 IE 第二大 tech sponsor 之一, 仅次于 Google/Meta);**与实习反差大** — intern 不 sponsor, NG 几乎一定 sponsor
+  - DE: **EU Blue Card** (€45,934 threshold, Munich L59 €74K base 通过)
+  - NL: **Highly Skilled Migrant (HSM, Kennismigrant)** — Microsoft NL 是 recognised sponsor, 含 **30% ruling tax break** (前 5 年 30% 收入免税)
+  - 与实习区别: 实习层级 Microsoft EU 几乎不 sponsor (官方明示), NG 反而是 sponsor 标配
+- **薪资范围 (base, gross/年, entry-level L59-L61)**:
+  | 城市 | L59 Base | L59 Total | L61 Total | 来源 |
+  |------|---------|----------|----------|------|
+  | London | £70.8K | £85K | £125K | [Levels.fyi UK](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/united-kingdom) |
+  | Dublin | €66.5K | €75K | €103K | [Levels.fyi IE](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/ireland) |
+  | Munich | €74.1K | €102K | €134K | [Levels.fyi DE Munich](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/munich-metro-region) |
+  | Amsterdam | €88K-€93K base (L62 数据点; L59-61 数据稀) | €114K+ (L62) | €127K median | [Levels.fyi NL](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/netherlands) + 30% ruling 重要 |
+  | Reading | £65K-£72K base (Reading 略低于 London) | £80K-£90K | £115K-£125K | UK 综合 (Glassdoor + HigherIn) |
+  - **Signing bonus**: NG 普遍 £10K-£15K (UK) / €10K-€15K (EU);**RSU vest**: 25% / year, 比 Amazon backloaded 友好
+  - **与 Google/Meta 对比**: Microsoft EU L59 base **低 30-40%**, 但福利全 (25 days holiday + product discount + 健身房 + 餐补 + RSU refresh 稳定)。Total 4-year package 接近 Amazon, 显著低于 Google/Meta
+- **申请窗口**: **MACH/Aspire cohort 制** — 每年 **8-10 月开放** Summer/Fall cohort, 11-12 月 deadline; 部分 EU 城市 1-3 月开第二批。University Hire 直招 rolling。**UK 12-month Placement → Aspire 转正** 是稳定 pipeline
+- **面试流程差异 vs 实习**:
+  - 轮数: 实习 OA + 2 tech → NG **OA + 4 onsite** (Microsoft 称 "Final Loop", 全天 4×60min: 2 coding + 1 system design + 1 As Appropriate / AA = senior hiring manager)
+  - System design: NG **强制 1 轮** (intern 没有);题型 e.g., design URL shortener / design rate limiter, L59 难度不深但要求结构清晰
+  - **AA round**: Microsoft 特色, 由 senior hiring manager (Principal+) 把关, 一票否决类似 Bar Raiser
+  - CS 基础: NG 比 intern 更深问 OS / DB / OOP (Microsoft 招聘**最在意 fundamentals** 的大厂)
+- **录取竞争**: 中等 (比 Google/Meta 低 30-40%)。Microsoft NG HC 在 Tier 1 中**最大**之一 (Aspire cohort 全球每年数千人), Dublin / Reading 友好。国际生 friendliness: **高** (NG 层级 sponsor 积极, 与实习政策完全相反)
+- **关键链接**:
+  - 官方 University Careers: [https://careers.microsoft.com/students/](https://careers.microsoft.com/students/)
+  - 官方 Aspire / MACH 项目: [https://careers.microsoft.com/v2/global/en/aspire-program.html](https://careers.microsoft.com/v2/global/en/aspire-program.html)
+  - Levels.fyi Microsoft UK: [https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/united-kingdom)
+  - Levels.fyi Microsoft IE: [https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/ireland](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/ireland)
+  - Levels.fyi Microsoft Munich: [https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/munich-metro-region](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/munich-metro-region)
+  - Levels.fyi Microsoft NL: [https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/netherlands](https://www.levels.fyi/companies/microsoft/salaries/software-engineer/locations/netherlands)
+  - JoinTaro Microsoft Dublin SWE NG: [https://www.jointaro.com/interviews/companies/microsoft/experiences/software-engineer-new-grad-dublin-dublin-october-1-2018-accepted-offer-positive-e056efbe/](https://www.jointaro.com/interviews/companies/microsoft/experiences/software-engineer-new-grad-dublin-dublin-october-1-2018-accepted-offer-positive-e056efbe/)
+  - 1point3acres Microsoft 校招通用: [https://www.1point3acres.com/bbs/thread-664112-1-1.html](https://www.1point3acres.com/bbs/thread-664112-1-1.html)
+
+---
+
 ## 2. 签证与国际学生政策
 
 | 国家 | 实习签证支持 | 关键备注 |

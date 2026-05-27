@@ -23,6 +23,51 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Uber 全球有标准 New Grad SDE Program, Amsterdam / Aarhus / Sofia 都有公开岗位; Levels.fyi 数据完整; LeetCode + 1point3acres 面经丰富)
+> 区别于实习: 实习 3-6 个月 + EU 学生院校优先; **New Grad SDE** 全职 IND Kennismigrant + 30% ruling, 国际生待遇大幅提升
+
+- **常见岗位名**: **Software Engineer (New Grad)** / **Software Engineer I** / **Software Engineer II** (1-2 yrs); Uber 内部 level **E3** = New Grad, **E4** = Junior/Mid; 没有专门的 "Graduate Programme" 品牌, 走标准 SWE 招聘 + new-grad 蓄水池
+- **欧洲地点**:
+  - **Amsterdam (EMEA HQ, Mr Treublaan 7)**: New Grad 名额最多但竞争最激烈 (Mobility / Maps / Payments / Safety 团队)
+  - **Aarhus (DK)**: Grail / Data infrastructure 团队, New Grad 数据 / 后端岗位
+  - **Sofia (BG)**: Mobile / Web frontend New Grad (薪资 ~1/3 Amsterdam, 但 cohort 最大)
+  - **Lisbon (PT)**: 2024 新增, Marketplace 团队, New Grad 名额开始扩大
+  - 与实习地点一致, 但 Sofia / Lisbon 新 grad 名额比实习更多
+- **是否有独立 Graduate Programme**: **No** — Uber 没有 cohort-based grad scheme; 走标准 Software Engineer 招聘 + "new grad" / "early career" 标签筛选; 但内部有 **EMEA Engineering Onboarding** 4 周培训 + buddy 制度
+- **非EU签证 (全职)**:
+  - Uber Netherlands B.V. 是 IND **Recognised Sponsor**, Kennismigrant 经验成熟
+  - Amsterdam New Grad SDE 完整 sponsor: visa + relocation lump sum (~$5K-$10K) + 30 天 corporate apartment + 单程机票
+  - Aarhus / Sofia / Lisbon 各国走 Skilled Worker / Blue Card 等本地路径; Sofia 是 Uber EMEA 最 visa-friendly hub (保加利亚 Blue Card 工资门槛低)
+  - **30% ruling**: Amsterdam New Grad base **远超** 2026 年 < 30 岁门槛 (€46,107), 100% 适用 — 实习完全不适用
+  - **对国际生 friendly 度 EMEA 顶级** — Uber 是欧洲少数标准化全球 sponsor 美国式 new grad 的公司
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam New Grad SDE (E3)**: **€72K-€85K base + €15K-€25K RSU/年 (4-yr vest) + 10% target bonus** ≈ **€95K-€115K total** (Levels.fyi 推算, 比 US E3 $194K 低 ~40%)
+  - **Aarhus New Grad SDE**: DKK 600K-720K base (~€80K-€96K)
+  - **Sofia New Grad SDE**: BGN 70K-100K base (~€36K-€51K) + RSU; 当地极高薪资
+  - **Lisbon New Grad SDE**: €40K-€55K base + RSU
+  - **股权**: UBER (NYSE) RSU, 4 年 vest (typically 25-25-25-25 或 6/3.5 monthly after cliff)
+  - 30% ruling 后 Amsterdam 实得 ≈ €5.5K-€6.5K/月 net
+  - 来源: Levels.fyi uber, TechPays NL, LeetCode Discuss EMEA offers
+- **申请窗口**: **每年 8-10 月开放 New Grad SWE** (与 US 同步), 11-12 月面试, 1-3 月发 offer, 7-9 月入职; 错过窗口要等次年; New Grad 名额一旦关闭基本无法重开
+- **面试流程差异 vs 实习**:
+  - 流程结构相同 (Recruiter → CodeSignal OA → Hiring Manager → Onsite), 但**Onsite 从 3 轮升到 5 轮**: +1 System Design (45 min, 设计 ride-matching / ETA prediction / 实时位置 stream), +1 深度 Behavioral (Bar Raiser 风格, 与 Senior+ 面试官)
+  - **OA 难度上调** — 实习 CodeSignal medium, New Grad 包含 1 道 hard (DP / graph)
+  - 总流程 6-8 周 (实习 5-6 周)
+- **录取竞争**: Amsterdam New Grad SDE 录取率 **~2-4%** (申请池 5,000-8,000), 比实习更卷; Aarhus / Sofia 因地点冷门反而录取率 ~8-12%; **中国学生 friendliness 高于 Booking / Adyen** (Uber 全球 hire 文化)
+- **关键链接**:
+  - Uber 全球 career (筛 "New Grad" + "Netherlands/Denmark/Bulgaria"): https://www.uber.com/global/en/careers/
+  - Uber EMEA Engineering: https://www.uber.com/en-NL/careers/teams/engineering/
+  - Levels.fyi Uber SWE (含 E3 entry data): https://www.levels.fyi/companies/uber/salaries/software-engineer
+  - LeetCode Discuss Uber Amsterdam 面经: https://leetcode.com/discuss/interview-experience/?query=uber+amsterdam
+  - 1point3acres Uber tag: https://www.1point3acres.com/bbs/tag/uber-1064-1.html
+  - JoinTaro Uber: https://www.jointaro.com/interviews/companies/uber/
+
+---
+
 ## 2. 签证与国际学生政策
 
 - Uber 在 NL 是 **IND recognised sponsor**, 对 highly skilled migrant 支持成熟

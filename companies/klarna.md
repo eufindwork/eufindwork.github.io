@@ -21,6 +21,43 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐ (Stockholm Junior SWE Levels.fyi 数据中等, jointaro / Glassdoor 主要面经偏 mid/senior, 应届生独立面经较少)
+> 区别于实习: 全职 entry-level (0-2 年经验); Klarna 内部 leveling 是 **K-band (K1-K7)**, 应届通常 K2/K3; 没有正式 rotational graduate programme
+
+- **常见岗位名**: Software Engineer (Junior / Associate)、Junior Backend Engineer、Associate Data Scientist、Associate ML Engineer; 招聘页通常合并 Engineer 系列 req, 在 JD 内备注 "0-2 years" 或 "recent graduate welcome"
+- **欧洲地点**: 工程核心仍在 **Stockholm (Årsta HQ)**; Berlin / Madrid / London 多为商务 / 合规 / merchant ops, 工程 hc 极少; Junior SWE 几乎默认 Stockholm onsite/hybrid
+- **是否有独立 Graduate Programme**: **No** — Klarna 没有命名 graduate scheme; 论文实习 (Master Thesis Intern) → Associate / Junior Engineer 是最常见的 new grad pipeline, 而非独立 batch hire
+- **非EU签证 (全职)**:
+  - **Sweden Work Permit**: Klarna 会为全职 sponsor (Migrationsverket); 起薪须达瑞典工会集体协议下限 (~SEK 28,480/月), Klarna SWE 实际起薪远超
+  - **EU Blue Card**: 瑞典 2025 阈值 ~SEK 54,830/月, 应届 SWE 通常达标
+  - 与实习政策对比明显: 实习几乎不 sponsor, 全职 sponsor 是常规操作
+- **薪资范围 (base, gross/年)** (Levels.fyi / TechPays 2024-2025):
+  - **Stockholm Junior SWE (K2)**: base ~SEK 480,000-600,000 (~€42k-53k), 含 sign-on / equity TC ~SEK 550k-700k
+  - **Stockholm Associate SWE (K3)**: base ~SEK 600,000-750,000, TC ~SEK 700k-900k
+  - **Stockholm Senior+ (K4)**: base ~SEK 850k-1,050k+; 应届一般够不到
+  - 与 Spotify Stockholm Engineer I 大体持平, 但 Klarna RSU 价值不稳 (pre-IPO, 2025 启动 US IPO 后估值波动大)
+- **申请窗口**: **Rolling 全年滚动**; 2024 末 / 2025 初 CEO Sebastian Siemiatkowski 公开"AI 替代过激"后重启招聘, 全职 hc 重新打开; IPO 准备期 (2025) 偏好已有金融科技 / 风控 / GenAI 背景
+- **面试流程差异 vs 实习**:
+  - 实习 6-7 轮 (含 Kattis Logic Test), 全职 **同样保留 Kattis + 流程 6-8 轮**, 但 take-home / 设计深度显著上升
+  - 全职 System Design 是必考 (实习偶有): payment 幂等 / outbox pattern / event-driven SAGA / Kafka consumer 一致性
+  - Bar Raiser round 在全职流程出现频率更高 (实习偶有)
+  - Krew values 行为面权重相同 (实习 / 全职同样 7 个 value 必问)
+  - DS / ML 全职会加一轮 ML deep-dive + 一轮 product sense
+- **录取竞争**: Klarna 通过率 ~29-31% (Glassdoor 综合), 平均流程 36 天; 国际生 friendliness 中等 — sponsor visa 是支持的, 但 IPO 前 headcount 紧, 团队倾向已有 fintech 经验的人; Master Thesis → Junior 通道仍是国际生最高 ROI 路径
+- **关键链接**:
+  - 官方 Careers: https://www.klarna.com/careers/
+  - Klarna Application Process: https://www.klarna.com/careers/tips-and-tricks/application-process/
+  - Levels.fyi Klarna Stockholm SWE: https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm
+  - Glassdoor Klarna Stockholm: https://www.glassdoor.com/Interview/Klarna-Stockholm-Interview-Questions-EI_IE389854.0,6_IL.7,16_IM1136.htm
+  - jointaro Klarna 面经汇总 (mid + new grad 混合): https://www.jointaro.com/interviews/companies/klarna/
+  - TechPays Sweden Klarna 数据 (社区收集): https://techpays.com/
+
+---
+
 ## 2. 岗位画像
 
 ### 2.1 Software Engineer Intern

@@ -20,6 +20,47 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Berlin Junior SWE 全职 Levels.fyi / Glassdoor 数据厚; Helsinki / Dublin Junior 信息略稀)
+> 区别于实习: 全职 entry-level (0-2 年经验); Zalando 内部用 C-band (C1-C7), 应届通常落 **C5 (Junior Software Engineer)** 或 **C6 (Software Engineer)**
+
+- **常见岗位名**: Junior Software Engineer (C5)、Software Engineer (C6)、Junior Data Engineer / Data Scientist / Applied Scientist、Frontend Engineer Junior; 招聘页明确按 C-band 命名, "Junior" 标签清晰
+- **欧洲地点**: 与实习一致, 全职覆盖更广 — **Berlin (HQ, 最大 tech hub)、Helsinki (第二 tech hub)、Dublin (Fashion Store engineering)、Lisbon (Logistics 偏多)、Madrid (近年新增)**; Junior SWE 主要在 Berlin / Helsinki
+- **是否有独立 Graduate Programme**: **No formal cohort program**, 但有两条结构化通道:
+  - **Helsinki Future Talent Program** (源自实习, 部分转 full-time Junior SWE 进入 C5)
+  - **Master Thesis → C5 Junior** 通道 (Berlin / Helsinki 都常见)
+  - 直接 Junior Engineer (C5) req: rolling 全年, 没有 cohort onboarding, 走 standard onboarding 流程
+- **非EU签证 (全职)**:
+  - **EU Blue Card (Germany)**: 2025 阈值 ~€45,300/年 (紧缺职业 ~€41,041), Zalando C5 起薪通常达标; Zalando **常规 sponsor 全职 Blue Card** (与实习的"不 sponsor"形成明显对比), 提供 €6,000 relocation budget + 首月 corporate housing
+  - **Finland**: Helsinki 通过 Finnish residence permit for employed person, 类似 Blue Card 流程
+  - **Ireland (Dublin)**: Critical Skills Employment Permit (薪资 ≥ €38,000), Zalando Dublin 偶有 sponsor
+- **薪资范围 (base, gross/年)** (Levels.fyi / Glassdoor 2024-2025):
+  - **Berlin C5 Junior SWE**: base ~€55,000-65,000, +bonus 5-10%, TC ~€58k-72k
+  - **Berlin C6 SWE (1-2 yrs)**: base ~€65,000-80,000, TC ~€70k-88k
+  - **Helsinki C5/C6**: base ~€48,000-65,000 (Helsinki 比 Berlin 略低)
+  - **Dublin C5/C6**: base ~€55,000-72,000
+  - 福利: 40% Zalando 员工购物折扣、Zalando share shop (RSU 类似)、relocation 6k €、第一月免费 corporate housing
+- **申请窗口**: **Rolling 全年滚动**; Helsinki Future Talent 一般 1-3 月集中开放; Berlin C5 Junior req 主要 9-3 月集中, 但 hc 全年开
+- **面试流程差异 vs 实习**:
+  - 实习 4-5 轮 (Codility → tech → HM), 全职 **5-6 轮 + 一轮 Panel**; 周期从 18 天 (实习) 延长到 32 天 (全职)
+  - **System Design 是 C6 起的必考项** (实习几乎不考): microservices 拆分、Kafka consumer / outbox、AWS service choice、SQL vs NoSQL trade-off
+  - Take-home 评分严苛度上升: 需要附 README + 单测 + CI 配置 + Dockerfile + 设计 trade-off 文档
+  - HM round 会问 1-2 年 career path 规划 + 跨 squad 协作经验
+- **录取竞争**: Berlin 申请人数极多 (欧洲 #1 tech hub of Berlin scene), C5 录取率比实习略低; 国际生 friendliness 中等偏好 — Zalando sponsor 友好, 但 €6k relocation 预算有限, 偏好 already-EU candidates 减少周期; ML / Applied Science / Data Platform / Fashion AI 是 2024-2025 招聘热点
+- **关键链接**:
+  - 官方 Careers (按 Junior filter): https://jobs.zalando.com/en/jobs/?categories=Software%20Engineering&team=&job_type=Permanent
+  - Zalando Early Careers: https://jobs.zalando.com/en/what-we-do/early-careers
+  - Zalando How We Hire: https://jobs.zalando.com/en/how-we-hire
+  - Levels.fyi Zalando Berlin SWE: https://www.levels.fyi/companies/zalando/salaries/software-engineer/locations/berlin-metropolitan-region
+  - Glassdoor Zalando Berlin SWE Interview: https://www.glassdoor.com/Interview/Zalando-Software-Engineer-Interview-Questions-EI_IE613421.0,7_KO8,25.htm
+  - LeetCode Discuss Zalando: https://leetcode.com/discuss/interview-experience/?currentPage=1&orderBy=hot&query=zalando
+  - Reddit r/cscareerquestionsEU "Zalando" 检索: https://www.reddit.com/r/cscareerquestionsEU/search/?q=zalando
+
+---
+
 ## 2. 岗位画像
 
 ### 2.1 Software Engineering Intern

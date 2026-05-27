@@ -22,6 +22,48 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (Elastic 是 distributed-by-default 公司, 没有任何"年度 grad cohort", 偶有 Junior 岗位以 case-by-case 形式发布; 公开数据极薄)
+> 区别于实习: 实习几乎不存在固定项目; **Junior / SWE I** 全职可远程 hire 但更倾向已有合法身份的候选人 (vs. sponsor 新人)
+
+- **常见岗位名**: **Software Engineer I** / **Software Engineer II** / **Associate Software Engineer** / 偶有 **Working Student** (DE 法律框架, 非 grad); **没有 "Graduate Programme"** 这种品牌
+- **欧洲地点**:
+  - **Amsterdam (NL, Keizersgracht 5)**: 名义 HQ, 但工程师占比小, junior 名额极少
+  - **London (UK)**: 商务为主, junior engineering 几乎没有
+  - **Berlin / Munich (DE)**: 历史上有 Working Student 名额 (大学在读半职), 不是真正全职 grad
+  - **Madrid / Barcelona (ES)**: 远程优先, 少量 SE I 全职
+  - **Remote (EU-wide)**: Elastic 90%+ 员工远程, junior 全职**理论可在任何 EU 国家**, 但实操要求已有 work right
+- **是否有独立 Graduate Programme**: **No** — Elastic 是 distributed-first 公司, 文化反对 cohort-based grad scheme; 没有 batch hiring 也没有结构化轮岗。所有 entry-level 走标准 SWE 招聘
+- **非EU签证 (全职)**:
+  - Elastic N.V. 注册在 Amsterdam, 理论上是 IND Sponsor, 但**实操 sponsor 频率极低** — "distributed by default" 文化让公司**更倾向 hire 已有 work right 的远程候选人**, 而不是办 Kennismigrant
+  - 对中国应届生**几乎封死 EU 通道**, 唯一可行路径是: (1) 已有 EU 居留 / EU 学位 (2) 通过 Amsterdam HQ in-person 全职 (极少名额)
+  - **UK Skilled Worker**: Elastic UK 是持牌 sponsor, 但 entry-level 岗位 SOC code 工资门槛 £38,700 通常达不到 (Elastic UK Junior 一般 £40-50K base, 临界线)
+  - **30% ruling (NL)**: SE I 起薪通常**勉强符合** < 30 岁门槛, 但因实际 NL-based offer 太少几乎用不上
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam SE I (entry)**: 公开数据极少, 业内估算 **€60K-€75K base** + RSU
+  - **London SE I**: **£60K-£75K base** + RSU
+  - **Berlin SE I**: **€60K-€75K base** + RSU
+  - **US C5 (SWE II) 对照**: $125K base + $22.4K RSU ≈ $147K total (Levels.fyi 2026-05) — EU 同级通常是 US 的 50-60%
+  - **股权**: ESTC (NYSE) RSU, 4 年 vest (25-25-25-25, Y1 quarterly, Y2+ semi-annual); Junior 通常 $20K-$40K initial grant
+  - 来源: Levels.fyi elastic, Glassdoor EU 数据点稀疏
+- **申请窗口**: 完全 rolling, 通过 jobs.elastic.co 滚动开放; 没有秋季 batch; 关注 Career portal 的 "Software Engineer" + filter "Junior" / "I" / "Associate"
+- **面试流程差异 vs 实习**:
+  - Elastic 没有标准 "实习流程", 所以无法直接对比; **Junior 全职流程**与 Senior 几乎一致, 只是 onsite 从 5 轮砍到 3-4 轮
+  - 流程: Recruiter (45 min) → Tech Screen (1h) → 3 轮 Virtual Onsite (coding + 偶有 lite system design + behavioral); 全程 video, distributed-first 文化
+  - **领域知识考察重要** — Elasticsearch / Lucene / 倒排索引 / 分布式 raft / Kubernetes 基本功有时直接出现在 Tech Screen, 与 FAANG 纯 LeetCode 模式不同
+- **录取竞争**: Junior 名额本身极少 (公司不主动 hire entry-level), 所以**竞争更像 lottery** — 每年 EU 全境可能只有 5-15 个 SE I spot 开放, 申请池 1,000+, 录取率难以估算但实际 < 1%; 国际生友好度低 (主要给已有 work right 的 EU 公民 / settled 候选人)
+- **关键链接**:
+  - Elastic 全球 Career 入口: https://jobs.elastic.co/
+  - 直链筛 "Software Engineer I": https://jobs.elastic.co/?keyword=engineer+I
+  - Levels.fyi Elastic (含 C5 entry-level): https://www.levels.fyi/companies/elastic/salaries/software-engineer
+  - Glassdoor 面经 (距 Junior 最近的 entry-level): https://www.glassdoor.com/Interview/Elastic-Interview-Questions-E1166989.htm
+  - 工程博客 (面试前必读, 了解技术栈): https://www.elastic.co/blog/category/engineering
+
+---
+
 ## 2. 签证与国际学生政策
 
 - Elastic 注册地荷兰, 但实际工程团队**全球分布, 不集中招 NL local**

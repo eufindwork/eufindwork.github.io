@@ -34,6 +34,46 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> 信息丰富度: ⭐⭐ (Signify 实际有独立 grad scheme — Workday 岗位编号 338660 的 "**Signify's Junior Digital Program (Graduate)**" + The Muse 同步刊登的 "**Junior IT Program (Graduate)**", 但官方页 careers.signify.com/global/en/new-graduates 只是 "Talent Community" 入口, **不公开 program duration / 薪资 / sponsorship 细节**; Levels.fyi Signify SWE 数据点少 (n=15, US-only, 无 Eindhoven 细分); Glassdoor Eindhoven SWE 数据被全公司样本稀释, 无单独 Junior SWE 切片)
+> 区别于实习: 实习 6 个月卡 "Dutch University enrollment" 几乎封死非 EU 学生; **Junior IT / Digital Program** 全职走 Signify NL B.V. IND Sponsor + Kennismigrant 通道, 接收 0-1 yr 经验毕业生
+
+> ⚠️ **重要更正**: 之前的版本提到的 "Edison Graduate Programme" 是 **GE Aerospace / GE Healthcare 的项目, 不属于 Signify**; Signify 实际的旗舰 grad 是 **Junior IT Program (Graduate)** 和 **Junior Digital Program (Graduate)**
+
+- **常见岗位名**: **Signify's Junior IT Program (Graduate)** (The Muse 刊登, IT / 数字基础设施方向) / **Signify's Junior Digital Program (Graduate)** (Workday job 338660, Digital organization 方向); 普通职位线另有 **Software Development Engineer (Hue)** (Hue product line, 非 grad scheme 的常规 junior 岗) [来源 (实际打开过): https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Signify-s-Junior-Digital-Program--Graduate-_338660 (HTTP 抓取受限但搜索摘要可信), https://www.themuse.com/jobs/signify/signifys-junior-it-program-graduate]
+- **欧洲地点**: **Eindhoven (HQ, High Tech Campus 7) 唯一 grad scheme 名额** (Junior IT + Junior Digital 都明确在 Eindhoven); Hue Software Development Engineer 也在 Eindhoven [来源 (实际打开过): https://www.careers.signify.com/jobs/software-development-engineer-hue-eindhoven/]; Burgos (ES, 制造类), Krakow (PL, IT shared service), Hamburg (DE) 等其他地点的 grad 岗位无 2026 公开数据
+- **是否有独立 Graduate Programme**: **Yes — Junior IT Program (Graduate) + Junior Digital Program (Graduate)** 都是 Signify 自家 grad scheme, 面向 **0-1 yr 经验** 数字 / IT 方向毕业生; 项目覆盖 web development / digital backbone for industry 4.0 / engineering efficiencies / automation / networking / cloud & hosting services / agile transformation; 招聘流程含 **Assessment & Selection Day** 在 High Tech Campus Eindhoven (含 speed-dating interviews + case study, recruiter 根据表现 + 候选人 preferences 匹配开放岗位) [来源 (实际打开过): https://www.themuse.com/jobs/signify/signifys-junior-it-program-graduate]; **官方 careers.signify.com/global/en/new-graduates 页只导向 Talent Community 注册, 不公开 program duration / rotation 数 / cohort size**
+- **非EU签证 (全职)**:
+  - Signify Netherlands B.V. 是 IND **Recognised Sponsor** (在 public register 中), 可办 Kennismigrant
+  - **2026 IND 门槛**: < 30 岁 €4,357/月 gross (€52.3K/年 excl. holiday), ≥30 岁 €5,942/月 gross (€71.3K/年) [来源: https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-sponsor]
+  - **30% ruling 风险点**: Signify Eindhoven SWE 总体 median €60.6K (Glassdoor Eindhoven SWE 平均), 25%-75% 区间 €47K-€75K [来源 (实际打开过): https://www.glassdoor.com/Salaries/eindhoven-software-engineer-salary-SRCH_IL.0,9_IC3043137_KO10,27.htm]; Junior IT Program 起薪很可能在 €45K-€55K 区间, **接近但不一定超过 ruling 阈值** (2026 < 30 岁 ruling 门槛 €46,107) — 部分 grad 因 base 略低于此线无法适用, 这是 vs. ASML / Booking / Nebius 的关键劣势
+  - 业内同档 NL grad scheme relocation lump sum ~€3K-€5K + 30 天临时住宿 (Signify 官方无公开数字)
+- **薪资范围 (base, gross/年)**:
+  - **Eindhoven SWE 城市基准 (非公司特定)**: median **€60.6K/年**, 25%-75% **€47K-€75K** (Glassdoor 2026-05 Eindhoven 全 SWE) [来源 (实际打开过): https://www.glassdoor.com/Salaries/eindhoven-software-engineer-salary-SRCH_IL.0,9_IC3043137_KO10,27.htm]
+  - **Junior IT / Junior Digital Program 起薪**: **无 2026 公开数据**, 业内估算 **€45K-€55K base** (基于 Eindhoven 25th percentile + grad/junior 调整); 明显低于 ASML / Booking / Nebius
+  - **Software Development Engineer (Hue, 非 grad scheme 的常规 junior)**: 无 2026 公开数据; Levels.fyi Signify Level 14 (Junior Development Engineer) 数据点不足无法显示 [来源 (实际打开过): https://www.levels.fyi/companies/signify/salaries/software-engineer]
+  - **Levels.fyi Signify SWE 总览** (n=15, US-only, 无 Eindhoven 切片): median total $143K, Level 15 Development Engineer base $115K + stock $7.5K/yr + bonus $3.3K; **不能直接套用到 Eindhoven**
+  - **股权**: Signify N.V. (Euronext Amsterdam: LIGHT) 股票池小, Junior Grad 通常无 RSU, 转 senior 后才有 share scheme
+  - 加 8% holiday allowance + 4-8% variable bonus
+- **申请窗口**: **无 2026 公开 batch 时间表** (官方 new-graduates 页只是 Talent Community); Junior IT / Junior Digital Program 在 Workday + The Muse rolling 发布; Junior Hue Engineer 岗位 rolling year-round
+- **面试流程差异 vs 实习**:
+  - Junior IT / Digital Program 走 **Assessment & Selection Day** 1 整天 in-person 在 Eindhoven High Tech Campus, 含 **speed-dating interviews** (多 hiring manager 短时间轮换) + **case study** (官方原文); 实习只走 HR → supervisor 2 轮
+  - Recruiter 根据 Assessment Day 表现 + 候选人 preferences 匹配具体开放岗位 — 这是 Signify 独有的 "先 assessment 后岗位匹配" 模式
+  - 普通 Junior Hue 岗位流程接近实习 (Recruiter → Tech → Manager)
+  - 文化面占比高于纯技术公司 (传承 Philips healthcare-style behavioral)
+- **录取竞争**: 没有官方公开 application volume; Glassdoor 全公司平均面试体验中等; 国际生友好度中等 — 公司国际化但 cohort 偏 EU 本地
+- **关键链接**:
+  - Signify Junior Digital Program (Graduate) Workday 岗位 (实际打开过, HTTP 抓取受限但 URL + 描述确认): https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Signify-s-Junior-Digital-Program--Graduate-_338660
+  - Signify Junior IT Program (Graduate) The Muse 镜像 (实际通过搜索摘要确认, 含 assessment day + case study 描述): https://www.themuse.com/jobs/signify/signifys-junior-it-program-graduate
+  - Signify new graduates 官方入口 (实际打开过, Talent Community 注册, 无详细信息): https://www.careers.signify.com/global/en/new-graduates
+  - Software Development Engineer Hue Eindhoven (常规 junior 岗参考): https://www.careers.signify.com/jobs/software-development-engineer-hue-eindhoven/
+  - Glassdoor Signify Eindhoven SWE salary (Eindhoven 城市基准 €60.6K median, 实际打开过): https://www.glassdoor.com/Salaries/eindhoven-software-engineer-salary-SRCH_IL.0,9_IC3043137_KO10,27.htm
+  - Levels.fyi Signify SWE 总览 (n=15, US-only, 无 Eindhoven, 实际打开过): https://www.levels.fyi/companies/signify/salaries/software-engineer
+  - Glassdoor Signify 全公司面经 (Junior IT 面经稀少, 主要参考): https://www.glassdoor.com/Interview/Signify-Interview-Questions-E2101263.htm
+
+---
+
 ## 2. 签证与国际学生政策
 
 **核心结论: 大部分 SW Dev intern 岗位明确要求"必须在荷兰大学注册" — 对未在 NL 念书的非 EU 学生几乎封死。**

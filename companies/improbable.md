@@ -14,6 +14,48 @@
 | 实习时长 | 历史上 3-6 个月 paid placement |
 | 申请窗口 | 历史上 11-2 月,2024-2025 入口不明确 |
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (2024-2025 公开 Junior / Graduate 数据**极其稀少**, 与实习岗一样近乎消失; Glassdoor / Bright Network 历史数据为主, 当前 hc 信号不明)
+> 区别于实习: 全职 entry-level (0-2 年经验); **Improbable 2024-2025 公开 grad hiring 基本暂停**, 仅 Senior / Mid-level 为主, 历史 graduate scheme 已不再独立宣传
+
+- **常见岗位名**: 历史上有 Graduate Software Engineer、Junior Engineer、Associate Engineer; **2024-2025 几乎不挂 Junior / Graduate 命名** — 招聘页 active 的多是 Senior SWE (SpatialOS / M-Squared / Somnia)
+- **欧洲地点**: 总部 **London (10 Bishops Square, Spitalfields)**; 极少 Edmonton (Canada, defence 业务剥离后); Junior / Grad 历史上默认 London onsite
+- **是否有独立 Graduate Programme**: **No — 已停 / 暂停**
+  - 历史上 (2019-2022) 有过命名 "Improbable Graduate Engineer Programme", 跟 SpatialOS engineering / Defence 团队
+  - **2023 出售防务业务 → 大量工程师走 NOIA → 2024-2025 重心转向 M-Squared (元宇宙) / Somnia (onchain) → graduate scheme 不再公开招募**
+  - 需明确说明: 当前没有 active graduate programme, 偶有零星 Junior Engineer req 但是 ad-hoc, 非 batch hiring
+- **非EU签证 (全职)**:
+  - **UK Skilled Worker Visa**: Improbable Worlds Ltd 是持牌 sponsor (历史上)
+  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Improbable 接受 PSW candidate 后再转 Skilled Worker
+  - **当前 sponsor 信号弱**: 2024-2025 hc 收缩, 即使有 req 也偏好已在 UK 工作权 candidate
+- **薪资范围 (base, gross/年)** (历史数据 + Glassdoor 估算, 2024-2025 公开数据稀少):
+  - **London Graduate / Junior SWE (历史 2019-2022 数据)**: base ~£50,000-65,000, +equity (pre-IPO, 估值 2017 高点 $2B 后下行)
+  - **London Mid SWE (1-2 yrs)**: base ~£70,000-90,000
+  - **London Senior SWE (Golang Cafe 2024 信号)**: base ~£100,000-130,000+
+  - 福利: equity grant (高风险 — 估值下行)、健康保险、健身、stock option (流动性差)
+  - 与 London Web3 / 游戏公司 (Sui / Mythical Games) 接近, 但远低于 London FAANG / fintech
+- **申请窗口**: **不固定** — 历史上 11-2 月集中, 但 2024-2025 没有公开 cohort; 需持续 monitor improbable.io/careers 看是否重启 grad hiring
+- **面试流程差异 vs 实习**:
+  - 历史信号: 实习 3 轮 (OA → 电面 → onsite 4-5h), Graduate **4-5 轮** (HackerRank → 2 轮 tech + 1 轮 distributed systems + 1 轮 team fit)
+  - **Distributed systems / consistency / state replication 深度上升** (全职会问 CRDT、Raft、State machine replication、CAP 实际选型)
+  - Go 语言深度 (goroutine / channel / context / 内存模型) 是 backend 必考
+  - 当前 Web3 方向新增题: Ethereum / smart contract / L2 / Somnia 项目了解
+  - **行为题严苛追问 "为什么 Improbable"** — candidate 必须诚实说出元宇宙 / 仿真 / Web3 兴趣 (公司方向频换的负面口碑是公开的, recruiter 会主动 screen 出"试水"型 candidate)
+- **录取竞争**: 因 hc 极少, 录取通道近乎关闭; 即使开放, bar 仍高 (历史上吸引牛剑 / IC 顶尖本科); 国际生 friendliness 历史中等, 当前不明; **不推荐作为 Top 3 选择, 仅作机会型申请**; 同档 London 备选优先考虑 Arm / Confluent / Stripe / Monzo
+- **关键链接**:
+  - Improbable Careers (active 检查): https://www.improbable.io/careers
+  - Improbable Wikipedia (公司方向变迁): https://en.wikipedia.org/wiki/Improbable_(company)
+  - Glassdoor Improbable London: https://www.glassdoor.com/Interview/Improbable-Interview-Questions-E746448.htm
+  - Bright Network Improbable (历史 cohort 信息): https://www.brightnetwork.co.uk/graduate-jobs/improbable/
+  - Sifted Improbable Defence Sale News (业务剥离背景): https://sifted.eu/articles/improbable-sell-defence-arm-news
+  - Built In London Improbable Profile: https://builtinlondon.uk/company/improbable
+  - LinkedIn Improbable (active job alert): https://www.linkedin.com/company/improbable/jobs/
+
+---
+
 ## 2. 实习岗位与方向
 
 > **重要警示**: Improbable 官方 careers 页 2024-2025 公开 SWE Intern 招聘极少;过去主要的 "Defence SWE Internship" 已随防务业务出售而消失。剩下的招聘以 Senior / Mid-level 为主。

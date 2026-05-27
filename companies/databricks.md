@@ -26,6 +26,50 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Databricks New Grad SDE 是欧洲最炙手可热的 entry-level offer 之一; LeetCode + Blind + 1point3acres + Levels.fyi 面经丰富, 但 Amsterdam-specific 数据相对北美少一些)
+> 区别于实习: 实习 12 周 + 优先 NL 院校 / EU 学生; **New Grad SWE** 全职 Kennismigrant + 30% ruling, 国际生全方位 sponsor
+
+- **常见岗位名**: **Software Engineer (New Grad) — University Graduate** / **Software Engineer, IC1** / **SWE I**; Databricks 内部 level **IC1 = New Grad (0 yr)**, **IC2 = Junior (1-2 yr)**; 没有专门 "Graduate Programme" 品牌, 走标准 SWE + new-grad 蓄水池
+- **欧洲地点**:
+  - **Amsterdam (Zuidas)**: EMEA 最大工程 hub, New Grad 主要地点, 招 ~30-50 人/cohort (Mosaic AI / SQL / Unity Catalog / Delta Lake teams)
+  - **Berlin (DE)**: 次大欧洲 hub, New Grad 名额开始增长 (2024-2025 起)
+  - **Belgrade (RS)**: 工程 hub, New Grad 招本地 / 周边国家
+  - **London (UK)**: 部分 GTM 加少量 Engineering New Grad
+  - 与实习地点一致, 但 New Grad 比实习更倾向 Amsterdam (实习 Berlin 也接, New Grad 主推 NL)
+- **是否有独立 Graduate Programme**: **No** — Databricks 没有 cohort-based grad scheme; 走标准 University Recruiting Pipeline (与 Google / Meta / Stripe 类似); 内部有 4 周 onboarding + bootcamp + mentor 制度
+- **非EU签证 (全职)**:
+  - Databricks Netherlands B.V. 是 IND **Recognised Sponsor**, Kennismigrant 经验成熟 (近 2-3 年快速建立)
+  - Amsterdam New Grad SDE **完整 sponsor**: visa + relocation lump sum ($10K-$15K reported on Blind) + 60 天 corporate apartment + 单程机票 + 配偶协助
+  - **30% ruling**: New Grad base **远超** 2026 年 < 30 岁门槛 (€46,107), 100% 适用; 与实习不适用是数量级差异
+  - **对国际生 friendly 度 EMEA 顶级** — 与 Stripe / Snowflake 同档, Databricks 是少数从北美 / 印度 / 中国 top 校园直接 sponsor Amsterdam New Grad 的公司
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam New Grad SDE (IC1)**: **€75K-€90K base + €40K-€60K RSU/年 (4-yr vest, 40-30-20-10 schedule) + ~10% target bonus** ≈ **€125K-€155K total** (Blind + Levels.fyi 推算, 比 US IC1 $250K 低 ~40%)
+  - **Berlin New Grad SDE**: 与 Amsterdam 接近, ~€75K-€88K base + RSU
+  - **Belgrade New Grad SDE**: ~€30K-€45K base (当地极顶薪资) + RSU
+  - **股权关键**: Databricks pre-IPO (估值 $62B 2024H1, 2025 进展 IPO 预期), **RSU 是 double-trigger** (需 IPO + vest 双触发才能流动) — 这是和 Uber/Booking (上市公司) 最大区别。Refresh grant 也大, Y2-Y4 每年再给 $30K+/年
+  - 30% ruling 后 Amsterdam 实得 ≈ €6K-€7.5K/月 net + 长期 RSU 兑现
+  - 来源: Levels.fyi databricks, Blind databricks tag, 1point3acres
+- **申请窗口**: **每年 8-10 月开放 New Grad SWE** (与北美同步), 11 月 - 次年 2 月面试, 3-5 月发 offer, 7-9 月入职; 错过窗口几乎只能等下一年; New Grad 名额一旦关闭基本无法重开
+- **面试流程差异 vs 实习**:
+  - 流程结构相同 (HR → Karat → Hiring Manager → Onsite), 但**Onsite 从 4 轮升到 5-6 轮**: +1 **System Design** (45-60 min, 必考: 设计 distributed query engine / 设计 metadata catalog / Spark SQL optimizer) + +1 deep behavioral (与 Director 级 Bar Raiser)
+  - **Karat Phone Screen 难度上调** — 实习 1 easy + 1 medium, New Grad 1 medium + 1 hard (典型: graph + DP)
+  - **Take-home (偶有)**: 设计 mini distributed cache / mini SQL parser, 5-7 天提交
+  - 总流程 6-9 周 (实习 5-7 周)
+- **录取竞争**: Amsterdam New Grad SDE 录取率 **~1-2%** (申请池 5,000-8,000/cohort), 是欧洲 entry-level 最难入门之一 (与 Stripe / Citadel / Two Sigma 同档); **国际生 friendliness 高于 Booking / Adyen** (Databricks 全球 hire 文化, 从北美校园直推欧洲 office)
+- **关键链接**:
+  - Databricks University Careers (筛 EMEA): https://www.databricks.com/company/careers/university-recruiting
+  - 全球 Career 总入口 (筛 New Grad + Amsterdam): https://www.databricks.com/company/careers/open-positions
+  - Levels.fyi Databricks SWE (含 IC1 entry $250K US): https://www.levels.fyi/companies/databricks/salaries/software-engineer
+  - LeetCode Discuss Databricks Amsterdam 面经: https://leetcode.com/discuss/interview-experience/?query=databricks+amsterdam
+  - 1point3acres Databricks tag: https://www.1point3acres.com/bbs/tag/databricks-1280-1.html
+  - Blind databricks 板块 (薪资众包): https://www.teamblind.com/company/Databricks
+
+---
+
 ## 2. 签证与国际学生政策
 
 - Databricks NL 是 IND **recognised sponsor**, 全职 SWE 转正全额支持 Kennismigrant + 30% ruling

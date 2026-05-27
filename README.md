@@ -75,6 +75,70 @@
 
 ---
 
+## 🎓 Graduate / Junior 全职路径对比 (34 家)
+
+> ⚠️ 本节为初稿. 数据基于初次 agent 研究 (大部分未做实时 WebSearch 验证, 详见每个公司 .md 顶部标注). 重点公司 (Booking/JetBrains/Signify/Nebius) 已重新研究. **薪资为概略, 二次核实前勿用于谈判**.
+
+### A. 有独立 Graduate Programme 的公司 (结构化 cohort / rotational)
+
+| 公司 | Programme 名称 | 时长 | 地点 | 入门 base (gross/年) | Sponsor 全职 | 文件 |
+|------|---------------|------|------|---------------------|--------------|------|
+| **Arm** | Arm Graduate Engineering Programme | 2 年 cohort (~100-150/年) | Cambridge UK | £35-40k 估算 | ✅ Skilled Worker (硬科技国际生最旗舰) | [arm.md](companies/arm.md) |
+| **Booking** | Compass Graduate Programme (SE/DS/Product) | **12 个月 / 2 rotations** | Amsterdam + Manchester | Level E base **$78.6k (~€72-73k)** (Levels.fyi 直读); Level F post-grad jump 到 $110k base | ✅ Kennismigrant + 30% ruling | [booking.md](companies/booking.md) |
+| **Microsoft** | Aspire Experience (前 MACH, 2024 rebrand) | 2 年 cohort | Dublin / Reading / Munich / Amsterdam | £45-55k LDN / €55-65k MUC | ✅ aggressive (与实习不同, intern 不 sponsor) | [microsoft.md](companies/microsoft.md) |
+| **Adyen** | Graduate Program | 2 年 rotational + cross-office | Amsterdam | €55-65k + phantom stock | ✅ Kennismigrant | [adyen.md](companies/adyen.md) |
+| **ASML** | TDP / Engineering Career Starter / CSE | 多并行项目 | Eindhoven / Veldhoven | €58-72k (L6) + bonus + 30% ruling | ✅ heavy sponsor | [asml.md](companies/asml.md) |
+| **Criteo** | Criteo Graduate Programme + Apprenticeship (alternance) | 全职 CDI / alternance | Paris | €45-55k | ✅ Passeport Talent | [criteo.md](companies/criteo.md) |
+| **Revolut** | Rev-celerator Graduate Programme | 12-18 月 multi-function rotation | London / Krakow / Porto | £50-65k LDN | ⚠️ Skilled Worker (bar 高 + 文化负评) | [revolut.md](companies/revolut.md) |
+| **Delivery Hero** | Tech Graduate Program | 6 个月 → CDI (March/Sept intake) | Berlin | €55-65k | ✅ Blue Card (Berlin grad 最国际友好) | [deliveryhero.md](companies/deliveryhero.md) |
+| **Signify** ⭐ | **Junior IT Program / Junior Digital Program (Graduate)** ⚠️ 旧版误写为 "Edison" (那是 GE 的项目) | 18-24 个月 | Eindhoven | 无 2026 公开数据; Glassdoor Eindhoven SWE median **€60.6k** 为城市基准 | ✅ Kennismigrant (2026 阈值 €4,357/月 &lt;30 岁) | [signify.md](companies/signify.md) |
+| **Amazon** | Amazon Pathways (MBA / PhD / Military) + SDE I (L4) 直招 | 多年 rotational | London / Dublin / Berlin / Lux / Madrid | varies (按 path); SDE I €45-75k 区间 | ✅ aggressive (Tier 1 最 friendly) | [amazon.md](companies/amazon.md) |
+| **DeepMind** | AI Residency | 12 个月 cohort | London | £80-110k (Residency); RS fresh PhD £130-180k base | ✅ Global Talent + Skilled Worker | [deepmind.md](companies/deepmind.md) |
+| **Zalando** (semi) | Helsinki Future Talent / C5 直入 | 6-12 个月 | Berlin / Helsinki / Dublin | €55-70k + €6k relo + housing | ✅ Blue Card | [zalando.md](companies/zalando.md) |
+
+### B. 无 Programme 但有 New Grad / Junior 直招 (rolling)
+
+| 公司 | 主要地点 | 入门 base (gross/年) | Sponsor 全职? (与实习对比) | 文件 |
+|------|----------|---------------------|------------------------|------|
+| **Google** | Zurich / London / Munich / Warsaw / Dublin | Zurich L3 **base $180k (~CHF 165k) / total $226k** + Munich €94k base / €131k total (Levels.fyi 直读 2026-05); ⚠️ Engineering Residency **2021 已停**, 现仅 NORP US-only | ⚠️ team-by-team; 全职无 housing stipend (housing 仅 intern) | [google.md](companies/google.md) |
+| **Meta** | London (Amsterdam 仅商业) | £80k base / £127k total (E3) | ⚠️ Skilled Worker, EU HC 紧 | [meta.md](companies/meta.md) |
+| **Apple** | Munich / London | Munich ICT2 €89k base / London £78k | ⚠️ 倾向已有 visa | [apple.md](companies/apple.md) |
+| **Nvidia** | Munich / Helsinki / Cambridge | Munich IC2 €121k total (含前置 RSU 40/30/20/10) | ✅ Helsinki 最 visa-friendly | [nvidia.md](companies/nvidia.md) |
+| **Uber** | Amsterdam / Aarhus / Sofia / Lisbon | €72-85k base + RSU | ✅ Kennismigrant + 30% ruling | [uber.md](companies/uber.md) |
+| **Spotify** | Stockholm / London / Gothenburg | Stockholm SEK 600-720k (E2) / London £65-78k | ✅ 全职 sponsor (**与实习相反!**) | [spotify.md](companies/spotify.md) |
+| **JetBrains** ⭐ | Munich / Amsterdam | €78-92k 估算 | ✅ 全职会 relocate/sponsor (**与实习相反!**) | [jetbrains.md](companies/jetbrains.md) |
+| **Databricks** | Amsterdam / Berlin | €75-90k base + €40-60k RSU/年 (pre-IPO double-trigger) | ✅ + 30% ruling | [databricks.md](companies/databricks.md) |
+| **Confluent** | London | £75-90k base + RSU | ✅ Skilled Worker | [confluent.md](companies/confluent.md) |
+| **Nebius** ⭐ | Amsterdam | **G16 base ~€94k + bonus $19k, total ~€114k** (Levels.fyi 直读 2026-05-27) | ⚠️ Early Talent FAQ 明确 "not at this stage"; 全职高级别 sponsor (HSM 阈值 €4,357/月) | [nebius.md](companies/nebius.md) |
+| **Klarna** | Stockholm | 未公开 (IPO prep 期 HC 紧) | ⚠️ Master Thesis → Associate (K2/K3) 主通道 | [klarna.md](companies/klarna.md) |
+| **N26** | Berlin | 未公开 | ⚠️ BaFin 压力下多团队 hiring freeze | [n26.md](companies/n26.md) |
+| **Cohere** | London / Paris | LDN £110-140k MTS / Paris €90-110k MTS (est.) | ✅ Skilled Worker (bar 极高, 5-10% pass) | [cohere.md](companies/cohere.md) |
+| **Hugging Face** | Paris / Remote | Paris L3 ~€75-78k base ($91.9k total) — Levels.fyi 单点 | ⚠️ Passeport Talent (OSS 主导) | [huggingface.md](companies/huggingface.md) |
+| **Mistral AI** | Paris | 未公开 | ⚠️ PhD + CIFRE 转正主流, junior reqs 极少 | [mistral.md](companies/mistral.md) |
+| **Alan** | Paris | Junior SWE €55-70k (官方公开 grid) | ✅ Passeport Talent (无 take-home, 流程透明) | [alan.md](companies/alan.md) |
+
+### C. Graduate 路径警告 / 不推荐
+
+| 公司 | 问题 |
+|------|------|
+| **Canva London** | Early Talent 明确**不 sponsor** visa — 只能走 UK Graduate Visa (Master 毕业后 2 年) |
+| **TomTom** | Amsterdam Junior SWE hc frozen; 非 EU 仅 Łódź (波兰) 现实, €60k NL / PLN 100k PL |
+| **Elastic** | distributed-default 文化, entry-level 几乎不 sponsor (<1% 国际生录取率) |
+| **Improbable** | 2023 国防 pivot 后 grad hiring 已停, 仅零星 Junior reqs |
+| **Stability AI** | 2024 turmoil 杀掉 grad pipeline, post-restructure 无 sponsor commitment |
+| **Deezer** | 法语门槛高, less sponsor-friendly than Criteo, hc 财务波动大 |
+
+### D. 关键 Insight (策略)
+
+1. **"实习不 sponsor 但全职 sponsor" 类**: JetBrains / Spotify / Nebius — 非 EU 学生策略应**直接跳过实习, 走 New Grad**, 反而更顺
+2. **结构化 Graduate Programme 最强 visa pipeline (Top 5)**: Arm (UK 硬科技旗舰) / Microsoft Aspire / Booking Compass / Amazon Pathways / Adyen Graduate
+3. **AI 小厂 (Cohere / Mistral / HF)**: 几乎没有 "grad" 标签, 直接走 Member of Technical Staff (MTS) / L3 IC; bar 极高, paper / OSS contribution 主导, 不是 LeetCode 比拼
+4. **法国系 (Criteo / Alan / HF)**: convention de stage / CDI / Passeport Talent 三件套, 法国对非 EU 学生 grad 转正路径最丝滑
+5. **荷兰系 (Booking / Adyen / Uber / Databricks / Nebius / JetBrains Amsterdam)**: Kennismigrant + 30% ruling 双 buff, gross-to-net 差距小; Amsterdam grad 市场最厚
+6. **薪资天花板**: DeepMind RS PhD £200-350k total (AI talent war 驱动) > Google Zurich L3 $226k total > Cohere London MTS £110-140k base > Nvidia Munich IC2 €121k total (前置 RSU 加成)
+
+---
+
 ## 🚦 关键路径建议 (按用户场景)
 
 ### 场景 A: 非欧盟在读硕士/博士, 想 2026 暑期入职

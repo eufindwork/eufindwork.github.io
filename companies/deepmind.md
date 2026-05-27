@@ -35,6 +35,52 @@
   - Student Researcher: 全年 rolling, 但 Q4 最活跃
   - Research Ready (UK 校内): 1-2 月校内 deadline, 2-4 月通知
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐ (RE/RS NG 流程清晰, 但 entry-level salary 公开数据稀, DeepMind 不在标准 Levels.fyi schema 单独建库, 多用 Glassdoor 综合估算)
+> 区别于实习: 全职 **Research Engineer (RE) / Research Scientist (RS) — 新晋 IC1/IC2 级别** (DeepMind 内部用 Google ladder, RS 通常 L5 起步 fresh PhD, RE 可 L4);永久合同 + Google GSU 4 年 vest
+
+- **常见岗位名**: **Research Engineer (RE, full-time)** / **Research Scientist (RS, full-time, PhD-only)** / **Software Engineer (DeepMind, infra/eval/safety teams)** / **AI Resident (12 个月 cohort, fellowship 性质)**
+- **欧洲地点**: **London (King's Cross, 主总部, 99% NG HC)** / Paris (Gemini multilingual + Robotics 小队, NG 极少) — Zurich 是 Google Research 而非 DeepMind brand
+- **是否有独立 Graduate Programme**: **部分有**
+  - **AI Residency / DeepMind Fellowship** (历史名称变动): **12 个月** cohort 项目, 类似 Google AI Residency 的 EU 版, 面向**应届 PhD / 强 Master with publications**;以"做出 1 篇顶会 paper"为产出目标, 完成后 fast-track 走 RS / RE full-time 内部转岗;London 主要, 名额极少 (年 < 20 人 EU 总量)
+  - **RS / RE 直接 NG offer**: 大多数情况, 应届 PhD 直接面 RS full-time, 没有 cohort, 入职即 IC
+  - **Student Researcher → NG conversion**: Student Researcher 在 DeepMind 完成 6-12 个月后, 强 perf 案例可直接转 NG offer (host endorsement 是关键)
+- **非EU签证 (全职)**:
+  - UK: **Skilled Worker visa** — DeepMind (Google UK Limited 旗下) 是 top UK Skilled Worker sponsor; RS / RE base £80K-£140K 远超 £38,700 threshold;**Global Talent visa** 也是 PhD 候选人通道 (走 Royal Society / Royal Academy of Engineering endorsement, 不依赖雇主, 灵活度更高 — DeepMind 有员工帮你 endorse)
+  - FR: **Passeport Talent — Chercheur** (科研人员通道, DeepMind Paris 用)
+  - 与实习区别: 实习层级走 GAE / Tier 5, NG 走 5 年 Skilled Worker 或 Global Talent (Global Talent 不锁定雇主, 跳槽自由)
+- **薪资范围 (base, gross/年, RS / RE entry-level fresh PhD)**:
+  | 岗位 | Base | Total Comp (含 GSU + bonus) | Sign-on | 来源 |
+  |------|------|----------------------------|---------|------|
+  | Research Engineer (RE) NG London | £100K-£140K | £150K-£250K | £30K-£60K | Glassdoor + Blind + Sundeep Teki guide |
+  | Research Scientist (RS) NG London (fresh PhD) | £130K-£180K | £200K-£350K (含大 GSU) | £50K-£100K (AI talent war 后) | Glassdoor RS L5 estimate, [1 Glassdoor 样本 £312K total range](https://www.glassdoor.com/Salary/Google-DeepMind-Research-Scientist-Intern-London-Salaries-EJI_IE1596815.0,15_KO16,41_IL.42,48_IM1035.htm), [Yahoo AI Talent Wars](https://finance.yahoo.com/news/ai-talent-wars-come-interns-103101646.html) |
+  | Senior RS (PhD + 强论文 5+ 年, 参考) | £200K-£350K base | £500K-£1.5M+ | £200K+ | Blind / 1point3acres 公开数据 |
+  | AI Residency (12 mo) | £90K-£120K base (1 年合同性质) | £100K-£140K total | low | DeepMind Careers + Glassdoor estimate |
+  - **2024-2025 AI Talent War 影响**: DeepMind 为应对 OpenAI / Anthropic 抢人, **fresh PhD RS sign-on 从 £30K 涨到 £100K+** (有人传 specific star PhD £500K total Y1)
+  - **vs Google L3 London**: DeepMind RS NG 远高于 Google L3 (£200K+ vs £151K total), 因为 RS 起步级别 = Google L5 等同;RE 与 Google L4/L5 SWE 大致对齐
+- **申请窗口**: **Rolling, 全年开放**, 但 PhD 毕业季 (3-6 月) 是 RS NG 投递主峰。AI Residency / Fellowship **年度 cohort**, 通常 9-11 月开放 deadline 12 月。**Internship → NG conversion** 极常见 (RE 转化率 > 50%, RS 转化率较低因 publication 要求)
+- **面试流程差异 vs 实习**:
+  - 轮数: 实习 5-6 阶段 → NG **6-8 阶段** (加 1-2 轮 RS / RE pair 的 second-opinion interview + 1 轮 hiring committee chat)
+  - Research Interview: NG 比 intern 更深 — 要求候选人讲 **3-5 个未来 1-2 年要做的 research 方向**, 不再只是 PhD work deep dive (intern 只问 PhD)
+  - System / Infra: RE NG **必有 1 轮 distributed training / scaling system design** (e.g., "design 1T-parameter training pipeline"), intern 此项 lite
+  - Coding: RE NG 仍 LeetCode Medium + PyTorch tensor 题, 但加 1 道 production code review
+  - Culture: DeepMind 强调 **alignment / safety** value, NG 期望对 AI safety 有 informed opinion (intern 此项 light touch)
+  - Hiring committee: Google-style 委员会决策, 比 intern 流程更慢 (NG 通常 8-12 周才出 offer)
+- **录取竞争**: **极卷**, **RE NG acceptance < 1%** (Sundeep Teki 数据, 与 intern 同级);**RS NG 几乎硬要求顶会 (NeurIPS/ICML/ICLR) 一作 + h-index 10+**。Host match 仍是事实门槛 — 没有 PI 愿意带的候选人即使技术过也挂。**国际生 friendliness**: ⭐⭐⭐⭐ (UK Skilled Worker + Global Talent 双通道, sponsor 标准化;海外 PhD 通过 visa 进入是标配)
+- **关键链接**:
+  - 官方 DeepMind Careers: [https://deepmind.google/careers/](https://deepmind.google/careers/)
+  - 官方 Student Researcher (NG pipeline): [https://deepmind.google/student-researcher-program/](https://deepmind.google/student-researcher-program/)
+  - Glassdoor DeepMind RS London salary: [https://www.glassdoor.com/Salary/Google-DeepMind-Research-Scientist-Intern-London-Salaries-EJI_IE1596815.0,15_KO16,41_IL.42,48_IM1035.htm](https://www.glassdoor.com/Salary/Google-DeepMind-Research-Scientist-Intern-London-Salaries-EJI_IE1596815.0,15_KO16,41_IL.42,48_IM1035.htm)
+  - Sundeep Teki AI RE Interview Guide 2026 (NG-level prep): [https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs](https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs)
+  - Yahoo Finance AI Talent Wars: [https://finance.yahoo.com/news/ai-talent-wars-come-interns-103101646.html](https://finance.yahoo.com/news/ai-talent-wars-come-interns-103101646.html)
+  - Quora RS salary London: [https://www.quora.com/What-is-the-salary-of-a-research-scientist-in-Google-DeepMind-in-London](https://www.quora.com/What-is-the-salary-of-a-research-scientist-in-Google-DeepMind-in-London)
+  - Andrey Zharkov 2025 ML RE UK 综合面经: [https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk](https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk)
+
+---
+
 ## 2. 签证与国际学生政策
 
 - **DeepMind 是 UK Skilled Worker 注册 sponsor**, 全职转正路径明确

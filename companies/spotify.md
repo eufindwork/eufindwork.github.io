@@ -32,6 +32,44 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 拒绝权限), 数据基于模型已有知识 + 本文件已有 intern 信息推断; 引用链接为推测入口, 未直接打开核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Stockholm / London Levels.fyi + Glassdoor 数据较厚, 但近年裁员后 hc 收紧)
+> 区别于实习: 全职 entry-level (0-2 年经验), Spotify 内部 leveling 通常落在 **Engineer I (E2)** 或 **Engineer II (E3)**; 没有美式 "structured rotational grad program", 走的是直接 IC 入职 + Onboarding Bootcamp
+
+- **常见岗位名**: Backend Engineer I / II、Mobile (iOS / Android) Engineer I、ML Engineer I、Data Engineer I、Full-Stack Engineer I; 招聘页直接挂 "Engineer" + level, 没有 "New Grad" 这种独立 req — 应届生与 1-2 年经验的人投同一个 posting
+- **欧洲地点**: 与实习一致 — **Stockholm (HQ, 最大研发)、London (Ads / Marketplace / Podcast / Audiobook)、Gothenburg (小)**; 实习多见的 Stockholm Personalization / Audio Infra / Mobile Core 在 full-time 也是最大入口
+- **是否有独立 Graduate Programme**: **No** — Spotify 历史上没有像 Arm / 投行那样的命名 graduate scheme; 唯一接近的是实习转正通道 ("Intern → Engineer I"), 由 squad manager 单独评估
+- **非EU签证 (全职)**:
+  - **Sweden**: 与实习不同, Spotify **会为全职 sponsor Work Permit** (Migrationsverket 通道); 起薪须达瑞典工会集体协议下限 (~SEK 28,480/月起), Spotify Engineer I 实际开价远高于此, 通常 1-2 个月内拿到许可
+  - **UK**: Spotify London 是 Skilled Worker 持牌雇主, 全职可 sponsor Skilled Worker visa (2024-04 起 going rate ≥ £38,700 或 new entrant 较低); 实习不 sponsor 但全职 sponsor
+- **薪资范围 (base, gross/年)** (Levels.fyi 2024-2025 数据):
+  - **Stockholm Engineer I (E2)**: base ~SEK 600,000-720,000 (~€53k-64k), 含 RSU TC 约 SEK 700k-850k
+  - **Stockholm Engineer II (E3)**: base ~SEK 750,000-900,000, TC ~SEK 900k-1,100k (~$85k-$105k)
+  - **London Engineer I**: base ~£65k-78k, TC ~£75k-95k (含 RSU)
+  - **London Engineer II**: base ~£85k-105k, TC ~£110k-135k
+  - 参考: NYC E3 base ~$170k-185k, TC ~$220k-250k — 北美溢价明显
+- **申请窗口**: **Rolling 全年滚动**, 没有像投行那样的 batch; 与实习不同 (实习是 10-12 月集中开放), 全职岗 random req 上线, 需 set LinkedIn / lifeatspotify.com job alert; 2024 起裁员余波下 EU 团队 hc 紧, headcount 经常被冻结
+- **面试流程差异 vs 实习**:
+  - 实习 4 轮 final, 全职 **4-5 轮 final + 一轮 hiring manager** (5-6 轮总数)
+  - **System Design 难度显著上升**: 实习只考 high-level, 全职 E2/E3 要细到 storage choice / sharding / consistency / replication
+  - Mobile 全职 IDE round 比实习更严格 — 要求现场设计可扩展模块化代码 + 性能优化
+  - Values 行为面权重相同 (Spotify 的 5 大 value 在所有 round 评分), 但 ownership / leadership 的故事深度要求更高
+  - ML 岗会额外加一轮 ML system design (online serving / feature store / A/B)
+- **录取竞争**: Stockholm 录取率低于 NYC (HC 紧 + 内部转岗优先), 国际生 friendliness 中等 — Spotify 在 EU full-time 上 sponsor 友好, 但裁员后明显倾向 already-EU candidates 减少 relocation 周期; ML / Personalization 仍 actively hiring
+- **关键链接**:
+  - 官方 careers (全部 levels): https://www.lifeatspotify.com/jobs
+  - Life at Spotify – How We Hire: https://www.lifeatspotify.com/how-we-hire/interview
+  - Levels.fyi Spotify (按 location filter): https://www.levels.fyi/companies/spotify/salaries/software-engineer
+  - Levels.fyi Spotify Stockholm: https://www.levels.fyi/companies/spotify/salaries/software-engineer/locations/stockholm
+  - Glassdoor Spotify Stockholm SWE Interviews: https://www.glassdoor.com/Interview/Spotify-Stockholm-Interview-Questions-EI_IE408251.0,7_IL.8,17_IM917.htm
+  - 1Point3Acres Spotify 面经 (主要 NYC, Stockholm 帖少): https://www.1point3acres.com/interview/company/spotify
+  - rampatra Backend Engineer II Stockholm 一手面经: https://blog.rampatra.com/spotify-interview-backend-engineer-ii
+
+---
+
 ## 2. 岗位画像
 
 ### 2.1 Backend Engineer Intern

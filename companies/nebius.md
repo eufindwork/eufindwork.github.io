@@ -54,6 +54,49 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi G16 已有具体 base/bonus/stock 三列数据; Early Talent Program 2026 cycle 官方原文齐全; Taro / Glassdoor 面经覆盖 SWE Amsterdam)
+> 区别于实习: 实习 2-3 个月明确不办 visa (官方原文 "Not at this stage"); **Junior / G16 全职** 走 Kennismigrant + 30% ruling, 国际生通道打开 — 这是 Nebius 全职 vs 实习最大的国际生友好度跃升
+
+- **常见岗位名**: **Software Engineer (Early Talent)** / **Cloud Engineer (Early Talent)** / **AI Researcher (Early Talent)** / **ML Engineer - Life Sciences (Early Talent)** / **Network Engineer (AI Infrastructure) Early Career** / **SRE (AI Infrastructure) Early Career** — Nebius 内部统一用 **"Early Talent"** (项目品牌, 主体是实习) 和 **"Early Career"** (全职 0-2 yr 标签); 全职 Junior 岗位 Levels.fyi 用内部 grade **G16** 表示, G17 为 mid-level [来源 (实际打开过): https://nebius.com/early-talent-program/swe-ml]
+- **欧洲地点** (与实习一致, 官方明确): **Amsterdam** (HQ, 全 SWE / Cloud / SRE / ML / Product Operations 名额最多) / **Berlin** (AI Researcher Early Talent) / **Paris** (部分 Early Talent 岗位) / **Remote EU + US** (AI Researcher 可远程, 但需自带 work auth) / **Helsinki / Mäntsälä** (Data Center Technician, 硬件 track) / **Tel Aviv / Modiin** (AI infra) / **London** (少量 Tech / GTM) [来源 (实际打开过): https://nebius.com/early-talent-program 官方 location 列表]
+- **是否有独立 Graduate Programme**: **Partial — Early Talent Program** 是 Nebius 唯一结构化 early-talent scheme, **主体是 2-3 个月实习** (官方原文); 全职 entry-level 走标准招聘 + Early Career 标签, **没有 cohort-based 多 rotation grad program**。官方 FAQ 明确: 实习结束后 "Based on how things go and current business needs, a full-time role may be offered" — 即 conversion 不保证, 走 case-by-case [来源 (实际打开过): https://nebius.com/early-talent-program FAQ 节]
+- **非EU签证 (全职)**:
+  - **与实习的根本反转**: 实习官方明确 "Not at this stage. However, if there is sufficient demand, we may consider offering visa or relocation support in future Early Talent programs"; 全职 Junior 走标准 IND **Kennismigrant** (Nebius B.V. 是 IND Recognised Sponsor, 2024 重组后注册)
+  - **2026 IND 门槛**: < 30 岁 **€4,357/月 gross (€52.3K/年 excl. holiday)**, ≥30 岁 €5,942/月 gross (€71.3K/年) [来源: https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-sponsor]; Nebius G16 base €94K 100% 符合 (见下薪资)
+  - 提供 visa 全程协助 + relocation (具体金额无官方公开数据, 业内同档对标 €5K-€10K lump sum + 头 30 天住宿)
+  - **30% ruling**: G16 起薪 €94K 远超 2026 ruling 门槛 (< 30 岁 €46,107), 全额适用
+  - Berlin (DE) 走 EU Blue Card (2026 IT 门槛 €43,800/年, G16 base 充分符合), Paris (FR) 走 Passeport Talent, London (UK) 走 Skilled Worker
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam G16 (Junior / 入门级 SWE)**: **base $101.86K USD ≈ €94K + bonus $19K ≈ €17.6K + stock $2.34K/yr ≈ €2.1K = total $123.27K ≈ €114K** (Levels.fyi 2026-05-27 直读, n=有效数据点) — 注: 旧版本写 "€60-78K" 严重低估, **G16 直读 base 是 €94K**, total €114K [来源 (实际打开过): https://www.levels.fyi/companies/nebius/salaries/software-engineer/levels/g16/locations/greater-amsterdam-area]
+  - **Amsterdam G16-G18 全 range**: €106K - €164K total (Levels.fyi 2026-05); median G16 €106K, G17 (mid) €156K
+  - **NL 全国 SWE range (Nebius)**: €99.6K - €164K total
+  - **Berlin AI Researcher Early Talent**: 公开数据稀疏, 无 2026 公开数据可直接引用; 业内 AI Researcher 因 publications 要求估算 + RSU 略高于 Amsterdam SWE
+  - **股权**: NBIS (Nasdaq, 2024-10 复牌) RSU; Levels.fyi G16 stock $2.34K/年 (即 4 年 vest ~$9-10K), 量级远小于 base — 表明 RSU 是 ice-cream 而非主要 comp 来源; NBIS 股价 2024-2026 波动剧烈, RSU 估值不稳
+  - 加 NL 8% holiday allowance + bonus ~$19K/年 (G16 数据点直读, 已 unusually 高)
+- **申请窗口**:
+  - **Early Talent Program 2026 cycle (实习为主)**: 申请窗口 **2026-02-09 至 2026-05-31**, recruitment 流程 2026-03-03 至 2026-05-31, program 6 月 1 日 start (官方原文确认) [来源 (实际打开过): https://nebius.com/early-talent-program]
+  - **Junior 全职岗位**: rolling year-round, 在 careers.nebius.com 持续发布 (2026-05 全公司 ~350 open roles 量级, "Early Talent" tag 约 10+ 个)
+- **面试流程差异 vs 实习**:
+  - 实习走 4-stage 简化流程: CV screening → HR interview → Technical/role-specific assignment → Team fit / hiring manager
+  - 全职 SWE 走 5-stage 完整流程: Resume → Recruiter Call → **Preliminary Interview (1h 在线编辑器 coding)** → **多轮 Technical Interviews (每轮 1h)** → Final Meeting (官方面试流程文档原文) [来源: https://nebius.com/careers/interviews/backend]
+  - **算法标准对标 ICPC / Codeforces**: 真实面经 (Taro 2025-09 Amsterdam SWE) 原话 "LeetCode Medium to Hard"; (Taro 2025-05 Senior SWE Amsterdam) 题目: "Design DS with O(1) add/delete/get/get_random", "Why dict lookup O(1) avg", "Compress AAAABB→A4B2 no extra memory" [来源 (实际打开过): https://www.jointaro.com/interviews/companies/nebius/]
+  - **System Design 全职必考** (实习通常砍) — 经典题: 设计 GPU scheduler / multi-tenant inference platform / distributed training checkpoint
+  - **AI Researcher track 加 paper deep dive 轮** + 现场 ML coding (PyTorch)
+- **录取竞争**: Glassdoor 面经评 22.2% positive (远低于 JetBrains 46% 或 Booking 行业均值) + 难度 3/5; Taro Amsterdam SWE pass rate 接近 0% (n=3 真实样本, 全 solve 仍被拒); Glassdoor 全公司平均 hire 周期 **75 天** (欧洲慢的一档) [来源 (实际打开过): Taro 多份面经 + Glassdoor 摘要]。国际生 friendliness 中等偏高 — 公司国际化 (NL / IL / US / FI 4 国) 但 Yandex 血统使俄语 / 算法竞赛背景 (ICPC/Codeforces) 有隐性优势
+- **关键链接**:
+  - Nebius Careers 官方入口 (实际打开过): https://careers.nebius.com/
+  - Early Talent Program 主页 (实际打开过, 2026 时间表 + visa FAQ 原文): https://nebius.com/early-talent-program
+  - SWE/ML 子页 (实际打开过, 3 个 Early Talent 岗位 + location): https://nebius.com/early-talent-program/swe-ml
+  - Backend 面试流程官方文档 (5 stages): https://nebius.com/careers/interviews/backend
+  - Levels.fyi G16 Amsterdam (实际打开过, base $101.86K / total $123K): https://www.levels.fyi/companies/nebius/salaries/software-engineer/levels/g16/locations/greater-amsterdam-area
+  - Levels.fyi Nebius SWE 全 Amsterdam range (实际打开过, €106K-€164K): https://www.levels.fyi/companies/nebius/salaries/software-engineer/locations/greater-amsterdam-area
+  - JoinTaro Nebius 面经 (实际打开过, 3 份 Amsterdam SWE): https://www.jointaro.com/interviews/companies/nebius/
+  - Codeforces × Nebius 联名活动 (面试参考): https://codeforces.com/blog/entry/152338
+
+---
+
 ## 2. 签证与国际学生政策
 
 **核心结论 (官方原文): "Not at this stage" — Nebius Early Talent Program 当前不提供 visa / relocation 支持**

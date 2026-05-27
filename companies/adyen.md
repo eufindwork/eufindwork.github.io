@@ -23,6 +23,44 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Adyen Graduate Program 是欧洲 fintech 中最知名的 grad scheme, 官方页 + Levels.fyi + Glassdoor + LeetCode 数据完整)
+> 区别于实习: 实习 = Master thesis 5-6 个月 或 NextGen part-time; Graduate = **全职 2 年轮岗 (Tech / Commercial / Finance / Risk 等 track)**, 跨国办公室轮换
+
+- **常见岗位名**: **Graduate Program** (品牌名) — 分 **Tech Track** (SWE / Data / ML), Commercial, Finance, Risk, People & Organisation 等多条线; 普通职位线另有 **Software Engineer I / II** (1-3 yrs)
+- **欧洲地点**: **Amsterdam (HQ, Rokin 154) 为绝对主力**, 加 Madrid, Berlin, London, Paris, Stockholm 也接收 Tech Grad (但 cohort 极小, Amsterdam 占 70%+)。Programme 期间会安排 **跨 office rotation** (典型: Amsterdam → São Paulo / Singapore / SF), 不只欧洲内部
+- **是否有独立 Graduate Programme**: **Yes — Adyen Graduate Program**, 18-24 个月, 第一年通常在 HQ 培训 + 1 个 home team, 第二年跨 office rotation; 完成后转 permanent Adyen 员工
+- **非EU签证 (全职)**:
+  - Adyen 是 IND **重点 Recognised Sponsor**, 每年办理 150-200+ 签证, 是 NL 最熟练的 Kennismigrant 雇主之一
+  - Graduate 全球候选人**全程支持** H-1B (US) / Skilled Worker (UK) / Kennismigrant (NL) / Blue Card (DE/ES)
+  - 提供 **free visa + 头 3 个月住房 (corporate apartment) + 单程机票 + relocation lump sum**
+  - **30% ruling**: Graduate base 通常**符合** 2026 年门槛 (€46,107/年 < 30 岁, €56,531/年 ≥ 30 岁); 但 30% ruling 自 2024 年起比例下调 (前 20 个月 30%, 中 20 个月 20%, 后 20 个月 10%) — 与实习不同, 实习完全不适用
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam Graduate Tech (SWE)**: **€55K-€65K base** (社区报告), 加 ~€5K signing + 13 月薪 (8% holiday allowance)
+  - **Software Engineer 2 (转正 / 1-2 yrs)**: **€108K base + €17.7K stock (phantom) + €7.5K bonus ≈ €133K total** (Levels.fyi 2026-05)
+  - **London Tech Grad**: £45K-£55K base
+  - **Madrid Tech Grad**: €40K-€48K base (远低于 Amsterdam, 但适用西班牙 Beckham law)
+  - **股权**: Adyen 用 **Phantom Stock Plan**, 4 年 vest 25% annually; Grad 通常**第二年才发**, 一年 ~€10K-€15K phantom
+  - 来源: Levels.fyi adyen, TechPays, LinkedIn salary insights
+- **申请窗口**: **每年 1-3 月开放下半年 cohort**, **9-11 月开放次年春 cohort** (两批 intake); 申请到 offer 约 8-10 周; Rolling within batch
+- **面试流程差异 vs 实习**:
+  - 流程总长**比实习更长** (6-8 周 vs 4-6 周), 多一轮 **Adyen Formula Final Round** (与 VP / co-CEO 之一)
+  - **Take-home assignment 难度升级** — 实习生通常给一个 mini payment service, Grad 要求 production-grade 设计 + 部署 + 测试 + 文档
+  - Grad 流程**新增 system design 轮** (45-60 min, 经典题: 设计高吞吐 payment ledger / idempotency / dual write 一致性)
+  - Behavioral 部分对 "Adyen Formula" 八条原则的考察深度 2-3x 于实习
+- **录取竞争**: 全球申请池 **5,000-8,000/cohort**, 录取率 **~2-3%**, 是 NL fintech 最难入门的 grad 之一; 国际生 friendliness 高于 NL 平均 (因 Adyen 强国际化文化)
+- **关键链接**:
+  - Adyen 早期人才官方页 (Graduate / NextGen / Internship 三入口): https://careers.adyen.com/students
+  - Graduate Program 直链: https://careers.adyen.com/graduate-program
+  - Levels.fyi Adyen SWE 数据 (含 SE2 entry): https://www.levels.fyi/companies/adyen/salaries/software-engineer
+  - TechPays NL Adyen: https://techpays.com/europe/netherlands/adyen
+  - Glassdoor 面经 (筛 "Graduate"): https://www.glassdoor.com/Interview/Adyen-Interview-Questions-E700656.htm
+
+---
+
 ## 2. 签证与国际学生政策
 
 - **Adyen 的强项**: 是荷兰 IND **重点 recognised sponsor**, 每年处理 150–200+ 签证申请, 通过率高

@@ -15,6 +15,41 @@
 | 申请窗口 | 滚动开放;Summer cohort 1-2 月;Fall cohort 5-7 月 |
 | 视觉信号 | LLM 顶级雇主之一,与 OpenAI / Anthropic 同层 |
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (Cohere 没有公开 new grad programme, Levels.fyi 仅有 Montreal L3 数据 CA$210K, London entry-level 数据稀缺)
+> 区别于实习: 全职 entry-level (0-2 年经验) — Cohere 以 "Member of Technical Staff" (MTS) 为主轴, 内部按 L3/L4/L5 分级但 title 不区分
+
+- **常见岗位名**: Member of Technical Staff (Research / Engineering), Machine Learning Engineer, Software Engineer, Research Engineer; **无 "Junior" / "New Grad" 显式 title** — 新人按 L3 MTS 入职, 与有经验候选人共用同一 title
+- **欧洲地点**: London (核心研究 + 工程 hub, 与实习一致) + Paris (40 人新办公室, 2024 扩张, 偏研究 + 企业销售支持); 极少 fully remote 欧洲岗
+- **是否有独立 Graduate Programme**: **No** — Cohere ~400 人, 不跑 cohort grad pipeline; 一切走 MTS 通道, 与 OpenAI / Anthropic 模式一致 (paper + 代码 > 学历标签)
+- **非EU签证 (全职)**:
+  - **London**: Cohere UK Ltd 是 **Skilled Worker 持牌 sponsor** (Home Office register 已确认), 对非英国 new grad 可发 CoS; 全职 base 需 ≥ £38,700 (2024 新规) 才符合 Skilled Worker, Cohere base 远超此线
+  - **Paris**: Passeport Talent (salarié qualifié) 可走, base 需 ≥ €43,243 (2026 SMIC × 1.8), Cohere Paris MTS base 估计 €90K+ 完全达标
+  - 与实习 (Student Visa / carte de séjour étudiant) 路径完全不同, **全职更稳定**
+- **薪资范围 (base, gross/年)**:
+  - **London MTS L3** (估计): **£110-140K base** + equity (类比 OpenAI London L3 base £150K+, Anthropic London £130K+; Cohere 略低于这两家但显著高于 Google London L3 £80K); 公开数据点稀缺, 来自 LinkedIn / Blind 零星 self-report
+  - **London MTS L4** (3-5 年): £150-180K base
+  - **Paris MTS L3** (估计): €90-110K base + equity (高于 Mistral L3 €70-80K, 与 OpenAI Paris 持平)
+  - **Toronto/SF L3** 参考: Levels.fyi CA$210K total ≈ 北美基准, 欧洲打 0.65-0.75 折
+  - **CEO Aidan Gomez 公开承诺 "extremely high salaries"** — 实际 LLM 顶级雇主薪资带, 与 Anthropic/OpenAI 同档
+- **申请窗口**: rolling — 全年开放, Ashby 招聘页持续更新; **paper deadline 时段 (ICML / NeurIPS) 后会集中放 Research MTS** 岗
+- **面试流程差异 vs 实习**:
+  - 多一轮: **Paper Bar 显著加重** (Research MTS 必有 1-2 轮 paper deep dive, 实习偶尔才有)
+  - **System Design 必考** (实习只有 ML Intern 才考): ChatGPT 类 serving / training pipeline / multi-tenant inference
+  - Coding bar 与实习同 (Colab + ML 实现题), 但**总轮次多 1-2 轮** (5-7 轮 vs 实习 4-5 轮)
+  - OSS / paper 中至少一项**硬要求** — Cohere For AI (C4AI) 团队尤其看重 Aya / multilingual NLP 贡献
+- **录取竞争**: 极高 — Pass rate 估计 5-10% (vs 实习 20-30%); 与 OpenAI / Anthropic / DeepMind 抢同一批人; **国际生 OK** 但需要 paper 或 OSS 硬通货, 学校牌子是加分项但非决定
+- **关键链接**:
+  - 官方 careers 页: [cohere.com/careers](https://cohere.com/careers)
+  - Levels.fyi Cohere SWE: [levels.fyi Cohere](https://www.levels.fyi/companies/cohere)
+  - Cohere UK Ltd Skilled Worker 状态: [immigrationgpt.co.uk](https://immigrationgpt.co.uk/company/Cohere-UK-Ltd)
+  - Cohere Paris expansion: [Sifted - Aidan Gomez interview](https://sifted.eu/articles/aidan-gomez-cohere-interview)
+  - Blind Cohere 讨论: [teamblind.com/Cohere](https://www.teamblind.com/company/Cohere/posts/cohere-interview)
+  - Cohere Labs (研究 vs 工程区分): [cohere.com/research](https://cohere.com/research)
+
 ## 2. 实习岗位与方向
 
 | 岗位类别 | 主要要求 | 备注 |

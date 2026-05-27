@@ -14,6 +14,50 @@
 | 申请窗口 | 秋季 (9-11月) 开放,Rolling 滚动审核 |
 | 实习/视觉口碑 | 强工程、Kafka 内核圈层、强分布式系统强度 |
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐ (Confluent London 是分布式系统圈层的 prestige offer, Levels.fyi 数据完整但偏 US, EMEA 面经主要在 LeetCode + Blind)
+> 区别于实习: 实习 12 周或 12 个月 FTC + Student Visa; **New Grad SWE** 全职 Skilled Worker, package 与 senior 比例统一
+
+- **常见岗位名**: **Software Engineer, New Grad** / **Software Engineer I (L2)** / **Associate Software Engineer**; 没有专门 "Graduate Programme" 品牌, 走标准 SWE 招聘 + new-grad 标签
+- **欧洲地点**:
+  - **London (UK)**: EMEA 唯一主要工程 hub, Kafka Cloud / Connect / Schema Registry / Stream Governance 团队
+  - **Belfast (北爱)**: 部分 SRE / Platform 团队, New Grad 名额较少但 visa-friendly
+  - **Madrid (ES)**: 2023 新增 Cloud / Networking 团队, New Grad 名额增长
+  - 与实习地点一致, EMEA 全职 entry-level 80%+ 在 London
+- **是否有独立 Graduate Programme**: **No** — Confluent 没有 cohort-based grad scheme; 走标准 SWE Pipeline + new-grad 蓄水池; 内部有 4 周 Kafka 内核 deep dive bootcamp (是 Confluent 入职最 prestigious 的部分)
+- **非EU签证 (全职)**:
+  - **Confluent UK Ltd 是 UK Skilled Worker 持牌雇主** (Tier 2 sponsor licence), 全额支持新 grad visa
+  - 2026 年 UK Skilled Worker 工资门槛: 一般 £38,700; IT 行业 going rate 通常 £42K-£50K, Confluent New Grad base 100% 超过
+  - 提供 visa lawyer + IHS surcharge 报销 + relocation lump sum (~£5K-£10K, Blind 报告)
+  - **High Potential Individual (HPI) visa**: Confluent 接收已持 HPI 的中国 top 50 校友 (CSRankings 上 top 30 CS 学校), 不需要 sponsor 直接 hire
+  - **对中国应届生 friendliness 高** — Confluent 在伦敦 EMEA team 中国 / 印度 / 东欧员工比例较高
+- **薪资范围 (base, gross/年)**:
+  - **London New Grad SWE (L2)**: **£75K-£90K base + £30K-£50K RSU/年 (4-yr vest, 25-25-25-25) + ~10% bonus** ≈ **£115K-£145K total** (Levels.fyi US L2 $187K, EMEA 推算 60-70%)
+  - **Belfast / Madrid**: £55K-£70K / €55K-€68K base + RSU (低于 London 30-40%)
+  - **股权**: CFLT (Nasdaq) RSU, 4 年 vest 25% annually 或 3 年 33%; Initial grant New Grad ~$80K-$120K
+  - 加 ~6-8% pension match (UK), private health, £400/月 home office stipend
+  - 来源: Levels.fyi confluent (L2 entry-level data), Blind cflt 板块
+- **申请窗口**: **每年 8-10 月开放 New Grad SWE** (与北美同步), 11 月 - 次年 2 月面试, 3-5 月发 offer, 7-9 月入职; New Grad 名额一旦关闭基本无法重开
+- **面试流程差异 vs 实习**:
+  - 流程结构相同 (Recruiter → OA → Tech → Concurrency → System Design → HM), 但**实习版砍 1 轮 system design**, New Grad **全 5 轮 + Bar Raiser**
+  - **OA 难度上调** — 实习 LC medium, New Grad medium-hard, 偶有 hard (LC "Number of Atoms" / parser 类)
+  - **并发 / 系统编程轮难度加深** — 实习考线程安全 LRU, New Grad 要求 lock-free / wait-free 数据结构 + memory ordering (acquire/release semantics)
+  - **System Design 必考 Kafka 相关**: 设计 stream ingestion / config propagation / exactly-once / 跨 region replication; 实习生通常砍此轮
+  - 总流程 6-8 周 (实习 4-6 周)
+- **录取竞争**: London New Grad SWE 录取率 **~2-3%** (申请池 3,000-5,000/cohort), 分布式系统圈层声誉极高 (Kafka 原作者团队 prestige); **对中国学生 friendly 度高于 Canva, 与 Databricks 接近** — Confluent 全球 hire 文化 + UK Skilled Worker 路径成熟
+- **关键链接**:
+  - Confluent University Careers: https://www.confluent.io/careers/university/
+  - 全球 Career 入口 (筛 London + New Grad): https://www.confluent.io/careers/
+  - Levels.fyi Confluent SWE (含 L2 entry $187K US): https://www.levels.fyi/companies/confluent/salaries/software-engineer
+  - LeetCode Discuss Confluent: https://leetcode.com/discuss/interview-experience/?query=confluent
+  - Blind cflt 板块: https://www.teamblind.com/company/Confluent
+  - 1point3acres Confluent tag: https://www.1point3acres.com/bbs/tag/confluent-1495-1.html
+
+---
+
 ## 2. 实习岗位与方向
 
 | 岗位类别 | 主要团队 | 技术栈 |

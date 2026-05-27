@@ -21,6 +21,49 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐⭐ (Tech Graduate Program 官方信息完整, Berlin Junior SWE Glassdoor / Levels.fyi 数据中等)
+> 区别于实习: 全职 entry-level (0-2 年经验); 有结构化的 **Tech Graduate Program (TGP)** 入口 + 直接 Junior Engineer 入口两条线
+
+- **常见岗位名**: Junior Software Engineer、Junior Data Engineer / Analyst、Junior ML Engineer; **Tech Graduate Program (TGP)** 是命名最响亮的入口 — 6 个月结构化 graduate program (含 upskilling sessions / mentor / capstone), 满 6 个月后默认 convert 为 Junior Engineer
+- **欧洲地点**: 全职工程主要在 **Berlin Mitte HQ**; 其他欧洲品牌 (Talabat Dubai、foodpanda 亚太、PedidosYa 拉美) 是本地 entity 招聘, 走的不是 Berlin 流程; Junior SWE 在欧洲基本默认 Berlin
+- **是否有独立 Graduate Programme**: **Yes — Tech Graduate Program (TGP)**, 这是 11 家中少数几家有命名 grad scheme 的
+  - 6 个月全职, 春秋两批 (常见 March / September intake)
+  - 含 upskilling sessions、社交活动、mentorship、12 周 capstone 项目
+  - 资格: CS / DE 或相关 Bachelor / Master, 最多 **2 年工作经验**, 2 天/周 Berlin Mitte onsite
+  - 满 6 个月默认 convert 为 Junior Engineer (除非 performance fail)
+- **非EU签证 (全职)**:
+  - **EU Blue Card (Germany)**: TGP 全职 → Delivery Hero **会 sponsor Blue Card**, 提供 relocation budget; 2025 阈值 ~€45,300/年, TGP 起薪通常达标
+  - 与实习政策对比明显: 实习不 sponsor, 但 TGP 是海外 candidate 绕过实习签证卡点的最佳入口
+  - 招聘官在 recruiter call 会主动确认 visa / relocation 需求
+- **薪资范围 (base, gross/年)** (Glassdoor / Levels.fyi 2024-2025):
+  - **Berlin Tech Graduate Program**: base ~€55,000-65,000 (对标 Berlin Junior SWE)
+  - **Berlin Junior SWE (直接入口)**: base ~€55,000-68,000, TC ~€58k-72k (含 bonus, 通常无 RSU)
+  - **Berlin Mid-level SWE (1-2 yrs)**: base ~€68,000-85,000
+  - 福利: Pluxee benefits、餐券、内购食堂、健身房折扣、心理咨询、relocation budget (TGP / Junior 全职)
+  - 与 Zalando 相比稍低, 与 N26 接近, 远低于 Berlin 顶部 fintech (Trade Republic / Mollie)
+- **申请窗口**: **TGP 春秋两批** (常见 March / September cohort), 应用窗口提前 4-6 个月 (前一年秋 / 前一年春); 直接 Junior SWE req 是 rolling 全年
+- **面试流程差异 vs 实习**:
+  - 实习 / TGP 流程相似: 4 轮 (Recruiter → Engineer R1 live coding → Engineer R2 概念 → Senior Engineer behavioral)
+  - 全职 Junior SWE 比 TGP **多 1 轮 system design** (rate limiter / Kafka consumer / 缓存策略 / pagination)
+  - HM round 会问 1-2 年 career 规划
+  - 比 Zalando / Klarna 流程短 (2-4 周) — 是 Berlin 大厂中流程最友好的
+- **录取竞争**: DH 在巨头中是公认**门槛较低 + 流程友好 + 高 volume**; TGP 春秋两批每批约 20-40 人; 国际生 friendliness 较高 — TGP 是少数明确 sponsor 全职 grad 的 Berlin 项目, 印度 / 中国 / 土耳其 / 巴西 candidate 历史录取多; AdTech / Global Discovery / Q-Commerce / Fintech 是 2024-2025 hc 重点
+- **关键链接**:
+  - Tech Graduate Program 官方: https://careers.deliveryhero.com/tech-graduate-program
+  - TGP FAQ: https://careers.deliveryhero.com/tech-graduate-program-faqs
+  - Delivery Hero Jobs (全部 Junior + Mid): https://careers.deliveryhero.com/deliveryhero-jobs
+  - How We Hire: https://careers.deliveryhero.com/howwehire
+  - Glassdoor Delivery Hero Berlin Junior SWE: https://www.glassdoor.com/Interview/Delivery-Hero-Junior-Software-Engineer-Interview-Questions-EI_IE504556.0,13_KO14,38.htm
+  - Glassdoor DH Tech Graduate Program: https://www.glassdoor.com/Interview/Delivery-Hero-Graduate-Interview-Questions-EI_IE504556.0,13_KO14,22.htm
+  - Levels.fyi Delivery Hero Berlin: https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer
+  - Reddit r/cscareerquestionsEU TGP 讨论: https://www.reddit.com/r/cscareerquestionsEU/search/?q=delivery+hero
+
+---
+
 ## 2. 岗位画像
 
 ### 2.1 Software Engineering Intern

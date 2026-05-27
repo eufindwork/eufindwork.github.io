@@ -25,6 +25,48 @@
   - **SWE/Systems intern**: rolling, 但 11 月-2 月发岗位最密集
   - **AV (Munich)** team: 全年, 因为做长期项目
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐⭐ (Munich/Germany IC2 数据可考, UK/Helsinki IC1-2 数据点稀少;NCG 项目 EU 较弱无 cohort)
+> 区别于实习: 全职 entry-level **IC1 / IC2**, 永久合同 + 4 年 RSU 前置 vest (40/30/20/10, 与 Amazon backloaded 完全相反 — Nvidia 友好得多)
+
+- **常见岗位名**: **New College Graduate (NCG) Software Engineer** / NCG ASIC Design Engineer / NCG Deep Learning Engineer / System Software Engineer / Compiler Engineer / Architect (IC2)
+- **欧洲地点**: **Munich (AV/DRIVE + GPU 主力)** / Helsinki (System SW + DL Compiler) / **Cambridge UK (NVIDIA Research + Mellanox networking)** / 部分 Linköping SE / Berlin (Mellanox networking 小队) / Sofia BG (有 GPU verification)
+- **是否有独立 Graduate Programme**: **No (无结构化 cohort)** — Nvidia 用 **NCG (New College Graduate)** tag 标记 entry-level requisition, 但**没有 rotation, 没有 cohort training, 没有 graduate manager**。NCG 直接进 team, onboarding 由 hiring manager 个人决定。EU 没有等效 Amazon Pathways / Microsoft Aspire 的项目
+- **非EU签证 (全职)**:
+  - DE: **EU Blue Card** (€45,934 IT threshold, Munich IC2 €88K base 通过);Nvidia DE 不在 top Blue Card sponsor (体量不及 SAP/Siemens), 但 NCG sponsor 案例稳定 — 尤其 AV team
+  - FI: **Residence permit for an employee (TTOL)** 或 **EU Blue Card FI** (FI threshold €54,936/年, IC2 €88K 通过);**Helsinki 对国际 NCG 最友好** — Aalto / Helsinki Uni 毕业生稳定 join Nvidia, 转 permit 顺畅
+  - UK: **Skilled Worker visa** — Nvidia UK Ltd 是 sponsor, Cambridge NCG 主要走 Research / Networking, IC2 base £75K+ 通过
+  - 与实习区别: NG 是 Nvidia EU 主要 sponsor 入口, intern 几乎不单独 sponsor (要求 EU 学籍)
+- **薪资范围 (base, gross/年, IC2 entry-level)**:
+  | 城市 | Base | Stock (annual, 40/30/20/10 vest) | Bonus | Total Y1 (含 RSU 40%) | 来源 |
+  |------|------|----------------------------------|-------|---------------------|------|
+  | Munich | €88-92K (~$92K) | €40K avg | €0-€2.5K | **€121-133K total** | [Levels.fyi Nvidia Munich](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region), [Germany 综合](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany) |
+  | Helsinki | €70-85K base (估算, Levels.fyi 数据点 < 5) | €25K-€35K (NVDA 持股) | low | **€100K-€115K** | Glassdoor + Mellanox 历史数据 |
+  | Cambridge UK | £75K-£90K base (IC2 数据点稀, IC3 £95K+) | £40K-£50K RSU (1 年 vest 40%) | £2K | **£120K-£140K Y1** | [Levels.fyi Nvidia UK IC3](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom) |
+  - **关键: Nvidia RSU 前置 vest (40/30/20/10)** + AAPL 类似的股价持续上涨 → 实际 Y1 现金价值 **远高于 Amazon/Microsoft NCG**;股价 2023-2025 涨 5x 后, IC2 Munich 实际 4 年 package 可达 €600K-€800K 等值 (Blind 数据)
+  - **vs Google L3 Munich**: Nvidia IC2 €121K total ≈ Google L3 €131K total (相近);但 Nvidia RSU 前置 vest + 股价红利 → 实际到手通常**超过** Google L3
+- **申请窗口**: **Rolling, 全年开放**。**Research / DL intern → NCG** 是稳路径 (尤其 Cambridge Research, 几乎只通过 intern 转正)。秋招 (9-11 月) Munich AV team 大 batch, 因为德国 EE/CS 毕业季同步。Helsinki Tegra team 全年滚动 (HC 小但稳定)
+- **面试流程差异 vs 实习**:
+  - 轮数: 实习 HM + 2 tech → NCG **HM + 3-4 tech + final talk** (5-6 个 60min session)
+  - System / Architecture: NCG **强制 1 轮 computer architecture** (cache, pipelining, virtual memory deep dive), 实习 lite 版
+  - CUDA / GPU 编程: NCG 比 intern 更深问 — kernel 优化, memory hierarchy, warp scheduling (尤其 AV / DL Compiler team)
+  - C++ template / modern C++ (17/20): NCG 必考概念深度, 实习只问基础
+  - Bar Raiser 类机制: 无 (Nvidia 没有 Amazon-style Bar Raiser, 完全由 hiring manager 决定)
+- **录取竞争**: Munich AV team 中等难度 (Autonomous Driving 专业 talent pool 小, 反而比 Google/Meta NCG 容易);Cambridge Research NCG 极卷 (近乎 PhD only);Helsinki 最友好 (HC 小但 applicant 也少)。**国际生 friendliness**: ⭐⭐⭐⭐ (Helsinki 最友好, Munich/Cambridge 中等;Nvidia EU 整体 sponsor 态度比实习层级积极得多)
+- **关键链接**:
+  - 官方 University Recruiting: [https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
+  - 官方 Careers (用 NCG / location filter): [https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
+  - Levels.fyi Nvidia Munich SWE: [https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region)
+  - Levels.fyi Nvidia Germany SWE: [https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany)
+  - Levels.fyi Nvidia UK SWE: [https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom)
+  - JoinTaro Nvidia Munich SWE 2024 (intern, 流程参考 NCG): [https://www.jointaro.com/interviews/companies/nvidia/experiences/software-engineer-intern-munich-bavaria-march-1-2024-accepted-offer-positive-ef3cf632/](https://www.jointaro.com/interviews/companies/nvidia/experiences/software-engineer-intern-munich-bavaria-march-1-2024-accepted-offer-positive-ef3cf632/)
+  - 4dayweek Nvidia 流程: [https://4dayweek.io/interview-process/nvidia-interview](https://4dayweek.io/interview-process/nvidia-interview)
+
+---
+
 ## 2. 签证与国际学生政策
 
 ### Germany (Munich)

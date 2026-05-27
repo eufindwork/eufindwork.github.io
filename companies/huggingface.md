@@ -19,6 +19,37 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (HF 没有正式 "new grad" programme, 公开数据稀疏; 仅 Levels.fyi 一条 Paris L3 数据)
+> 区别于实习: 全职 entry-level (0-2 年经验) — HF 不打 "junior" 标签, 直接走 ML Engineer / Software Engineer / Research Engineer 的最低档
+
+- **常见岗位名**: ML Engineer, Software Engineer, Research Engineer (Open Source / Hub / Science), Backend Engineer; **无 "Junior" / "Graduate" / "L3" 显式 title** — 全部统称 "Engineer", 内部按经验定 level
+- **欧洲地点**: Paris (主力, 与实习一致) + Remote EMEA (大多数岗位都开 remote); London / Berlin / Amsterdam 等本地工程师以 contractor 形式合签
+- **是否有独立 Graduate Programme**: **No** — HF 是 ~350 人 OSS 小厂, 不跑 cohort-based grad pipeline; new grad 与有经验候选人**走同一条流程**, 用 OSS contribution 当 leveling 主信号
+- **非EU签证 (全职)**: Paris 全职岗 Hugging Face SAS 可办 Passeport Talent (salarié qualifié, base 需 ≥ €43,243/年 = 法定 SMIC × 1.8, HF base 远超); 对于 fully remote EMEA 岗, HF 通常以 contractor (Deel / Remote.com) 在你本国签合同, **不涉及签证 sponsor**; 这与实习走 carte de séjour étudiant + convention de stage 完全不同
+- **薪资范围 (base, gross/年)**:
+  - **Paris L3 (entry-level SWE)**: ~$91.9K total / **~$81.7K base** ≈ **€75-78K base** (Levels.fyi 1 数据点, 2026-05 更新) — 在 Paris 区**绝对顶档** (对比 Doctolib L3 ~€55K, Datadog L3 ~€60K)
+  - 远程其他 EMEA 城市: HF 公开声明 "adjusted to cost of living" — 同岗按城市浮动, Berlin / Amsterdam 估计 €70-80K base, 东欧 €45-55K
+  - 股权: ~$10K/年 RSU equivalent (Levels.fyi 同条目); 但 HF 未上市, equity 价值取决 IPO / 下一轮估值
+- **申请窗口**: rolling — 不像 intern cohort 那样集中宣布; Workable 招聘页常年挂着 5-15 个 full-time 岗
+- **面试流程差异 vs 实习**:
+  - 流程**与实习几乎一致** (recruiter → take-home → review call → team fit); 但 take-home 难度更高 (实习是 "做一个 Spaces demo", 全职是 "在主仓 fix 一个真实 issue 或新增 model 集成 PR")
+  - **OSS contribution 权重比实习还重** — 全职 hire 几乎要求你**已经是 HF 生态的 contributor** (transformers / diffusers / datasets / accelerate / peft / trl 主仓有 merged PR)
+  - 不考 LeetCode, 不考系统设计白板; **paper bar 低于 Mistral / Cohere Research** (Science Team 例外)
+  - Research Engineer 岗会问最近一两篇 HF science blog / 论文 (FineWeb, SmolLM, Idefics 等)
+- **录取竞争**: bar 高但**国际生 friendly** — HF 招聘描述反复强调欢迎 underrepresented, 学校牌子无权重, **OSS 是硬通货**; 一个 contributions tab 全绿的二线学校 new grad > 清北无 OSS 的; 实际 hire rate 极低 (公司规模小, 全年 full-time hire 量估计 < 50)
+- **关键链接**:
+  - 官方 careers 页: [apply.workable.com/huggingface](https://apply.workable.com/huggingface/)
+  - Levels.fyi 入门级数据: [Hugging Face SWE Paris](https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area)
+  - HF Recruiter AMA (Emily Witko): [discuss.huggingface.co - AMA](https://discuss.huggingface.co/t/ama-with-emily-witko-hf-recruiter/18076)
+  - Glassdoor HF Paris salaries: [Glassdoor HF Paris](https://www.glassdoor.com/Salary/Hugging-Face-Paris-Salaries-EI_IE6487302.0,12_IL.13,18_IC2881970.htm)
+  - r/MachineLearning HF hiring 讨论: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/search/?q=hugging+face+hiring&restrict_sr=on)
+
+---
+
 ## 2. 实习岗位类型
 
 HF 每年都有 dedicated intern cohort, 通常一次性宣布 (见 [huggingface.co/blog/interns-2023](https://huggingface.co/blog/interns-2023) 等). 类型横跨多个团队:

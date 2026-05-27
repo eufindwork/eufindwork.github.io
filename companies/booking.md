@@ -24,6 +24,46 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> 信息丰富度: ⭐⭐⭐⭐ (Compass Graduate Programme 官方页 + Levels.fyi Booking.com 全 level entries + Glassdoor 数据齐全; 注意官方页只透露 duration + rotation 数, 不公开薪资 / sponsorship 细节)
+> 区别于实习: 实习是 9 周 summer 且强制 "Dutch University enrolled", Compass Grad 是**全职 12 个月轮岗 + permanent 留任**, 接收 2025 / 2026 毕业的全球候选人, 不限 Dutch uni; 这是国际生绕开实习 "NL 大学"门槛的核心路径
+
+- **常见岗位名**: **Booking.com Compass Software Engineering Graduate Programme** (Amsterdam HQ); 并行 track 有 **Compass Data Science & Analytics Graduate Programme** (Amsterdam) / **Compass SE Graduate Manchester** / **Compass SE Graduate Shanghai** — 官方早期人才入口列出的 4 个 grad track 名额 [来源 (实际打开过): https://careers.booking.com/early-careers/]
+- **欧洲地点**: **Amsterdam (Oosterdokseiland HQ)** + **Manchester (UK)** 两个欧洲 grad 名额; Shanghai 是亚洲 sister cohort。实习只在 Amsterdam, grad 在 Manchester 是 extra option (Manchester 项目结构与 Amsterdam 完全一致) [来源 (实际打开过): https://careers.booking.com/booking-com-compass-software-engineering-graduate-programme-2/]
+- **是否有独立 Graduate Programme**: **Yes — Compass SE Graduate Programme**, 官方明确为 **12 个月 rotational programme** (注: 不是 18-24 个月; 旧资料过时), 含 **2 次 rotation** (within engineering business unit; 过往 cohort 覆盖 Frontend / Backend / Flights / Design Systems / Core Platforms 等), 配 dedicated mentor + onboarding bootcamp, **完成后 offer permanent role** (Booking 原文: "you'll get help leveling up with an offer of a permanent role") [来源 (实际打开过): https://careers.booking.com/booking-com-compass-se/]
+- **非EU签证 (全职)**:
+  - Booking 是荷兰 IND 顶级 Recognised Sponsor (多年 HSM 处理经验, 全公司中国 / 印度 / 北美应届占比高), Compass Grad SWE 走 **Highly Skilled Migrant (Kennismigrant)**
+  - 2026 IND 门槛: **< 30 岁 €4,357/月 gross (≈€52.3K/年, excl. 8% holiday)**, ≥30 岁 €5,942/月 gross (≈€71.3K/年) [来源: https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-sponsor]; Compass Grad 起薪 (见下) 100% 符合 < 30 岁档
+  - 提供 full relocation: 单程机票 + 30 天 managed corporate apartment + 银行/BSN 协助 + visa 申请 (实习也提供机票 + 30 天住宿, 但仅限 EEA work rights 学生)
+  - **30% ruling**: 2024 起规则收紧 (5 年期, 比例 30%→27%→20%→15% 阶梯下调, 2027 起新规进一步收紧), Compass Grad 若 base + 海外招聘 + 居住地 ≥150 km from NL border 三条件齐全可申, 实习生不适用
+  - 官方 Compass SE Amsterdam 页**没有 explicit 公开声明 visa sponsorship**, 但 Compass 项目历来招国际 cohort, 配合 Booking IND sponsor 资质实操可申
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam Compass Grad SWE (Level E)**: **base ≈ $78.6K USD ≈ €72-73K + bonus $1.2K + stock $0; total ≈ €74K** (Levels.fyi 2026-05 最新 Booking.com 全 level entry, Level E = junior 起薪点) [来源 (实际打开过): https://www.levels.fyi/companies/bookingcom/salaries/software-engineer]
+  - **Level F (Software Engineer I, Grad 转正后第 1 档)**: base ≈ $110K ($101K USD ≈ €94K) + $13K stock + $11.6K bonus = total ≈ €125K — 即从 Grad 进入 permanent 后年薪跳一大档
+  - **全公司 NL Software Engineer range**: €68.7K (Level E) – €225K (Level H), median €140K
+  - **股权**: 父公司 BKNG (Nasdaq); Level E Grad **没有 RSU** (Levels.fyi $0 stock 确认), Level F 起每年 ~$13K 起步, senior 后才有显著 stock plan
+  - 加 8% holiday allowance + Booking 14-month 制 + 年终 bonus 5-10%
+  - 注: 旧版本写 "€60-70K base" 是低估; **2026 Levels.fyi 直读 base 是 €72-73K**
+- **申请窗口**: **2026 cycle 应用窗口 2026 年 1 月开放** (官方明确); 入职 2026 年 9 月; 2026 当前申请已 closed (status: "Applications closed"), 关注 2027 cohort 2027-01 开放 [来源 (实际打开过): https://careers.booking.com/early-careers/]
+- **面试流程差异 vs 实习**:
+  - 4-stage 标准流程: **CV submission → Technical at-home test → Recruiter phone interview → in-person Assessment Centre Day** (与实习的 HackerRank OA + 多轮分散面试模式相比, Assessment Day 更集中)
+  - **System Design 必考** (Booking 经典: 设计 hotel ranking / pricing experiment platform / fraud detection)
+  - **48 小时 Case Study + 现场 presentation** 权重对 Grad 更高 — Programme 培养跨 PM / DS / Eng 复合人才, 商业 sense 是硬筛选项
+  - **A/B testing 必考**: power, significance, MDE, novelty effect, network effect, peeking
+- **录取竞争**: 没有官方公开 application volume; 业内估算全球申请池数千级, 录取率个位数百分比 (与实习 < 8% 同档或更低)。国际生友好但 GPA top 10% + 至少一段技术实习 + 流利英语是隐性门槛
+- **关键链接**:
+  - Compass SE Grad Amsterdam 官方页 (实际打开过, 12 个月 / 2 rotation / Sept 2026 start / Jan 2026 open): https://careers.booking.com/booking-com-compass-se/
+  - Compass SE Grad Manchester (实际打开过, 同样 12 月 / 同样结构): https://careers.booking.com/booking-com-compass-software-engineering-graduate-programme-2/
+  - Compass DS & Analytics Grad Amsterdam: https://careers.booking.com/booking-com-compass-ds/
+  - 早期人才入口 (实际打开过, 列出 5 个 Compass track): https://careers.booking.com/early-careers/
+  - 早期人才邮箱: graduates@booking.com
+  - Levels.fyi Booking.com SWE 全 level (实际打开过, Level E = $78.6K base): https://www.levels.fyi/companies/bookingcom/salaries/software-engineer
+  - TechPays NL Booking 数据: https://techpays.com/europe/netherlands/booking-com/amsterdam
+  - 1point3acres Booking tag: https://www.1point3acres.com/bbs/tag/booking-1427-1.html
+
+---
+
 ## 2. 签证与国际学生政策
 
 - **关键限制**: 2025/2026 的 Amsterdam SWE Internship **明确要求 "enrolled in a Dutch University" + "right to work in EEA"**

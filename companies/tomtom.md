@@ -25,6 +25,49 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (TomTom 自 2023 年战略收缩后 grad 通道大幅压缩, 公开数据偏稀薄; 主要靠 Levels.fyi + LinkedIn + Glassdoor 拼凑)
+> 区别于实习: 实习路径轻量 + 不办签证; **Junior / Graduate Engineer 全职** 走 Kennismigrant + 30% ruling, 但 hiring freeze 让 NL HQ 名额极少, Łódź / Berlin 更现实
+
+- **常见岗位名**: **Junior Software Engineer** / **Junior Map Data Engineer** / **Junior Backend Engineer**; 也偶有 **Graduate Software Engineer** (Łódź / Berlin 出现概率更高); **没有独立 Graduate Programme 品牌** — TomTom 不办 cohort scheme, 全职 entry-level 走标准招聘
+- **欧洲地点**:
+  - **Amsterdam (HQ)**: 因 2023-2024 裁员压力, 新 grad 名额**显著缩减**, 主要保留 senior / staff 招聘
+  - **Łódź (PL)**: TomTom 最大 EU 工程 hub (1000+ 工程师), Junior / Grad 名额最多; 招地图算法 / data engineering / SDK 全栈
+  - **Berlin (DE)**: 部分软件岗 (HD Maps / Automotive SDK), Junior 偶有
+  - **Madrid (ES)**: Data Scientist Junior 较多
+  - **Belgrade (RS)**: 接收非 EU 学生本地申请
+- **是否有独立 Graduate Programme**: **No** — TomTom 历史上有过 "Map Specialist Trainee Programme" 但 2023 后取消; 当前没有公开 cohort-based grad scheme
+- **非EU签证 (全职)**:
+  - TomTom International B.V. 仍是 IND **Recognised Sponsor**, 但实操中**仅对 senior 优先 sponsor** — Glassdoor 多份反馈 "currently only able to interview candidates who hold a visa that doesn't require sponsorship" 这条限制延续到 junior 全职
+  - **Łódź (PL)** 是 visa 最 friendly 的路径 — 波兰 Blue Card 工资门槛低 (~PLN 95K/年 ≈ €22K), 中国应届生通过率最高
+  - Berlin: EU Blue Card 工资门槛 2026 ~€48K (一般 IT) 或 €43K (shortage occupation)
+  - **30% ruling (Amsterdam)**: Junior base 通常**勉强达到 < 30 岁门槛**, 但因 hiring freeze 实际 spot 极少
+- **薪资范围 (base, gross/年)**:
+  - **Amsterdam Junior SWE**: **€60.8K-€70.7K base** (Levels.fyi entry-level 数据), **没有 RSU**, 仅 senior 有少量 bonus
+  - **Łódź (PL) Junior SWE**: PLN 100K-140K base (~€23K-€33K), 加 ~10% bonus; 当地中位数偏上但 vs NL 低
+  - **Berlin Junior SWE**: €55K-€65K base
+  - **股权**: TOM2 (Euronext) 股票池极小, Junior 完全没有 RSU, senior 偶有 long-term incentive plan
+  - 加 8% holiday allowance (NL) / 13 个月 (PL 部分合同)
+  - 来源: Levels.fyi tomtom (€60.8K-€115K range), Glassdoor PL 数据
+- **申请窗口**: rolling year-round 通过 Lever ATS, 但实际**新 grad 名额发布频率极低** — 2024-2025 每月 Amsterdam Junior SWE 公开岗 < 2 个; Łódź 较稳定每月 5-10 个 Junior 岗位
+- **面试流程差异 vs 实习**:
+  - 流程结构与实习几乎一致 (Recruiter → Optional OA → Tech 1h → Manager → Offer), 仅**总长拉长到 5-7 周** (实习 4-6 周)
+  - **新增 architecture / design 轮** (45 min, 中等深度, 不到 system design level)
+  - Behavioral 部分对 TomTom 5 leadership behaviors 考察加深
+- **录取竞争**: 因 hiring freeze + 公司业务收缩, 实际竞争**比报名数据看起来更激烈** — Amsterdam Junior 录取率 ~3-5% (低于公司表面体量预期); Łódź 较宽松 ~10-15%; **国际生 friendliness 整体低** — TomTom 战略保守, sponsor 意愿不强
+- **关键链接**:
+  - TomTom Career 官方入口 (Junior 筛选): https://www.tomtom.com/careers/
+  - Lever ATS 直链: https://jobs.lever.co/tomtom
+  - Levels.fyi TomTom (€60.8K-€115K): https://www.levels.fyi/companies/tomtom/salaries/software-engineer
+  - Glassdoor 面经 (含 Junior 流程): https://www.glassdoor.com/Interview/TomTom-Interview-Questions-E13632.htm
+  - LinkedIn TomTom Junior jobs: https://www.linkedin.com/company/tomtom/jobs/?keywords=junior
+  - 2024-2025 裁员报道: https://nltimes.nl/2024/09/26/tomtom-cut-300-jobs-shift-towards-ai
+
+---
+
 ## 2. 签证与国际学生政策
 
 - **关键限制 (Glassdoor 多份报告)**: **"TomTom is currently only able to interview candidates who hold a visa that doesn't require sponsorship"**

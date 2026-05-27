@@ -14,6 +14,45 @@
 | 实习时长 | 暂无公开标准 cohort |
 | 申请窗口 | **无固定窗口** — 偶发性招聘,关注官方 careers 页 |
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐ (信息极度匮乏 — 公司动荡后无公开 grad pipeline, Levels.fyi 零 London 数据, Glassdoor 仅 senior 样本)
+> 区别于实习: 全职 entry-level (0-2 年经验) — Stability AI 几乎不直接招 junior, 极偏向 PhD + 2-5 年经验 ML / Research Engineer
+
+- **常见岗位名**: Research Engineer, Research Scientist, ML Engineer, Software Engineer; **几乎不出现 "Junior" / "Graduate" / "Entry-level" title**; 内部分级不公开
+- **欧洲地点**: London (核心研究 + 工程, 与实习一致); 部分 fully remote (UK / EMEA); 救火后无明确扩张计划
+- **是否有独立 Graduate Programme**: **No** — Stability AI 救火后体量小 (估计 100-150 人), 招聘谨慎; 无 cohort, 无 grad pipeline; 实习偶发, 全职 junior 更偶发
+- **非EU签证 (全职)**:
+  - **Stability AI Ltd** 是英国 **Skilled Worker 持牌 sponsor** (Home Office register 确认), 理论可发 CoS; 但 2024 裁员 + 财务紧, **实际 new grad sponsor case 几乎零公开报告**
+  - 全职 base 需 ≥ £38,700 (Skilled Worker 2024 新规); Stability ML Engineer base 应能达标但需 case-by-case
+  - 与实习 (Student Visa) 不同, 全职稳定性低 (公司风险)
+- **薪资范围 (base, gross/年)**:
+  - **London ML Engineer entry-level** (估计): **£60-85K base** — 救火后预算谨慎, **低于 Cohere / DeepMind / Anthropic London 同级 30-40%**; Glassdoor 仅有 senior 样本 (£100-140K), 入门级**无公开数据点**
+  - **Research Engineer / Scientist** (PhD): £80-110K base, 接近 Cohere 但低于 Anthropic; 顶尖 PhD 可议价
+  - Equity: 救火后估值跌至 ~$1B, 早期 equity 已大幅缩水; 新 hire grant 较小
+  - **警示**: 2024-04 裁员 10% 后, 薪资透明度更低; 主动 outreach 才能知道实际数字
+- **申请窗口**: rolling 但**极度稀疏** — careers 页常年仅 5-15 岗, 偶有 1-2 个开放给 entry-level; 关注 LinkedIn 现员工 outreach 比官网申请更高效
+- **面试流程差异 vs 实习**:
+  - 流程相对短 (3-4 轮) — 公司体量小, Hiring Manager 直接决策权大
+  - **Paper bar 高** (Research 岗): NeurIPS / ICCV / CVPR / SIGGRAPH 顶会论文是硬门槛; Diffusion / Flow Matching / Generative model 方向尤甚
+  - **OSS 权重**: 在 CompVis / diffusers / Stable Diffusion fork 有 substantial PR 是巨大加分
+  - Coding bar 低于 Cohere (不强调 LeetCode), 重 PyTorch 实战 + diffusion 内部机制
+  - System design 偶尔出现 (大规模 inference / 推理优化方向)
+- **录取竞争**:
+  - bar 极高 (PhD + 论文 + 公司挑剔), 但**申请量也小** (公司动荡致候选人观望); 实际 net 难度可能低于 Cohere/DeepMind
+  - **国际生**: 理论 OK 但实操不确定, sponsor 决心存疑
+  - **风险溢价大**: 即使拿到 offer, 公司财务 + 留存 + 转正 + 长期签证 sponsor 都是问号; 应**优先 DeepMind/Cohere/Anthropic**, Stability 当备选
+- **关键链接**:
+  - 官方 careers 页: [stability.ai/careers](https://stability.ai/careers)
+  - Built In London Stability AI: [builtinlondon.uk/company/stability-ai/jobs](https://builtinlondon.uk/company/stability-ai/jobs)
+  - LinkedIn Stability AI Page: [linkedin.com/company/stability-ai](https://www.linkedin.com/company/stability-ai/)
+  - r/MachineLearning Stability 讨论: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/search/?q=stability+ai)
+  - **公开 grad / junior 面经**: **零** — 中英文社区均无可考记录; 建议主动 LinkedIn outreach 现员工
+
+---
+
 ## 2. 2024-2025 公司状态时间线
 
 | 日期 | 事件 |

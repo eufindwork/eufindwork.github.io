@@ -18,6 +18,44 @@
 
 ---
 
+## New Grad / Junior 岗位
+
+> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+
+> 信息丰富度: ⭐⭐ (Deezer 整体规模小 + 财务承压 + 公开 Junior 数据稀少; Glassdoor 主要是实习 / mid 数据, Levels.fyi 样本极小)
+> 区别于实习: 全职 entry-level (0-2 年经验); Deezer 没有命名 graduate programme, 主要是实习/Master Thesis 转正 + 直接 Junior CDI 两条线; 法语能力比实习要求更高
+
+- **常见岗位名**: Software Engineer (Junior / Associate)、Backend Engineer (Junior)、Data Engineer (Junior)、Research Engineer (Deezer Research); 招聘页 JD 通常英文写, 但内部 standup / code review 法语权重高于 Criteo
+- **欧洲地点**: 工程几乎全部在 **Paris (12 rue d'Athènes, 9 区)**; 没有其他欧洲 tech hub; Junior SWE 默认 Paris onsite/hybrid (2-3 天 office)
+- **是否有独立 Graduate Programme**: **No** — Deezer 规模小 (~600 员工, 工程 ~100-200), 没有 graduate scheme; Master Thesis / 6 个月 stage de fin d'études → Junior CDI 是最常见 new grad 通道
+- **非EU签证 (全职)**:
+  - **France Passeport Talent (Salarié Qualifié)**: 月薪 ≥ 2x SMIC (~€3,494/月) 应届 SWE 通常达标; Deezer 偶尔 sponsor, 但**显著不如 Criteo 主动** — 财务承压期 sponsor 决策慢
+  - **APS (Autorisation Provisoire de Séjour)**: M2 法国毕业 12 + 24 个月找工作, 是中国 / 印度 candidate 进入 Deezer 的主路径
+  - 实习不 sponsor, 全职偶尔 sponsor (但需要 candidate 明显 strong + 团队有 hc)
+- **薪资范围 (base, gross/年)** (Levels.fyi / Glassdoor 2024-2025, 样本小):
+  - **Paris Junior SWE (CDI)**: base ~€42,000-52,000, +bonus 0-5% (Deezer 财务承压, RSU 价值低)
+  - **Paris Mid SWE (1-3 yrs)**: base ~€50,000-65,000
+  - **Paris Senior SWE**: Levels.fyi 中位 €56.4k - €80.9k+ (Lead)
+  - 显著低于 Criteo Junior (~€48-60k base) 和 Mistral (~€78k+)
+  - 福利: 1 天/月 paid leave (intern + 全职)、titre-restaurant、Navigo 50%、Deezer Premium 免费、灵活 hybrid (2-3 天 office)
+- **申请窗口**: **Rolling 全年滚动**; **hc 因财务波动大** — 2023-2024 有 layoff 阴影, 2025 投之前确认招聘页 active; 论文实习 → CDI 转正窗口最稳, 直接外招 Junior CDI 不稳定
+- **面试流程差异 vs 实习**:
+  - 实习 5 轮 (HR → 团队 → onsite → take-home → final), 全职 **流程类似但增加 1 轮 system design + 1 轮 architecture deep-dive**
+  - **法语水平面试中被测试**: 实习可以全英面, 全职 HR + 1-2 个 team round 通常法语进行 (除非明确 international team)
+  - Take-home 答辩深度上升: 全职会被追问 production-level 设计 + scaling + monitoring
+  - Deezer Research 全职 (Research Engineer / Scientist) 需要 publication 或 PhD 在读, 流程加一轮 research presentation
+- **录取竞争**: 因 hc 波动大, 录取数量逐年下降; 国际生 friendliness 中等偏低 — 法语门槛 + sponsor 不积极使 Paris 国际 candidate 通常优先选 Criteo / Doctolib / BlaBlaCar 而非 Deezer; 音乐 / audio / RecSys 热情是 Deezer 招聘的隐藏权重
+- **关键链接**:
+  - Deezer Jobs 官方: https://www.deezerjobs.com/en/jobs/
+  - Welcome to the Jungle Deezer: https://www.welcometothejungle.com/en/companies/deezer/jobs
+  - Glassdoor Deezer Paris Interviews: https://www.glassdoor.com/Interview/Deezer-Paris-Interview-Questions-EI_IE786653.0,6_IL.7,12_IM1080.htm
+  - Levels.fyi Deezer France SWE: https://www.levels.fyi/fr-fr/companies/deezer/salaries/software-engineer
+  - Deezer Research (全职 Research 入口): https://research.deezer.com/
+  - Deezer I/O Blog (技术博客, 了解团队动态): https://deezer.io/
+  - Hellowork Deezer CDI: https://www.hellowork.com/fr-fr/entreprises/deezer-91682/contrat_cdi.html
+
+---
+
 ## 2. 实习岗位类型
 
 | 岗位 | 团队 | 关键词 |
