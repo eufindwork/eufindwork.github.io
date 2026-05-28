@@ -44,3 +44,25 @@
   - [Cohere](/companies/cohere.md)
   - [Stability AI](/companies/stabilityai.md)
   - [Alan](/companies/alan.md)
+
+- **🧮 量化金融 — 做市商 (Market Makers)**
+  - [Jane Street](/companies/janestreet.md)
+  - [Optiver](/companies/optiver.md)
+  - [IMC Trading](/companies/imc.md)
+  - [Citadel / Citadel Securities](/companies/citadel.md)
+  - [HRT (Hudson River Trading)](/companies/hrt.md)
+  - [Jump Trading](/companies/jumptrading.md)
+  - [XTX Markets](/companies/xtxmarkets.md)
+  - [DRW](/companies/drw.md)
+  - [Flow Traders](/companies/flowtraders.md)
+  - [SIG (Susquehanna)](/companies/sig.md)
+  - [Akuna Capital](/companies/akuna.md)
+
+- **🧮 量化金融 — 对冲基金 / Systematic Fund**
+  - [G-Research](/companies/gresearch.md)
+  - [Two Sigma](/companies/twosigma.md)
+  - [Man Group / AHL](/companies/mangroup.md)
+  - [D.E. Shaw](/companies/deshaw.md)
+  - [Millennium](/companies/millennium.md)
+  - [QRT (Qube Research)](/companies/qrt.md)
+  - [Squarepoint Capital](/companies/squarepoint.md)
