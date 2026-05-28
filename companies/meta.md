@@ -37,28 +37,27 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
-
-> 信息丰富度: ⭐⭐⭐ (London E3 数据扎实, Dublin/Paris/Amsterdam 工程 NG 数据稀薄)
-> 区别于实习: 全职 entry-level **E3 级别** (Meta 第一个 IC level), 永久合同 + 完整 RSU (4 年 vest)
+> 信息丰富度: ⭐⭐⭐⭐ (London E3 Levels.fyi 2026-05 直读数据扎实, Dublin/Paris/Amsterdam 工程 NG 数据仍稀薄)
+> 区别于实习: 全职 entry-level **E3 级别** (Meta 第一个 IC level), 永久合同 + 完整 RSU (4 年 vest, 25% per year)
 
 - **常见岗位名**: Software Engineer, University Grad (E3) / Production Engineer, University Grad / Research Scientist (PhD) / Data Scientist (Analytics) — Meta 公开招聘页用 "University Grad" tag 区分 entry-level vs 经验岗
 - **欧洲地点**: **London (主)** / Dublin (PE + Infra) / Paris (FAIR + AI infra) — Amsterdam **基本不招 SWE NG** (商业岗为主),Zurich 偶有 FAIR Research Scientist NG (PhD only)
-- **是否有独立 Graduate Programme**: **No** — Meta 全球没有结构化 graduate rotation。**"Meta University"** 是面向 underrepresented 学生的 8-10 周本科 summer intern 项目 (US 为主, 不是 FT NG),不要混淆。E3 NG 入职后 6 周 "Bootcamp" (在 London / Menlo Park) 是 onboarding 而非 graduate program
+- **是否有独立 Graduate Programme**: **No** — Meta 全球没有结构化 graduate rotation。**"Meta University"** 是面向 underrepresented 学生的本科 summer intern 项目 (US 为主, 不是 FT NG),不要混淆。E3 NG 入职后 6 周 "Engineering Bootcamp" (London / Menlo Park) 是 onboarding 而非 graduate program。2026 cycle FT University Grad applications 通常 8-9 月开放, 2027 start dates [来源 (实际打开过): https://www.extern.com/post/faang-internship-guide-2026]
 - **非EU签证 (全职)**:
-  - UK: **Skilled Worker visa** — Meta UK 是注册 sponsor,E3 base £80K+ 远超 £38,700 threshold,sponsor 几乎自动批
-  - IE: **Critical Skills Employment Permit** (SWE 在 IE shortage list),Meta Dublin 在 IE 是 top sponsor 之一
+  - UK: **Skilled Worker visa** — Meta UK 是注册 sponsor;E3 base £100K 远超 2026 general threshold £41,700 + SOC 2134 going rate ~£49,400 [来源 (实际打开过): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide],sponsor 几乎自动批
+  - IE: **Critical Skills Employment Permit** (SWE 在 IE shortage list),Meta Dublin 是 IE top sponsor 之一
   - FR: **Passeport Talent** (Salarié Qualifié),Meta Paris 用此通道
   - 与实习区别: NG 走永久工签 (5 年 + 永居路径),intern 走 Tier 5 GAE / 学生签证 (短期, 不积累永居)
-- **薪资范围 (base, gross/年, E3 entry-level)**:
-  | 城市 | Base | Total Comp (含 RSU + bonus) | 来源 |
-  |------|------|----------------------------|------|
-  | London | £80K (~$100K) base | £95K-£127K (range £95.4K-£1.3M E3-E8) | [Levels.fyi Meta E3 London](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
-  | Dublin | €80K-€95K base (估算, 数据点少) | €100K-€130K | 间接 Glassdoor + 1point3acres |
-  | Paris | €60K-€75K base | €85K-€110K | 间接 (TechPays + 1point3acres) |
-  - **Signing bonus**: London E3 historically $20K-$40K (Blind 数据);**RSU refresh**: Meta 高于 Google/Amazon, E3 → E4 promo 后 refresh 显著
-  - **London E3 vs Google L3**: Meta E3 base ~£80K vs Google L3 base £116K — **Google base 明显高**,但 Meta RSU 增长曲线更陡 (E4 跳跃后总包反超)
-- **申请窗口**: **Rolling** + 秋招 (8-10 月) + 春招 (1-3 月)。Meta 倾向 University Grad 在毕业前 6-9 个月锁定。**Return offer (实习转 NG) 是主路径** — 2024-2025 conversion 率 ~40-50% (vs 2022 ~70%, Blind 数据)。海外应届直申 EU FT 几率显著低于 return
+- **薪资范围 (base, gross/年, E3 entry-level, 2026-05 Levels.fyi 直读)**:
+  | 城市 | Base | Stock (annual) | Bonus | Total Comp | 来源 |
+  |------|------|---------------|-------|-----------|------|
+  | London | **£78.3K (~$100.2K)** | £18.3K | £3K | **£94.7K - £127.4K range** (avg £127K) | [Levels.fyi Meta E3 London (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
+  | UK 整体 E3 | £82.7K base 中位 | £19K-£23K | £3K-£4K | £82.7K - £114K | [Levels.fyi Meta E3 UK (搜索结果)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/united-kingdom) |
+  | Dublin | €80K-€95K base (估算, 数据点 < 5) | ~€20K | low | €100K-€130K | 间接 Glassdoor + 1point3acres |
+  | Paris | €60K-€75K base | €15K-€20K | low | €85K-€110K | 间接 (TechPays + 1point3acres) |
+  - **Signing bonus**: London E3 historically $20K-$40K (Blind 数据);**RSU refresh**: Meta 高于 Google/Amazon, E3 → E4 promo 后 refresh 显著。Meta 全 UK SWE range £95.4K - £1.3M+ (E3-E8) [来源 (实际打开过): https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom]
+  - **London E3 vs Google L3**: Meta E3 base £78.3K vs Google L3 base £116K — **Google base 明显高**,但 Meta RSU 增长曲线更陡 (E4 跳跃后总包反超)
+- **申请窗口**: **Rolling** + 秋招 (8-9 月开放 2027 start) + 春招 (1-3 月)。Meta 倾向 University Grad 在毕业前 6-9 个月锁定。**Return offer (实习转 NG) 是主路径** — 2024-2025 conversion 率 ~40-50% (vs 2022 ~70%, Blind 数据)。海外应届直申 EU FT 几率显著低于 return [来源 (实际打开过): https://www.extern.com/post/faang-internship-guide-2026]
 - **面试流程差异 vs 实习**:
   - 轮数: 实习 1 tech round → NG **5 rounds** (2 coding + 1 **system design** + 1 behavioral + 1 hiring manager/team match)
   - System design: NG 强制有 1 轮 45 min (e.g., design Newsfeed / Notification),intern 没有
@@ -68,8 +67,9 @@
 - **关键链接**:
   - 官方 University & Grad: [https://www.metacareers.com/careerprograms/students](https://www.metacareers.com/careerprograms/students)
   - Meta Careers Jobs (Early Career filter): [https://www.metacareers.com/jobs](https://www.metacareers.com/jobs)
-  - Levels.fyi Meta E3 London: [https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area)
-  - Levels.fyi Meta London 综合: [https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/london-metro-area)
+  - Levels.fyi Meta E3 London (实际打开过): [https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area)
+  - Levels.fyi Meta UK SWE 综合 (实际打开过): [https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom)
+  - Extern FAANG Internship Guide 2026 (实际打开过): [https://www.extern.com/post/faang-internship-guide-2026](https://www.extern.com/post/faang-internship-guide-2026)
   - 1point3acres Meta 25 NG SDE 伦敦: [https://www.1point3acres.com/bbs/thread-1096596-1-1.html](https://www.1point3acres.com/bbs/thread-1096596-1-1.html)
   - 1point3acres Meta NG SWE 伦敦 team match: [https://www.1point3acres.com/bbs/thread-1074805-1-1.html](https://www.1point3acres.com/bbs/thread-1074805-1-1.html)
   - 1point3acres Meta DSA London 选组: [https://www.1point3acres.com/bbs/thread-1129134-1-1.html](https://www.1point3acres.com/bbs/thread-1129134-1-1.html)
@@ -287,3 +287,12 @@ PE intern 评价: "题目比 SWE 简单,但 systems 深度要求高,死记 Linux
 - [LeverageEdu - 8 Best Companies UK Visa Sponsorship](https://leverageedu.com/explore/visa/best-companies-for-visa-sponsorship-uk/)
 - [DavidsonMorris - UK Internship Visa Options](https://www.davidsonmorris.com/internship-visa-uk/)
 - [Internvisa.com - Sponsorship for UK Work Permit](https://www.internvisa.com/interns)
+- [Jobbatical - UK Skilled Worker 2026 Salary Threshold (实际打开过)](https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide)
+
+### NG / 2026 cycle 新增 web 验证源
+- [Levels.fyi Meta E3 London 直读 (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area)
+- [Levels.fyi Meta UK SWE 综合 (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom)
+- [Extern - FAANG Internship Guide 2026 (实际打开过)](https://www.extern.com/post/faang-internship-guide-2026)
+- [LeonStaff - Meta SWE Salary 2026 Breakdown (实际打开过)](https://leonstaff.com/blogs/meta-software-engineer-salary-2026/)
+- [GetSmartResume - Meta University & Rotational Programs 2027 (搜索结果)](https://www.getsmartresume.com/article/meta-university-grad-guide)
+- [TheSalaryNegotiator - Meta SWE Salary by Level & Location (搜索结果)](https://www.thesalarynegotiator.com/meta-software-engineer-salary)

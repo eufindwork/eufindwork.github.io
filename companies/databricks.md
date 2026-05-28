@@ -28,12 +28,10 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
-
-> 信息丰富度: ⭐⭐⭐⭐ (Databricks New Grad SDE 是欧洲最炙手可热的 entry-level offer 之一; LeetCode + Blind + 1point3acres + Levels.fyi 面经丰富, 但 Amsterdam-specific 数据相对北美少一些)
+> 信息丰富度: ⭐⭐⭐⭐ (Databricks New Grad SDE 是欧洲最炙手可热的 entry-level offer 之一; Levels.fyi Greater Amsterdam L3 直读数据 + Blind RSU 讨论 + IPO 准备最新动态完整)
 > 区别于实习: 实习 12 周 + 优先 NL 院校 / EU 学生; **New Grad SWE** 全职 Kennismigrant + 30% ruling, 国际生全方位 sponsor
 
-- **常见岗位名**: **Software Engineer (New Grad) — University Graduate** / **Software Engineer, IC1** / **SWE I**; Databricks 内部 level **IC1 = New Grad (0 yr)**, **IC2 = Junior (1-2 yr)**; 没有专门 "Graduate Programme" 品牌, 走标准 SWE + new-grad 蓄水池
+- **常见岗位名**: **Software Engineer (New Grad) — University Graduate** / **Software Engineer, IC1 / L3** / **SWE I**; Databricks 内部 level **L3 = New Grad (0 yr)**, **L4 = Junior (1-2 yr)**; 没有专门 "Graduate Programme" 品牌, 走标准 SWE + new-grad 蓄水池
 - **欧洲地点**:
   - **Amsterdam (Zuidas)**: EMEA 最大工程 hub, New Grad 主要地点, 招 ~30-50 人/cohort (Mosaic AI / SQL / Unity Catalog / Delta Lake teams)
   - **Berlin (DE)**: 次大欧洲 hub, New Grad 名额开始增长 (2024-2025 起)
@@ -44,15 +42,18 @@
 - **非EU签证 (全职)**:
   - Databricks Netherlands B.V. 是 IND **Recognised Sponsor**, Kennismigrant 经验成熟 (近 2-3 年快速建立)
   - Amsterdam New Grad SDE **完整 sponsor**: visa + relocation lump sum ($10K-$15K reported on Blind) + 60 天 corporate apartment + 单程机票 + 配偶协助
-  - **30% ruling**: New Grad base **远超** 2026 年 < 30 岁门槛 (€46,107), 100% 适用; 与实习不适用是数量级差异
+  - **30% ruling (NL 2026)**: New Grad base **远超** Kennismigrant 阈值 **€4,357/月 <30 岁 = €52.3K/年** [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026], 100% 适用
   - **对国际生 friendly 度 EMEA 顶级** — 与 Stripe / Snowflake 同档, Databricks 是少数从北美 / 印度 / 中国 top 校园直接 sponsor Amsterdam New Grad 的公司
-- **薪资范围 (base, gross/年)**:
-  - **Amsterdam New Grad SDE (IC1)**: **€75K-€90K base + €40K-€60K RSU/年 (4-yr vest, 40-30-20-10 schedule) + ~10% target bonus** ≈ **€125K-€155K total** (Blind + Levels.fyi 推算, 比 US IC1 $250K 低 ~40%)
-  - **Berlin New Grad SDE**: 与 Amsterdam 接近, ~€75K-€88K base + RSU
+- **薪资范围 (base, gross/年, 2026-05 Levels.fyi 实读)**:
+  - **Greater Amsterdam L3 (New Grad)**: **$86.6K base + $44.8K stock + $6.8K bonus ≈ $138K total / 年 (≈ €119K-€132K total)** [来源 (实际打开过): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]; TechPays Amsterdam new grad 2 数据点平均 **€132.5K total** [来源 (搜索结果): https://techpays.com/europe/netherlands/databricks/amsterdam/entry-level]
+  - **NL L3 (全国 filter)**: **€79.8K-€152K range** [来源 (搜索结果): https://www.levels.fyi/companies/databricks/salaries/software-engineer/levels/l3/locations/netherlands]
+  - **Greater Amsterdam 全 level range**: **€118K (L3) - €498K (L6)** [来源 (实际打开过): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]
+  - **Berlin New Grad SDE**: 与 Amsterdam 接近, ~€75K-€90K base + RSU
   - **Belgrade New Grad SDE**: ~€30K-€45K base (当地极顶薪资) + RSU
-  - **股权关键**: Databricks pre-IPO (估值 $62B 2024H1, 2025 进展 IPO 预期), **RSU 是 double-trigger** (需 IPO + vest 双触发才能流动) — 这是和 Uber/Booking (上市公司) 最大区别。Refresh grant 也大, Y2-Y4 每年再给 $30K+/年
-  - 30% ruling 后 Amsterdam 实得 ≈ €6K-€7.5K/月 net + 长期 RSU 兑现
-  - 来源: Levels.fyi databricks, Blind databricks tag, 1point3acres
+  - **股权重大变化 (2025 update — 关键)**: Databricks **2025 年取消了 RSU 的 second trigger** — 即便 IPO 未发生, 已 vested 的 RSU 也会直接转 share, 不再需要 IPO/acquisition liquidity event 触发; 这意味着新签 offer **不再是传统 double-trigger pre-IPO 模型** [来源 (搜索结果): https://www.teamblind.com/post/databricks-rsu-value-after-100b-valuation-8rgfsw4j , https://framer.caplight.com/insights/how-databricks-and-stripe-are-redefining-rsu-liquidity-pre-ipo]
+  - **RSU vest**: 4 年 **40-30-20-10** schedule (Y1 加速) [来源 (实际打开过): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]
+  - **IPO 状态 (2026 update)**: Databricks **尚未 IPO**, 但 CEO Ali Ghodsi 2025-12 不排除 2026 上市; S-1 预计 2026 H2 提交, 估值已涨到 **$134B (2026)** [来源 (搜索结果): https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html , https://tech-insider.org/databricks-134-billion-ipo-enterprise-software-2026/]; Revenue run rate ~$4.8-5B 增 55% YoY
+  - 30% ruling 后 Amsterdam L3 实得 ≈ €5.5K-€6.5K/月 net + 长期 RSU 兑现 (现在已能 settle)
 - **申请窗口**: **每年 8-10 月开放 New Grad SWE** (与北美同步), 11 月 - 次年 2 月面试, 3-5 月发 offer, 7-9 月入职; 错过窗口几乎只能等下一年; New Grad 名额一旦关闭基本无法重开
 - **面试流程差异 vs 实习**:
   - 流程结构相同 (HR → Karat → Hiring Manager → Onsite), 但**Onsite 从 4 轮升到 5-6 轮**: +1 **System Design** (45-60 min, 必考: 设计 distributed query engine / 设计 metadata catalog / Spark SQL optimizer) + +1 deep behavioral (与 Director 级 Bar Raiser)
@@ -63,7 +64,10 @@
 - **关键链接**:
   - Databricks University Careers (筛 EMEA): https://www.databricks.com/company/careers/university-recruiting
   - 全球 Career 总入口 (筛 New Grad + Amsterdam): https://www.databricks.com/company/careers/open-positions
-  - Levels.fyi Databricks SWE (含 IC1 entry $250K US): https://www.levels.fyi/companies/databricks/salaries/software-engineer
+  - Levels.fyi Databricks SWE Greater Amsterdam (2026-05 实读 L3 $138K total): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area
+  - TechPays Databricks Amsterdam entry-level: https://techpays.com/europe/netherlands/databricks/amsterdam/entry-level
+  - Databricks RSU 取消 second-trigger 讨论 (Blind): https://www.teamblind.com/post/databricks-rsu-value-after-100b-valuation-8rgfsw4j
+  - Databricks IPO 2026 准备报道 (CNBC): https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html
   - LeetCode Discuss Databricks Amsterdam 面经: https://leetcode.com/discuss/interview-experience/?query=databricks+amsterdam
   - 1point3acres Databricks tag: https://www.1point3acres.com/bbs/tag/databricks-1280-1.html
   - Blind databricks 板块 (薪资众包): https://www.teamblind.com/company/Databricks
@@ -227,3 +231,10 @@ Databricks 流程**长且严**, 是榜单中**接受率最低**的公司之一 (
 - Exponent 流程指南: https://www.tryexponent.com/blog/databricks-interview-process
 - Glassdoor 面经: https://www.glassdoor.com/Interview/Databricks-Amsterdam-Interview-Questions-EI_IE954734.0,10_IL.11,20_IM1112.htm
 - TechPays Amsterdam: https://techpays.com/europe/netherlands/databricks/amsterdam
+- Levels.fyi Databricks SWE Greater Amsterdam (2026-05 实读): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area
+- TechPays Databricks Amsterdam entry-level: https://techpays.com/europe/netherlands/databricks/amsterdam/entry-level
+- Databricks RSU second-trigger 取消讨论 (Blind 2025-2026): https://www.teamblind.com/post/databricks-rsu-value-after-100b-valuation-8rgfsw4j
+- Databricks pre-IPO RSU liquidity redesign (Caplight): https://framer.caplight.com/insights/how-databricks-and-stripe-are-redefining-rsu-liquidity-pre-ipo
+- Databricks $134B 估值 IPO 2026 报道: https://tech-insider.org/databricks-134-billion-ipo-enterprise-software-2026/
+- Databricks $1.8B debt 2026 IPO 前融资 (CNBC): https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html
+- NL 2026 Kennismigrant threshold: https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026

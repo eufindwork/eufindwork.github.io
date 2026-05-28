@@ -23,44 +23,52 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
-
-> 信息丰富度: ⭐⭐⭐⭐ (Tech Graduate Program 官方信息完整, Berlin Junior SWE Glassdoor / Levels.fyi 数据中等)
+> 信息丰富度: ⭐⭐⭐⭐⭐ (TGP 2026 cohort 官方公开 + active req, Berlin IC1-IC5 Levels.fyi 数据齐全, 是 11 家中信息最完整的一个)
 > 区别于实习: 全职 entry-level (0-2 年经验); 有结构化的 **Tech Graduate Program (TGP)** 入口 + 直接 Junior Engineer 入口两条线
 
-- **常见岗位名**: Junior Software Engineer、Junior Data Engineer / Analyst、Junior ML Engineer; **Tech Graduate Program (TGP)** 是命名最响亮的入口 — 6 个月结构化 graduate program (含 upskilling sessions / mentor / capstone), 满 6 个月后默认 convert 为 Junior Engineer
-- **欧洲地点**: 全职工程主要在 **Berlin Mitte HQ**; 其他欧洲品牌 (Talabat Dubai、foodpanda 亚太、PedidosYa 拉美) 是本地 entity 招聘, 走的不是 Berlin 流程; Junior SWE 在欧洲基本默认 Berlin
-- **是否有独立 Graduate Programme**: **Yes — Tech Graduate Program (TGP)**, 这是 11 家中少数几家有命名 grad scheme 的
-  - 6 个月全职, 春秋两批 (常见 March / September intake)
-  - 含 upskilling sessions、社交活动、mentorship、12 周 capstone 项目
-  - 资格: CS / DE 或相关 Bachelor / Master, 最多 **2 年工作经验**, 2 天/周 Berlin Mitte onsite
-  - 满 6 个月默认 convert 为 Junior Engineer (除非 performance fail)
-- **非EU签证 (全职)**:
-  - **EU Blue Card (Germany)**: TGP 全职 → Delivery Hero **会 sponsor Blue Card**, 提供 relocation budget; 2025 阈值 ~€45,300/年, TGP 起薪通常达标
-  - 与实习政策对比明显: 实习不 sponsor, 但 TGP 是海外 candidate 绕过实习签证卡点的最佳入口
-  - 招聘官在 recruiter call 会主动确认 visa / relocation 需求
-- **薪资范围 (base, gross/年)** (Glassdoor / Levels.fyi 2024-2025):
-  - **Berlin Tech Graduate Program**: base ~€55,000-65,000 (对标 Berlin Junior SWE)
-  - **Berlin Junior SWE (直接入口)**: base ~€55,000-68,000, TC ~€58k-72k (含 bonus, 通常无 RSU)
-  - **Berlin Mid-level SWE (1-2 yrs)**: base ~€68,000-85,000
-  - 福利: Pluxee benefits、餐券、内购食堂、健身房折扣、心理咨询、relocation budget (TGP / Junior 全职)
-  - 与 Zalando 相比稍低, 与 N26 接近, 远低于 Berlin 顶部 fintech (Trade Republic / Mollie)
-- **申请窗口**: **TGP 春秋两批** (常见 March / September cohort), 应用窗口提前 4-6 个月 (前一年秋 / 前一年春); 直接 Junior SWE req 是 rolling 全年
+- **常见岗位名**: Engineer L (Android / iOS / Data / ML)、Associate Machine Learning Engineer L、Associate Data Scientist; 招聘页 active req 命名如 "Data Engineer L (2026 Tech Grad Program)"、"Engineer L Android (2026 Tech Grad Program)" 等 [来源 (实际打开过): https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006]
+- **欧洲地点**: 全职工程主要在 **Berlin Mitte HQ** (2 天/周 hybrid 必须); 其他欧洲品牌 (Talabat Dubai、foodpanda 亚太、PedidosYa 拉美) 走本地 entity, 不在 TGP 范围
+- **是否有独立 Graduate Programme**: **Yes — Tech Graduate Program (TGP) 2026, 这是 11 家中少数几个有命名 grad scheme 且 2026 active 的**
+  - **6 个月** 学习模型 + **12 周 capstone project** [来源 (实际打开过): https://careers.deliveryhero.com/tech-graduate-program]
+  - **2026 三个 L&D start dates: April 1 / July 1 / October 1, 2026** [来源 (搜索结果): TGP search 摘要]
+  - 资格: CS / SWE / DE / DS Bachelor / Master, 最多 **2 年工作经验**, 也接受 6-12 个月 bootcamp/reskilling 毕业生
+  - **2026 新 "pilot hiring model"**: 不再按 cohort batch 一次性 onboard, 而是 active req 收集 candidate pool, 角色空出后联系
+  - 流程 4 轮: Recruiter screen (30 min) → Coding interview (60 min CoderPad) → Bar raiser engineer → HM (60 min)
+  - 6 个月配 mentor, 课程含技术 + behavioral
+- **2026 application 截止日期 (重要更新)**:
+  - **Data Engineer L: 2026-01-30** [来源 (实际打开过): https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006] — 当前 2026-05-28 已过期
+  - Machine Learning role: 2026-01-30 (已过)
+  - Data Scientist: 2026-02-06 (已过)
+  - Android Engineer: 2026-02-15 (已过)
+  - **当前 (2026-05-28) 主要 cohort 已 close, 但仍可投 candidate pool 等下一轮 / 直接 Junior req**
+- **非EU签证 (全职) — 重大政策变化**:
+  - **TGP 2026 明确要求 "right to live and work in Germany, or EU-based with German working rights"** [来源 (实际打开过): https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006]
+  - 与之前判断有出入: **2026 TGP 不主动 sponsor visa**, 海外 candidate 需先有 Germany / EU 工作权 (如 Blue Card 家属签 / Master 在 Germany 在读签 / Job Seeker Visa 已转 work visa)
+  - **EU Blue Card (Germany) 2026**: 标准 €50,700, **IT 紧缺职业 €45,934** [来源 (搜索结果): https://www.visaflow.app/blog/germany-eu-blue-card-salary-thresholds-2026]
+  - 与 2024-2025 文档描述的"会 sponsor"形成明显对比 — 2026 起入门难度对国际 candidate 上升
+- **薪资范围 (Levels.fyi 2026-02 数据, Berlin Metropolitan Region)**:
+  - **IC1 (TGP / Junior 起薪)**: 起 €61.6K/年 [来源 (搜索结果): https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/locations/berlin-metropolitan-region]
+  - **IC2 (Junior+, 1-2 yrs)**: TC 中位 €88,685, 区间 €76.8K - €97.1K+ [来源 (搜索结果): https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/levels/ic2/locations/berlin-metropolitan-region]
+  - **IC3 (Mid)**: TC 中位 ~€108K, 区间 €94.1K - €122K+ [来源 (搜索结果): https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/levels/ic3/locations/berlin-metropolitan-region]
+  - **IC4 (Senior)**: 区间 €125K - €145K+ [来源 (搜索结果): https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/levels/ic4/locations/berlin-metropolitan-region]
+  - **整体 Berlin SWE**: TC 中位 €96.9K, 区间 €61.6K - €168K+
+  - 福利: Pluxee benefits、餐券、内购食堂、健身房折扣、心理咨询 (TGP relocation budget 2026 文档未明确)
+  - 比 Zalando C5 (中位 €54,898) 高约 15%, 比 N26 接近
 - **面试流程差异 vs 实习**:
-  - 实习 / TGP 流程相似: 4 轮 (Recruiter → Engineer R1 live coding → Engineer R2 概念 → Senior Engineer behavioral)
-  - 全职 Junior SWE 比 TGP **多 1 轮 system design** (rate limiter / Kafka consumer / 缓存策略 / pagination)
-  - HM round 会问 1-2 年 career 规划
-  - 比 Zalando / Klarna 流程短 (2-4 周) — 是 Berlin 大厂中流程最友好的
-- **录取竞争**: DH 在巨头中是公认**门槛较低 + 流程友好 + 高 volume**; TGP 春秋两批每批约 20-40 人; 国际生 friendliness 较高 — TGP 是少数明确 sponsor 全职 grad 的 Berlin 项目, 印度 / 中国 / 土耳其 / 巴西 candidate 历史录取多; AdTech / Global Discovery / Q-Commerce / Fintech 是 2024-2025 hc 重点
+  - TGP 4 轮 (Recruiter → Coding → Bar Raiser → HM), 与一般 Junior 相似
+  - 全职 Junior SWE 多 1 轮 system design (rate limiter / Kafka consumer / pagination)
+  - 比 Zalando / Klarna 流程短 (2-4 周) — Berlin 大厂中流程最友好
+- **录取竞争**: DH 在巨头中**门槛较低 + 流程友好**, 但 2026 sponsor 政策收紧后国际 candidate 友好度下降 (印度 / 中国 / 土耳其 / 巴西历史录取多, 2026 起需自带工作权); AdTech / Global Discovery / Q-Commerce / Fintech 是 2025-2026 hc 重点
 - **关键链接**:
-  - Tech Graduate Program 官方: https://careers.deliveryhero.com/tech-graduate-program
-  - TGP FAQ: https://careers.deliveryhero.com/tech-graduate-program-faqs
+  - **Tech Graduate Program 2026 官方**: https://careers.deliveryhero.com/tech-graduate-program
+  - **TGP FAQ**: https://careers.deliveryhero.com/tech-graduate-program-faqs
+  - **2026 active req — Data Engineer L**: https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006
+  - 2026 active req — Associate ML Engineer L: https://careers.deliveryhero.com/job/associate-machine-learning-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8009
+  - 2026 active req — Associate Data Scientist: https://careers.deliveryhero.com/job/associate-data-scientist-2026-tech-grad-program-in-berlin-germany-jid-8142
+  - 2026 active req — Engineer L Android: https://careers.deliveryhero.com/job/engineer-l-android-2026-tech-grad-program-in-berlin-germany-jid-8007
   - Delivery Hero Jobs (全部 Junior + Mid): https://careers.deliveryhero.com/deliveryhero-jobs
   - How We Hire: https://careers.deliveryhero.com/howwehire
-  - Glassdoor Delivery Hero Berlin Junior SWE: https://www.glassdoor.com/Interview/Delivery-Hero-Junior-Software-Engineer-Interview-Questions-EI_IE504556.0,13_KO14,38.htm
-  - Glassdoor DH Tech Graduate Program: https://www.glassdoor.com/Interview/Delivery-Hero-Graduate-Interview-Questions-EI_IE504556.0,13_KO14,22.htm
-  - Levels.fyi Delivery Hero Berlin: https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer
-  - Reddit r/cscareerquestionsEU TGP 讨论: https://www.reddit.com/r/cscareerquestionsEU/search/?q=delivery+hero
+  - Levels.fyi DH Berlin Software Engineer: https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/locations/berlin-metropolitan-region
 
 ---
 
@@ -204,3 +212,11 @@
 - [TeamBlind Delivery Hero Interview](https://www.teamblind.com/company/Delivery-Hero/posts/delivery-hero-interview)
 - [Glassdoor Delivery Hero Berlin Salaries](https://www.glassdoor.com/Salary/Delivery-Hero-Berlin-Salaries-EI_IE504556.0,13_IL.14,20_IM1020.htm)
 - [Glassdoor Delivery Hero Germany Intern Salary](https://www.glassdoor.com/Intern-Salary/Delivery-Hero-Germany-Internship-Salary-EI_IE504556.0,13_IL.14,21_IN96.htm)
+- [Delivery Hero 2026 Data Engineer L TGP](https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006)
+- [Delivery Hero 2026 Associate ML Engineer L TGP](https://careers.deliveryhero.com/job/associate-machine-learning-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8009)
+- [Delivery Hero 2026 Associate Data Scientist TGP](https://careers.deliveryhero.com/job/associate-data-scientist-2026-tech-grad-program-in-berlin-germany-jid-8142)
+- [Delivery Hero 2026 Engineer L Android TGP](https://careers.deliveryhero.com/job/engineer-l-android-2026-tech-grad-program-in-berlin-germany-jid-8007)
+- [Levels.fyi Delivery Hero Berlin All Levels](https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/locations/berlin-metropolitan-region)
+- [Levels.fyi Delivery Hero IC2 Berlin](https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/levels/ic2/locations/berlin-metropolitan-region)
+- [Levels.fyi Delivery Hero IC3 Berlin](https://www.levels.fyi/companies/delivery-hero/salaries/software-engineer/levels/ic3/locations/berlin-metropolitan-region)
+- [VisaFlow Germany Blue Card 2026 Thresholds](https://www.visaflow.app/blog/germany-eu-blue-card-salary-thresholds-2026)

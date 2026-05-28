@@ -16,48 +16,57 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+> 信息丰富度: ⭐⭐⭐⭐⭐ (Rev-celerator 2026 cohort 完整公开, Levels.fyi London Junior-Lead 分级 2026-05 实时数据, 11 家中 grad scheme 透明度最高)
+> 区别于实习: 全职 entry-level (0-2 年经验); Revolut **Rev-celerator Graduate Programme** 是命名的 12 个月结构化 program + 直接 Junior Engineer 入口两条线
 
-> 信息丰富度: ⭐⭐⭐⭐ (London Junior SWE Levels.fyi / TechPays / Glassdoor / 1point3acres 数据厚, efinancialcareers 流程公开)
-> 区别于实习: 全职 entry-level (0-2 年经验); Revolut 有命名的 **Rev-celerator Graduate Programme** + 直接 Junior Engineer 入口两条线
-
-- **常见岗位名**: Junior Software Engineer、Graduate Software Engineer、Junior Data Engineer / Analyst、Junior ML Engineer; **Rev-celerator** 是命名 grad programme, 涵盖 SWE / DS / Product / Ops 多职能
-- **欧洲地点**: 工程主基地 **London (Canary Wharf)**; 较多 Vilnius (Lithuania, customer ops + 部分工程)、Krakow (Poland, 工程 + ops)、Porto / Lisbon (Portugal, 工程扩张)、Madrid、Berlin、Paris、Dublin (后几个偏 commercial); Junior SWE 主要 London + Krakow + Porto
-- **是否有独立 Graduate Programme**: **Yes — Rev-celerator Graduate Programme**
-  - 12-18 个月结构化, 含 rotation across teams、mentorship、社交
-  - 多职能: Software Engineering、Data、Product、Operations、Finance
-  - 满期 default convert 为 Junior / Mid Engineer 或对应 role
-  - 与实习 (Rev-celerator: Internship, 10 周暑期) 同属 Rev-celerator 品牌但是不同 program
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker Visa**: Revolut Ltd 是持牌 sponsor; Junior SWE 全职会 sponsor (2024-04 起 going rate ≥ £38,700, new entrant 阈值较低 ~£30,960); Junior SWE 起薪通常达标
-  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Revolut 接受 PSW candidate 后再转 Skilled Worker
-  - 实习主要 Student Visa, 全职转 Skilled Worker, Revolut sponsor 流程成熟
-  - **Lithuania / Poland / Portugal 办公室**: 各自走 local work permit, 是非 EU candidate 绕过 UK 高门槛的备选路径
-- **薪资范围 (base, gross/年)** (Levels.fyi / TechPays / Glassdoor 2024-2025):
-  - **London Junior SWE / Graduate**: base ~£55,000-70,000, +variable bonus 10-20% + equity (Revolut pre-IPO), TC ~£65k-85k
-  - **London Mid SWE (1-2 yrs)**: base ~£75,000-95,000, TC ~£100k-130k
-  - **London Senior SWE**: base ~£110-140k, TC ~£150-200k+
-  - **Krakow / Porto Junior SWE**: base ~PLN 180k-260k / €30-45k (远低于 London)
-  - 福利: equity grant (vesting 4 年)、Revolut Premium / Metal 账户员工版、健身、心理咨询、stock buyback program
-  - 与 London fintech 顶部 (Stripe / Monzo Senior) 比 mid-tier, 但 Junior 起薪在 London 处于上游
-- **申请窗口**: **Rolling 全年滚动**; Rev-celerator Graduate Programme 主要 1-3 月开放 (秋季入职), 部分 7-9 月 (春季入职); 直接 Junior SWE req 是 rolling
+- **常见岗位名**: Junior Software Engineer (Frontend / Backend)、Graduate Software Engineer、Junior Data Engineer / Analyst、Junior ML Engineer、Enterprise Risk Manager (Grad); **Rev-celerator** 涵盖 SWE / Data / Product / Ops / Finance / Risk 多职能
+- **欧洲地点**: 主基地 **London (Canary Wharf)**; Rev-celerator 2026 office locations: **London、Krakow、Lisbon、Madrid + Bangalore / Mumbai / Dubai (EU 外)** [来源 (实际打开过): https://www.placement-officer.com/2025/11/revolut-rev-celerator-graduate.html]; remote options: UK / Poland / Portugal / Spain / UAE / India
+- **是否有独立 Graduate Programme**: **Yes — Rev-celerator Graduate Programme (12 个月, 不是 18 个月)** [来源 (实际打开过): 同上]
+  - **2026 cohort 详情**:
+    - **Duration: 12 个月** (此前文档写"12-18 月"有误)
+    - **Start: September 2026**
+    - **Applications opened: 2025-06-01, closed: 2025-12-14** — 当前 2026-05-28 已 closed, 等下一轮 2027 cohort
+    - **Eligibility**: 毕业 2024/2025/2026, 最低 2:1 学位, STEM / Business / Economics / Finance, 9 月 fully available
+    - **Visa support 明确**: "visa support + travel assistance + first-month accommodation" for international candidates
+    - Top performers 享 fast-track promotions
+- **非EU签证 (全职) — 重大政策变化**:
+  - **UK Skilled Worker Visa 2026 新阈值**: 一般门槛 **£41,700 (从 £38,700 上调, 2025-07 起生效)** [来源 (搜索结果): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]
+  - **Software Developer 行业 going rate £49,400** (mandatory minimum) — 但 **new entrant / graduate 可走低门槛 £33,400** (年轻 / 应届 / Student switcher) [来源 (搜索结果): https://bararassociates.com/skilled-worker-visa-salary-thresholds-in-2025-2026/]
+  - Rev-celerator UK salary £45-55k → **超过 new entrant £33,400 但低于行业 going rate £49,400**, 需走 new entrant 通道 (有时间上限)
+  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Revolut 接受 PSW → 后转 Skilled Worker
+  - **Lithuania / Poland / Portugal / Spain 办公室**: local work permit, 是非 EU candidate 绕过 UK 高门槛的备选 (Rev-celerator 明确支持这些位置)
+- **薪资范围 (Levels.fyi 2026-05-27 数据 + Rev-celerator 官方 2026)**:
+  - **Rev-celerator UK (Graduate)**: **£45,000-£55,000/年** [来源 (实际打开过): https://www.placement-officer.com/2025/11/revolut-rev-celerator-graduate.html]
+  - **Rev-celerator Europe (Poland / Portugal / Spain)**: €35,000-€50,000/年
+  - **London Junior SWE (Levels.fyi)**: TC ~$82.7K (~£62K), base $72.1K + stock $6.8K + bonus $3.9K [来源 (实际打开过): https://www.levels.fyi/companies/revolut/salaries/software-engineer/locations/london-metro-area]
+  - **London Middle SWE**: TC ~$140K (~£105K), base $112K + stock $19.9K
+  - **London Senior SWE**: TC ~$196K (~£147K), base $147K + stock $40.9K
+  - **London Lead SWE**: TC ~$224K (~£168K)
+  - **整体 Greater London SWE 中位**: £119K
+  - 福利: equity grant (4 年 vest + 1 年 cliff + **10 年 post-termination exercise window**)、Revolut Premium / Metal 账户员工版、健身、心理咨询、stock buyback program
+- **申请窗口**:
+  - **Rev-celerator 2026 cohort: 申请 2025-06-01 ~ 2025-12-14 已关闭** — recruitment Sep 2025 ~ Jan 2026, 入职 Sep 2026
+  - 直接 Junior SWE req: rolling 全年
+  - 2027 cohort 预计 2026-06 开放
 - **面试流程差异 vs 实习**:
   - 实习 4-5 轮, 全职 **5-6 轮 (Recruiter → HackerRank OA → Live Coding → System Design → Team Fit → Bar Raiser)**
   - **System Design 是全职必考** (实习偶有合并到 LC + SOLID): rate limiter / event tracking / chat system / payment ledger
-  - HackerRank OA 难度上升: 2-4 题 DSA + SQL + 部分类 IQ / 数学谜题, 全职版偏重 production-style
+  - HackerRank OA 难度上升: 2-4 题 DSA + SQL + 部分类 IQ / 数学谜题
   - Bar Raiser by Senior Leader 是 Revolut 全职流程的标志, 评 "long-term value + leadership potential"
-  - 文化 fit / 高强度文化对齐在全职更被严苛评估 — "为什么 Revolut" 必须有具体回答
-- **录取竞争**: Pass rate ~30-40% (公开样本), bar 在 London fintech 内属最严苛之一; 国际生 friendliness 中等偏高 — sponsor 流程成熟但偏好已有 1+ fintech / 投行 / 防务 / 医疗实习的 candidate; **文化负评极多 (Toxic / PIP 严苛 / 周末加班默认)**, 投前需评估
+  - 文化 fit / 高强度文化对齐在全职更被严苛评估
+- **录取竞争**: Pass rate ~30-40% (公开样本), bar 在 London fintech 内属最严苛之一; 国际生 friendliness 高 (visa support 明确), 但偏好已有 1+ fintech / 投行实习; **Toxic 文化标签仍在** (Glassdoor / Blind 2025-2026 评论延续 — 60-70h 长工时、PIP 严苛、Storonsky 严苛风格、周末加班默认), 投前需评估
 - **关键链接**:
-  - Rev-celerator Graduate Programme: https://www.revolut.com/careers/graduates/
-  - Rev-celerator Internship: https://www.revolut.com/internship-programme/
-  - Revolut Careers (全部 Junior + Grad): https://www.revolut.com/careers/
-  - Levels.fyi Revolut London SWE: https://www.levels.fyi/companies/revolut/salaries/software-engineer/locations/greater-london
-  - Glassdoor Revolut London Junior SWE: https://www.glassdoor.com/Interview/Revolut-Junior-Software-Engineer-Interview-Questions-EI_IE1176471.0,7_KO8,32.htm
+  - **Rev-celerator Graduate Programme (官方)**: https://www.revolut.com/graduate-programme/
+  - Revolut Talent Programmes: https://www.revolut.com/talent-programmes/
+  - **Rev-celerator 2026 完整解析 (placement-officer)**: https://www.placement-officer.com/2025/11/revolut-rev-celerator-graduate.html
+  - Rev-celerator: Internship: https://www.revolut.com/internship-programme/
+  - Revolut Careers: https://www.revolut.com/careers/
+  - **Levels.fyi Revolut London (2026-05-27)**: https://www.levels.fyi/companies/revolut/salaries/software-engineer/locations/london-metro-area
+  - Levels.fyi Revolut Senior London: https://www.levels.fyi/companies/revolut/salaries/software-engineer/levels/senior-software-engineer/locations/london-metro-area
+  - **UK Skilled Worker 2026 新阈值 (£41,700)**: https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide
+  - Barar Associates Skilled Worker 2026 (含 new entrant £33,400): https://bararassociates.com/skilled-worker-visa-salary-thresholds-in-2025-2026/
   - efinancialcareers 5-stage process: https://www.efinancialcareers.co.uk/news/revolut-reveals-its-five-stage-interview-process-for-software-engineers
   - 1point3acres Revolut 面经汇总: https://www.1point3acres.com/interview/company/revolut
-  - TechPrep Revolut Interview Guide: https://www.techprep.app/blog/revolut-interview-process
-  - Reddit r/cscareerquestionsEU Revolut 讨论 (含文化负评): https://www.reddit.com/r/cscareerquestionsEU/search/?q=revolut
 
 ---
 
@@ -162,3 +171,11 @@
 - [一亩三分地 Java Backend 面经](https://www.1point3acres.com/interview/thread/1163723)
 - [Glassdoor Revolut London Interviews](https://www.glassdoor.com/Interview/Revolut-London-Interview-Questions-EI_IE1176471.0,7_IL.8,14_IM1035.htm)
 - [efinancialcareers competitive internships](https://www.efinancialcareers.com/news/revolut-how-to-get-an-internship)
+- [Rev-celerator Graduate Programme 2026 (官方)](https://www.revolut.com/graduate-programme/)
+- [Revolut Talent Programmes](https://www.revolut.com/talent-programmes/)
+- [Placement-Officer: Rev-celerator 2026 Full Details](https://www.placement-officer.com/2025/11/revolut-rev-celerator-graduate.html)
+- [Levels.fyi Revolut London Metro 2026-05](https://www.levels.fyi/companies/revolut/salaries/software-engineer/locations/london-metro-area)
+- [Levels.fyi Revolut Senior London](https://www.levels.fyi/companies/revolut/salaries/software-engineer/levels/senior-software-engineer/locations/london-metro-area)
+- [Jobbatical UK Skilled Worker £41,700 2026](https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide)
+- [Barar Associates UK Skilled Worker 2025-2026](https://bararassociates.com/skilled-worker-visa-salary-thresholds-in-2025-2026/)
+- [Euro Top Tech UK Visa Sponsorship 2026](https://www.eurotoptech.com/blog/visa-sponsorship-uk-software-engineers-2026)

@@ -20,25 +20,26 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
-
-> 信息丰富度: ⭐⭐⭐ (Alan 薪资全透明, Levels.fyi + Glassdoor 有数据点; 但 "Junior" 显式 title 少, 官方按 level 自动定薪)
+> 信息丰富度: ⭐⭐⭐⭐ (Alan 薪资全透明 + 2026-07 即将切换 grid 已被官方 compensation 页确认; Levels.fyi Paris 2026-05-28 实测有 level D median 数据点; Alan 官方 salary-equity 页存在但未渲染具体数字, 需邮件 compensation@alan.com)
 > 区别于实习: 全职 CDI entry-level (0-2 年经验) — 通常以 M2 毕业 stage → pre-embauche 转正路径, 也开放外部 new grad 直招
 
-- **常见岗位名**: Software Engineer (Backend / Frontend / Full-stack), Product Engineer, Data Engineer, Security Engineer; Alan **没有 "Senior I/II/III" 这种细分 title**, 也没有 "Junior" 显式 title — 全员统称 "Software Engineer" + 内部 level (Junior / Senior / Staff / Principal), level **全员可查**
+- **常见岗位名**: Software Engineer (Backend / Frontend / Full-stack), Product Engineer, Data Engineer, Security Engineer; Alan **没有 "Senior I/II/III" 这种细分 title**, 也没有 "Junior" 显式 title — 全员统称 "Software Engineer" + 内部 level (字母制 A-F+, **2026-07 起切换为 "one salary per level - no experience multiplier"** [来源 (实际打开过): https://alan.com/en/careers/a/salary-equity])
 - **欧洲地点**: Paris (主力, 与实习一致); Spain (Barcelona / Madrid), Belgium (Brussels) 也可远程; 不开放 EU 之外 fully remote (法务限制)
 - **是否有独立 Graduate Programme**: **No 严格意义上** — Alan 不办 cohort 招聘 (不像 BCG / Capgemini); 但**实习转正路径明确**: M2 6 个月 stage → 表现好直接发 CDI offer (Alan 公开声称转正率高); 外部 new grad 也可直接申 Junior SWE
 - **非EU签证 (全职)**:
-  - **Passeport Talent (salarié qualifié)**: 法国主路径, base 需 ≥ €43,243 (2026, SMIC × 1.8 + M2 学位); Alan Junior SWE base 远超此线 (€60K+), 完全达标
-  - Alan 作为 €4B 估值 health tech, 法务成熟, **为非欧盟全职 hire 办签证有明确流程**; 与实习 (carte de séjour étudiant, Alan 不 sponsor 工签) 完全不同 — **全职阶段才真正解决长期留法问题**
+  - **Passeport Talent (salarié qualifié)**: 法国主路径, base 需 ≥ €43,243 (2026, SMIC × 1.8 + M2 学位); Alan Junior SWE base 远超此线 (€55K+), 完全达标
+  - Alan 作为 €4B 估值 health tech (800+ 员工 [来源 (实际打开过): https://alan.com/en/careers]), 法务成熟, **为非欧盟全职 hire 办签证有明确流程**; 与实习 (carte de séjour étudiant, Alan 不 sponsor 工签) 完全不同 — **全职阶段才真正解决长期留法问题**
   - Barcelona / Madrid 远程岗走西班牙工签 (Beckham law 友好); Brussels 走比利时 single permit
 - **薪资范围 (base, gross/年)**:
-  - **Paris Junior SWE (0-2 年, level Junior)**: **€55-70K base** (来自 Alan 公开 salary grid + Glassdoor + Welcome to the Jungle reports); 估值 €4B 但薪资定位 "fair + transparent" 非顶档
-  - **Paris Senior SWE (3-5 年, level Senior)**: €80-100K base; Levels.fyi 显示 Alan Paris SWE 中位 **€91.1K total** (level E, ~Senior, 2026-05 更新)
+  - **Paris SWE level D median 2026-05-28 实测**: **base €84.7K / stock €11.8K / bonus 0 / total €83-96.4K** (Levels.fyi median, 5 年经验 / 3 年 tenure — 偏 Senior 而非纯 new grad) [来源 (实际打开过): https://www.levels.fyi/companies/alan/salaries/software-engineer/locations/greater-paris-area]
+  - **Paris SWE 区间**: €42.4K-€82.8K+ total (Levels.fyi 2026-05 区间 — 低端 €42K 对应 Junior level A/B, 高端 €83K+ 对应 Senior+)
+  - **France 全境 SWE 区间**: €42.7K-€90.7K+ (Levels.fyi 2026 区间) [来源 (搜索结果): https://www.levels.fyi/companies/alan/salaries/software-engineer/locations/france]
+  - **Paris Junior SWE (0-2 年, level A/B)**: 估计 **€48-60K base** + BSPCE — Paris junior 市场参考线 €45-65K, Alan 偏中位 [来源 (搜索结果): https://whatisthesalary.com/it-salaries/software-engineer-salary-in-paris/]
+  - **2026-07 关键变更**: Alan 官方 compensation 页公布 **"one salary per level - no experience multiplier"** 新 grid; 7 月起 "if the new grid entry for your level is higher" 工资自动上调; 旧 grid offer 在此之前仍有效 — **2026-06 前后申请的 candidate 处于切换窗口, 建议明确问 recruiter 走新旧 grid** [来源 (实际打开过): https://alan.com/en/careers/a/salary-equity]
   - **Staff / Principal**: €110-150K base; 完全按 grid, **无 negotiation 空间** (这是 Alan 文化硬规则)
-  - Equity: 全员 BSPCE (法国 startup 股权工具), grant 大小按 level + tenure 公开
+  - Equity: 全员 BSPCE (法国 startup 股权工具), 4 年 vesting + 25% cliff + 7 年 post-termination exercise window [来源 (实际打开过): https://www.levels.fyi/companies/alan/salaries/software-engineer/locations/greater-paris-area]
   - **加成**: 完全透明 → 无信息差; 缺点是 "顶级候选人无法议高" (这是 Alan 主动放弃的策略)
-- **申请窗口**: rolling — Ashby 招聘页常年开 10-30 个 Engineering 岗; 转正路径走 stage 期间 perf review, 5-6 月 stage 结束前 1-2 个月触发
+- **申请窗口**: rolling — Ashby 招聘页常年开 10-30 个 Engineering 岗 ([jobs.ashbyhq.com/alan](https://jobs.ashbyhq.com/alan), 实际打开过但 listing 通过 SPA JS 渲染未直接抓到具体岗); 转正路径走 stage 期间 perf review, 5-6 月 stage 结束前 1-2 个月触发
 - **面试流程差异 vs 实习**:
   - 流程**结构相同** (Screening → CoderPad → Alaner Fit → Alan Day), 但 **Alan Day 难度提升**: Past Project 要求深度更高 (实习只要会讲一个 side project, 全职要讲一个真实 production 项目 + 你的 IC ownership)
   - **Feature Design** 要求达到能独立带 small feature ship 的水平 (实习只要参与讨论)
@@ -50,9 +51,11 @@
   - **国际生 friendly**: 工作语言英文, team 多语种, 学校牌子非决定 (Alan 公开反对 "elite university bias")
   - Pass rate 估计 10-15% (外部 new grad); stage → CDI 转化率公开数据缺, 但 Alan 文化是 "hire 进来就认真留", 转正率高
 - **关键链接**:
-  - 官方 careers 页: [alan.com/en/careers](https://alan.com/en/careers)
+  - 官方 careers 页: [alan.com/en/careers](https://alan.com/en/careers) (实际打开过)
+  - Alan 官方 Compensation 页 (含 2026-07 grid 改动): [alan.com salary-equity](https://alan.com/en/careers/a/salary-equity) (实际打开过)
   - Alan Hiring Process 官方文档: [alan.com hiring process](https://alan.com/en/careers/a/hiring-process-step-by-step)
-  - Levels.fyi Alan SWE Paris: [levels.fyi/companies/alan](https://www.levels.fyi/companies/alan/salaries/software-engineer)
+  - Levels.fyi Alan SWE Paris: [levels.fyi Alan Paris](https://www.levels.fyi/companies/alan/salaries/software-engineer/locations/greater-paris-area) (实际打开过, 2026-05-28 数据)
+  - Ashby Alan job board: [jobs.ashbyhq.com/alan](https://jobs.ashbyhq.com/alan)
   - Welcome to the Jungle Alan: [welcometothejungle.com/companies/alan](https://www.welcometothejungle.com/en/companies/alan)
   - Glassdoor Alan SWE interview: [Glassdoor Alan SWE](https://www.glassdoor.ca/Interview/Alan-Software-Engineer-Interview-Questions-EI_IE1696043.0,4_KO5,22.htm)
   - Medium - Engineering at Alan: [medium.com/alan](https://medium.com/alan)
@@ -196,3 +199,9 @@ Alan 的工程文化是 Paris 区最特别的之一, 关键特征:
 - [Startup.jobs - Alan SWE Intern Posting](https://startup.jobs/software-engineer-internship-6-months-alan-4750306)
 - [Ashby - Alan SWE Internship](https://jobs.ashbyhq.com/alan/8d3a1052-b36c-4962-be63-50c1d749b3a0)
 - [Prepfully - Alan SWE Interview Questions](https://prepfully.com/interview-questions/alan/software-engineer)
+- [Alan 官方 Compensation 页 (2026-07 grid 切换)](https://alan.com/en/careers/a/salary-equity)
+- [Levels.fyi - Alan SWE Paris 2026-05-28](https://www.levels.fyi/companies/alan/salaries/software-engineer/locations/greater-paris-area)
+- [Levels.fyi - Alan SWE France 全境](https://www.levels.fyi/companies/alan/salaries/software-engineer/locations/france)
+- [nextleveljobs - SWE Salary in France 2026](https://nextleveljobs.eu/blog/software-engineer-salary/france)
+- [whatisthesalary - SWE Paris 2026 range](https://whatisthesalary.com/it-salaries/software-engineer-salary-in-paris/)
+- [Glassdoor - Alan Salaries Paris](https://www.glassdoor.com/Salary/Alan-Paris-Salaries-EI_IE1696043.0,4_IL.5,10_IM1080.htm)

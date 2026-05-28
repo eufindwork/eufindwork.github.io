@@ -24,6 +24,7 @@
   - [Confluent](/companies/confluent.md)
   - [Canva](/companies/canva.md)
   - [Nebius ⭐](/companies/nebius.md)
+  - [Snowflake](/companies/snowflake.md)
 
 - **🇪🇺 欧洲本土科技公司**
   - [Spotify](/companies/spotify.md)

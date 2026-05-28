@@ -16,24 +16,22 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+> 信息丰富度: ⭐ (实时验证: stability.ai/careers + Built In London 2026-05 实测, **London 全职岗位列表 = 0**, 仅 2 个 "Remote GBR" Research 岗 + 1 个 "Junior SWE" US/CA 岗在第三方 tracker; Levels.fyi 仍零 London 数据)
+> 区别于实习: 全职 entry-level (0-2 年经验) — Stability AI **2024 救火后几乎不在 London 直接招 junior**, 公开岗位极偏向 Senior Research / Solutions Engineer
 
-> 信息丰富度: ⭐ (信息极度匮乏 — 公司动荡后无公开 grad pipeline, Levels.fyi 零 London 数据, Glassdoor 仅 senior 样本)
-> 区别于实习: 全职 entry-level (0-2 年经验) — Stability AI 几乎不直接招 junior, 极偏向 PhD + 2-5 年经验 ML / Research Engineer
-
-- **常见岗位名**: Research Engineer, Research Scientist, ML Engineer, Software Engineer; **几乎不出现 "Junior" / "Graduate" / "Entry-level" title**; 内部分级不公开
-- **欧洲地点**: London (核心研究 + 工程, 与实习一致); 部分 fully remote (UK / EMEA); 救火后无明确扩张计划
-- **是否有独立 Graduate Programme**: **No** — Stability AI 救火后体量小 (估计 100-150 人), 招聘谨慎; 无 cohort, 无 grad pipeline; 实习偶发, 全职 junior 更偶发
+- **常见岗位名**: Research Scientist (Controlled 3D Generation, Multimodal), Research Engineer, ML Engineer, Software Engineer (AI Integration), Solutions Engineer; **几乎不出现 "Junior" / "Graduate" / "Entry-level" title**; 第三方 tracker (speedyapply 2026-AI-College-Jobs) 仅列 1 个 **"Junior Software Engineer (US/Canada)"** 全职岗, 欧洲 0 [来源 (搜索结果): https://github.com/speedyapply/2026-AI-College-Jobs/blob/main/NEW_GRAD_USA.md]
+- **欧洲地点**: London HQ (149 员工 [来源 (实际打开过): https://builtinlondon.uk/company/stability-ai/jobs]) 但实时招聘 "Remote GBR" 为主; 救火后无明确扩张, 全职 London-onsite 岗几乎绝迹
+- **是否有独立 Graduate Programme**: **No, 且 2024-2025 重组后 grad pipeline 实质消失** — Stability AI 救火后体量小 (~149 人, BuiltIn 2026 数据), 招聘谨慎; 无 cohort, 无 grad pipeline; 实习偶发, 全职 junior 极偶发, 优先 PhD + 2-5 年经验
 - **非EU签证 (全职)**:
-  - **Stability AI Ltd** 是英国 **Skilled Worker 持牌 sponsor** (Home Office register 确认), 理论可发 CoS; 但 2024 裁员 + 财务紧, **实际 new grad sponsor case 几乎零公开报告**
-  - 全职 base 需 ≥ £38,700 (Skilled Worker 2024 新规); Stability ML Engineer base 应能达标但需 case-by-case
+  - **Stability AI Ltd** 是英国 **Skilled Worker 持牌 sponsor** (Home Office register), 理论可发 CoS; 但 2024 裁员 + 财务紧, **实际 new grad sponsor case 几乎零公开报告**
+  - **关键更新**: UK Skilled Worker 最低 base 2025-07-22 起从 £38,700 **上调至 £41,700** (2026 仍有效), 加上 going rate 与每个 pay period 满足的双门槛 [来源 (搜索结果): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; Stability ML Engineer base 应能达标但需 case-by-case, **预算紧导致 sponsor 意愿存疑**
   - 与实习 (Student Visa) 不同, 全职稳定性低 (公司风险)
 - **薪资范围 (base, gross/年)**:
-  - **London ML Engineer entry-level** (估计): **£60-85K base** — 救火后预算谨慎, **低于 Cohere / DeepMind / Anthropic London 同级 30-40%**; Glassdoor 仅有 senior 样本 (£100-140K), 入门级**无公开数据点**
-  - **Research Engineer / Scientist** (PhD): £80-110K base, 接近 Cohere 但低于 Anthropic; 顶尖 PhD 可议价
-  - Equity: 救火后估值跌至 ~$1B, 早期 equity 已大幅缩水; 新 hire grant 较小
+  - **London 全岗位 entry-level**: **无 Levels.fyi 公开数据点** (2026-05 实测仍空); 估计 **£60-85K base** — 救火后预算谨慎, **低于 Cohere London (~£135K L3) / Anthropic London 50%+**; 主动 LinkedIn outreach 是唯一可靠数据源
+  - **Research Engineer / Scientist** (PhD, "Remote GBR"): £80-110K base, 接近 Cohere 但低于 Anthropic; 顶尖 PhD 可议价
+  - Equity: 救火后估值跌至 ~$1B (vs 高峰 $4B), 早期 equity 已大幅缩水; 新 hire grant 较小
   - **警示**: 2024-04 裁员 10% 后, 薪资透明度更低; 主动 outreach 才能知道实际数字
-- **申请窗口**: rolling 但**极度稀疏** — careers 页常年仅 5-15 岗, 偶有 1-2 个开放给 entry-level; 关注 LinkedIn 现员工 outreach 比官网申请更高效
+- **申请窗口**: rolling 但**极度稀疏** — 2026-05 实测 stability.ai/careers + Built In London 仅显示 **2 个 Remote GBR Research 岗** (Controlled 3D Generation + Multimodal AI Researcher, 均 16 天前发布), 偶有 1-2 个 entry-level; 关注 LinkedIn 现员工 outreach 比官网申请更高效
 - **面试流程差异 vs 实习**:
   - 流程相对短 (3-4 轮) — 公司体量小, Hiring Manager 直接决策权大
   - **Paper bar 高** (Research 岗): NeurIPS / ICCV / CVPR / SIGGRAPH 顶会论文是硬门槛; Diffusion / Flow Matching / Generative model 方向尤甚
@@ -45,9 +43,10 @@
   - **国际生**: 理论 OK 但实操不确定, sponsor 决心存疑
   - **风险溢价大**: 即使拿到 offer, 公司财务 + 留存 + 转正 + 长期签证 sponsor 都是问号; 应**优先 DeepMind/Cohere/Anthropic**, Stability 当备选
 - **关键链接**:
-  - 官方 careers 页: [stability.ai/careers](https://stability.ai/careers)
-  - Built In London Stability AI: [builtinlondon.uk/company/stability-ai/jobs](https://builtinlondon.uk/company/stability-ai/jobs)
+  - 官方 careers 页: [stability.ai/careers](https://stability.ai/careers) (实际打开过, 2026-05 仅 landing 页未列具体岗位)
+  - Built In London Stability AI: [builtinlondon.uk/company/stability-ai/jobs](https://builtinlondon.uk/company/stability-ai/jobs) (实际打开过, 2026-05 = 2 个 Remote GBR Research 岗, 0 个 London-onsite Junior)
   - LinkedIn Stability AI Page: [linkedin.com/company/stability-ai](https://www.linkedin.com/company/stability-ai/)
+  - speedyapply 2026 AI New Grad tracker (含 Junior SWE US/CA): [github.com/speedyapply](https://github.com/speedyapply/2026-AI-College-Jobs/blob/main/NEW_GRAD_USA.md)
   - r/MachineLearning Stability 讨论: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/search/?q=stability+ai)
   - **公开 grad / junior 面经**: **零** — 中英文社区均无可考记录; 建议主动 LinkedIn outreach 现员工
 
@@ -164,3 +163,8 @@
 - [Stability AI Lightspeed Jobs](https://jobs.lsvp.com/jobs/stability-ai)
 - [Stability AI 2026 Recognition Award](https://globalrecognitionawards.org/innovative-companies/stability-ai/)
 - [Hollywood AI Adoption - Longreads](https://longreads.com/2025/08/21/hollywood-stability-ai/)
+- [Built In London - Stability AI Jobs 2026-05 实测](https://builtinlondon.uk/company/stability-ai/jobs)
+- [Indeed UK - Stability AI London jobs](https://uk.indeed.com/q-stability-ai-l-london-jobs.html)
+- [UK Skilled Worker 2026 £41,700 threshold - Jobbatical](https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide)
+- [speedyapply 2026 AI New Grad USA tracker](https://github.com/speedyapply/2026-AI-College-Jobs/blob/main/NEW_GRAD_USA.md)
+- [Jobright AI - 2026 SWE New Grad collection](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad)

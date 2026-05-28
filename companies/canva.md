@@ -16,40 +16,40 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+> 信息丰富度: ⭐⭐ (Canva London 是 2024 新建欧洲 HQ, 工程岗本身极少, Grad / Junior 数据非常稀薄, 大部分参考来自 ANZ Sydney Grad scheme + UK 持牌 sponsor 数据)
+> 区别于实习: 实习仅 ANZ; **London Graduate SWE** 是 Canva 在欧洲唯一可见的 entry-level 路径, 但 **Early Talent 仍以 ANZ 为主, 伦敦 2026/2027 Internship Program 未公开开放**
 
-> 信息丰富度: ⭐⭐ (Canva London 是 2024 新建欧洲 HQ, 工程岗本身极少, Grad / Junior 数据非常稀薄, 大部分参考来自 ANZ Sydney Grad scheme + Levels.fyi AU 数据)
-> 区别于实习: 实习仅 ANZ; **London Graduate SWE** 是 Canva 在欧洲唯一可见的 entry-level 路径, 但开放频率极低且**不 sponsor visa**
-
-- **常见岗位名**: **Graduate Software Engineer** (London / Sydney) / **Software Engineer I (B1)** / **Associate Software Engineer**; ANZ 有 **Canva Engineering Graduate Program** 品牌, **London 没有**, 仅以 "Graduate SWE" 标签出现在普通招聘
+- **常见岗位名**: **Graduate Software Engineer** (London / Sydney) / **Software Engineer I (B1)** / **Associate Software Engineer**; ANZ 有 **Canva Engineering Graduate Program** + **Launchpad** (12 个月 professional development) [来源 (实际打开过): https://www.lifeatcanva.com/en/early-careers/]; **London 没有正式 Graduate Program 品牌**
 - **欧洲地点**:
-  - **London (Hoxton Square, Shoreditch)**: 2024 开 EMEA HQ, ~250 人但工程占比 < 30; Grad SWE 名额极少, 2024-2025 公开记录 < 10 个 spot
-  - **没有其他欧洲城市** — Canva 在 Berlin / Amsterdam / Paris 都没有 office
-  - 与实习地点形成鲜明对比 — 实习 100% ANZ (Sydney / Manila / Wuhan), Grad 在 London 开了一条窄缝
+  - **London (33-35 Hoxton Square, Shoreditch)**: 2024 开 EMEA HQ, **~250 人** [来源 (实际打开过): https://www.lifeatcanva.com/en/locations/united-kingdom/]; 工程团队包括 engineers / PMs / data viz / ML Engineering Manager (Evaluations) 等岗位
+  - **没有其他欧洲城市** — Canva 在 Berlin / Amsterdam / Paris 都没有 office; UK 还含 Affinity (Nottingham) / Flourish / Pexels 收购实体
+  - 与实习地点形成鲜明对比 — 2026/2027 Internship Program 仍 **only ANZ (Australia / New Zealand)** [来源 (搜索结果): https://www.lifeatcanva.com/en/early-careers/]
 - **是否有独立 Graduate Programme**:
-  - **ANZ: Yes** — Canva Engineering Graduate Program (12-18 个月 rotational, Sydney)
+  - **ANZ: Yes** — Canva Engineering Graduate Program (rotational, Sydney) + Launchpad (12 个月)
   - **London: No** — 没有正式 cohort program, 走标准 SWE 招聘 + Graduate 标签
-- **非EU签证 (全职, London)**:
-  - **Canva UK Ltd 是 UK Skilled Worker 持牌雇主**, 但**Early Talent 文案明示不 sponsor** (官方页: "Early Talent roles do not offer visa sponsorship")
-  - 这意味着 London Grad SWE **只能 hire 已有 UK work right 的候选人**: UK 公民 / Settled / Pre-settled / Graduate Visa (2 年) / HPI Visa / 配偶签
-  - 对中国应届生: 唯一可行路径是先在 UK 读 Master (通常 1 年) → 用 **Graduate Visa (PSW, 2 年 work right)** 申请 → 期间表现优秀转 Skilled Worker (但 Canva 是否 case-by-case 转 sponsor 没有公开案例)
+- **非EU签证 (全职, London) — 2026 重要 update**:
+  - **Canva UK Operations Limited 是 UK 持牌 sponsor**, 持 **Skilled Worker visa + Global Business Mobility: Senior or Specialist Worker** 双 route licence [来源 (实际打开过): https://huntukvisasponsors.com/company/canva-uk-operations-limited-qgi-cru5fq0]
+  - **2024 全年仅 sponsor 16 人, 其中 81% 工资 ≥£80K** [来源 (实际打开过): https://huntukvisasponsors.com/company/canva-uk-operations-limited-qgi-cru5fq0] — 即 sponsor 绝大多数走 **Senior or Specialist Worker route**, 适用 senior 而非 graduate
+  - 官方 Early Talent 页面 (2026-05 实读) **没有明确 visa sponsor 政策**, 也**没有公开禁止** (与之前"Early Talent roles do not offer visa sponsorship"传闻不完全一致, 2026 文案似乎中性化) [来源 (实际打开过): https://www.lifeatcanva.com/en/early-careers/]
+  - **实操结论**: London Grad SWE 走 Skilled Worker route 概率极低 (sponsor 名额几乎全用于 senior), 中国应届生最现实路径仍是: UK Master → **Graduate Visa (PSW, 2 年 work right)** → Canva 招 → 表现优秀再转 sponsor
   - **30% ruling / 类似制度**: UK 没有, 全税
 - **薪资范围 (base, gross/年)**:
-  - **London Graduate SWE**: **£55K-£65K base + RSU** (Canva 内部估值 ~$32B 的 pre-IPO RSU, double-trigger); 数据偏估算, 公开数据点 < 5 个
-  - **Sydney Graduate SWE (B1, 对照)**: **AU$74.9K base + AU$14.5K stock ≈ AU$89.4K total** (Levels.fyi 2026-05); 折算 £40K-£45K, 比 London 低
-  - **股权**: Canva 是 pre-IPO 私有公司, RSU 是 **double-trigger** (IPO + vest 双触发); 2024 secondary tender offer 估值 $32B, 流动性窗口有限
+  - **London Graduate SWE**: **£55K-£65K base + RSU** (Canva pre-IPO RSU, double-trigger); 公开数据点 < 5 个
+  - **Sydney Graduate SWE (B1, 对照)**: **AU$74.9K base + AU$14.5K stock ≈ AU$89.4K total** (Levels.fyi 2026-05) [来源 (搜索结果): https://www.levels.fyi/companies/canva/salaries/software-engineer]; 折算 £40K-£45K, 比 London 低
+  - **股权**: Canva 是 pre-IPO 私有公司, RSU 是 **double-trigger** (IPO + vest 双触发); 2024 secondary tender offer 估值 ~$32B, 流动性窗口有限
   - 加 UK 标准 ~5% pension + 30 天 PTO + £1,000 wellbeing stipend
-  - 来源: Levels.fyi canva (AU B1 data), Glassdoor London Grad SWE 偶发数据点, Otta / Levels.fyi 推算
-- **申请窗口**: London Grad SWE 通过普通招聘入口 rolling 发布, **没有固定 cohort**; ANZ Graduate Program 每年 3-5 月开放申请, 12 月 - 次年 2 月入职; London 错过窗口无法补救 (因总名额本身就少)
+- **申请窗口**: London Grad SWE 通过普通招聘入口 rolling 发布, **没有固定 cohort**; ANZ 2026/2027 Internship Program 开放中 [来源 (搜索结果): https://www.lifeatcanva.com/en/early-careers/]; London 错过窗口无法补救 (因总名额本身就少)
 - **面试流程差异 vs 实习**:
   - 因 London 没有正式 Grad Program, 流程**与普通 SWE 一致**: Recruiter → HackerRank OA → Tech Round (LC + 代码 walkthrough) → Hiring Manager Behavioral → Final Round (含 system design lite + 文化面)
   - **比 ANZ Internship 流程加 1 轮 System Design** (45 min, 设计 image rendering pipeline / 实时协作编辑)
   - 平均时长 8-10 周 (比 ANZ 实习 68 天更长)
-- **录取竞争**: London Grad SWE **极卷** — 名额 < 10/年 + 高品牌认知 + Generative AI / Magic Studio 吸引大量人才, 申请池估计 2,000-4,000, 录取率 < 1%; **国际生 friendliness 极低** (因 no visa sponsor); 在 UK 读 Master 的中国学生若有强 portfolio (设计 / 前端 / ML) 是最现实路径
+- **录取竞争**: London Grad SWE **极卷** — 名额 < 10/年 + 高品牌认知 + Generative AI / Magic Studio 吸引大量人才, 申请池估计 2,000-4,000, 录取率 < 1%; **国际生 friendliness 极低** (因 sponsor 实际几乎只给 senior); 在 UK 读 Master 的中国学生若有强 portfolio (设计 / 前端 / ML) 是最现实路径
 - **关键链接**:
-  - Canva Careers 全球入口 (筛 London): https://www.canva.com/careers/jobs/
-  - 直链 London Engineering: https://www.canva.com/careers/jobs/?team=engineering&location=london-united-kingdom
-  - Levels.fyi Canva (AU B1 entry data): https://www.levels.fyi/companies/canva/salaries/software-engineer
+  - Canva Early Careers 官方 (2026-05 实读): https://www.lifeatcanva.com/en/early-careers/
+  - Canva UK Office 官方 (~250 人 + 在招岗位): https://www.lifeatcanva.com/en/locations/united-kingdom/
+  - Canva Careers 全球入口: https://www.canva.com/careers/jobs/
+  - Canva UK Operations Limited 持牌 sponsor 数据 (Hunt UK Visa Sponsors): https://huntukvisasponsors.com/company/canva-uk-operations-limited-qgi-cru5fq0
+  - Levels.fyi Canva SWE (AU B1 entry data): https://www.levels.fyi/companies/canva/salaries/software-engineer
   - Glassdoor 面经 (London Grad SWE 较少, ANZ 多): https://www.glassdoor.com/Interview/Canva-Interview-Questions-E1099794.htm
   - Reddit r/cscareerquestionsEU Canva London 讨论: https://www.reddit.com/r/cscareerquestionsEU/search/?q=canva+london
   - UK Graduate Visa (申请前必读): https://www.gov.uk/graduate-visa
@@ -126,10 +126,13 @@
 ## 信息来源
 
 - [Canva 欧洲扩张公告](https://www.canva.com/newsroom/news/canva-europe/)
-- [Canva 英国办公室](https://www.lifeatcanva.com/en/locations/united-kingdom/)
-- [Canva Early Careers](https://www.lifeatcanva.com/en/early-careers/)
+- [Canva 英国办公室 (2026-05 实读)](https://www.lifeatcanva.com/en/locations/united-kingdom/)
+- [Canva Early Careers (2026-05 实读)](https://www.lifeatcanva.com/en/early-careers/)
 - [Canva ANZ Internship Posting](https://www.lifeatcanva.com/en/jobs/6000000000350531/software-engineer-internship-infrastructure-2025-26-anz/)
 - [Canva GradConnection AU](https://au.gradconnection.com/employers/canva/)
 - [Glassdoor Canva SWE Intern Interview](https://www.glassdoor.com.au/Interview/Canva-Software-Engineer-Internship-Interview-Questions-EI_IE1013251.0,5_KO6,34.htm)
 - [Canva Early Talent News](https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/)
 - [Canva European Office News](https://www.businessnewsaustralia.com/articles/design-software-giant-canva-opens-first-european-office.html)
+- [Canva UK Operations Limited 持牌 sponsor 数据 2024 (Hunt UK Visa Sponsors)](https://huntukvisasponsors.com/company/canva-uk-operations-limited-qgi-cru5fq0)
+- [Canva UK Operations Limited Work Sponsors 验证](https://worksponsors.co.uk/company/canva-uk-operations-limited)
+- [Levels.fyi Canva SWE 2026-05](https://www.levels.fyi/companies/canva/salaries/software-engineer)

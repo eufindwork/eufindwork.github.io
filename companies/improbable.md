@@ -16,43 +16,47 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+> 信息丰富度: ⭐⭐ (2026-05 实测 active 139 Web3 jobs, 但**没有 active Graduate / Junior 命名 req**; flexa.careers 上 MSquared Graduate SWE 12-month FTC 已 "No longer available"; Glassdoor / Bright Network 历史数据 + Web3 career boards 当前数据)
+> 区别于实习: 全职 entry-level (0-2 年经验); **Improbable 2026 公开 Graduate cohort 已结束**, 当前 active 主要是 Senior / Mid + Web3 / Somnia 专项岗
 
-> 信息丰富度: ⭐⭐ (2024-2025 公开 Junior / Graduate 数据**极其稀少**, 与实习岗一样近乎消失; Glassdoor / Bright Network 历史数据为主, 当前 hc 信号不明)
-> 区别于实习: 全职 entry-level (0-2 年经验); **Improbable 2024-2025 公开 grad hiring 基本暂停**, 仅 Senior / Mid-level 为主, 历史 graduate scheme 已不再独立宣传
-
-- **常见岗位名**: 历史上有 Graduate Software Engineer、Junior Engineer、Associate Engineer; **2024-2025 几乎不挂 Junior / Graduate 命名** — 招聘页 active 的多是 Senior SWE (SpatialOS / M-Squared / Somnia)
-- **欧洲地点**: 总部 **London (10 Bishops Square, Spitalfields)**; 极少 Edmonton (Canada, defence 业务剥离后); Junior / Grad 历史上默认 London onsite
-- **是否有独立 Graduate Programme**: **No — 已停 / 暂停**
-  - 历史上 (2019-2022) 有过命名 "Improbable Graduate Engineer Programme", 跟 SpatialOS engineering / Defence 团队
-  - **2023 出售防务业务 → 大量工程师走 NOIA → 2024-2025 重心转向 M-Squared (元宇宙) / Somnia (onchain) → graduate scheme 不再公开招募**
-  - 需明确说明: 当前没有 active graduate programme, 偶有零星 Junior Engineer req 但是 ad-hoc, 非 batch hiring
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker Visa**: Improbable Worlds Ltd 是持牌 sponsor (历史上)
-  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Improbable 接受 PSW candidate 后再转 Skilled Worker
-  - **当前 sponsor 信号弱**: 2024-2025 hc 收缩, 即使有 req 也偏好已在 UK 工作权 candidate
-- **薪资范围 (base, gross/年)** (历史数据 + Glassdoor 估算, 2024-2025 公开数据稀少):
-  - **London Graduate / Junior SWE (历史 2019-2022 数据)**: base ~£50,000-65,000, +equity (pre-IPO, 估值 2017 高点 $2B 后下行)
-  - **London Mid SWE (1-2 yrs)**: base ~£70,000-90,000
-  - **London Senior SWE (Golang Cafe 2024 信号)**: base ~£100,000-130,000+
-  - 福利: equity grant (高风险 — 估值下行)、健康保险、健身、stock option (流动性差)
-  - 与 London Web3 / 游戏公司 (Sui / Mythical Games) 接近, 但远低于 London FAANG / fintech
-- **申请窗口**: **不固定** — 历史上 11-2 月集中, 但 2024-2025 没有公开 cohort; 需持续 monitor improbable.io/careers 看是否重启 grad hiring
+- **常见岗位名 (2026 当前)**: 历史上有 Graduate Software Engineer (MSquared, 12-month FTC); **2026 active 主要为 Senior Web3 Product Engineer、Principal Web3 Full Stack、AI/ML Engineer、Senior Solidity Engineer**, 几乎不挂 Junior / Graduate 命名 [来源 (实际打开过): https://web3.career/web3-companies/improbable+london]
+- **欧洲地点**: 总部 **London (10 Bishops Square, Spitalfields) + Nottingham**; flexa.careers 显示 Improbable 提供高度 remote / flexible work (允许常驻多国 + 临时海外); Junior / Grad 历史默认 London onsite
+- **是否有独立 Graduate Programme**: **No active 2026** — 过去 2019-2022 有命名 Graduate scheme (Improbable Graduate Engineer Programme / MSquared Graduate Software Engineer 12-month FTC); 当前 2026-05 Bright Network / flexa.careers / Web3 boards 上的 MSquared Graduate 12-month FTC 已 "No longer available"; 公司转向 Web3 / Somnia 后偏好 Senior 直招
+  - **MSquared Graduate Software Engineer 12-month FTC (历史 2024-2025 形态, 当前下架)**: 强调 strong academic record + 软件背景; 团队聚焦 virtual worlds infrastructure / distributed systems / Unreal 集成; 配 world-class engineer mentor + unlimited holiday for graduates [来源 (实际打开过): https://flexa.careers/jobs/improbable-graduate-software-engineer-67ddc458c45deab1378dbbae]
+- **非EU签证 (全职) — 2026 重大政策变化**:
+  - **UK Skilled Worker Visa 2026 新阈值**: 一般门槛 **£41,700** (从 £38,700 上调, 2025-07 起); Software Developer 行业 going rate **£49,400** [来源 (搜索结果): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]
+  - **Graduate / new entrant 低门槛**: £33,400 (年轻 / 应届 / Student switcher)
+  - **Improbable Worlds Ltd 历史持牌 sponsor**, 但 2026 hc 偏 Senior, 即使有 sponsor 也偏好已在 UK 工作权 candidate
+  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Improbable 接受 PSW candidate 后转 Skilled Worker
+- **薪资范围 (Web3 boards 2026-05 数据, London)**:
+  - **Front End Engineer**: $84K-$90K (~£63-67K)
+  - **Senior Solidity Engineer**: $81K-$87K (~£61-65K)
+  - **AI/ML Engineer**: $115K-$117K (~£86-88K)
+  - **Senior Web3 Product Engineer**: $119K-$120K (~£89-90K)
+  - **Senior Web3 Full Stack**: $186K (~£139K)
+  - **Principal Web3 Full Stack**: $122K-$150K
+  - **Director Platform Engineering (Somnia)**: $122K-$150K
+  - Graduate / Junior 公开数据 0, 历史推断 base £50-65K + equity (流动性差)
+  - 福利: equity grant (高风险 — 估值 2017 高点 $2B 后下行)、健康保险、unlimited holiday (graduate)
+- **申请窗口**: **不固定** — 2026-05 没有公开 cohort; 需持续 monitor improbable.io/careers + brightnetwork 看是否重启 grad hiring; Web3 boards 仍持续刷新 Senior reqs
 - **面试流程差异 vs 实习**:
   - 历史信号: 实习 3 轮 (OA → 电面 → onsite 4-5h), Graduate **4-5 轮** (HackerRank → 2 轮 tech + 1 轮 distributed systems + 1 轮 team fit)
-  - **Distributed systems / consistency / state replication 深度上升** (全职会问 CRDT、Raft、State machine replication、CAP 实际选型)
-  - Go 语言深度 (goroutine / channel / context / 内存模型) 是 backend 必考
-  - 当前 Web3 方向新增题: Ethereum / smart contract / L2 / Somnia 项目了解
-  - **行为题严苛追问 "为什么 Improbable"** — candidate 必须诚实说出元宇宙 / 仿真 / Web3 兴趣 (公司方向频换的负面口碑是公开的, recruiter 会主动 screen 出"试水"型 candidate)
-- **录取竞争**: 因 hc 极少, 录取通道近乎关闭; 即使开放, bar 仍高 (历史上吸引牛剑 / IC 顶尖本科); 国际生 friendliness 历史中等, 当前不明; **不推荐作为 Top 3 选择, 仅作机会型申请**; 同档 London 备选优先考虑 Arm / Confluent / Stripe / Monzo
+  - **Distributed systems / consistency / state replication 深度** (CRDT、Raft、State machine replication、CAP 实际选型)
+  - Go 语言深度是 backend 必考
+  - **当前 Web3 方向新增题**: Ethereum / Solidity / smart contract / EVM / L2 / Somnia 项目了解 — Senior 岗主要考点
+  - **行为题严苛追问 "为什么 Improbable"** — recruiter 主动 screen 出"试水"型 candidate (公司方向频换的负面口碑是公开的)
+- **录取竞争**: 因 Graduate cohort 暂停, 应届直接路径关闭; 即使有零星 Junior req bar 仍高 (历史吸引牛剑 / IC 顶尖本科); 国际生 friendliness 历史中等, 当前 sponsor 偏 Senior 优先; **不推荐作为 Top 3 选择**; 同档 London 备选优先考虑 Arm / Confluent / Stripe / Monzo
 - **关键链接**:
-  - Improbable Careers (active 检查): https://www.improbable.io/careers
-  - Improbable Wikipedia (公司方向变迁): https://en.wikipedia.org/wiki/Improbable_(company)
+  - **Improbable Careers (active 检查)**: https://www.improbable.io/careers
+  - **Web3 Career - Improbable London (active 139 jobs, 2026-05)**: https://web3.career/web3-companies/improbable+london
+  - **Flexa Careers Improbable Graduate SWE (已下架)**: https://flexa.careers/jobs/improbable-graduate-software-engineer-67ddc458c45deab1378dbbae
+  - Improbable Wikipedia: https://en.wikipedia.org/wiki/Improbable_(company)
   - Glassdoor Improbable London: https://www.glassdoor.com/Interview/Improbable-Interview-Questions-E746448.htm
-  - Bright Network Improbable (历史 cohort 信息): https://www.brightnetwork.co.uk/graduate-jobs/improbable/
-  - Sifted Improbable Defence Sale News (业务剥离背景): https://sifted.eu/articles/improbable-sell-defence-arm-news
+  - Bright Network Improbable Graduate SWE 2025 (历史 cohort): https://www.brightnetwork.co.uk/graduate-jobs/improbable/graduate-software-engineer-london-2025
+  - Sifted Improbable Defence Sale News: https://sifted.eu/articles/improbable-sell-defence-arm-news
   - Built In London Improbable Profile: https://builtinlondon.uk/company/improbable
-  - LinkedIn Improbable (active job alert): https://www.linkedin.com/company/improbable/jobs/
+  - LinkedIn Improbable: https://www.linkedin.com/company/improbable/jobs/
+  - UK Skilled Worker 2026 阈值: https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide
 
 ---
 
@@ -137,3 +141,8 @@
 - [Improbable Senior SWE SpatialOS - Golang Cafe](https://golang.cafe/job/senior-software-engineer-spatialos-with-improbable-london-uk)
 - [Glassdoor Improbable Jobs London](https://www.glassdoor.com/Jobs/Improbable-software-engineering-intern-London-Jobs-EI_IE746448.0,10_KO11,38_IL.39,45_IC2671300.htm)
 - [Built In London Improbable Profile](https://builtinlondon.uk/company/improbable)
+- [Web3 Career - Improbable London (2026-05)](https://web3.career/web3-companies/improbable+london)
+- [Flexa Careers Improbable Graduate SWE MSquared](https://flexa.careers/jobs/improbable-graduate-software-engineer-67ddc458c45deab1378dbbae)
+- [Bright Network Improbable Graduate SWE 2025](https://www.brightnetwork.co.uk/graduate-jobs/improbable/graduate-software-engineer-london-2025)
+- [Jobbatical UK Skilled Worker £41,700 2026](https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide)
+- [Improbable Senior Web3 Product Engineer (Somnia)](https://web3.career/director-of-platform-engineering-somnia-improbable/147838)

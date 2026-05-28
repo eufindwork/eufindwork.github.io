@@ -20,38 +20,44 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch 与 WebFetch (agent sandbox 限制), 数据完全基于模型已有知识 + 文件 intern 部分提取; 引用链接为推测入口, 未直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+> 信息丰富度: ⭐⭐ (Deezer Levels.fyi Junior 数据 "insufficient data", 仅 Senior / Lead 中位; 公开 Junior / Graduate 命名 req 极少; 当前 2026-05 active 仅 1 个 Bordeaux Apprenticeship engineering 岗)
+> 区别于实习: 全职 entry-level (0-2 年经验); Deezer 没有命名 graduate programme, 主要 Master Thesis / stage de fin d'études 转正 + 直接 Junior CDI; 法语能力比实习要求更高
 
-> 信息丰富度: ⭐⭐ (Deezer 整体规模小 + 财务承压 + 公开 Junior 数据稀少; Glassdoor 主要是实习 / mid 数据, Levels.fyi 样本极小)
-> 区别于实习: 全职 entry-level (0-2 年经验); Deezer 没有命名 graduate programme, 主要是实习/Master Thesis 转正 + 直接 Junior CDI 两条线; 法语能力比实习要求更高
-
-- **常见岗位名**: Software Engineer (Junior / Associate)、Backend Engineer (Junior)、Data Engineer (Junior)、Research Engineer (Deezer Research); 招聘页 JD 通常英文写, 但内部 standup / code review 法语权重高于 Criteo
-- **欧洲地点**: 工程几乎全部在 **Paris (12 rue d'Athènes, 9 区)**; 没有其他欧洲 tech hub; Junior SWE 默认 Paris onsite/hybrid (2-3 天 office)
-- **是否有独立 Graduate Programme**: **No** — Deezer 规模小 (~600 员工, 工程 ~100-200), 没有 graduate scheme; Master Thesis / 6 个月 stage de fin d'études → Junior CDI 是最常见 new grad 通道
+- **常见岗位名**: Software Engineer (Junior / Associate)、Backend Engineer、Data Engineer、Research Engineer (Deezer Research); 招聘页 JD 通常英文写, 内部 standup / code review 法语权重高于 Criteo
+- **欧洲地点**: 工程几乎全部在 **Paris (12 rue d'Athènes, 9 区)**; **少量 Bordeaux** (新发现 2026 active apprenticeship 在此); 没有其他欧洲 tech hub; Junior SWE 默认 Paris onsite/hybrid (2-3 天 office)
+- **是否有独立 Graduate Programme**: **No** — Deezer 规模 ~600 员工 (France / Germany / UK / Brazil / US) 太小没有 grad scheme [来源 (搜索结果): startup.jobs Deezer 摘要]; Master Thesis / 6 个月 stage de fin d'études → Junior CDI 是最常见 new grad 通道
+- **2026 active req 状态 (实测)**:
+  - 当前 **20 个 active req**, 工程类约 8 个, 商务类 12 个 [来源 (实际打开过): https://www.deezerjobs.com/en/jobs/]
+  - **公开 active 工程 senior 为主** — "Senior Data Platform Engineer"、"Expert Front End Engineer (Messaging & Ads)"
+  - **唯一 entry-level 工程 req: "Platform engineer – Dev XP – Apprentice" 在 Bordeaux** (不是 Paris)
+  - **没有命名 "Junior Software Engineer" req 或 Graduate Programme**, hc 状态保持 2023-2024 财务承压期偏紧
 - **非EU签证 (全职)**:
-  - **France Passeport Talent (Salarié Qualifié)**: 月薪 ≥ 2x SMIC (~€3,494/月) 应届 SWE 通常达标; Deezer 偶尔 sponsor, 但**显著不如 Criteo 主动** — 财务承压期 sponsor 决策慢
-  - **APS (Autorisation Provisoire de Séjour)**: M2 法国毕业 12 + 24 个月找工作, 是中国 / 印度 candidate 进入 Deezer 的主路径
-  - 实习不 sponsor, 全职偶尔 sponsor (但需要 candidate 明显 strong + 团队有 hc)
-- **薪资范围 (base, gross/年)** (Levels.fyi / Glassdoor 2024-2025, 样本小):
-  - **Paris Junior SWE (CDI)**: base ~€42,000-52,000, +bonus 0-5% (Deezer 财务承压, RSU 价值低)
-  - **Paris Mid SWE (1-3 yrs)**: base ~€50,000-65,000
-  - **Paris Senior SWE**: Levels.fyi 中位 €56.4k - €80.9k+ (Lead)
-  - 显著低于 Criteo Junior (~€48-60k base) 和 Mistral (~€78k+)
+  - **France Passeport Talent (Salarié Qualifié)**: 月薪 ≥ 2x SMIC (~€3,494/月) 应届 SWE 达标; Deezer 偶尔 sponsor, **显著不如 Criteo 主动** — 财务承压 sponsor 决策慢
+  - **EU Blue Card (France) 2026**: 阈值 ~€54-55k/年, Deezer Junior CDI base 可能边缘不达标
+  - **APS (Autorisation Provisoire de Séjour)**: M2 法国毕业 12 + 24 个月找工作, 中国 / 印度 candidate 主路径
+  - 实习不 sponsor, 全职偶尔 sponsor (需 candidate 明显 strong + 团队有 hc)
+- **薪资范围 (Levels.fyi 2026-05-28 数据, France)**:
+  - **Junior / Entry SWE**: **Levels.fyi 显示 "insufficient data"** [来源 (实际打开过): https://www.levels.fyi/companies/deezer/salaries/software-engineer] — 公开样本极小, 应届数据无法直接验证
+  - **Senior Software Engineer**: TC ~$66.4K (~€61K), base $66.4K, 无 stock / bonus 报告
+  - **Lead Software Engineer**: TC ~$95.3K (~€87K), base $95.3K
+  - **整体 France SWE**: 中位 €67.1K, 区间 €57.2K - €82.1K+
+  - **应届 Junior CDI 推断**: 基于 Senior €61K → Junior 大致 **€42-52k base**, 显著低于 Criteo L2 (€63k base) 和 Mistral L1 (€70-90k)
   - 福利: 1 天/月 paid leave (intern + 全职)、titre-restaurant、Navigo 50%、Deezer Premium 免费、灵活 hybrid (2-3 天 office)
-- **申请窗口**: **Rolling 全年滚动**; **hc 因财务波动大** — 2023-2024 有 layoff 阴影, 2025 投之前确认招聘页 active; 论文实习 → CDI 转正窗口最稳, 直接外招 Junior CDI 不稳定
+- **申请窗口**: **Rolling 全年滚动 + 不稳**; **2026-05 实测 hc 仍偏紧** — 公开 active engineering 多为 Senior + 唯一 entry 是 Bordeaux apprenticeship; 论文实习 → CDI 转正窗口最稳
 - **面试流程差异 vs 实习**:
   - 实习 5 轮 (HR → 团队 → onsite → take-home → final), 全职 **流程类似但增加 1 轮 system design + 1 轮 architecture deep-dive**
-  - **法语水平面试中被测试**: 实习可以全英面, 全职 HR + 1-2 个 team round 通常法语进行 (除非明确 international team)
-  - Take-home 答辩深度上升: 全职会被追问 production-level 设计 + scaling + monitoring
+  - **法语水平面试中被测试**: 实习可以全英面, 全职 HR + 1-2 个 team round 通常法语 (除非明确 international team)
+  - Take-home 答辩深度上升: 全职追问 production-level 设计 + scaling + monitoring
   - Deezer Research 全职 (Research Engineer / Scientist) 需要 publication 或 PhD 在读, 流程加一轮 research presentation
-- **录取竞争**: 因 hc 波动大, 录取数量逐年下降; 国际生 friendliness 中等偏低 — 法语门槛 + sponsor 不积极使 Paris 国际 candidate 通常优先选 Criteo / Doctolib / BlaBlaCar 而非 Deezer; 音乐 / audio / RecSys 热情是 Deezer 招聘的隐藏权重
+- **录取竞争**: hc 波动大, 录取数量逐年下降; 国际生 friendliness **中等偏低** — 法语门槛 + sponsor 不积极使 Paris 国际 candidate 通常优先选 Criteo / Doctolib / BlaBlaCar; 音乐 / audio / RecSys 热情是 Deezer 招聘的隐藏权重
 - **关键链接**:
-  - Deezer Jobs 官方: https://www.deezerjobs.com/en/jobs/
+  - **Deezer Jobs 官方 (active 20 req, 2026-05 实测)**: https://www.deezerjobs.com/en/jobs/
+  - startup.jobs Deezer May 2026: https://startup.jobs/company/deezer
   - Welcome to the Jungle Deezer: https://www.welcometothejungle.com/en/companies/deezer/jobs
   - Glassdoor Deezer Paris Interviews: https://www.glassdoor.com/Interview/Deezer-Paris-Interview-Questions-EI_IE786653.0,6_IL.7,12_IM1080.htm
-  - Levels.fyi Deezer France SWE: https://www.levels.fyi/fr-fr/companies/deezer/salaries/software-engineer
+  - **Levels.fyi Deezer SWE France (2026-05-28)**: https://www.levels.fyi/companies/deezer/salaries/software-engineer
   - Deezer Research (全职 Research 入口): https://research.deezer.com/
-  - Deezer I/O Blog (技术博客, 了解团队动态): https://deezer.io/
+  - Deezer I/O Blog: https://deezer.io/
   - Hellowork Deezer CDI: https://www.hellowork.com/fr-fr/entreprises/deezer-91682/contrat_cdi.html
 
 ---
@@ -173,3 +179,7 @@
 - [Deezer I/O Blog](https://deezer.io/)
 - [Stackshare - Deezer Tech Stack](https://stackshare.io/deezer)
 - [Hellowork - Deezer Stage](https://www.hellowork.com/fr-fr/entreprises/deezer-91682/contrat_stage.html)
+- [Levels.fyi Deezer SWE All Levels 2026-05](https://www.levels.fyi/companies/deezer/salaries/software-engineer)
+- [startup.jobs Deezer May 2026](https://startup.jobs/company/deezer)
+- [Glassdoor Deezer Paris Salaries 2026](https://www.glassdoor.com/Salary/Deezer-Paris-Salaries-EI_IE786653.0,6_IL.7,12_IM1080.htm)
+- [Glassdoor How Much Does Deezer Pay 2026 (106 salaries)](https://www.glassdoor.com/Salary/Deezer-Salaries-E786653.htm)
