@@ -1,5 +1,7 @@
 # Akuna Capital — London + Chicago + Sydney 实习 + Grad 情报
 
+> **Language**: 中文 | [English](akuna.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi US Junior $215K + intern $62.50/hr 2026 / $96.15/hr 2024 历史 + 4 stage 流程明文 + London 2022 设立验证 + Akunacademy intern $130K annualized 2026 实际 listing + 493 人 2026-02 headcount; 缺 London-specific 公开 stipend 但有 OA 完整流程)
 > 一句话定位: 2011 年 Andrew Killion (前 SIG trader) 在 Chicago 创立的 options market making 专精 prop firm, 全球 5 office (Chicago HQ / Sydney 2018 / Shanghai 2014 / London 2022 / Singapore 2024) ~493 人, 招聘以 "Akunacademy" intern cohort 著名 (10 周, GPA 3.5+), HackerRank OA 3 题 80 分钟是业内 standard 模板

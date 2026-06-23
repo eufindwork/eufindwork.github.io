@@ -1,5 +1,7 @@
 # Optiver (Amsterdam) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](optiver.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 careers + Levels.fyi 全 level + 1point3acres 2026 SWE/QR OA 实战 + WSO + Glassdoor + Optiver 官方面试 Tips)
 > 一句话定位: 1986 年阿姆斯特丹起家的全球老牌 market maker, 自营 options / ETF MM, 总部 Amsterdam (>1,000 人), 全球 Sydney + Chicago + Austin + London + Shanghai + Taipei; quant 圈"50 道 mental math 8 分钟"的发明者, 每年 EU 校招 SWE + Quant Researcher + Quant Trader 三轨

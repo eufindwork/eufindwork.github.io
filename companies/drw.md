@@ -1,5 +1,8 @@
 # DRW — London + Amsterdam 实习 + Grad 情报
 
+> **Language**: 中文 | [English](drw.en.md)
+>
+
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London + Chicago 全 level 实数 + intern $175K base / $96.13/hr 公开 + Cumberland crypto 子单元独立 + 10 周流程 + 完整 4 stage 招聘明文 + Amsterdam Cumberland 现役)
 > 一句话定位: 1992 年 Don Wilson 在 Chicago Mercantile Exchange 创立的 prop trading firm (firm name = DRW 是创始人 initials), 全球 ~1,000+ 人, 业务覆盖 traditional finance + crypto (子单元 **Cumberland DRW** 2014 年起是全球最大 crypto OTC market maker 之一), London (43+ 岗位) 是欧洲主战场 + Amsterdam 是 Cumberland 欧陆桥头堡

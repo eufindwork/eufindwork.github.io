@@ -1,5 +1,7 @@
 # Squarepoint Capital — London + Paris 实习 + Grad 情报
 
+> **Language**: 中文 | [English](squarepoint.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi UK Quant Dev £85.5K-£129K 实数 + 多源 OA 流程 + Paris/London 双站点 + 全球 13 office 列表; 缺 intern 公开 stipend)
 > 一句话定位: 系统化中等体量 (~700 人) global multi-strategy quant hedge fund, AUM ~$100B, 创始团队从 BNP Paribas 出来, **法国系基因强** (Paris 是核心 office 之一); 标准 Quant Dev + Quant Researcher 双 ladder, 工程师以 Python + KDB+/q + C++ 为主, Glassdoor 难度比 QRT 高 (3.21/5)

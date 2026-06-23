@@ -1,5 +1,7 @@
 # Stability AI (伦敦) 实习情报
 
+> **Language**: 中文 | [English](stabilityai.en.md)
+>
 > Stability AI 是 Stable Diffusion 母公司,伦敦总部。**2024 经历严重动荡**: 创始人 Emad Mostaque 3 月辞职,4 月裁员 10%,公司一度濒临破产。**2024 年 6 月被 Sean Parker / Prem Akkaraju / James Cameron 救火**,$80M 注资 + $400M 债务豁免,2024-2025 强势复苏 (营收三位数增长,与 WPP 战略合作)。**实习招聘恢复中但仍非常零星**,公开 internship 入口很少;**信息匮乏**,以下为综合判断。
 
 ## 1. 公司速览

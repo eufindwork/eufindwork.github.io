@@ -1,5 +1,7 @@
 # Jane Street (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](janestreet.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Wikipedia + 官方 careers + Levels.fyi London 直读 + eFinancialCareers London headcount + Glassdoor 流程评分 + JSIP/SE intern 区分)
 > 一句话定位: NYC 起家 / OCaml 主战栈 / 全球 ETF + options + 固收做市巨头, London 是欧洲总部 (688 人, 2024 末) 且**积极 sponsor Skilled Worker**, SWE 全职 L1 总包 ~£245K — 比 UK 全国 SWE 中位数 (£67K) 高 3-4 倍

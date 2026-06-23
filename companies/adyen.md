@@ -1,5 +1,7 @@
 # Adyen 实习情报
 
+> **Language**: 中文 | [English](adyen.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (全职面经丰富, 实习面经相对稀缺)
 > 公司背景: 全球支付平台 (PSP, payment service provider), 2018 年阿姆斯特丹证交所上市 (ADYEN.AS), HQ 在 Rokin 154
@@ -34,7 +36,7 @@
 - **非EU签证 (全职)**:
   - Adyen 是 IND **重点 Recognised Sponsor**, 每年办理 150-200+ 签证 (NL 最熟练的 Kennismigrant 雇主之一)
   - Graduate 全球候选人**全程支持** H-1B (US) / Skilled Worker (UK) / Kennismigrant (NL) / Blue Card (DE/ES)
-  - 提供 **free visa + 头 3 个月住房 (corporate apartment) + 单程机票 + relocation lump sum** [来源 (搜索结果): https://careers.adyen.com/students]
+  - 提供 **free visa + 头 3 个月住房 (corporate apartment) + 单程机票 + relocation lump sum** [来源 (搜索结果): https://careers.adyen.com/career-types/student]
   - **30% ruling (NL 2026)**: Graduate base 通常**符合**Kennismigrant 门槛 (**€4,357/月 <30 岁 = €52.3K/年**, **€5,942/月 ≥30 岁 = €71.3K/年**) [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]; 但 30% ruling 自 2024 年起比例下调 (前 20 个月 30%, 中 20 个月 20%, 后 20 个月 10%) — 与实习不同, 实习完全不适用
 - **薪资范围 (base, gross/年)**:
   - **Amsterdam Graduate Tech (SWE)**: **€55K-€70K base** [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; 另一份社区估算给 €40K-€45K base + €3-5K bonus = €43-50K Y1 (偏低端) [来源 (搜索结果): https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level]; 加 13 月薪 (8% holiday allowance)
@@ -56,7 +58,7 @@
   - Levels.fyi Adyen SWE 数据 (含 SE2 entry): https://www.levels.fyi/companies/adyen/salaries/software-engineer
   - TechPays NL Adyen 入门级: https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level
   - getsmartresume.com Graduate Program 详解: https://www.getsmartresume.com/article/adyen-graduate-program
-  - Glassdoor 面经 (筛 "Graduate"): https://www.glassdoor.com/Interview/Adyen-Interview-Questions-E700656.htm
+  - Glassdoor 面经 (筛 "Graduate"): https://www.glassdoor.com/Reviews/Adyen-Reviews-E684495.htm
 
 ---
 
@@ -196,7 +198,7 @@ Adyen 是欧洲 fintech 中**面试流程最长且最重文化匹配**的之一�
 - TechPrep 流程详解: https://www.techprep.app/blog/adyen-interview-process
 - HackYourFuture 准备包: https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md
 - LeetCode 公司讨论: https://leetcode.com/discuss/interview-experience/?currentPage=1&orderBy=hot&query=adyen
-- Glassdoor 面经: https://www.glassdoor.com/Interview/Adyen-Netherlands-Interview-Questions-EI_IE684495.0,5_IL.6,17_IN178.htm
+- Glassdoor 面经: https://www.glassdoor.com/Reviews/Adyen-Reviews-E684495.htm
 - Adyen Graduate Program 2027 (Next Gen) 详解: https://www.getsmartresume.com/article/adyen-graduate-program
 - TechPays Adyen Amsterdam entry-level (11 数据点): https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level
 - Levels.fyi Adyen SWE 2026-05 直读 (SE2 $133K total): https://www.levels.fyi/companies/adyen/salaries/software-engineer

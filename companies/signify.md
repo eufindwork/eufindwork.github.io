@@ -1,8 +1,12 @@
 # Signify (前 Philips Lighting) 实习情报
 
-> 更新时间: 2026-05-26
-> 信息丰富度: ⭐⭐⭐ (官方 + Glassdoor 面经聚合 + Philips 母公司 stipend 公示; 缺中文社区面经)
+> **Language**: 中文 | [English](signify.en.md)
+>
+> 更新时间: 2026-06-01
+> 信息丰富度: ⭐⭐⭐ (官方 + Glassdoor 面经聚合 + Philips 母公司 stipend 公示 + 2026-01 layoff 报道; 缺中文社区面经)
 > 一句话定位: 全球智能照明 / IoT 灯具龙头 (Philips Hue / WiZ / Interact), 2018 年从 Philips 分拆独立上市, R&D 重镇在 Eindhoven; 面试以行为面为主, 但 Hue / SW Dev 岗位有 case study + 技术深聊
+>
+> ⚠️ **2026 关键变化 (重要)**: (1) **Signify 2026-01-30 宣布全球裁员 900 人 + €180M cost-cutting 计划**, CEO As Tempelman 将 2026 定义为 "transitional year", 全公司战略 / portfolio review 结果将在 **2026-06-23 Capital Markets Day** 公布 [来源 (实际打开过): https://www.metaintro.com/blog/signify-job-cuts-2026, finance.yahoo.com (Reuters 同步)]. (2) 自 2023 年起累计裁员约 6,200 人 (员工总数从 34,619 降至当前估算 28,000 左右). (3) 股价 2026-01-30 财报后跌 15% 创新低. (4) **Junior IT / Digital Program 仍开放招聘** (Workday 仍挂 338660), 但**全公司 hiring climate 转保守**, grad cohort size 可能缩水 (官方未公布数字, 但 €180M 削减目标会传导). 建议: 申请前用 Glassdoor 看 2026 Q1-Q2 employee reviews + LinkedIn 看 Signify Eindhoven 离职动态.
 
 ⚠️ **务必区分**:
 - **Signify** (本文档主体, NYSE: LIGHT.AS) ≠ **Signifyd** (反欺诈, San Jose) ≠ **Signify Health** (美国 home care, CVS 旗下)
@@ -28,9 +32,10 @@
 - **Business Process Optimization**
 
 ### 实习时长与招聘周期
-- **官方 SW Dev intern 最低 6 个月** (Philips Hue 项目 2025 上半年开始的岗位明确写 "minimum 6 months, starting in first half of 2025")
+- **官方 SW Dev intern 最低 6 个月** (Philips Hue Internship Software Development 岗位 354870 历史描述明确写 "minimum 6 months"; 2026-06 抓取时该单一岗位已下架 HTTP 410, 但 careers.signify.com Eindhoven intern 列表仍有 7+ 活跃岗位包括 Communication / Sustainability Data / Digital Marketing / Product Management / Digital Control Solution / Mechanical Engineering intern 等) [来源 (实际打开过): https://www.careers.signify.com/global/en/job/354870/Internship-Software-Development-Philips-Hue (HTTP 410), 以及搜索结果 site:careers.signify.com 7+ 活跃岗位]
 - **必须 full-time available 6 个月以上**
 - 招聘周期: 全年滚动 (rolling), 没有固定 cohort; Glassdoor 数据显示**从申请到 offer 平均 20–28 天** (4 周)
+- ⚠️ **2026-Q1 layoff 后状态**: SW Dev Philips Hue intern 岗 354870 已下架 (HTTP 410 Gone), 短期内**软件类 intern hiring 大概率收紧**; 但 R&D / 硬件 / Marketing / Sustainability 类 intern 仍在挂
 
 ---
 
@@ -41,9 +46,9 @@
 
 > ⚠️ **重要更正**: 之前的版本提到的 "Edison Graduate Programme" 是 **GE Aerospace / GE Healthcare 的项目, 不属于 Signify**; Signify 实际的旗舰 grad 是 **Junior IT Program (Graduate)** 和 **Junior Digital Program (Graduate)**
 
-- **常见岗位名**: **Signify's Junior IT Program (Graduate)** (The Muse 刊登, IT / 数字基础设施方向) / **Signify's Junior Digital Program (Graduate)** (Workday job 338660, Digital organization 方向); 普通职位线另有 **Software Development Engineer (Hue)** (Hue product line, 非 grad scheme 的常规 junior 岗) [来源 (实际打开过): https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Signify-s-Junior-Digital-Program--Graduate-_338660 (HTTP 抓取受限但搜索摘要可信), https://www.themuse.com/jobs/signify/signifys-junior-it-program-graduate]
+- **常见岗位名**: **Signify's Junior IT Program (Graduate)** (The Muse 刊登, IT / 数字基础设施方向) / **Signify's Junior Digital Program (Graduate)** (Workday job 338660, Digital organization 方向); 普通职位线另有 **Software Development Engineer (Hue)** (Hue product line, 非 grad scheme 的常规 junior 岗) [来源 (实际打开过): https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Signify-s-Junior-Digital-Program--Graduate-_338660 (HTTP 抓取受限但搜索摘要可信), https://www.careers.signify.com/global/en/new-graduates]
 - **欧洲地点**: **Eindhoven (HQ, High Tech Campus 7) 唯一 grad scheme 名额** (Junior IT + Junior Digital 都明确在 Eindhoven); Hue Software Development Engineer 也在 Eindhoven [来源 (实际打开过): https://www.careers.signify.com/jobs/software-development-engineer-hue-eindhoven/]; Burgos (ES, 制造类), Krakow (PL, IT shared service), Hamburg (DE) 等其他地点的 grad 岗位无 2026 公开数据
-- **是否有独立 Graduate Programme**: **Yes — Junior IT Program (Graduate) + Junior Digital Program (Graduate)** 都是 Signify 自家 grad scheme, 面向 **0-1 yr 经验** 数字 / IT 方向毕业生; 项目覆盖 web development / digital backbone for industry 4.0 / engineering efficiencies / automation / networking / cloud & hosting services / agile transformation; 招聘流程含 **Assessment & Selection Day** 在 High Tech Campus Eindhoven (含 speed-dating interviews + case study, recruiter 根据表现 + 候选人 preferences 匹配开放岗位) [来源 (实际打开过): https://www.themuse.com/jobs/signify/signifys-junior-it-program-graduate]; **官方 careers.signify.com/global/en/new-graduates 页只导向 Talent Community 注册, 不公开 program duration / rotation 数 / cohort size**
+- **是否有独立 Graduate Programme**: **Yes — Junior IT Program (Graduate) + Junior Digital Program (Graduate)** 都是 Signify 自家 grad scheme, 面向 **0-1 yr 经验** 数字 / IT 方向毕业生; 项目覆盖 web development / digital backbone for industry 4.0 / engineering efficiencies / automation / networking / cloud & hosting services / agile transformation; 招聘流程含 **Assessment & Selection Day** 在 High Tech Campus Eindhoven (含 speed-dating interviews + case study, recruiter 根据表现 + 候选人 preferences 匹配开放岗位) [来源 (实际打开过): https://www.careers.signify.com/global/en/new-graduates]; **官方 careers.signify.com/global/en/new-graduates 页只导向 Talent Community 注册, 不公开 program duration / rotation 数 / cohort size**
 - **非EU签证 (全职)**:
   - Signify Netherlands B.V. 是 IND **Recognised Sponsor** (在 public register 中), 可办 Kennismigrant
   - **2026 IND 门槛**: < 30 岁 €4,357/月 gross (€52.3K/年 excl. holiday), ≥30 岁 €5,942/月 gross (€71.3K/年) [来源: https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-sponsor]
@@ -56,7 +61,8 @@
   - **Levels.fyi Signify SWE 总览** (n=15, US-only, 无 Eindhoven 切片): median total $143K, Level 15 Development Engineer base $115K + stock $7.5K/yr + bonus $3.3K; **不能直接套用到 Eindhoven**
   - **股权**: Signify N.V. (Euronext Amsterdam: LIGHT) 股票池小, Junior Grad 通常无 RSU, 转 senior 后才有 share scheme
   - 加 8% holiday allowance + 4-8% variable bonus
-- **申请窗口**: **无 2026 公开 batch 时间表** (官方 new-graduates 页只是 Talent Community); Junior IT / Junior Digital Program 在 Workday + The Muse rolling 发布; Junior Hue Engineer 岗位 rolling year-round
+- **申请窗口**: **无 2026 公开 batch 时间表** (官方 new-graduates 页只是 Talent Community); Junior IT / Junior Digital Program 在 Workday + The Muse rolling 发布 (Workday 338660 在 2026-06-01 抓取时仍为 active listing, 但 HTTP 抓取受限无法直接读 deadline); Junior Hue Engineer 岗位 rolling year-round
+- **⚠️ 2026-Q1 layoff 后 hiring 影响**: 没有 official 数据指明 Junior IT / Digital Program 是否被 €180M 削减影响; CEO 强调 "transitional year" 但同时强调 "strengthening commercial and operational excellence" 暗示**核心 digital / IT 团队相对受保护**, 但 cohort size 可能缩水; **2026-06-23 Capital Markets Day** 之后才会有 portfolio review 结论, 在此之前 grad scheme 状态最不确定
 - **面试流程差异 vs 实习**:
   - Junior IT / Digital Program 走 **Assessment & Selection Day** 1 整天 in-person 在 Eindhoven High Tech Campus, 含 **speed-dating interviews** (多 hiring manager 短时间轮换) + **case study** (官方原文); 实习只走 HR → supervisor 2 轮
   - Recruiter 根据 Assessment Day 表现 + 候选人 preferences 匹配具体开放岗位 — 这是 Signify 独有的 "先 assessment 后岗位匹配" 模式
@@ -65,7 +71,7 @@
 - **录取竞争**: 没有官方公开 application volume; Glassdoor 全公司平均面试体验中等; 国际生友好度中等 — 公司国际化但 cohort 偏 EU 本地
 - **关键链接**:
   - Signify Junior Digital Program (Graduate) Workday 岗位 (实际打开过, HTTP 抓取受限但 URL + 描述确认): https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Signify-s-Junior-Digital-Program--Graduate-_338660
-  - Signify Junior IT Program (Graduate) The Muse 镜像 (实际通过搜索摘要确认, 含 assessment day + case study 描述): https://www.themuse.com/jobs/signify/signifys-junior-it-program-graduate
+  - Signify Junior IT Program (Graduate) The Muse 镜像 (实际通过搜索摘要确认, 含 assessment day + case study 描述): https://www.careers.signify.com/global/en/new-graduates
   - Signify new graduates 官方入口 (实际打开过, Talent Community 注册, 无详细信息): https://www.careers.signify.com/global/en/new-graduates
   - Software Development Engineer Hue Eindhoven (常规 junior 岗参考): https://www.careers.signify.com/jobs/software-development-engineer-hue-eindhoven/
   - Glassdoor Signify Eindhoven SWE salary (Eindhoven 城市基准 €60.6K median, 实际打开过): https://www.glassdoor.com/Salaries/eindhoven-software-engineer-salary-SRCH_IL.0,9_IC3043137_KO10,27.htm
@@ -214,7 +220,7 @@ Philips 官方公布的 Eindhoven intern 政策 (Data Science Intern 招聘描�
 - **Stipend 错觉**: Glassdoor 自动显示的 $25–$45/hr 是被 Signify Health (美国) 数据污染, 实际欧洲 intern 是 €500–€800/月 gross
 - **6 个月 commitment**: 多数岗位拒短期 (3 个月) intern, 学校学期不匹配的同学要协调好
 - **"必须 NL 大学注册" 卡死跨境申请** — 不要寄望 exception, 应优先选 Eindhoven (TU/e), Delft (TU Delft), Amsterdam (UvA/VU) 等 NL 院校的 exchange / dual degree
-- **公司近况波动**: Signify 2023–2025 经历多轮 cost cut, hire freeze 与 layoff 在不同 BU 反复 — 申请前在 Glassdoor / LinkedIn 看最新动向
+- **公司近况波动 (2026 更新)**: Signify 2023–2026 经历多轮 cost cut; **2026-01-30 最新一轮宣布全球裁 900 人 + €180M cost-cutting 计划**, 自 2023 以来累计裁员 ~6,200 人; CEO 将 2026 定义为 "transitional year", **2026-06-23 Capital Markets Day** 公布战略 review 结论; 软件类 intern 岗位 354870 已下架; 申请前必看 Glassdoor 最新 reviews + LinkedIn 看 Signify Eindhoven 员工动向 [来源 (实际打开过): https://www.metaintro.com/blog/signify-job-cuts-2026]
 - **"Philips" 品牌混淆**: Hue 仍叫 Philips Hue, 但 owner 是 Signify; 申请时认准 Signify Careers 域名
 
 ---
@@ -257,6 +263,12 @@ Philips 官方公布的 Eindhoven intern 政策 (Data Science Intern 招聘描�
 - https://www.iamexpat.nl/career/employment-news/what-are-dutch-internship-immigration-rules-non-eu-nationals (NL 非 EU 实习签证)
 - https://ind.nl/en/public-register-recognised-sponsors (IND recognised sponsor 公开名录)
 - https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-sponsor (Highly Skilled Migrant 指南)
+
+### 2026 公司动态 / Layoff
+- https://www.metaintro.com/blog/signify-job-cuts-2026 (**2026-01-30 宣布 900 人裁员 + €180M cost-cutting, 实际打开过**)
+- https://finance.yahoo.com/news/signify-cut-jobs-revamp-save-123336319.html (Reuters: Signify cuts jobs in revamp to save €180M)
+- https://www.signify.com/en-hk/our-company/news/press-releases/2026/20260424-signify-first-quarter-results-2026 (Signify Q1 2026 results, 2026-04-24)
+- https://www.signify.com/static/quarterlyresults/2026/q1_2026/signify-first-quarter-results-2026-report.pdf (Q1 2026 完整 report)
 
 ### 技术栈 / 公司技术
 - https://cloud.google.com/customers/signify (Signify GKE case study)

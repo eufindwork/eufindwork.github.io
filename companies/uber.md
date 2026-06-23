@@ -1,5 +1,7 @@
 # Uber Amsterdam 实习情报
 
+> **Language**: 中文 | [English](uber.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (全职面经丰富, 实习面经偏少但 Uber 官方有公开 EMEA intern blog)
 > 公司背景: Uber Technologies Inc. (NYSE: UBER) 阿姆斯特丹 EMEA HQ, 主要负责 Marketplace / Maps / Payments / Mobile / Safety 等产品 & 工程
@@ -28,9 +30,9 @@
 > 信息丰富度: ⭐⭐⭐⭐ (Uber 全球有标准 New Grad SDE 招聘, Amsterdam / Aarhus / Sofia / Lisbon 都有公开岗位; Levels.fyi NL SWE I 数据完整 / TechPays 11 数据点 / Glassdoor 多份 Amsterdam 面经)
 > 区别于实习: 实习 3-6 个月 + EU 学生院校优先; **New Grad SDE** 全职 IND Kennismigrant + 30% ruling, 国际生待遇大幅提升
 
-- **常见岗位名**: **Software Engineer (New Grad)** / **Software Engineer I** / **Software Engineer II** (1-2 yrs); Uber 内部 level **L3 / SWE I** = New Grad, **L4 / SWE II** = Junior/Mid; 没有专门的 "Graduate Programme" 品牌, 走标准 SWE 招聘 + new-grad 蓄水池 [来源 (搜索结果): https://www.uber.com/us/en/careers/locations/amsterdam/]
+- **常见岗位名**: **Software Engineer (New Grad)** / **Software Engineer I** / **Software Engineer II** (1-2 yrs); Uber 内部 level **L3 / SWE I** = New Grad, **L4 / SWE II** = Junior/Mid; 没有专门的 "Graduate Programme" 品牌, 走标准 SWE 招聘 + new-grad 蓄水池 [来源 (搜索结果): https://jobs.uber.com/en/locations/amsterdam/]
 - **欧洲地点**:
-  - **Amsterdam (EMEA HQ, Mr Treublaan 7)**: New Grad 名额最多但竞争最激烈 (Mobility / Maps / Payments / Safety 团队), 2026 公开岗仍以 Senior / Staff 为主 [来源 (搜索结果): https://www.uber.com/global/en/careers/list/]
+  - **Amsterdam (EMEA HQ, Mr Treublaan 7)**: New Grad 名额最多但竞争最激烈 (Mobility / Maps / Payments / Safety 团队), 2026 公开岗仍以 Senior / Staff 为主 [来源 (搜索结果): https://jobs.uber.com/]
   - **Aarhus (DK)**: Grail / Data infrastructure 团队, New Grad 数据 / 后端岗位
   - **Sofia (BG)**: Mobile / Web frontend New Grad (薪资 ~1/3 Amsterdam, 但 cohort 最大)
   - **Lisbon (PT)**: 2024 新增, Marketplace 团队, New Grad 名额开始扩大
@@ -59,8 +61,8 @@
   - 总流程 6-8 周 (实习 5-6 周)
 - **录取竞争**: Amsterdam New Grad SDE 录取率 **~2-4%** (申请池 5,000-8,000), 比实习更卷; Aarhus / Sofia 因地点冷门反而录取率 ~8-12%; **中国学生 friendliness 高于 Booking / Adyen** (Uber 全球 hire 文化)
 - **关键链接**:
-  - Uber 全球 career: https://www.uber.com/global/en/careers/
-  - Uber Amsterdam location page: https://www.uber.com/us/en/careers/locations/amsterdam/
+  - Uber 全球 career: https://jobs.uber.com/
+  - Uber Amsterdam location page: https://jobs.uber.com/en/locations/amsterdam/
   - Levels.fyi Uber SWE Greater Amsterdam (2026-05 实读): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area
   - Levels.fyi Uber SWE I Netherlands (€85K median): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands
   - TechPays NL Uber entry-level: https://techpays.com/europe/netherlands/uber/amsterdam/entry-level
@@ -116,13 +118,13 @@ Uber 是欧洲 mobility/delivery 中**门槛最高的实习**之一, 流程明�
 | 时间 | 岗位/城市 | 流程概述 | 题目/题型 | 结果 | 来源 |
 |------|----------|---------|----------|------|------|
 | 2022-07 → 2023-01 | SWE Intern → SWE I / Amsterdam | 6 个月实习 → 转正 Driver Earnings Experience team | — (blog 未给具体题) | Offer | [Uber EMEA Intern Blog](https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/) |
-| 2021-09 | SWE Intern → SWE II / Aarhus → mentor | 实习生 → 现 UCS team mentor | distributed systems | Offer | [Uber Blog](https://www.uber.com/blog/uber-swe-intern-emea/) |
-| 2023 (summer) | SWE Intern / Aarhus | 3 个月 → 转正 | leetcode medium + behavioral | Offer | [Uber Blog Tips from Aarhus](https://www.uber.com/blog/ace-an-uber-engineering-interview-tips-from-aarhus/) |
+| 2021-09 | SWE Intern → SWE II / Aarhus → mentor | 实习生 → 现 UCS team mentor | distributed systems | Offer | [Uber Blog](https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/) |
+| 2023 (summer) | SWE Intern / Aarhus | 3 个月 → 转正 | leetcode medium + behavioral | Offer | [Uber Blog Tips from Aarhus](https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/) |
 | — | Senior SDE / Amsterdam | HR + HM + take-home (7 天) + 2-3 onsite | take-home 设计 + system design | Offer (multi-company) | [Aikikode Blog](https://aikikode.me/blog/interview-preparation-2022/) |
 | 2024-ish | SWE / Amsterdam | 4-5 轮 (HR + HM + 多个技术) | DP, linked list, base conversion (CodeSignal); LLD; behavioral | Multiple reports on Glassdoor | [Glassdoor](https://www.glassdoor.com/Interview/Uber-Amsterdam-Interview-Questions-EI_IE575263.0,4_IL.5,14_IM1112.htm) |
 | — | SWE / Amsterdam | LeetCode 风格 + system design | DP, linked list, basic conversions; LLD: parking lot 类 | — | [Blind](https://www.teamblind.com/post/Uber-Amsterdam-interview-experience-CYzHAUmP) |
 | — | SWE Intern / GeeksforGeeks | OA 3 题: DP + linked list + base conv | — | — | [GFG](https://www.geeksforgeeks.org/interview-experiences/uber-interview-experience-for-swe-intern/) |
-| — | Tips from Aarhus | — | 建议: 多刷 LeetCode medium, 提前准备 STAR 故事 | — | [Uber Blog](https://www.uber.com/blog/ace-an-uber-engineering-interview-tips-from-aarhus/) |
+| — | Tips from Aarhus | — | 建议: 多刷 LeetCode medium, 提前准备 STAR 故事 | — | [Uber Blog](https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/) |
 
 ### 真实题型样本 (来自社区聚合)
 - **OA (CodeSignal)**: DP (e.g., longest increasing subsequence), Linked list reverse / merge, Base conversion (binary/octal/hex)
@@ -152,9 +154,9 @@ Uber 是欧洲 mobility/delivery 中**门槛最高的实习**之一, 流程明�
 
 ## 6. 申请渠道与建议
 
-- **官方早期人才页**: https://www.uber.com/us/en/careers/teams/university/
+- **官方早期人才页**: https://jobs.uber.com/en/teams/emerging-talent/
 - **EMEA SWE 实习介绍 blog**: https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/
-- **Aarhus 面试 tips (Uber 官方)**: https://www.uber.com/blog/ace-an-uber-engineering-interview-tips-from-aarhus/
+- **Aarhus 面试 tips (Uber 官方)**: https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/
 - **LinkedIn**: 直接搜 "Uber Amsterdam Software Engineer Intern", recruiter 经常发起对话
 
 ### 推荐策略
@@ -193,9 +195,9 @@ Uber 是欧洲 mobility/delivery 中**门槛最高的实习**之一, 流程明�
 
 ## 8. 关键链接汇总
 
-- 大学招聘入口: https://www.uber.com/us/en/careers/teams/university/
+- 大学招聘入口: https://jobs.uber.com/en/teams/emerging-talent/
 - EMEA SWE Intern Blog: https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/
-- Aarhus 面试 tips: https://www.uber.com/blog/ace-an-uber-engineering-interview-tips-from-aarhus/
+- Aarhus 面试 tips: https://jobs.uber.com/en/people-stories/life-at-uber/inside-uber-s-software-engineering-internship-in-emea/
 - Uber Engineering Amsterdam team: https://www.uber.com/blog/uber-engineering-amsterdam-team-profile/
 - Uber Engineering Blog: https://eng.uber.com / https://www.uber.com/blog/
 - Glassdoor 面经: https://www.glassdoor.com/Interview/Uber-Amsterdam-Interview-Questions-EI_IE575263.0,4_IL.5,14_IM1112.htm
@@ -205,5 +207,5 @@ Uber 是欧洲 mobility/delivery 中**门槛最高的实习**之一, 流程明�
 - Levels.fyi Uber SWE Greater Amsterdam (2026-05 实读, L3-L5b): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area
 - Levels.fyi Uber SWE I Netherlands (entry-level €85K median): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands
 - TechPays Uber Amsterdam entry-level (4 数据点 €75.7K): https://techpays.com/europe/netherlands/uber/amsterdam/entry-level
-- Uber Amsterdam location 官方页: https://www.uber.com/us/en/careers/locations/amsterdam/
+- Uber Amsterdam location 官方页: https://jobs.uber.com/en/locations/amsterdam/
 - NL 2026 Kennismigrant threshold: https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026

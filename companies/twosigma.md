@@ -1,5 +1,7 @@
 # Two Sigma (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](twosigma.en.md)
+>
 > NYC 总部的 systematic / ML-driven HF, London 是欧洲二号站. 自称"科技公司 + HF", 工程师占比 ~2/3. 全 cash 薪酬 (无 stock), bonus 是 firm-wide P&L 分配, dispersion 比 pod-shop 小.
 
 ---

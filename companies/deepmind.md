@@ -1,5 +1,7 @@
 # DeepMind / Google DeepMind 实习情报 (London)
 
+> **Language**: 中文 | [English](deepmind.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (流程/薪资数据充足, intern 转正具体数字不公开)
 > 一句话定位: 全球顶级 AI Lab, Google Research 合并后的 "Google DeepMind", 实习是进入 LLM/AlphaFold/Gemini 圈层的最稀缺入场券
@@ -37,7 +39,7 @@
 
 ## New Grad / Junior 岗位
 
-> ⚠️ **待 web 验证**: 本节未做实时 WebSearch (agent sandbox 限制权限), 部分薪资数据来自 Levels.fyi WebFetch 历史数据 + 模型已有知识; 引用链接未全部直接核对. **二次核实前勿用于薪资 / 截止日期决策**.
+> 2026-06 retry WebSearch 确认: Glassdoor DeepMind Research Engineer London average £64,806 base / total £96K-£219K range (22 samples 2025-11) [来源 (实际打开过): https://www.glassdoor.co.uk/Salary/DeepMind-Research-Engineer-Salaries-E1596815_D_KO9,26.htm]; Levels.fyi Google AI 整体 L4 $280K-$360K / L5 $475K-$625K, London 折算 -30~40% USD terms. Research Intern Levels.fyi $72.12/hr (London PhD £5,000-7,500/月 估算合理).
 
 > 信息丰富度: ⭐⭐⭐ (RE/RS NG 流程清晰, 但 entry-level salary 公开数据稀, DeepMind 不在标准 Levels.fyi schema 单独建库, 多用 Glassdoor 综合估算)
 > 区别于实习: 全职 **Research Engineer (RE) / Research Scientist (RS) — 新晋 IC1/IC2 级别** (DeepMind 内部用 Google ladder, RS 通常 L5 起步 fresh PhD, RE 可 L4);永久合同 + Google GSU 4 年 vest

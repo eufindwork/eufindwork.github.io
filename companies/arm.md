@@ -1,5 +1,7 @@
 # Arm (剑桥) 实习情报
 
+> **Language**: 中文 | [English](arm.en.md)
+>
 > Arm Holdings (软银控股,2023 NASDAQ IPO) 是全球 IP 半导体核心,几乎所有 ARM 架构 SoC 的根源都在剑桥 Fulbourn Road 总部。Arm 是英国"硬科技"实习的旗舰品牌,**placement 文化极成熟**,有完整 3 / 6 / 12 个月 + 两年 Part-time Undergraduate Programme,Chinese / Indian 学生历史招聘量大。
 
 ## 1. 公司速览

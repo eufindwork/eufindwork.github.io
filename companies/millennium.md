@@ -1,5 +1,7 @@
 # Millennium (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](millennium.en.md)
+>
 > 全球最大的 multi-manager / pod-based HF, AUM ~$73bn. London 是 Millennium International 主体 (欧亚分部, 800+ 员工). pod-based 意味着每个 PM 自带团队, 招聘高度去中心化 — 各 pod 招聘节奏 / 流程 / 薪酬独立, **没有统一 Grad Programme**.
 
 ---

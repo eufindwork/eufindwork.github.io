@@ -1,5 +1,7 @@
 # Spotify 实习情报（Stockholm / London / NYC）
 
+> **Language**: 中文 | [English](spotify.en.md)
+>
 > 范围：Backend Engineering Intern、Machine Learning Engineering Intern、Mobile (iOS / Android) Engineering Intern。重点关注 Stockholm（瑞典）与 London（英国）办公室，并对比 NYC。
 
 ---

@@ -1,5 +1,7 @@
 # ASML 实习情报
 
+> **Language**: 中文 | [English](asml.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (官方信息透明, 面经偏散但有 Glassdoor/JoinTaro/1point3acres 多源)
 > 公司背景: 全球极紫外光刻机 (EUV) 唯一供应商, 台积电/三星/Intel 的核心设备供应商. HQ 在 Veldhoven (Eindhoven 旁), 全球员工 ~40,000 人
@@ -39,7 +41,7 @@
   - **Management Traineeship - Technology** — 3 年 rotational, 跨多部门 + 战略 + 技术挑战 [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates]
   - **Manufacturing Gateway Program** — 半导体制造 / 流程优化 / 质量控制 / 供应链方向
   - **IT Gateway Program** — software dev / data analysis / IT infra
-  - **Sourcing & Supply Chain Graduate Acceleration Program** — 含 13th 月薪 + 8% holiday allowance + 40 天 PTO + pension [来源 (搜索结果): https://www.asml.com/en/careers/find-your-job/sourcing-and-supply-chain-graduate-acceleration-program-j00338943]
+  - **Sourcing & Supply Chain Graduate Acceleration Program** — 含 13th 月薪 + 8% holiday allowance + 40 天 PTO + pension [来源 (搜索结果): https://www.asml.com/en/careers/find-your-job]
   - **Engineering Career Starter** — 直接全职 SWE / EE / Optics, 不轮岗
   - **PhD-track Graduate** — 与 TU/e, TU Delft, Twente 合作
 - **非EU签证 (全职)**:
@@ -64,7 +66,7 @@
 - **录取竞争**: ASML Starter 在 NL 最有竞争力的 employer brand 之一 (Universum 排名 NL #1 Engineering employer), 申请池每年 30,000+, Starter 录取率 ~5-8%; **对国际生极 friendly** (公司本身 40% 员工是国际人才); 中国学生通过率高于 booking / adyen 因技术 fit > 业务 sense
 - **关键链接**:
   - ASML Students & New Graduates 官方入口: https://www.asml.com/en/careers/students-new-graduates
-  - ASML Early Career Programs: https://www.asml.com/en/careers/students-graduates/programs-for-graduates/early-career-programs
+  - ASML Early Career Programs: https://www.asml.com/en/careers/students-new-graduates
   - Career 总入口: https://www.asml.com/en/careers/find-your-job
   - Levels.fyi ASML SWE Netherlands (2026-05-27 实读): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands
   - Levels.fyi ASML SWE Eindhoven 区域: https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven
@@ -163,7 +165,7 @@ ASML 流程相对**比互联网公司轻**, 重 fit + project match, 少 leetcod
 - **官方实习页**: https://www.asml.com/en/careers/students-new-graduates/netherlands/internships
 - **学生&新毕业入口**: https://www.asml.com/en/careers/students-new-graduates
 - **CompLitho intern 示例职位**:
-  - https://www.asml.com/en/careers/find-your-job/computer-science--physics-internship-enhance-machine-learning-infrastructure-j00335989
+  - https://www.asml.com/en/careers/find-your-job
 - **TU Delft / TU/e / Twente / WUR / RWTH / KU Leuven** 校园招聘强存在感, TU/e 几乎是 ASML 直供
 - **PhD events**: ASML 在 NL 和 US 有专门 PhD workshop, 注册免费且常有现场 referral 机会
 
@@ -214,8 +216,8 @@ ASML 流程相对**比互联网公司轻**, 重 fit + project match, 少 leetcod
 - JoinTaro 经验: https://www.jointaro.com/interviews/companies/asml/
 - Glassdoor (Eindhoven): https://www.glassdoor.com/Interview/ASML-Eindhoven-Interview-Questions-EI_IE5781.0,4_IL.5,14_IM1106.htm
 - Blind 讨论: https://www.teamblind.com/company/ASML/posts/asml-interview
-- ASML Early Career Programs (官方伞): https://www.asml.com/en/careers/students-graduates/programs-for-graduates/early-career-programs
-- ASML Sourcing & Supply Chain Graduate Acceleration Program: https://www.asml.com/en/careers/find-your-job/sourcing-and-supply-chain-graduate-acceleration-program-j00338943
-- ASML Management Traineeship Technology: https://www.asml.com/en/careers/find-your-job/management-traineeship-technology-j00339421
+- ASML Early Career Programs (官方伞): https://www.asml.com/en/careers/students-new-graduates
+- ASML Sourcing & Supply Chain Graduate Acceleration Program: https://www.asml.com/en/careers/find-your-job
+- ASML Management Traineeship Technology: https://www.asml.com/en/careers/find-your-job
 - Levels.fyi ASML SWE Netherlands (2026-05): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands
 - NL 2026 Kennismigrant threshold (Jobbatical): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026

@@ -1,5 +1,7 @@
 # Amazon 实习情报 (欧洲)
 
+> **Language**: 中文 | [English](amazon.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (中高, Levels.fyi/Glassdoor/LeetCode/Medium 数据点充足; LP 与 OA 流程信息特别详尽)
 > 覆盖城市: Berlin / London / Luxembourg / Dublin / Madrid (并附 Cambridge UK / Edinburgh / Manchester / Munich / Paris 旁证)

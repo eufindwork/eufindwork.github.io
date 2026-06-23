@@ -1,5 +1,7 @@
 # Apple 实习情报 (London / Munich / Cambridge UK)
 
+> **Language**: 中文 | [English](apple.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (Munich 数据最厚, London/Cambridge ML 数据次之)
 > 一句话定位: 全球最值钱的硬件+软件+服务公司, 欧洲三大工程中心 (Munich Silicon, London Pay/Swift Server, Cambridge AIML)

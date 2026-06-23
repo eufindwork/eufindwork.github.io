@@ -1,5 +1,7 @@
 # Hudson River Trading (HRT, London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](hrt.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (Wikipedia + 官方 student-opps + Levels.fyi + Companies House 财报 (£940k 均薪) + Quantt 角色拆分 + Glassdoor; 缺 London 单独 SWE TC breakdown)
 > 一句话定位: 2002 年纽约创立的算法交易公司, 全球 800+ / London ~150-152 人 (Companies House 三实体合计), 不是纯 HFT — 持仓 ~5 分钟均时 + 25% overnight; **特别强 FPGA / 硬件 + algo dev**; London 是欧洲核心, Skilled Worker sponsor 积极

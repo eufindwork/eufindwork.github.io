@@ -1,5 +1,8 @@
 # Delivery Hero 实习情报（Berlin HQ）
 
+> **Language**: 中文 | [English](deliveryhero.en.md)
+>
+
 > 范围：Software Engineering Intern、Data Analyst / Data Engineering Intern。Delivery Hero 是全球 70+ 国家运营的食品 / 杂货配送巨头，旗下品牌包括 foodpanda（亚洲）、Talabat（中东）、PedidosYa（南美）、Glovo（南欧 / 拉美，2022 完全合并）、Yemeksepeti（土耳其）等，工程总部主要在 **Berlin Mitte**。
 
 ---

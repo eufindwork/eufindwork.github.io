@@ -1,5 +1,7 @@
 # TomTom 实习情报
 
+> **Language**: 中文 | [English](tomtom.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐ (官方流程页清晰, 但实习面经稀疏, 公司处于战略收缩期)
 > 公司背景: 老牌荷兰导航/地图公司, 上市 (AMS: TOM2), 商业模式从 GPS 设备转为 B2B 地图数据 (汽车厂 / Apple / Volkswagen / Renault)

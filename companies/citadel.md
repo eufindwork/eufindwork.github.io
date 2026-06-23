@@ -1,5 +1,7 @@
 # Citadel (HF) + Citadel Securities (MM) (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](citadel.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Wikipedia + 官方 careers (Citadel + Citadel Securities 两入口) + Levels.fyi London 直读 £280K median + Glassdoor + Citadel Engineering blog + Companies House 05462867 sponsor 确认)
 > 一句话定位: Ken Griffin 1990 创立的 hedge fund **Citadel LLC** + 2002 spinoff 的做市商 **Citadel Securities** (两家公司, 同 Griffin 控股); HQ 2022 从 Chicago 搬到 Miami; **London 是欧洲最大 office 且共同申请**; SWE London L3 median TC **£280K**; Skilled Worker sponsor 积极

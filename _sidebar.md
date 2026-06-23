@@ -2,6 +2,16 @@
   - [🏠 总览 / 对比表](/README.md)
   - [📋 单家公司模板](/_template.md)
 
+- **🇳🇱 UvA 零摩擦优先 (NL-based)** 🆕
+  - [Picnic 🇳🇱](/companies/picnic.md)
+  - [Swisscom Rotterdam 🇳🇱](/companies/swisscom.md)
+  - [Prosus 🇳🇱 🆕](/companies/prosus.md)
+  - [Mollie 🇳🇱](/companies/mollie.md)
+  - [Bunq 🇳🇱](/companies/bunq.md)
+  - [Miro 🇳🇱](/companies/miro.md)
+  - [Vinted 🇱🇹+🇳🇱](/companies/vinted.md)
+  - [Personio (AMS+Munich+Berlin+Dublin) 🇳🇱+🇩🇪+🇮🇪](/companies/personio.md)
+
 - **🏢 大厂欧洲办公室**
   - [Google](/companies/google.md)
   - [Meta](/companies/meta.md)
@@ -13,7 +23,7 @@
 
 - **🌐 中型国际科技公司**
   - [JetBrains ⭐](/companies/jetbrains.md)
-  - [Booking](/companies/booking.md)
+  - [Booking ⭐](/companies/booking.md)
   - [Adyen](/companies/adyen.md)
   - [ASML](/companies/asml.md)
   - [Signify ⭐](/companies/signify.md)
@@ -25,6 +35,18 @@
   - [Canva](/companies/canva.md)
   - [Nebius ⭐](/companies/nebius.md)
   - [Snowflake](/companies/snowflake.md)
+  - [Stripe](/companies/stripe.md)
+  - [Notion](/companies/notion.md)
+  - [Salesforce](/companies/salesforce.md)
+  - [Palantir](/companies/palantir.md)
+  - [Datadog](/companies/datadog.md)
+  - [Algolia](/companies/algolia.md)
+  - [Dataiku](/companies/dataiku.md)
+  - [Contentsquare](/companies/contentsquare.md)
+  - [Celonis](/companies/celonis.md)
+  - [Workday (Dublin)](/companies/workday.md)
+  - [HubSpot (Dublin+Berlin)](/companies/hubspot.md)
+  - [Twilio (Dublin+London)](/companies/twilio.md)
 
 - **🇪🇺 欧洲本土科技公司**
   - [Spotify](/companies/spotify.md)
@@ -38,12 +60,52 @@
   - [Revolut](/companies/revolut.md)
   - [Arm](/companies/arm.md)
   - [Improbable](/companies/improbable.md)
+  - [Doctolib](/companies/doctolib.md)
+  - [BlaBlaCar](/companies/blablacar.md)
+  - [Trade Republic](/companies/traderepublic.md)
+  - [OutSystems](/companies/outsystems.md)
+  - [Unbabel](/companies/unbabel.md)
+  - [Bending Spoons](/companies/bendingspoons.md)
+  - [Showpad](/companies/showpad.md)
+  - [Collibra](/companies/collibra.md)
+  - [Wise (London+Tallinn+Budapest)](/companies/wise.md)
+  - [Qonto (Paris)](/companies/qonto.md)
+  - [Pleo (Copenhagen)](/companies/pleo.md)
+  - [King (Stockholm+London+Barcelona)](/companies/king.md)
+  - [Voi (Stockholm)](/companies/voi.md)
+  - [Wolt (Helsinki)](/companies/wolt.md)
+  - [Supercell (Helsinki)](/companies/supercell.md)
+  - [Free Now (Hamburg)](/companies/freenow.md)
+  - [Trivago (Düsseldorf)](/companies/trivago.md)
 
-- **🤖 AI / ML 专项**
+- **🤖 AI / ML / GenAI 专项**
   - [Hugging Face](/companies/huggingface.md)
   - [Cohere](/companies/cohere.md)
   - [Stability AI](/companies/stabilityai.md)
   - [Alan](/companies/alan.md)
+  - [Anthropic](/companies/anthropic.md)
+  - [OpenAI](/companies/openai.md)
+  - [Aleph Alpha](/companies/alephalpha.md)
+  - [Black Forest Labs](/companies/blackforestlabs.md)
+  - [DeepL](/companies/deepl.md)
+  - [ElevenLabs](/companies/elevenlabs.md)
+  - [Speechmatics](/companies/speechmatics.md)
+  - [Synthesia](/companies/synthesia.md)
+  - [Photoroom](/companies/photoroom.md)
+  - [Lovable](/companies/lovable.md)
+  - [Helsing](/companies/helsing.md)
+  - [Wayve](/companies/wayve.md)
+  - [Cradle](/companies/cradle.md)
+  - [IQM Quantum](/companies/iqm.md)
+
+- **🛡️ Cybersecurity / DevTools / Cloud Infra** 🆕
+  - [Darktrace (Cambridge+London)](/companies/darktrace.md)
+  - [Snyk (London)](/companies/snyk.md)
+  - [Cloudflare (London+Lisbon)](/companies/cloudflare.md)
+  - [Sophos (Abingdon+Karlsruhe)](/companies/sophos.md)
+  - [Vercel (London+Berlin)](/companies/vercel.md)
+  - [Aiven (Helsinki+Berlin)](/companies/aiven.md)
+  - [Ocado (Hatfield UK)](/companies/ocado.md)
 
 - **🧮 量化金融 — 做市商 (Market Makers)**
   - [Jane Street](/companies/janestreet.md)

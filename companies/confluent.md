@@ -1,5 +1,7 @@
 # Confluent (伦敦) 实习情报
 
+> **Language**: 中文 | [English](confluent.en.md)
+>
 > Confluent 是 Apache Kafka 的商业化母公司,由 Kafka 原作者团队创立。欧洲业务以伦敦为核心,业务重心是分布式流处理、Kafka 平台与 "Data in Motion" 基础设施。对志在分布式系统的实习生而言是顶级品牌。
 
 ## 1. 公司速览

@@ -1,5 +1,8 @@
 # Google 实习情报 (EU 办公室)
 
+> **Language**: 中文 | [English](google.en.md)
+>
+
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (STEP/SWE 信息丰富,Warsaw/Research 略稀疏)
 > 一句话定位: 欧洲 Tier 1 实习中的"金标准";苏黎世薪资全球最高梯队,但门槛极高,STEP 项目对一二年级本科尤其友好

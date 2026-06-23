@@ -1,5 +1,7 @@
 # Zalando 实习情报（Berlin / Helsinki / Dublin）
 
+> **Language**: 中文 | [English](zalando.en.md)
+>
 > 范围：Software Engineering Intern、Machine Learning / Applied Science Intern、Data Engineering / Data Science Intern。Berlin 是 Zalando 最大的 tech hub，Helsinki 是第二大 tech hub（专门有 Future Talent Program），Dublin 也有 fashion store engineering 团队。
 
 ---

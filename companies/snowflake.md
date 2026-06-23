@@ -1,5 +1,7 @@
 # Snowflake (欧洲) — 实习情报
 
+> **Language**: 中文 | [English](snowflake.en.md)
+>
 > 美国云数据仓库 / Data Cloud 大厂 (NYSE: SNOW). 欧洲工程实习集中在 **Berlin + Warsaw** 两个 R&D hub, London / Amsterdam / Dublin / Paris 主要是 GTM/Sales/Support, **几乎不开 SWE intern**. OA 用 HackerRank, 题目"比 FAANG 还硬" (DP + 系统类居多), 国际生 friendliness 中等 — Berlin / Warsaw 工程岗对 Blue Card sponsor 友好, 但 entry-level new grad headcount 少, 主路径仍是 intern → return offer.
 
 ---

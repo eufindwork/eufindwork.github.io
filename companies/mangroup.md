@@ -1,5 +1,7 @@
 # Man Group / AHL (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](mangroup.en.md)
+>
 > 英国最老牌的 quant HF 之一, London HQ. AHL 是 systematic sub-unit (1987 成立, 与 Oxford-Man Institute 有渊源), GLG 是 discretionary 子品牌. 多个 rotational Grad Programme + 12-week Internship, 流程比 US HF 标准化.
 
 ---

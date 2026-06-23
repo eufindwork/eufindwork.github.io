@@ -1,5 +1,8 @@
 # Elastic 实习情报
 
+> **Language**: 中文 | [English](elastic.en.md)
+>
+
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐ (全职面经尚可, 实习专门信息匮乏, 校招体量极小)
 > 公司背景: Elastic N.V. (NYSE: ESTC), 开源 Elasticsearch / Kibana 母公司, 阿姆斯特丹注册, 总部实际分布式 (HQ 名义在 Amsterdam, CEO 在 SF)

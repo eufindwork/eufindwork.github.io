@@ -1,5 +1,7 @@
 # Databricks Amsterdam 实习情报
 
+> **Language**: 中文 | [English](databricks.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (北美面经极多, Amsterdam intern 也有多份真实报告)
 > 公司背景: Apache Spark 创始团队创立, AI/data lakehouse 平台龙头, **2024 估值 $62B (pre-IPO)**, Amsterdam 是 EMEA 工程主力 hub
@@ -171,8 +173,8 @@ Databricks 流程**长且严**, 是榜单中**接受率最低**的公司之一 (
 
 - **官方校招主页**: https://www.databricks.com/company/careers/university-recruiting
 - **职位列表**: https://www.databricks.com/company/careers/open-positions
-- **Amsterdam SWE Intern 2026 直链**: https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866534002
-- **Amsterdam PM Intern 2026 直链**: https://www.databricks.com/company/careers/product/product-management-intern-2026---amsterdam-8133715002
+- **Amsterdam SWE Intern 2026 直链**: https://www.databricks.com/company/careers/open-positions
+- **Amsterdam PM Intern 2026 直链**: https://www.databricks.com/company/careers/open-positions
 - **面试准备指南 (官方)**: https://www.databricks.com/company/careers/interview-prep
 
 ### 推荐策略
@@ -220,9 +222,9 @@ Databricks 流程**长且严**, 是榜单中**接受率最低**的公司之一 (
 
 - 官方校招主页: https://www.databricks.com/company/careers/university-recruiting
 - 全部职位: https://www.databricks.com/company/careers/open-positions
-- Amsterdam SWE Intern 2026: https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866534002
-- Amsterdam PM Intern 2026: https://www.databricks.com/company/careers/product/product-management-intern-2026---amsterdam-8133715002
-- Berlin PM Intern 2026 (备选): https://www.databricks.com/company/careers/product/product-management-intern-2026---berlin-8145776002
+- Amsterdam SWE Intern 2026: https://www.databricks.com/company/careers/open-positions
+- Amsterdam PM Intern 2026: https://www.databricks.com/company/careers/open-positions
+- Berlin PM Intern 2026 (备选): https://www.databricks.com/company/careers/open-positions
 - 官方面试准备页: https://www.databricks.com/company/careers/interview-prep
 - 工程文化博客: https://www.databricks.com/company/careers/engineering-at-databricks
 - Engineering Blog: https://www.databricks.com/blog/category/engineering

@@ -1,5 +1,7 @@
 # Hugging Face (巴黎 / Remote) — 实习情报
 
+> **Language**: 中文 | [English](huggingface.en.md)
+>
 > 全球开源 ML 社区中心, 法美双总部 (Paris + NYC), 几乎所有岗位都支持 remote. 招聘**极度看重开源贡献** — GitHub PR/HF Hub 上的可见 contribution 权重高过传统 CV. 实习 stipend 在欧洲算高 (€35K/年 gross = €2.9K/月).
 
 ---

@@ -1,8 +1,16 @@
 # Nebius 实习情报
 
-> 更新时间: 2026-05-26 (REFRESH 版, 此前 WebSearch 被拒, 本次已重新抓取)
-> 信息丰富度: ⭐⭐⭐⭐ (官方 careers + 4 个 Taro 真实面经 + Codeforces 联名活动 + Glassdoor 评价)
-> 一句话定位: 由 Yandex N.V. 在 2024 年重组而来的 AI Cloud 公司, 总部 Amsterdam, 业务为 GPU/AI 训练基础设施, 实习有官方 "Early Talent Program" (2026 年 2 月 9 日 — 5 月 31 日招收) — **核心痛点: 官方明确不提供 intern visa sponsorship**
+> **Language**: 中文 | [English](nebius.en.md)
+>
+> 更新时间: 2026-06-01 (本次重跑: 验证 ETP 2026 cycle 状态 + Q1 2026 财报 + careers 实时数据)
+> 信息丰富度: ⭐⭐⭐⭐ (官方 careers + 4 个 Taro 真实面经 + Codeforces 联名活动 + Q1 2026 SEC 财报 + Glassdoor 评价)
+> 一句话定位: 由 Yandex N.V. 在 2024 年重组而来的 AI Cloud 公司, 总部 Amsterdam, 业务为 GPU/AI 训练基础设施, 实习有官方 "Early Talent Program" (2026 年 2 月 9 日 — 5 月 31 日招收, **6 月 1 日 cohort 已开始**, 下一 cycle 推测 2027 年 2 月再开) — **核心痛点: 官方明确不提供 intern visa sponsorship**
+
+### 2026 公司动态 (重要 context for 求职者)
+- **股价 / 市值**: NBIS 当前 **$221.99**, 市值 **$57.38B** (2026-06 数据) — 较 2024-10 复牌时翻数倍, 是 AI infra 最受市场认可的纯欧洲股之一 [来源 (实际打开过): https://finance.yahoo.com/quote/NBIS/]
+- **Q1 2026 财报**: 营收 **$399M**, 净利润 **$621M** (单季已超过 2025 全年; 主要来自一次性投资收益但运营也大增) [来源 (实际打开过): https://www.stocktitan.net/sec-filings/NBIS/6-k-nebius-group-n-v-current-report-foreign-issuer-a9d248e84219.html]
+- **Share-based compensation**: Q1 2025 $17.5M → Q1 2026 **$35.3M (+102% YoY)** — RSU 占比明显放大, 重新评估下方 G16 stock $2.34K/yr 时应考虑近期 grant 规模翻倍趋势
+- **招聘节奏**: ETP 2026 是首届大规模 cohort, 6/1 已开始; 全公司 careers.nebius.com 仍维持 **356 个开放岗位** (与 2026-05 持平), 其中 **10 个 Early Talent / Early Career tag**
 
 ---
 
@@ -30,7 +38,19 @@
 | **Kansas City + US 多地** | US | Data Center Technician, Solution Architect (Early Talent) |
 | **Remote** | EU + US | AI Researcher 等可远程 (但 Early Talent Program 主体仍是 office-based) |
 
-> 来源: careers.nebius.com 实时列表 (2026-05-26, 共 356 个开放岗位, 含 ~10+ "Early Talent" tag)
+> 来源: careers.nebius.com 实时列表 (2026-06-01 重抓, 共 **356 个开放岗位**, **10 个 "Early Talent" / "Early Career" tag**) [来源 (实际打开过): https://careers.nebius.com/]
+>
+> **2026-06-01 重抓的 10 个 Early Talent / Early Career 岗位**:
+> 1. AI/ML Specialist Solution Architect (Early Talent) — United States
+> 2. AI Researcher (Early Talent) — Amsterdam / Berlin / Remote EU / Remote US
+> 3. Cloud Engineer (Early Talent Program) — Amsterdam
+> 4. Data Center Technician (Early Talent) — Modiin / Mäntsälä
+> 5. Data Center Technician (Early Talent) — Kansas City, MO
+> 6. ML Engineer - Life Sciences (Early Talent) — Amsterdam
+> 7. Network Engineer (AI Infrastructure) Early Career — Amsterdam
+> 8. Product Operations Specialist (Early Talent Program) — Amsterdam
+> 9. Software Engineer (Early Talent) — Amsterdam
+> 10. Site Reliability Engineer (SRE) AI Infrastructure (Early Career) — Amsterdam
 
 ### 实习岗位类型 (聚焦欧洲)
 - **Software Engineer (Early Talent)** — Technology, Amsterdam
@@ -43,14 +63,16 @@
 - **Data Center Technician (Early Talent)** — Modiin / Mäntsälä / Kansas City (硬件类, 与 SWE 性质不同)
 
 ### 实习时长与招聘周期
-- **官方时长**: **2–3 个月** (官方原文; exact duration depends on the team and project)
-- **2026 cycle 时间表** (官方页面):
-  - **申请窗口**: 2026-02-09 至 2026-05-31
-  - **Recruitment process**: 2026-03-03 至 2026-05-31
-  - **Program start**: 2026-06-01 (with possible variations)
-- **形式**: Office-based (官方强调 "deliberately chosen to ensure deep immersion, fast onboarding, strong team integration")
-- **薪资**: "Competitive salary at a level comparable to a junior full-time employee" (官方表述, 无具体数字)
+- **官方时长**: **2–3 个月** (官方原文; "exact duration depends on the team and project")
+- **2026 cycle 时间表** (官方页面, 2026-06-01 验证):
+  - **申请窗口**: 2026-02-09 至 2026-05-31 (**已关闭**, 本次重跑日期已在窗口之外)
+  - **Recruitment process**: 2026-03-03 至 2026-05-31 (**已完成**)
+  - **Program start**: **2026-06-01 (with possible variations)** — 第一届 cohort 已经在 6 月 1 日开始
+  - **下一 cycle**: 官方未明确, 推测 2027-02 开放 (复制 2026 节奏)
+- **形式**: Office-based (官方原文 "deliberately chosen to ensure deep immersion, fast onboarding, and strong team integration")
+- **薪资**: "You'll be compensated at a level comparable to a junior full-time employee, because you won't just be watching from the sidelines" (2026-06 官方原文, 无具体数字)
 - **Mentorship**: Buddy pairing, 每位 Early Talent 配 1 个 team buddy
+- **Performance review + conversion**: 项目结束有正式 performance review; conversion 走 case-by-case ("Based on how things go and current business needs, a full-time role may be offered")
 
 ---
 
@@ -70,14 +92,15 @@
   - Berlin (DE) 走 EU Blue Card (2026 IT 门槛 €43,800/年, G16 base 充分符合), Paris (FR) 走 Passeport Talent, London (UK) 走 Skilled Worker
 - **薪资范围 (base, gross/年)**:
   - **Amsterdam G16 (Junior / 入门级 SWE)**: **base $101.86K USD ≈ €94K + bonus $19K ≈ €17.6K + stock $2.34K/yr ≈ €2.1K = total $123.27K ≈ €114K** (Levels.fyi 2026-05-27 直读, n=有效数据点) — 注: 旧版本写 "€60-78K" 严重低估, **G16 直读 base 是 €94K**, total €114K [来源 (实际打开过): https://www.levels.fyi/companies/nebius/salaries/software-engineer/levels/g16/locations/greater-amsterdam-area]
+  - **Amsterdam G16 median total** (Levels.fyi 2026-05-06 最新更新): **€106,015** — 注: median 低于 anchor $123K 因 anchor 是高 bonus 数据点, median 反映 G16 整体分布更现实 [来源 (实际打开过): https://www.levels.fyi/companies/nebius/salaries/software-engineer/levels/g16/locations/greater-amsterdam-area]
   - **Amsterdam G16-G18 全 range**: €106K - €164K total (Levels.fyi 2026-05); median G16 €106K, G17 (mid) €156K
   - **NL 全国 SWE range (Nebius)**: €99.6K - €164K total
   - **Berlin AI Researcher Early Talent**: 公开数据稀疏, 无 2026 公开数据可直接引用; 业内 AI Researcher 因 publications 要求估算 + RSU 略高于 Amsterdam SWE
-  - **股权**: NBIS (Nasdaq, 2024-10 复牌) RSU; Levels.fyi G16 stock $2.34K/年 (即 4 年 vest ~$9-10K), 量级远小于 base — 表明 RSU 是 ice-cream 而非主要 comp 来源; NBIS 股价 2024-2026 波动剧烈, RSU 估值不稳
+  - **股权 (2026-06 重估)**: NBIS (Nasdaq, 2024-10 复牌, **2026-06 股价 $221.99 / 市值 $57.38B**) RSU; Levels.fyi G16 stock $2.34K/年是 2025 旧 grant 时点, **公司 Q1 2026 share-based comp 同比 +102% ($17.5M → $35.3M)** — 表明新 grant 规模翻倍, 谈 2026 offer 时 RSU 这一栏需主动谈判 (不要再 anchor 在 $2.34K/yr 这个旧数字)
   - 加 NL 8% holiday allowance + bonus ~$19K/年 (G16 数据点直读, 已 unusually 高)
 - **申请窗口**:
-  - **Early Talent Program 2026 cycle (实习为主)**: 申请窗口 **2026-02-09 至 2026-05-31**, recruitment 流程 2026-03-03 至 2026-05-31, program 6 月 1 日 start (官方原文确认) [来源 (实际打开过): https://nebius.com/early-talent-program]
-  - **Junior 全职岗位**: rolling year-round, 在 careers.nebius.com 持续发布 (2026-05 全公司 ~350 open roles 量级, "Early Talent" tag 约 10+ 个)
+  - **Early Talent Program 2026 cycle (实习为主)**: 申请窗口 **2026-02-09 至 2026-05-31 (已关闭)**, recruitment 流程 2026-03-03 至 2026-05-31 (已完成), program **2026-06-01 start 已经开始**; 下一 cycle 推测 2027-02 开放 [来源 (实际打开过): https://nebius.com/early-talent-program]
+  - **Junior 全职岗位**: rolling year-round, 在 careers.nebius.com 持续发布 (2026-06-01 实抓 **356 open roles**, "Early Talent" / "Early Career" tag **10 个 (已上方列出)**)
 - **面试流程差异 vs 实习**:
   - 实习走 4-stage 简化流程: CV screening → HR interview → Technical/role-specific assignment → Team fit / hiring manager
   - 全职 SWE 走 5-stage 完整流程: Resume → Recruiter Call → **Preliminary Interview (1h 在线编辑器 coding)** → **多轮 Technical Interviews (每轮 1h)** → Final Meeting (官方面试流程文档原文) [来源: https://nebius.com/careers/interviews/backend]

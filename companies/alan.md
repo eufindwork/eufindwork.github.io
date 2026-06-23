@@ -1,5 +1,7 @@
 # Alan (巴黎) — 实习情报
 
+> **Language**: 中文 | [English](alan.en.md)
+>
 > 法国/欧洲 healthtech 标杆, 既做健康保险又做应用平台 (B2B2C). 文化独特 ("no meeting", 完全透明薪资, written-down decisions), 工程招聘严苛但流程透明且 candidate-friendly. M2 6 个月毕业实习有明确开口.
 
 ---

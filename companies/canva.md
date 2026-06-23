@@ -1,5 +1,7 @@
 # Canva (伦敦) 实习情报
 
+> **Language**: 中文 | [English](canva.en.md)
+>
 > Canva 是澳洲设计独角兽 (估值 ~$32B),2024 年正式落地伦敦 Shoreditch,把伦敦设为欧洲总部。**伦敦办公室仍以商业、市场、设计为主,工程岗位有限**,绝大多数 Engineering Internship 仍集中在悉尼 ANZ。**信息相对匮乏**,以下信息以澳洲 SWE 实习面经为对照参考。
 
 ## 1. 公司速览

@@ -1,5 +1,8 @@
 # G-Research (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](gresearch.en.md)
+>
+
 > 英国本土最大 quant HF, London Soho Place HQ. 招聘最 cohort 化的 quant 之一 — 有正式 Graduate Programme + Internship + Placement + ML College + 自研培训体系. SWE Grad 起薪在 London 量化里数一数二, Levels.fyi L1 median £188k total.
 
 ---

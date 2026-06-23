@@ -1,5 +1,7 @@
 # Cohere (伦敦) 实习情报
 
+> **Language**: 中文 | [English](cohere.en.md)
+>
 > Cohere 是加拿大企业级 LLM 公司,创始人 Aidan Gomez 是 Transformer 论文作者之一。**伦敦是欧洲核心办公室之一**,主要承担研究 + 企业销售。2024-2025 公司营收三倍增长,完成 Paris office 扩张 (40 人)。**ML/AI Intern 面试 bar 极高,Research Intern 需 PhD 在读 + 顶会论文**;非 PhD 候选人也可能通过 Engineering Intern 入口,但仍需扎实 ML 工程经验。
 
 ## 1. 公司速览

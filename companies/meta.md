@@ -1,5 +1,7 @@
 # Meta 实习情报 (London / Amsterdam)
 
+> **Language**: 中文 | [English](meta.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐ (London 信息中等;Amsterdam 信息匮乏 — Meta 在 Amsterdam 是 sales/marketing 为主,工程实习几乎没有公开记录)
 > 一句话定位: London 是 Meta EU 主要工程实习地,薪资仅次于美国 + Zurich;PE intern 是更易切入的"后门"路径,但近两年 EU intern 招聘明显收紧

@@ -1,5 +1,7 @@
 # Criteo (巴黎) — 实习情报
 
+> **Language**: 中文 | [English](criteo.en.md)
+>
 > 法国 AdTech 出海大厂, 巴黎总部, 上市 (NASDAQ: CRTO). 实习 friendly, 大量 SWE / ML / Data 岗位, 流程对国际生相对友好, 是 Paris 区性价比最高的 ML/SWE 实习选择之一. 4-6 个月 stage, 内推系统成熟.
 
 ---

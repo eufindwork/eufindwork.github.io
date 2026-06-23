@@ -1,5 +1,7 @@
 # Susquehanna International Group (SIG) (Dublin) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](sig.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi Dublin SWE €101K-€162K 直读 + Glassdoor Trader Dublin 数据 + 官方 careers.sig.com 2026 Graduate 多职位 + Tradermath / Quant Blueprint 流程 + WSO + eFinancialCareers UK 数据)
 > 一句话定位: 1987 年 Bala Cynwyd (Philadelphia) 起家的私人 quant MM, 全球前 5 options MM, 欧洲总部 Dublin (~1,000 人), 另有 London + Amsterdam (小); 招聘文化以 **poker + decision theory** 闻名 ("交易员先学打 poker"), 不像 Optiver/IMC 重 mental math, 更重 expected value + game theory; Y1 grad TC 业内顶尖 ($275K-$375K 报道)

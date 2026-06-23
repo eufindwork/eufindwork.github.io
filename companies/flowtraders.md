@@ -1,5 +1,8 @@
 # Flow Traders (Amsterdam) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](flowtraders.en.md)
+>
+
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi Amsterdam median €129K 直读 + Glassdoor Graduate SWE €157K 中位 + 官方 4 个 Graduate Programs + Tradermath 流程 + WSO + Trading Interview mental math 75-in-10 实测)
 > 一句话定位: 2004 年阿姆斯特丹起家的 ETF Market Maker (全球 ETF MM 龙头之一), 公开上市 (FLOW.AS), 总部 Amsterdam, 全球 Singapore + NYC + HK + Cluj-Napoca; 工程比 Optiver/IMC 偏 systems engineering (非 HFT 极致低延迟), 但 trader 流程的"75题/10分钟 mental math + 集团 trading 模拟"是 ETF MM 独门特色

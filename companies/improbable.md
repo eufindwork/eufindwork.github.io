@@ -1,5 +1,7 @@
 # Improbable (伦敦) 实习情报
 
+> **Language**: 中文 | [English](improbable.en.md)
+>
 > Improbable 是 2012 年成立的英国分布式仿真公司,曾因 SpatialOS (大规模多人在线游戏底层) 估值 $2B+。**近年方向频换**: 游戏 → 防务 → 元宇宙 → Web3。2023 年卖掉防务部门 (NOIA Capital);2024-2025 公司重心转向 M-Squared / Somnia 元宇宙与 onchain 游戏。**实习生招聘明显萎缩,公开 2024 / 2025 SWE Intern 入口几乎消失**。**信息匮乏 + 公司前景不确定**,需谨慎。
 
 ## 1. 公司速览

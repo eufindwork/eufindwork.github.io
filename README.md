@@ -1,8 +1,11 @@
 # Internship Intelligence Repo
 
-> 更新时间: 2026-05-28
-> 覆盖公司: **53 家** (35 科技公司 + Snowflake + 18 量化金融新增)
-> 分类: 欧洲大厂 / 中型国际科技 / 欧洲本土 / AI/ML 专项 / 量化做市商 (MM) / 量化对冲基金 (HF)
+> **Language**: 中文 | [English](README.en.md)
+>
+> 更新时间: 2026-06-01
+> 覆盖公司: **111 家** (35 科技公司 + Snowflake + 18 量化金融 + 31 GenAI/Sponsor-friendly + 26 Cyber/Fintech/SaaS/Consumer 2026-06 + **1 Prosus 2026-06-09**)
+> 分类: 欧洲大厂 / 中型国际科技 / 欧洲本土 / AI/ML 专项 / 量化做市商 (MM) / 量化对冲基金 (HF) / GenAI Foundation Labs / **Cybersec/DevTools 2026-06**
+> **User 当前在 UvA 读硕士 (NL student visa)** — 公司按"对 UvA 摩擦"分级: NL Tier S (零摩擦) > DE/FR/IE/DK/SE Tier A (低) > UK 后 Brexit / CH Tier B (中-高)
 > 每家公司详细情报存于 [`companies/<name>.md`](companies/)
 > 数据来源: Reddit / Glassdoor / LeetCode Discuss / Blind / Levels.fyi / 1point3acres / 牛客 / 知乎 / Medium / 公司官方 / JoinTaro / TechPays / Sifted 等
 
@@ -107,6 +110,176 @@
 | **QRT (Qube Research)** | Paris (第二大) / London / 多地 | ✅ 法国 Passeport Talent (2026 €39,582/年定额) / UK Skilled Worker; deferred comp 75% bonus 3-yr | ⭐⭐⭐⭐ (5-6 轮 + 2018 ex-Credit Suisse spin-out) | 2026 Early Access Internship 5-6 月 program | Paris L3 €121k total / London Quant Researcher £118k L1 / London SWE median £135k; AUM $20-25B; 2026 ~2,000 人 | ⭐⭐⭐⭐ | [qrt.md](companies/qrt.md) |
 | **Squarepoint Capital** | London + Paris + Madrid (13 office) | ✅ UK Skilled Worker / 法国 Passeport Talent | ⭐⭐⭐ (流程 31 天平均 + Python OA + KDB+/q 技术栈) | London WSO £5-7k/月 + Medical/Dental + 401k | UK Quant Dev £85.5k-£129k Levels.fyi; ~700 人 / AUM $100B | ⭐⭐⭐⭐ | [squarepoint.md](companies/squarepoint.md) |
 
+### 7. GenAI Foundation Labs + Sponsor-friendly 2026-06 新增 (31 家) 🆕
+
+> 2026-06-01 新增. 筛选标准: (a) **GenAI / LLM / Foundation model / AI agent / AI infra / AI 应用** 方向; (b) **社群可验证的 sponsor 实证** (官方 careers 页 + 1point3acres / Reddit / Blind / GradSignal / immigrationgpt / huntukvisasponsors / French Tech Visa accredited list / Nextleveljobs / WorkWithVisa / Relocate.me). 已剔除: Owkin (明文 no sponsor intern), Faculty/Tractable/11x.ai (无 register hit), Together/Modal/Replicate/Pinecone/LangChain/LlamaIndex/Glean/Linear (EU 无 eng office).
+
+#### 7.1 GenAI Foundation Model Labs (8 家)
+
+| 公司 | 主要地点 | 方向 | 非EU签证 | 早期通道 | 全职 entry TC | 信息丰富度 | 文件 |
+|------|----------|------|---------|---------|--------------|-----------|------|
+| **Anthropic** | London (King's Cross HQ 158k sqft) + Dublin / Zurich / Paris / Munich (2025-11 新开) | Frontier LLM | ✅ UK Skilled Worker 持牌 + 官方"sponsor visas and green cards" | **⚠️ 无 intern** (官方 FAQ 明说); 唯一应届路径是 FT MTS/SWE/RE; 官方"约一半技术员工入职时没 ML 经验" → junior 友好 | London RE 高位 £630K; MTS ~£200-300K base | ⭐⭐⭐⭐ | [anthropic.md](companies/anthropic.md) |
+| **OpenAI** | London (King's Cross 88,500 sqft) / Dublin / Munich / Paris | LLM / Applied AI / FDE | ✅ Blind 确认 sponsor + on-site 必须 | **SWE Intern Fall 2026 (Applied Emerging Talent)** lever live; Residency SF only; **⚠️ Munich 要 German B2+** | London 估算 £150-250K (公开样本少) | ⭐⭐⭐ | [openai.md](companies/openai.md) |
+| **Cohere** *(已有)* | London / Paris | LLM platform | ✅ Skilled Worker (CEO 公开承诺) | research-level 全职 IC | London L3 MTS £135K base / £172K total (Levels.fyi 直读) | ⭐⭐⭐⭐ | [cohere.md](companies/cohere.md) |
+| **Mistral AI** *(已有)* | Paris | LLM (开源+闭源) | ✅ Passeport Talent / APS | M2 stage + PhD CIFRE → FT L1 | L1 €70-90K base + BSPCE (12.8% flat tax) | ⭐⭐⭐⭐ | [mistral.md](companies/mistral.md) |
+| **Hugging Face** *(已有)* | Paris / Remote | NLP / model hub | ✅ Passeport Talent (OSS 主导) | OSS contribution → IC | Paris L3 ~€75-78K base | ⭐⭐⭐⭐ | [huggingface.md](companies/huggingface.md) |
+| **Aleph Alpha** | Heidelberg | Sovereign EU LLM (Pharia) | ✅ Blue Card (聚合站标 sponsor; **中国籍 referral 3x**) | PhD Internship + GTM Working Student; **Industrial PhD 独特通道** | Levels.fyi SWE ~$98K (n=3-5 稀疏); 2024-25 战略转型 + layoff | ⭐⭐⭐ | [alephalpha.md](companies/alephalpha.md) |
+| **Black Forest Labs** | Freiburg + SF | FLUX 文生图 foundation | ⚠️ 官方"sponsors visas but can't sponsor every role" + relocation bonus | **⚠️ 无 intern / 无 junior — 15 MTS 全 senior** | Levels.fyi 无数据 | ⭐⭐⭐ | [blackforestlabs.md](companies/blackforestlabs.md) |
+| **Stability AI** *(已有)* | London | Image GenAI | ⚠️ 2024 turmoil 不稳 | 估算 £3,500-5,000 stipend | 无公开 grad | ⭐⭐ | [stabilityai.md](companies/stabilityai.md) |
+
+#### 7.2 GenAI 应用 / 垂类 (10 家)
+
+| 公司 | 主要地点 | 方向 | 非EU签证 | 早期通道 | 全职 entry TC | 信息丰富度 | 文件 |
+|------|----------|------|---------|---------|--------------|-----------|------|
+| **Lovable** | Stockholm | AI code agent (browser-based AI SWE) | ✅ **HN 创始人原文** "sponsor visas + generous relocation (even if just 1 year)" | Full-stack / ML / Design eng (含 entry) | Levels.fyi Stockholm SWE SEK 642-879K | ⭐⭐⭐ | [lovable.md](companies/lovable.md) |
+| **Cradle** | Zurich + Amsterdam | AI 蛋白质设计 (foundation for biology) | ⚠️ **Amsterdam 走 Kennismigrant; Zurich+US 明文 self-sponsor** (官方 JD 原话) | AI researcher / platform eng / CS | Silicon Canals: 70 人 10+ 国籍 | ⭐⭐⭐⭐ | [cradle.md](companies/cradle.md) |
+| **Helsing** | Munich + Berlin (+London/Paris/Stockholm) | AI 国防 (foundation model / RL / CV) | ✅ Blue Card + relocation; **⚠️ 国防 nationality-restricted 部分岗位 (中国籍需邮件确认)** | SWE Intern (3-6mo) + Working Student AI (20h) + Field Eng | Levels.fyi Munich €152K median | ⭐⭐⭐⭐ | [helsing.md](companies/helsing.md) |
+| **Wayve** | London (King's Cross/York Way) | 自动驾驶 / embodied AI / foundation | ✅ UK Skilled Worker A-rating (2025-11 license); **公开写 intern 给 relocation + sponsor (罕见)** | 无正式 grad scheme; 主走 PhD/MSc; PyTorch Colab debug 是标志题 | 未公开 | ⭐⭐⭐⭐ | [wayve.md](companies/wayve.md) |
+| **Synthesia** | London HQ | GenAI 视频 / Avatar | ✅ A-rating + 16 CoS; CEO "80% London 是 immigrants"; **⚠️ 只 sponsor 已在 UK/EU 的人, 无 from-scratch relocation** | SWE 多个; 流程 26 天快 | Levels.fyi London SWE £98-109K median | ⭐⭐⭐⭐ | [synthesia.md](companies/synthesia.md) |
+| **ElevenLabs** | London (Shoreditch) | Voice AI / TTS foundation | ✅ UK 持牌; **sponsor 偏 senior ML**; Warsaw 是 EU 性价比选项 | Voice AI Fellowship (6 mo MSc/PhD) + SWE Intern (12 wk) | Levels.fyi London SWE £98-109K | ⭐⭐⭐⭐ | [elevenlabs.md](companies/elevenlabs.md) |
+| **Speechmatics** | Cambridge | Speech foundation model | ⚠️ **sponsor 公开数据库未明** — 申前邮件确认 careers@ | **12-week ML intern → 3-mo FT** 正式发布; "无需 PhD 也能做 ML research engineer" | candidate-led 透明度低 | ⭐⭐⭐ | [speechmatics.md](companies/speechmatics.md) |
+| **Photoroom** | Paris | 生成式图像 (Diffusion / on-device) | ✅ visa assistance + 10k€ signing bonus + **30% 强制 international** + English-first | Final-year Master intern + grad eng; "qualifications not important" | SWE Paris €72.4K-€103K; interview pass rate 30.8% | ⭐⭐⭐ | [photoroom.md](companies/photoroom.md) |
+| **DeepL** | Cologne / Berlin / Munich | NLP / 翻译 / Write / Voice | ✅ Blue Card; Arbeitnow 标 sponsor; **stock 在 entry-level 几乎为 0** | Grad-level + 偶发 Werkstudent | Levels.fyi Berlin SWE €77-95K (median €95.5K) | ⭐⭐⭐⭐ | [deepl.md](companies/deepl.md) |
+| **IQM Quantum** | Helsinki + Munich + Paris | 量子计算 + 量子 ML | ✅ 官方 "hires to all locations, relocates for senior roles, incl visa sponsorship"; **⚠️ junior/intern 不保证, 已在 EU 念书优先** | Internships across research/eng/SW | 300+ 员工 5 国 | ⭐⭐⭐⭐ | [iqm.md](companies/iqm.md) |
+
+#### 7.3 Enterprise AI / SaaS + GenAI features (9 家)
+
+| 公司 | 主要地点 | 方向 | 非EU签证 | 早期通道 | 全职 entry TC | 信息丰富度 | 文件 |
+|------|----------|------|---------|---------|--------------|-----------|------|
+| **Palantir** | London / Munich / Paris | AIP / Foundry / FDE | ✅ UK 持牌 + Juno 8.0/10; **Launch (4天 Spring) + Accelerate (12 wk intern) + New Grad 三条 pipeline** (student-friendliness 最高) | Forward Deployed SWE 新 grad UK Gov lever 在招 | Levels.fyi London SWE median £136K (£65-85K starting) | ⭐⭐⭐⭐⭐ | [palantir.md](companies/palantir.md) |
+| **Stripe** | Dublin / London | AI 团队 + payments infra | ✅ Ireland Trusted Partner CSEP 2-4 周 + UK Skilled Worker | University intern (Dublin/SF/SG) 正式开放 | Levels.fyi Dublin L1 €131K → L4 $436K | ⭐⭐⭐⭐⭐ | [stripe.md](companies/stripe.md) |
+| **Salesforce** | Dublin / London | Einstein AI + Agentforce | ✅ Dublin EMEA HQ + CSEP Trusted Partner + 明确 visa/relocation | Commercial Graduate SE Path (Dublin, 6 path 按 market 拆); Summer 2026 SWE Intern active | Levels.fyi MTS €116K median + Senior MTS $156K | ⭐⭐⭐⭐ | [salesforce.md](companies/salesforce.md) |
+| **Notion** | Dublin | Notion AI + product eng | ⚠️ Trusted Partner 未在公开 list 已标⚠️; **Dublin = sales/CS/marketing HQ, ≠ eng intern hub** | Ashby SWE Intern 标 SF 不是 Dublin; Built In Dublin 14 sales / 6 CX / 0 eng intern | Dublin SWE 未公开样本 | ⭐⭐⭐ | [notion.md](companies/notion.md) |
+| **Datadog** | Paris + Lisbon + Madrid | AI observability / LLM monitoring / AIOps | ✅ French Tech Visa accredited; **SWE Early Career JD 明确 sponsor "int'l studying in France"** | SWE I Paris TC $83K / Lisbon median €92.2K (Lisbon > Paris L1 反差) | Levels.fyi 全分级 | ⭐⭐⭐⭐⭐ | [datadog.md](companies/datadog.md) |
+| **Algolia** | Paris | AI Search (NeuralSearch / 生成式检索) | ✅ Relocate.me 多个 Paris 岗 "visa sponsor + full relocation" | ML Eng + AI Search SWE; 5 轮含 string-search 专精 | Levels.fyi SWE Paris median €71.8K | ⭐⭐⭐⭐ | [algolia.md](companies/algolia.md) |
+| **Dataiku** | Paris | Enterprise AI / LLM Mesh / GenAI platform | ✅ French Tech Visa accredited; FR 端 case-by-case | SWE Intern Paris (take-home Dijkstra/A* API); 估值近期下调 | Levels.fyi SWE Paris median €69.6K | ⭐⭐⭐⭐ | [dataiku.md](companies/dataiku.md) |
+| **Contentsquare** | Paris | AI 行为分析 / GenAI insights | ✅ French Tech Visa accredited; 21 LCA US 端 | **Coding Game OA 第一步硬筛**; 90-min Node.js live coding | Levels.fyi SWE Paris median €68.7K | ⭐⭐⭐⭐ | [contentsquare.md](companies/contentsquare.md) |
+| **Celonis** | Munich + Madrid + NYC | Process Intelligence Graph + AI agent | ✅ FT grad Blue Card; **⚠️ intern/Werkstudent 官方原文不 sponsor** "Unfortunately, we do not offer Visa sponsorship for interns and working students" | Galaxy Graduate Program + BD Program (FT only) | Levels.fyi IC1 €75K → IC4 €174K | ⭐⭐⭐⭐⭐ | [celonis.md](companies/celonis.md) |
+
+#### 7.4 欧洲本土科技 (4 家)
+
+| 公司 | 主要地点 | 方向 | 非EU签证 | 早期通道 | 全职 entry TC | 信息丰富度 | 文件 |
+|------|----------|------|---------|---------|--------------|-----------|------|
+| **Doctolib** | Paris / Berlin | Healthcare AI (Doctolib Copilot, GenAI for doctors) | ✅ French Tech Visa 2026 accredited; Berlin 明标 sponsor (Arbeitnow) | Intern + apprentice + working student + young grad (官方 program); take-home + Feature Building round | Berlin L2 SWE median €61.3K (Levels.fyi 直读) | ⭐⭐⭐⭐ | [doctolib.md](companies/doctolib.md) |
+| **BlaBlaCar** | Paris | Recommendation AI / ranking / NLP | ✅ French Tech Visa 2026 accredited | Backend Eng intern + alternance; 4-5 轮 ~25-30 天 + 48h offer | Junior backend €45-55K (估算) | ⭐⭐⭐⭐ | [blablacar.md](companies/blablacar.md) |
+| **Trade Republic** | Berlin (+ Paris, Vienna) | Fintech, AI agent on Trader | ✅ Blue Card (Nextleveljobs 列入) | Graduate Backend Engineering Programme JD live | Levels.fyi Graduate SWE €51.1-54K base | ⭐⭐⭐⭐ | [traderepublic.md](companies/traderepublic.md) |
+| **Bending Spoons** | Milan | AI 收购方 (Splice, Evernote, WeTransfer, StreamYard) | ✅ **FAQ 原文 28 国 sponsor 名单** (含中国/香港/新加坡) "we can sponsor a visa or residency permit for Italy or UK" | Recruiter Intern + SWE Internship (cross-Europe, 3mo FT-only / 6mo 可 PT) + Cloud Eng; 3-mo 房租 + plane tickets + visa cost covered | Glassdoor estimated (公司不公开) | ⭐⭐⭐⭐ | [bendingspoons.md](companies/bendingspoons.md) |
+
+#### 7.5 BeNeLux + Portugal 补充 (3 家)
+
+| 公司 | 主要地点 | 方向 | 非EU签证 | 早期通道 | 全职 entry TC | 信息丰富度 | 文件 |
+|------|----------|------|---------|---------|--------------|-----------|------|
+| **Showpad** | Ghent (BE) | Sales enablement + GenAI 助手 | ✅ Relocate.me 多岗位 "visa sponsorship guaranteed" | SRE / Golang SWE / Frontend mid-junior; intern 数据稀缺 ⚠️ | Glassdoor 估算 | ⭐⭐⭐ | [showpad.md](companies/showpad.md) |
+| **Collibra** | Brussels | Data + AI Governance (LLM 治理产品) | ✅ MyVisaJobs 2025 US sponsor 数据精确 ($180,670 avg); Brussels 39 LinkedIn jobs | Associate Product Content Eng + Customer Eng; intern 面经稀缺 ⚠️ | 见 MyVisaJobs | ⭐⭐⭐ | [collibra.md](companies/collibra.md) |
+| **OutSystems** | Lisbon | Low-code + AI Agent Builder/Mentor (GenAI) | ✅ IAPMEI accredited; **careers 页无 explicit sponsor 声明 — 需邮件确认** | Platform / Backend / Full-stack; 1-week take-home; 5 Lisbon open | Junior SWE €25-35K | ⭐⭐⭐ | [outsystems.md](companies/outsystems.md) |
+| **Unbabel** | Lisbon | Translation AI / LLM for customer service | ✅ IAPMEI accredited + Relocate.me explicit sponsor + relocation; **2024 裁员 pivot 风险** | Lead Sec Eng + Senior PD; 难度 2.6/5 | Levels.fyi SWE median €37.9K (top €102K, sample 小) | ⭐⭐⭐⭐ | [unbabel.md](companies/unbabel.md) |
+
+#### 7.6 关键 Insight (2026-06-01 新增)
+
+1. **Sponsor 验证等级 (高到低)**:
+   - **黑纸白字 + 实例**: Bending Spoons (FAQ 28 国名单), Lovable (HN 创始人原话), Cohere (CEO 承诺), Photoroom (30% 强制 international + 10k€ signing), Anthropic ("sponsor visas and green cards" + UK 持牌), Datadog ("int'l studying in France"), Helsing (Drone Field Eng JD 明标), Stripe (Ireland Trusted Partner)
+   - **第三方 register 验证 + 官方默认**: Palantir (Juno 8/10 + GradSignal), Wayve (UK A-rating 2025-11), ElevenLabs (UK 持牌), Synthesia (16 CoS issued)
+   - **Conditional / 局部**: Celonis (FT yes, **intern/Werkstudent NO** — 必读警告), Cradle (Amsterdam yes, **Zurich/US 必须 self-sponsor**), Helsing (商业 SaaS yes, **classified 国防岗 NATO-only**), IQM ("senior roles" 限定, junior 不保证), OpenAI Munich (B2+ German 卡国际生), Synthesia (UK/EU 已在地, **不 from-scratch**)
+   - **官方无声明, 仅聚合站标记**: Aleph Alpha, DeepL, OutSystems — **申前邮件确认 recruiter 是首要动作**
+
+2. **完全无 intern / 仅 FT** (避免浪费实习投递时间):
+   - **Anthropic** (官方 FAQ 明说), **Black Forest Labs** (15 MTS 全 senior), **Celonis intern** (仅 FT Graduate Program 走), **Notion Dublin** (eng intern 在 SF, Dublin 是 sales/CS hub)
+
+3. **2026-06 时间窗 (新增公司活跃 req)**:
+   - **OpenAI London Fall 2026 SWE Intern (Applied Emerging Talent)** — lever live, 现申
+   - **Salesforce Dublin Summer 2026 SWE Intern** — active
+   - **Palantir Launch (Spring 4天)** — 2026 cycle 日期未公开, 参考 2025 April 14-17 cohort 时间
+   - **Trade Republic Graduate Backend Engineering Programme** — JD live
+   - **Anthropic / OpenAI Paris+Munich 新 office** — 2025-11 刚开, ramp up 时间窗最优, 投递信号最响
+   - **Bending Spoons SWE Internship** — cross-Europe, 6mo 标准
+
+4. **路径互补 (与已有 ⭐ 申请 JetBrains/Signify/Nebius/Booking)**:
+   - **NL 链路加深**: Cradle (Amsterdam) — Kennismigrant 路径, 与 Nebius/Booking 同生态
+   - **Paris GenAI 三角 (与 Mistral/Criteo)**: Doctolib + Datadog + Photoroom — 全 French Tech Visa accredited
+   - **EU 国家覆盖扩张**: 此前缺 IT/PT/BE, 现 Bending Spoons (Milan) + Unbabel/OutSystems (Lisbon) + Showpad/Collibra (BE) 补齐
+   - **Quantum + 量子 ML** (与量化 18 家做技能桥): IQM Helsinki/Munich
+
+5. **必读警告 (新增公司)**:
+   - **Celonis intern/Werkstudent 不办 visa** — 中国/印度 master 投实习直接被刷, 必须走 Galaxy Graduate Program FT
+   - **Helsing 国防** — UK MoD / DE BMVg / NATO classified 项目要 NATO 国国籍, 中国籍只能商业 SaaS / infra 岗 + 主动 disclose
+   - **Notion Dublin** — 想做 Notion AI eng intern 只能去 SF, Dublin EMEA 是 sales/CS/security ops
+   - **OpenAI Munich** — German B2+ 必须, 国际生避坑
+   - **Synthesia + ElevenLabs** — sponsor 偏 senior + UK 在读, from-scratch new grad 难度比 Palantir/Wayve 高很多
+   - **Aleph Alpha** — 2024-25 layoff 报道, sponsor 节奏可能放缓, Nextleveljobs sponsor list 未列入
+
+### 8. Cyber / Fintech / SaaS / Consumer 2026-06 新增 (26 家) 🆕
+
+> 2026-06-01 新增. **本批放宽 GenAI 限定**, 重点是 (a) **sponsor 实证** (1point3acres / Reddit / Blind / immigrationgpt / huntukvisasponsors / IND Recognised / WorkWithVisa / Relocate.me / Fishbowl) + (b) **Intern + NG 双通道分开列**. 已剔除: Sentry Vienna (明文不 sponsor), Glovo (Spain 劳工部诉讼后被禁), Bolt intern (官方明文不 sponsor), HelloFresh / TIER / Pitch / Wefox / Forto / Atlassian AMS / GoStudent / Acronis / Yubico / Camunda / PostHog / Nord Security / Bitdefender / Ubisoft / About You / Embark / GetYourGuide.
+
+#### 8.1 NL-based (6 家) — **对 UvA 学生零摩擦**
+
+| 公司 | 城市 | 方向 | Intern 通道 | NG 通道 | Sponsor 关键证据 | UvA Fit |
+|------|------|------|----------|--------|-----------------|---------|
+| **Picnic** | Amsterdam | 在线生鲜 unicorn | **Tech Academy Java Grad 6mo (Sept/Mar intake)** + UX Grad Intern €800/月 | base €54K, 走 reduced HSM | 官方明文 HSM sponsor + 一个月住宿 + 机票 [workwithvisa.com/companies/picnic] | **零 / 零** ⭐⭐⭐ 双冠军 |
+| **Swisscom Rotterdam** (SDC) | Rotterdam | Cloud DevOps / IaC / SRE / Fullstack | **6mo IT Internship (2 月 / 9 月 intake)**, 官方要求 "studying or living in NL" | 6 个全职 open (Cloud DevOps / SRE) | sdcrotterdam.swisscom.ch/internship-projects; FT Kennismigrant 路径未官方明确, 申请时直接问 | **零 (perfect fit) / 中** ⭐⭐⭐ |
+| **Prosus** 🆕 | Amsterdam (HQ) | 投资控股 + **in-house AI Tech (PDT)** LLM / ML / Backend (Go) / Infra | **ML Engineering Intern LLM R&D** Lever active (year-round rolling) | **AI Traineeship €3,500/月 + relocation** (4 天 hands-on + 1 天 learning); Junior Cybersec active | Traineeship 明文 relocation support + €3,500/月 stipend = 强 sponsor 信号; IND register 几乎确定 [jobs.eu.lever.co/prosus] | **零 / 零** ⭐⭐⭐ |
+| **Mollie** | Amsterdam | Payments | 偶发 intern, 主要 Eng Grad Program | **Engineering Graduate Program 15mo rotation** (9mo+6mo), base €71.4K | IND Recognised Sponsor [linkedin.com/posts/dwaynegefferie] | 中 / 零 |
+| **Bunq** | Amsterdam | Challenger bank | 无 intern cohort | Entry €39K (卡 HSM <30 €4,357, reduced HSM €2,801 OK) | "primary choice for new skilled migrants to NL" [together.bunq.com/d/50760] | 低 / 中 (薪资 + Glassdoor 2.3★ 文化坑) |
+| **Picnic** | (重复 — 见上) | | | | | |
+| **Miro** | Amsterdam | Collaboration whiteboard | Mid 为主, grad 稀少 | SWE I €133K 总包顶薪 | IND Recognised + WorkWithVisa | 低 / 低 (技术零摩擦, **2024 layoff 阴影**) |
+| **Vinted** | Vilnius LT + Berlin + AMS + Paris | 二手时尚 marketplace, LT 独角兽 | **Engineering Academy €2,233/月 (Vilnius only)** | Academy 入职即 FT 合同 | 官方 Relocate to Lithuania 页支持 visa + cost, 100+ 已 relocate | 低 / 中-高 (**AMS office 仅 1 个 Data Sci, eng 必 relocate LT**) |
+
+#### 8.2 EU 跨国 Fintech / SaaS (7 家) — Tier A 低摩擦
+
+| 公司 | 城市 | 方向 | Intern 通道 | NG 通道 | Sponsor 关键证据 | UvA Fit |
+|------|------|------|----------|--------|-----------------|---------|
+| **Wise** | London + Tallinn + Budapest | Cross-border payments | **10-week Summer Intern** (SWE/DS/Analytics/Design) | **WiseStart Graduate** Feb+Sep 双 cohort, London L2 £77K TC, Tallinn L3 €87K TC | UK Skilled Worker active + MyVisaJobs/UK sponsor list 双确认 [tarve.co.uk/blog/uk-tech-companies-sponsoring-visas-2026] | Intern 高 / FT 低 (Tallinn 路径绕过 UK 沉重成本) |
+| **Personio** | Munich + Berlin + Dublin + Amsterdam | HR SaaS unicorn | **Internship (40h, 4 城市) + Working Student (Munich/Berlin)** | Grad SWE Blue Card | DE Blue Card sponsor 主路径 [personio.com/about-personio/careers/students-graduates] | **Intern AMS 零 / FT AMS 零** ⭐⭐ |
+| **HubSpot** | Dublin + Berlin | CRM/marketing | **Summer Intern 12wk < 90 days IE Atypical Working Scheme** + Spring Co-op 6mo + Industrial Placement | EMEA Grad SE | Ireland Trusted Partner CSEP 2-4w [hubspot.com/careers/emerging-talent] | Summer Intern 低 / FT 低 (避坑: Spring Co-op + Industrial 偏 IE 大学) |
+| **Workday** | Dublin (EMEA HQ) | HR/Finance ERP | **Early Career intern/co-op** (Sep 2027 cohort 申请 2026-10) | P1 Grad TC €63K | Trusted Partner CSEP 2-4w | Intern 低 / FT 低 (UML/OO 面试, 不是 LC 公司) |
+| **Qonto** | Paris | B2B 银行 unicorn | Stage (法国 convention de stage, 跨境摩擦大) | Junior SWE €52-60K + BSPCE | Lever JD 明文 "full relocation + visa sponsorship guaranteed" [relocate.me/france/paris/qonto/backend-software-engineer-5238] | Intern 中-高 (跨境 stage 难) / FT 低 (Passeport Talent €43,243 阈值覆盖) |
+| **Pleo** | Copenhagen | Spend mgmt | Entry-level 岗位稀缺 | Backend/Frontend €DK Pay Limit Scheme 519K | Relocate.me JD "visa sponsorship guaranteed" [relocate.me/denmark/copenhagen/pleo/backend-software-engineer-1089] | Intern 高 / FT 中 (**entry 真正稀缺**, 非 sponsor 问题) |
+| **Twilio** | Dublin + London | Comms API | 偶发 grad/intern | IC2 Dublin TC €100K | Ireland CSEP active | Intern 中-高 / FT 中 (**2024-2026 多轮 layoff**, hiring 谨慎, 不推荐主路径) |
+
+#### 8.3 UK Cyber / DevTools / Cloud (6 家) — Tier B 中-高摩擦
+
+| 公司 | 城市 | 方向 | Intern 通道 | NG 通道 | Sponsor 关键证据 | UvA Fit |
+|------|------|------|----------|--------|-----------------|---------|
+| **Snyk** | London | Dev security unicorn | 低 | **London grad base £65K+ (远超 SW £41,700) + £5K relocation** | 官方 "keen to support visa sponsorship" + £5K relocation [snyk.io/careers]; **面试无 LeetCode 全 PR review** | 该 list 中 **对 UvA 最现实的 UK 选择** ⭐⭐ |
+| **Cloudflare** | London + Lisbon | CDN/Edge | London 低 / **Lisbon 中 (春/夏/秋)** | **1,111 interns 目标 2026, 12 周** | **London 仅 GBM 不 Skilled Worker** (12mo 海外经验门槛) [sponsorlist.co.uk/visa-sponsorship/cloudflare-limited]; **Lisbon = Portugal Tech Visa + IFICI 20%** | **London 零 / Lisbon 高** (UvA grad 走 Lisbon) ⭐⭐ |
+| **Darktrace** | Cambridge + London | AI Cybersec, Thoma Bravo 私有化 | CyberFirst 排除 non-UK + 普通 intern 不开 sponsor → 极低 | Cambridge £40-45K (卡 SW £41,700), London £45-50K | UK Skilled Worker 持牌 + GradSignal "go-to sponsor for threat hunters" | Intern 极低 / FT 中-低 (**2024 私有化 RSU 终止改 cash bonus**) |
+| **Sophos** | Abingdon UK + Karlsruhe DE | Endpoint sec, Thoma Bravo 旗下 | **12-month SWE Placement £27K (Abingdon 仅 UK 学生)** | Abingdon 低 / **Karlsruhe €45-55K 过 Blue Card €45,934 短缺** | UK SWE Placement 历史活跃; DE Karlsruhe 是最佳路径 | Intern 零 / **Karlsruhe FT 中-高** ⭐ |
+| **Vercel** | London + Berlin | Next.js / v0 / AI SDK | 极少 | EU hire 一年个位数, senior-only | UK Skilled Worker 持牌 [immigrationgpt.co.uk/company/vercel-uk-limited] | **极低 / 极低** (UvA grad 不该投, 花时间 Snyk/Datadog 更好) |
+| **Ocado** | Hatfield UK | Grocery automation/robotics | 零 | SWE Grad base £38-42K (卡线需 NEC 折扣); Commercial Solutions Grad 明确**不 sponsor** | Skilled Worker license active [worksponsors.co.uk/company/ocado-retail-limited]; **大坑: visa fee 自付 ~£5K** | 零 / 中 (只投 SWE Grad, 不投 Commercial Solutions Grad) |
+
+#### 8.4 Nordic / DE / Gaming Consumer (7 家) — Tier A 低-中摩擦
+
+| 公司 | 城市 | 方向 | Intern 通道 | NG 通道 | Sponsor 关键证据 | UvA Fit |
+|------|------|------|----------|--------|-----------------|---------|
+| **King** (MS/Activision) | Stockholm + London + Barcelona + Berlin | Mobile gaming (Candy Crush) | **Kingternships 3-6mo + Business Performance Trainee 18mo grad** | grad cohort | Sweden certified employer 2-4w + MSFT mobility [careers.king.com/early-careers] | Intern 中 / **FT 高** (7 家 sponsor 最稳, Stockholm 首选) ⭐⭐ |
+| **Aiven** | Helsinki + Berlin | OSS data infra cloud | 零 | SRE / Backend mid+ | **Berlin SRE JD 明文 "full relocation + visa sponsorships guaranteed"** [relocate.me/germany/berlin/aiven/site-reliability-engineer-6242] | Intern 零 / **FT Berlin 高 / Helsinki 中** ⭐ |
+| **Wolt** (DoorDash) | Helsinki + Stockholm | Food delivery | **零 (官方明文不 sponsor)** | entry SWE €99K (Levels.fyi, Helsinki #1) | careers.wolt.com 原文 "unable to offer relocation or visa support for internships" | Intern 零 / **FT 高** (直接跳过 intern) ⭐ |
+| **Supercell** | Helsinki | Mobile gaming, Tencent 旗下 | **Data Engineer/Analyst/Investments intern 2026 (deadline 2026-04-26 / start 2026-08-24, 6-9mo)** | senior 为主, 极少 | 官方 sponsor + relocation 对 "truly exceptional"; Event/Office Ops intern 不 relocate | Intern 低 ("truly exceptional" 门槛) / FT 高 (req 极少) |
+| **Voi** | Stockholm | E-scooter | 无 intern | **当前 9 req 全 senior** | Sweden Migrationsverket certified employer 2-4w | **零 / 中** (行业收缩, **不建议优先**) |
+| **Free Now** (Lyft) | Hamburg | Mobility | 零 (Werkstudent 需 DE 学籍) | Levels.fyi entry €90.9K | FAQ "individual relocation agency + visa-related processes" [free-now.com/career/faqs] | 零 / **高 (建议 2026 Q3 后 Lyft 整合期出清)** |
+| **Trivago** | Düsseldorf | 旅游元搜索, Expedia 旗下 | 低 | Junior €50K **刚 cover Blue Card €45,934 阈值** | Data Analyst 开放 Blue Card sponsor 岗 (visasponsor.jobs JD 实证) + Glassdoor 51 SWE 样本 | 低 / **中-高 (negotiate base 到 €48K+ 更稳)** |
+
+#### 8.5 关键 Insight (2026-06-01 新增 26 家)
+
+1. **UvA 学生 Tier S 双冠军**: **Picnic Tech Academy + Swisscom Rotterdam** — 两家都是 "需 NL 在读 / 居留" 公司, 你已在 NL 持学生签 = perfect fit, 而对从中国 from-scratch 申请的人则是大门半关
+2. **Intern vs FT sponsor 经常完全不同**: 这是本批 26 家最重要的发现, 已在每个文件单独拆通道:
+   - **Wolt** intern 明文不 sponsor (官方原文) — 直接跳过 intern 投 FT
+   - **Celonis intern/Werkstudent** 不 sponsor (上批已警告) — 走 Galaxy Graduate Program
+   - **Personio** 4 城都开 intern, AMS 对 UvA 零摩擦
+   - **Cloudflare London** 仅 GBM 路径 (12 mo 海外经验) — UvA grad 直接申 London 走不通; 走 **Lisbon** (Portugal Tech Visa) 是真出口
+   - **Ocado** Commercial Solutions Grad 明文不 sponsor, 只能投 SWE Grad
+3. **UK Tier B 真正可行的只有 2 家**: **Snyk** (官方明文 sponsor + £5K relocation + £65K+ base) + **Cloudflare Lisbon** (走 PT 路径不是 UK). Darktrace/Sophos UK 端卡 SW 阈值, Vercel 几乎不招 grad, Ocado 卡线 + visa 自付
+4. **DE 路径意外强**: Aiven Berlin (relocate.me 实证) + Personio Munich/Berlin (Blue Card 主路径) + Sophos Karlsruhe + Free Now Hamburg + Trivago Düsseldorf — 5 家 DE entry 都达 Blue Card €45,934 短缺阈值
+5. **2024-26 layoff 风险公司 (谨慎)**: Miro (2024 Oct 275), Twilio (2024-26 多轮), Vercel (持续 senior-only), Pleo (2024-25 多轮), Free Now (Lyft 整合期), Darktrace/Sophos (Thoma Bravo 私有化后 RSU 改 cash bonus, Levels.fyi 老数据失效)
+6. **不该浪费时间的 (UvA 角度)**: **Voi** (Stockholm 9 req 全 senior), **Vercel** (EU 一年个位数 senior-only), **Vinted Amsterdam** (仅 1 个 Data Sci, eng 必 relocate Vilnius), **Bunq** (Glassdoor 2.3★ 文化坑 + entry €39K 卡 HSM)
+7. **2026-06 active 早期 req 窗口**:
+   - **Picnic Tech Academy 9月 2026 入职** 申请已开放
+   - **Swisscom RT IT Internship 2月/9月 intake** rolling
+   - **HubSpot Summer Intern 12wk** Atypical Working Scheme 全年滚
+   - **Wise WiseStart Graduate** Feb+Sep 双 cohort, 申 2026-09
+   - **Supercell Data intern 2026** deadline 2026-04-26 (start 2026-08-24, 6-9mo)
+   - **Cloudflare 1,111 intern 2026** 春/夏/秋 三季
+
 ---
 
 ## 🎓 Graduate / Junior 全职路径对比 (35 家)
@@ -204,7 +377,53 @@
 
 ## 🚦 关键路径建议 (按用户场景)
 
-### 场景 A: 非欧盟在读硕士/博士, 想 2026 暑期入职
+### 场景 ⭐: UvA (University of Amsterdam) 在读硕士 + NL student visa + 非 EU 护照
+
+**核心优势**: 
+- 学生签 16h/wk 学期 / 40h/wk 假期, NL 公司 intern 走 Nuffic convention 零摩擦
+- 毕业可走 zoekjaar (orientation year) 1 年, 无薪资门槛
+- **Reduced Kennismigrant for recent NL master grads = €2,801/月 (2026)** (远低于标准 €4,357 <30 / €5,942 ≥30)
+
+**Tier S (零摩擦) — 强烈优先, 现在就投**:
+1. **Picnic Tech Academy** (AMS) — 6mo Sept/Mar intake, Java grad 通道, base €54K — [picnic.md](companies/picnic.md)
+2. **Swisscom Rotterdam SDC** — 6mo IT Internship 2月/9月 intake, 官方要求 "studying/living in NL" — [swisscom.md](companies/swisscom.md)
+3. **Prosus AI Internship + Traineeship** 🆕 (AMS HQ) — ML Eng Intern LLM R&D active on Lever (rolling) + Traineeship €3,500/月 + relocation, AI 方向, 你之前已申 Nebius (AI infra) + Mistral (foundation LLM) 三家形成 infra+foundation+application 全栈覆盖 — [prosus.md](companies/prosus.md)
+4. **JetBrains AMS** ⭐ (active) — [jetbrains.md](companies/jetbrains.md)
+4. **Signify Eindhoven** ⭐ (active) — Junior IT/Digital Program — [signify.md](companies/signify.md)
+5. **Nebius AMS** ⭐ (active) — Early Talent Program — [nebius.md](companies/nebius.md)
+6. **Booking AMS** ⭐ (active) — Compass Graduate / Internship — [booking.md](companies/booking.md)
+7. **Personio AMS** — 4 城 intern, AMS 零摩擦 (优先 data/product, eng intern 名额少) — [personio.md](companies/personio.md)
+8. **Adyen AMS** — Kennismigrant 顶级 sponsor — [adyen.md](companies/adyen.md)
+9. **Uber AMS** — EMEA HQ — [uber.md](companies/uber.md)
+10. **Databricks / Confluent / Snowflake / Mistral AMS office** (如适用方向)
+11. **Mollie / Bunq AMS Fintech** — IND Recognised — [mollie.md](companies/mollie.md), [bunq.md](companies/bunq.md)
+12. **Miro AMS** — 技术零摩擦但 2024 layoff 风险, 谨慎 — [miro.md](companies/miro.md)
+
+**Tier A (低摩擦) — Dublin / Munich / Berlin / Paris / Lisbon / 北欧**:
+- Dublin 系 (CSEP 2-4w): Stripe, HubSpot, Workday, Salesforce, Microsoft Aspire, Amazon
+- Munich/Berlin Blue Card (€45,934 短缺): Personio, Aiven Berlin, Trade Republic, Sophos Karlsruhe, DeepL, Helsing
+- Paris Passeport Talent (~€39K): Mistral, Doctolib, Datadog, Photoroom, Algolia, BlaBlaCar, Hugging Face, Criteo, Qonto
+- Lisbon Portugal Tech Visa: Cloudflare Lisbon, Unbabel, OutSystems, Datadog Lisbon
+- 北欧: Spotify Stockholm (FT sponsor), Klarna Stockholm, King Stockholm, Lovable Stockholm, Wolt Helsinki (FT only)
+
+**Tier B (高摩擦) — UK 后 Brexit / Switzerland**:
+- UK 真正可行: **Snyk** (£65K + £5K relocation), **Wise** (Skilled Worker), **Palantir** (Juno 8/10), **Anthropic / OpenAI** (UK 持牌). 其他 (Darktrace cap £41,700 卡线, Ocado visa 自付, Vercel senior-only) 性价比差
+- Switzerland Google Zurich / Nvidia — B permit 配额制, intern 极难
+
+**避免投 (UvA 角度)**:
+- **Voi Stockholm** — 9 req 全 senior, 行业收缩
+- **Vinted AMS office** — 只 1 个 Data Sci, eng 必 relocate Vilnius
+- **Bunq** — Glassdoor 2.3★ 文化坑 + entry €39K 卡 HSM
+- **Vercel** — EU 一年个位数 senior-only
+- **Twilio Dublin** — 2024-26 多轮 layoff, hiring 谨慎
+- **Cloudflare London** — 仅 GBM (12mo 海外经验), UvA grad 走不通; 改投 **Cloudflare Lisbon**
+- **Anthropic** — 官方无 intern, 必须等毕业走 FT
+- **Black Forest Labs** — 15 MTS 全 senior
+- **Celonis intern/Werkstudent** — 官方不 sponsor (走 Galaxy Graduate Program FT)
+
+---
+
+### 场景 A: 非欧盟在读硕士/博士 (其他学校 / 海外), 想 2026 暑期入职
 **推荐优先级**:
 1. **Amazon** (sponsor + 招聘体量大 + Madrid/Dublin/Lux 不内卷) → [amazon.md](companies/amazon.md)
 2. **ASML / Booking / Adyen** (NL 三大 visa-friendly 实习重镇) → [asml.md](companies/asml.md), [booking.md](companies/booking.md), [adyen.md](companies/adyen.md)
@@ -408,7 +627,85 @@
 - [qrt.md](companies/qrt.md)
 - [squarepoint.md](companies/squarepoint.md)
 
-⭐ = 用户当前已申请 / 在申请
+### 🤖 GenAI Foundation Labs + Sponsor-friendly 2026-06 新增 🆕
+
+**Foundation Model Labs** (新增 7, 不重复 Cohere/Mistral/HuggingFace/StabilityAI/Alan):
+- [anthropic.md](companies/anthropic.md)
+- [openai.md](companies/openai.md)
+- [alephalpha.md](companies/alephalpha.md)
+- [blackforestlabs.md](companies/blackforestlabs.md)
+
+**GenAI 应用 / 垂类** (10):
+- [lovable.md](companies/lovable.md)
+- [cradle.md](companies/cradle.md)
+- [helsing.md](companies/helsing.md)
+- [wayve.md](companies/wayve.md)
+- [synthesia.md](companies/synthesia.md)
+- [elevenlabs.md](companies/elevenlabs.md)
+- [speechmatics.md](companies/speechmatics.md)
+- [photoroom.md](companies/photoroom.md)
+- [deepl.md](companies/deepl.md)
+- [iqm.md](companies/iqm.md)
+
+**Enterprise AI / SaaS + GenAI features** (9):
+- [palantir.md](companies/palantir.md)
+- [stripe.md](companies/stripe.md)
+- [salesforce.md](companies/salesforce.md)
+- [notion.md](companies/notion.md)
+- [datadog.md](companies/datadog.md)
+- [algolia.md](companies/algolia.md)
+- [dataiku.md](companies/dataiku.md)
+- [contentsquare.md](companies/contentsquare.md)
+- [celonis.md](companies/celonis.md)
+
+**欧洲本土 / BeNeLux / PT / IT 补充** (8):
+- [doctolib.md](companies/doctolib.md)
+- [blablacar.md](companies/blablacar.md)
+- [traderepublic.md](companies/traderepublic.md)
+- [bendingspoons.md](companies/bendingspoons.md)
+- [showpad.md](companies/showpad.md)
+- [collibra.md](companies/collibra.md)
+- [outsystems.md](companies/outsystems.md)
+- [unbabel.md](companies/unbabel.md)
+
+### 🌍 Cyber / Fintech / SaaS / Consumer 2026-06 新增 🆕
+
+**🇳🇱 NL-based (7 — UvA Tier S 零摩擦)** 🆕 Prosus added 2026-06-09:
+- [picnic.md](companies/picnic.md) ⭐⭐⭐ Tech Academy
+- [swisscom.md](companies/swisscom.md) ⭐⭐⭐ SDC Rotterdam
+- [prosus.md](companies/prosus.md) ⭐⭐⭐ AI Internship + Traineeship 🆕
+- [mollie.md](companies/mollie.md)
+- [bunq.md](companies/bunq.md)
+- [miro.md](companies/miro.md)
+- [vinted.md](companies/vinted.md) (LT eng hub, AMS ops)
+
+**EU 跨国 Fintech / SaaS (7 — Tier A)**:
+- [wise.md](companies/wise.md)
+- [qonto.md](companies/qonto.md)
+- [pleo.md](companies/pleo.md)
+- [personio.md](companies/personio.md) ⭐⭐ AMS 零摩擦
+- [hubspot.md](companies/hubspot.md)
+- [workday.md](companies/workday.md)
+- [twilio.md](companies/twilio.md)
+
+**UK Cyber / DevTools / Cloud (6 — Tier B)**:
+- [snyk.md](companies/snyk.md) ⭐⭐ 该 list UK 最 UvA-friendly
+- [cloudflare.md](companies/cloudflare.md) (走 Lisbon 路径)
+- [darktrace.md](companies/darktrace.md)
+- [sophos.md](companies/sophos.md) (Karlsruhe 优)
+- [vercel.md](companies/vercel.md)
+- [ocado.md](companies/ocado.md)
+
+**Nordic / DE / Gaming Consumer (7 — Tier A)**:
+- [aiven.md](companies/aiven.md) ⭐ Berlin 实证
+- [king.md](companies/king.md) ⭐⭐ Stockholm gaming
+- [wolt.md](companies/wolt.md) (FT only)
+- [supercell.md](companies/supercell.md)
+- [voi.md](companies/voi.md) (不推荐)
+- [freenow.md](companies/freenow.md)
+- [trivago.md](companies/trivago.md)
+
+⭐ = 用户当前已申请 / 在申请; ⭐⭐ / ⭐⭐⭐ = 对 UvA 学生推荐度
 
 ---
 

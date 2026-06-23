@@ -1,5 +1,7 @@
 # Klarna 实习情报（Stockholm）
 
+> **Language**: 中文 | [English](klarna.en.md)
+>
 > 范围：Software Engineer Intern、Machine Learning / Data Science Intern。Klarna 的核心工程团队仍在 Stockholm，其它办公室（柏林、伦敦、马德里、纽约）以业务/合规/商务为主。
 
 ---

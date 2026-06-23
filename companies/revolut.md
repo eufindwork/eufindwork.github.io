@@ -1,5 +1,7 @@
 # Revolut (伦敦) 实习情报
 
+> **Language**: 中文 | [English](revolut.en.md)
+>
 > Revolut 是英国估值最高的金融科技 unicorn (~$45B),2024 年获 UK 全牌照 (UK Banking Licence)。以"高强度文化"出名,实习与正职门槛在伦敦市场内属最严苛之一。**面试流程长、压强大、有 IQ 测试,Glassdoor 上文化评论两极分化严重 (Toxic 标签突出)**,申请前需了解。
 
 ## 1. 公司速览

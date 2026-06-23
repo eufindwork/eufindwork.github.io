@@ -1,5 +1,7 @@
 # QRT (Qube Research & Technologies) — Paris + London 实习 + Grad 情报
 
+> **Language**: 中文 | [English](qrt.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (官方 careers + Levels.fyi London/Paris 双数据点 + efinancialcareers 多篇 + WSO + Substack 深度分析; 仍有 Paris 入门级 stock/bonus 细分缺口)
 > 一句话定位: 2018 年从 Credit Suisse Quantitative & Systematic Asset Management 部门 management buyout 出来的 systematic hedge fund, 总部 London 但 Paris 是第二大办公室, 大量招 École Polytechnique / ENS / CentraleSupélec 校友; 8 年从 100 人扩到 2026 ~2,000 人, AUM ~$20-25B, 旗舰基金 2024 年回报 30%+

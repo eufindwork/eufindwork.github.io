@@ -1,5 +1,8 @@
 # D.E. Shaw (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](deshaw.en.md)
+>
+
 > 纽约总部的顶级 multi-strat HF, 量化 + discretionary 双轨. London 站点较小 (~150 人 across 2 UK 法人主体) 但 bar 极高, UK 实体 2025 财年人均薪酬 ~£801k ($1.08m). 招聘极其挑剔, 流程严谨.
 
 ---

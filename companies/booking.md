@@ -1,8 +1,16 @@
 # Booking.com 实习情报
 
-> 更新时间: 2026-05-26
+> **Language**: 中文 | [English](booking.en.md)
+>
+> 更新时间: 2026-06-01 (本次重跑: 验证 Compass 2026 cycle 全部 closed + 2025-07 layoff 重大更新 + Levels.fyi 4 月最新数据)
 > 信息丰富度: ⭐⭐⭐⭐⭐ (面经丰富, 公开信息透明度高)
 > 公司背景: 全球最大 OTA (在线旅游平台), 母公司 Booking Holdings (Nasdaq: BKNG), HQ 位于阿姆斯特丹 Oosterdokseiland (中央车站旁)
+
+### 2026 公司动态 (重要 context for 求职者)
+- **2025-07 大规模重组 layoff**: Booking.com 2025 年 7 月正式宣布全球裁员 **~1,000 人**, 其中 Amsterdam 受影响 **200-1,000 人** (官方区间); 全球员工 13K, 其中 Amsterdam 7K, 即 Amsterdam 影响占比 **2.8%-14%** [来源 (实际打开过): https://nltimes.nl/2025/07/16/bookingcom-cut-hundreds-jobs-amsterdam-part-global-restructure] [来源 (实际打开过): https://www.dutchnews.nl/2025/07/booking-to-cut-some-1000-jobs-significant-impact-in-amsterdam/]
+- **裁员定位**: 母公司 BKNG 利润依然增长 (2024 €5B+ 净利润, +37% YoY), 官方原文不是成本压缩, 是 "**too bureaucratic, too many layers**" 的扁平化重组
+- **2026 Compass 招聘窗口已全部关闭**: SE Grad Amsterdam / Manchester / Shanghai / DS Amsterdam / SWE Intern 5 个 program 全部显示 "Applications closed for 2026" — 下一 cycle 推测 **2026-10/11 重开** (针对 2027 cohort) [来源 (实际打开过): https://careers.booking.com/early-careers/]
+- **隐含信号**: Compass 项目本身没受 layoff 影响 (官方未冻结 grad pipeline), 但**部分组的 return offer rate 在 2025-2026 cycle 被压**
 
 ---
 
@@ -20,7 +28,7 @@
   - Product / Business Analyst Intern
   - 同框架下还有 Compass Graduate Programme (毕业生项目)
 - **实习时长**: SWE 实习 **9 周** (夏季); ML Research / PhD intern 通常 **3–6 个月**
-- **申请时间窗**: 通常前一年秋 (9–11 月) 开放, 次年 1–3 月截止; 2026 年的 SWE 实习页面显示 "Applications closed", 需关注 2027 cohort 开放
+- **申请时间窗**: 通常前一年秋 (9–11 月) 开放, 次年 1–3 月截止; 2026 cycle 已全部关闭 (2026-06-01 实测); 2027 cohort 推测 **2026-10/11 开放** (Compass SE 历史规律: 2025-10-20 开放针对 2026 入职 cohort), [来源 (实际打开过): https://careers.booking.com/early-careers/]
 
 ---
 
@@ -39,19 +47,21 @@
   - **30% ruling**: 2024 起规则收紧 (5 年期, 比例 30%→27%→20%→15% 阶梯下调, 2027 起新规进一步收紧), Compass Grad 若 base + 海外招聘 + 居住地 ≥150 km from NL border 三条件齐全可申, 实习生不适用
   - 官方 Compass SE Amsterdam 页**没有 explicit 公开声明 visa sponsorship**, 但 Compass 项目历来招国际 cohort, 配合 Booking IND sponsor 资质实操可申
 - **薪资范围 (base, gross/年)**:
-  - **Amsterdam Compass Grad SWE (Level E)**: **base ≈ $78.6K USD ≈ €72-73K + bonus $1.2K + stock $0; total ≈ €74K** (Levels.fyi 2026-05 最新 Booking.com 全 level entry, Level E = junior 起薪点) [来源 (实际打开过): https://www.levels.fyi/companies/bookingcom/salaries/software-engineer]
+  - **Amsterdam Compass Grad SWE (Level E)**: **base ≈ $78.6K USD ≈ €72-73K + bonus $1.2K + stock $0; total ≈ €74K** (Levels.fyi 2026-04-02 最新更新, Level E = junior 起薪点) [来源 (实际打开过): https://www.levels.fyi/companies/bookingcom/salaries/software-engineer]
+  - **Level E Amsterdam median total** (Levels.fyi 2026-04-02 最新): **€71,925** — 与 anchor base $78.6K USD ≈ €73K 一致; range €60.6K - €86.9K+ [来源 (实际打开过): https://www.levels.fyi/companies/bookingcom/salaries/software-engineer/levels/e/locations/greater-amsterdam-area]
+  - **Amsterdam SWE 全 range** (2026-04 实抓): €71.8K (Level E) - €225K (Level H), median 全 level €137K
   - **Level F (Software Engineer I, Grad 转正后第 1 档)**: base ≈ $110K ($101K USD ≈ €94K) + $13K stock + $11.6K bonus = total ≈ €125K — 即从 Grad 进入 permanent 后年薪跳一大档
-  - **全公司 NL Software Engineer range**: €68.7K (Level E) – €225K (Level H), median €140K
+  - **全公司 NL Software Engineer range**: €68.6K (Level E) – €225K (Level H), median €140K [来源 (实际打开过): https://www.levels.fyi/companies/bookingcom/salaries/software-engineer/locations/netherlands]
   - **股权**: 父公司 BKNG (Nasdaq); Level E Grad **没有 RSU** (Levels.fyi $0 stock 确认), Level F 起每年 ~$13K 起步, senior 后才有显著 stock plan
   - 加 8% holiday allowance + Booking 14-month 制 + 年终 bonus 5-10%
   - 注: 旧版本写 "€60-70K base" 是低估; **2026 Levels.fyi 直读 base 是 €72-73K**
-- **申请窗口**: **2026 cycle 应用窗口 2026 年 1 月开放** (官方明确); 入职 2026 年 9 月; 2026 当前申请已 closed (status: "Applications closed"), 关注 2027 cohort 2027-01 开放 [来源 (实际打开过): https://careers.booking.com/early-careers/]
+- **申请窗口**: **2026 cycle 应用窗口 2026 年 1 月开放** (官方明确, 已关闭); 入职 **2026 年 9 月** (Grad cohort); 2026 当前申请**全部 closed** (status: "Applications closed for 2026" 5 个 program 全部); **下一 cycle 推测 2026-10/11 开放** (针对 2027 cohort, 复制 SE 2025-10-20 → 2026-09 入职节奏) [来源 (实际打开过): https://careers.booking.com/early-careers/]
 - **面试流程差异 vs 实习**:
   - 4-stage 标准流程: **CV submission → Technical at-home test → Recruiter phone interview → in-person Assessment Centre Day** (与实习的 HackerRank OA + 多轮分散面试模式相比, Assessment Day 更集中)
   - **System Design 必考** (Booking 经典: 设计 hotel ranking / pricing experiment platform / fraud detection)
   - **48 小时 Case Study + 现场 presentation** 权重对 Grad 更高 — Programme 培养跨 PM / DS / Eng 复合人才, 商业 sense 是硬筛选项
   - **A/B testing 必考**: power, significance, MDE, novelty effect, network effect, peeking
-- **录取竞争**: 没有官方公开 application volume; 业内估算全球申请池数千级, 录取率个位数百分比 (与实习 < 8% 同档或更低)。国际生友好但 GPA top 10% + 至少一段技术实习 + 流利英语是隐性门槛
+- **录取竞争**: 没有官方公开 application volume; 业内估算全球申请池数千级 (Amsterdam HQ 是 magnet 城市), **录取率 5-10%** (与实习 acceptance 5-10% 一致)。国际生友好但 GPA top 10% + 至少一段技术实习 + 流利英语是隐性门槛 [来源 (实际打开过): https://www.getsmartresume.com/article/booking-com-internship-program]
 - **关键链接**:
   - Compass SE Grad Amsterdam 官方页 (实际打开过, 12 个月 / 2 rotation / Sept 2026 start / Jan 2026 open): https://careers.booking.com/booking-com-compass-se/
   - Compass SE Grad Manchester (实际打开过, 同样 12 月 / 同样结构): https://careers.booking.com/booking-com-compass-software-engineering-graduate-programme-2/
@@ -136,9 +146,10 @@ Booking.com 实习面试以 **HackerRank OA + 行为/案例 + 技术 + 文化** 
 
 | 城市 | Stipend (gross/月) | Team | 时间 | 来源 |
 |------|------|------|------|------|
-| Amsterdam | **€2,500–€3,000** (普遍报告区间, SWE intern) | Various | 2024–2025 | [getsmartresume / Glassdoor](https://www.getsmartresume.com/article/booking-com-internship-program) |
-| Amsterdam | 平均 **€16,500/年** (Glassdoor 多个数据点, 9 周项目按比例) | — | 2024 | [Glassdoor](https://www.glassdoor.com/Salary/Booking-com-Intern-Amsterdam-Salaries-EJI_IE256653.0,11_IC3064478.htm) |
-| Amsterdam (Compass SE Grad) | 全职 €60–70K base 起 (转正参考) | SE | 2024–2025 | [TechPays](https://techpays.com/europe/netherlands/booking-com/amsterdam) |
+| Amsterdam | **€2,500–€3,000** (普遍报告区间, SWE intern); 业内对比: €3K 月 stipend 等效 SF $6.5K (考虑 NL 房租 + 公交补贴) | Various | 2024–2026 | [getsmartresume](https://www.getsmartresume.com/article/booking-com-internship-program) |
+| Amsterdam | 平均 **€16,500/年** (Glassdoor 多个数据点, 9 周项目按比例) | — | 2024-2025 | [Glassdoor](https://www.glassdoor.com/Salary/Booking-com-Intern-Amsterdam-Salaries-EJI_IE256653.0,11_IC3064478.htm) |
+| Amsterdam (Compass SE Grad **2026 直读**) | **base $78.6K USD ≈ €72-73K, median total €71,925** | SE Level E | 2026-04 Levels.fyi | [Levels.fyi Level E AMS](https://www.levels.fyi/companies/bookingcom/salaries/software-engineer/levels/e/locations/greater-amsterdam-area) |
+| Amsterdam (Compass SE Grad → Level F 转正后) | base ≈ $110K + $13K stock + $11.6K bonus ≈ €125K total | SE Level F | 2026-04 Levels.fyi | [Levels.fyi SWE 全](https://www.levels.fyi/companies/bookingcom/salaries/software-engineer) |
 
 ### 关键备注
 - Booking 实习官方不公开具体 stipend; 第三方报告区间 **€2,000–€3,000/月 gross**, 是 Amsterdam 实习市场偏上水平
@@ -164,8 +175,8 @@ Booking.com 实习面试以 **HackerRank OA + 行为/案例 + 技术 + 文化** 
 
 ## 7. 踩坑与社区评价
 
-### 警惕点 (来自 2023–2025 社区反馈)
-- **2024 年裁员**: Booking Holdings 宣布全球裁 200–1000 人 (close to 1000), 母公司利润仍创新高 (净利 $5.9B 2024) 但运营开支增长过快, **部分申请者反馈被告知"由于内部变动无法继续"**
+### 警惕点 (来自 2023–2026 社区反馈)
+- **2025-07 大规模 layoff (重大更新)**: Booking.com 2025 年 7 月正式宣布全球裁员 **~1,000 人**, **Amsterdam HQ 受影响 200-1,000 人**, 占 Amsterdam 7K 员工的 2.8%-14%; 母公司 2024 净利润 €5B+ (+37% YoY) 但官方定位为 "**too many layers, too bureaucratic**" 的扁平化重组; **部分申请者 2025-2026 cycle 反馈被告知"由于内部变动无法继续"** [来源 (实际打开过): https://nltimes.nl/2025/07/16/bookingcom-cut-hundreds-jobs-amsterdam-part-global-restructure] [来源 (实际打开过): https://www.dutchnews.nl/2025/07/booking-to-cut-some-1000-jobs-significant-impact-in-amsterdam/]
 - **Case study 主观性强**: 多个 Glassdoor 报告 case study 评分依赖面试官个人偏好, 同样答案不同结果
 - **HackerRank time pressure**: 4 题 / 15 分钟一题, 抱怨"读题/读 stdin 比写算法更花时间"
 - **A/B testing 必考**: ML/DS 候选人若忽略 statistics 复习几乎稳挂
@@ -179,7 +190,7 @@ Booking.com 实习面试以 **HackerRank OA + 行为/案例 + 技术 + 文化** 
 - (+) 大流量平台 + tech 投入大 + ML/personalization 团队世界级
 - (+) 荷兰 visa sponsor 经验丰富, 是 senior 转正最稳的 NL 大厂之一
 - (-) 业务高度集中 OTA, 不及 FAANG 多元
-- (-) 2024 裁员让部分组招聘 freeze, intern → return offer 比率被压
+- (-) **2025-07 大规模 layoff (~1K 全球, Amsterdam 200-1K)** 让部分组招聘 freeze, intern → return offer 比率被压; 2026 整年 Compass 招聘窗口已全部 closed
 
 ---
 
@@ -188,9 +199,12 @@ Booking.com 实习面试以 **HackerRank OA + 行为/案例 + 技术 + 文化** 
 - 官方早期职业页: https://careers.booking.com/early-careers/
 - Compass Internship: https://careers.booking.com/booking-com-compass-internship/
 - Compass SE Grad Amsterdam: https://careers.booking.com/booking-com-compass-se/
-- 工程博客: https://booking.ai
+- 工程博客: https://careers.booking.com/blog
 - LeetCode 公司讨论: https://leetcode.com/discuss/interview-experience/?currentPage=1&orderBy=hot&query=booking.com
 - Glassdoor 面经: https://www.glassdoor.com/Interview/Booking-com-Amsterdam-Interview-Questions-EI_IE256653.0,11_IL.12,21_IM1112.htm
 - 1point3acres tag: https://www.1point3acres.com/bbs/tag/booking-1427-1.html
 - JoinTaro 实习经验集: https://www.jointaro.com/interviews/companies/bookingcom/
 - 2024 裁员: https://siliconcanals.com/booking-com-plans-job-cuts/
+- 2025-07 大规模 layoff (NL Times): https://nltimes.nl/2025/07/16/bookingcom-cut-hundreds-jobs-amsterdam-part-global-restructure
+- 2025-07 大规模 layoff (DutchNews): https://www.dutchnews.nl/2025/07/booking-to-cut-some-1000-jobs-significant-impact-in-amsterdam/
+- 2025-04 Booking 10% reorganization (NL Times): https://nltimes.nl/2025/04/24/bookingcom-looking-cut-workforce-10-next-phase-reorganization

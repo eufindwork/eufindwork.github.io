@@ -1,5 +1,7 @@
 # Deezer (巴黎) — 实习情报
 
+> **Language**: 中文 | [English](deezer.en.md)
+>
 > 法国本土流媒体音乐平台, 巴黎总部, 工程团队规模中等 (与 Criteo / Doctolib 比小). 推荐系统/音频研究是亮点, 但近年财务压力大, 多轮 layoff 阴影下实习名额波动. 适合对音乐/推荐/audio ML 有热情的 M1/M2.
 
 ---

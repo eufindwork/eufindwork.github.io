@@ -1,5 +1,7 @@
 # Jump Trading — London + Amsterdam 实习 + Grad 情报
 
+> **Language**: 中文 | [English](jumptrading.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London 2025 $14k/月 intern + Chicago $20.8k/月 + UK Skilled Worker sponsor 验证 + Amsterdam 2018 设立 + 全职 SWE median $430K 数据 + Quant Blueprint TC band 详)
 > 一句话定位: 1999 年 Chicago Mercantile Exchange floor trader Bill DiSomma + Paul Gurinas 创立的顶级 prop trading firm, 极致低延迟 + FPGA + AI 重押 (内部研究院 Jump Crypto + Jump AI), 全球小而精 (~1,300 人 vs DRW 1,000+); London + Amsterdam 是欧洲两大基地 (Amsterdam 2018 设立, 主导 European 交易); intern stipend 顶级 ($120/hr Chicago) = 业内 outlier

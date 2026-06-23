@@ -1,5 +1,7 @@
 # Nvidia 实习情报 (Munich / Helsinki / Cambridge UK)
 
+> **Language**: 中文 | [English](nvidia.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐⭐ (Munich/Helsinki 岗位列表+ Munich SWE 流程 已确认; PhD Research intern 数据较薄)
 > 一句话定位: AI 时代的"卖铲子"霸主, 欧洲三个工程中心专攻 Autonomous Driving / System Software / DL Compiler / Networking Research

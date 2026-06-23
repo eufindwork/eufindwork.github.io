@@ -1,5 +1,7 @@
 # Microsoft 实习情报 (欧洲)
 
+> **Language**: 中文 | [English](microsoft.en.md)
+>
 > 更新时间: 2026-05-26
 > 信息丰富度: ⭐⭐⭐ (中等; Munich/Reading/Amsterdam/Cambridge UK 有具体数据; Explore 项目欧洲覆盖薄弱; 真实欧洲面经少, 多依赖印度/全球流程外推)
 > 覆盖城市: Amsterdam / London / Munich / Dublin (并附 Cambridge UK / Reading / Paris / Stockholm 旁证)

@@ -74,6 +74,20 @@ job_seek/
 - 用 Edit 工具精确定位插入点 (`## 2.` 标题, 注意非所有文件都用 `## 2. 签证与国际学生政策`)
 - 报告时给每家公司一行 summary + 数据置信度 ⭐
 
+## User 背景 (筛选公司必考虑)
+
+- 在 **UvA (University of Amsterdam) 读硕士**, 持 NL student visa, 非 EU 护照
+- **签证身份影响**:
+  - Intern 在 NL 公司**学生签即可** (16h/wk 学期 / 40h/wk 假期); 不需要单独 work permit, 走 Nuffic convention
+  - 毕业后可走 **zoekjaar (orientation year)**, 1 年时间找 sponsored job, 无薪资门槛
+  - **Reduced Kennismigrant for recent NL master grads**: €2,801/mo (2026) — 远低于标准 €4,357 (<30 岁) / €5,942 (≥30 岁)
+  - 跨国 (UK/CH) 失去 NL 福利, 需重新 visa, 难度大幅上升
+- **公司优先级 (按摩擦升序)**:
+  - **Tier S (零摩擦)**: NL-based (AMS/Rotterdam/Eindhoven/Utrecht) — intern 学生签直接做, FT 走 zoekjaar + reduced HSM
+  - **Tier A (低摩擦)**: DE / FR / IE / DK / SE — 仍需 visa 但门槛低 (FR Passeport Talent ~€39K, DE Blue Card 短缺 €45,934, IE CSEP 2-4w)
+  - **Tier B (高摩擦)**: UK 后 Brexit (Skilled Worker £41,700 2026), CH (B permit 配额制)
+- **"对 EU 学生友好" ≠ "对 user 友好"**: 但因为 user 在 NL 持学生签, 很多 "需 NL 在读" 的公司 (e.g. Swisscom Rotterdam, Picnic Tech Academy) 对 user 实际是可行的, 即使官方未挂 "sponsor" 牌子
+
 ## User 当前 ⭐ 活跃申请 (最高精度)
 
 - **JetBrains** (Munich / Amsterdam / Prague)
@@ -83,9 +97,20 @@ job_seek/
 
 对这 4 家做任何修改前都要保留之前的精确数据 (特别是 Signify 的 "Junior IT/Digital Program" 命名 — **不是** GE 的 "Edison Programme") 和 Nebius G16 Levels.fyi 直读数字.
 
+## 双语策略 (2026-06-01 启用)
+
+- 每家公司**两份文件**: `companies/foo.md` (中文) + `companies/foo.en.md` (English)
+- 两份**数据点必须严格一致** (URLs / 日期 / 薪资数字 / 表格 / 引用); 只翻译散文 / 标题 / bullet 描述
+- 每份文件顶部第一行下面加 language toggle:
+  - 中文: `> **Language**: 中文 | [English](foo.en.md)`
+  - English: `> **Language**: [中文](foo.md) | English`
+- README / _template / 关键 path 提示同样双语 (`README.en.md`, `_template.en.md`)
+- 新增任何公司文件**必须同时写两份**, 不能只写一份; 不能 stale (一份更新另一份漏)
+
 ## 写作风格
 
-- **中文为主, 关键名词混英文** (visa / Skilled Worker / Kennismigrant / RSU / OA / OOD / TC / base 等不翻译)
+- **中文为主 (.md), 关键名词混英文** (visa / Skilled Worker / Kennismigrant / RSU / OA / OOD / TC / base 等不翻译)
+- **English (.en.md): tech terms stay English, 中文公司名 (e.g. 联想) translate to English; otherwise straight translation**
 - 不加多余 emoji (README 已有的 🏠 📋 🌐 🇪🇺 🤖 保留, 新增章节克制)
 - 表格、blockquote 比段落优先 (扫读友好)
 - 不写"用户友好""极致体验"这类营销词

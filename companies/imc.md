@@ -1,5 +1,7 @@
 # IMC Trading (Amsterdam) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](imc.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 careers EU + Levels.fyi L1-L4 全 level + Glassdoor + 1point3acres + Tradermath + IMC 官方 recruitment process 页面)
 > 一句话定位: 1989 年阿姆斯特丹起家的 market maker, 与 Optiver 同档同城; 全球 ~1,400 人, Amsterdam (总部) + Chicago + Sydney + Mumbai; 自营 options + futures + ETF + crypto MM; "Graduate Traineeship" 是欧洲 quant 圈最系统化的 grad 项目之一 (Trading School 6 周 + 本地 traineeship 6-14 周)

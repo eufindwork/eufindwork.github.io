@@ -1,5 +1,7 @@
 # XTX Markets (London) — 实习 + Grad 情报
 
+> **Language**: 中文 | [English](xtxmarkets.en.md)
+>
 > 更新时间: 2026-05-28
 > 信息丰富度: ⭐⭐⭐⭐ (Wikipedia + 官方 careers 已分类拆出 / Levels.fyi London 直读 / 官方招聘公告 (Core SE intern Summer 2026) / Companies House registered; 缺 1point3acres 中文面经)
 > 一句话定位: **London 总部**的纯电子做市公司 (2015 GSA spinoff, Alex Gerko 创立), 用机器学习预测 50,000+ 金融工具价格; 全球最大 FX spot liquidity provider (2019+); ~290 人小而精; **London 是大本营**, Skilled Worker sponsor 积极, SWE TC £188K (Levels.fyi London median)
