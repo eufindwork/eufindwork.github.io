@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](nvidia.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐ (Munich/Helsinki 岗位列表+ Munich SWE 流程 已确认; PhD Research intern 数据较薄)
 > 一句话定位: AI 时代的"卖铲子"霸主, 欧洲三个工程中心专攻 Autonomous Driving / System Software / DL Compiler / Networking Research
 
@@ -26,6 +26,7 @@
   - **PhD Research intern**: **9-12 月开放**, **1-3 月 deadline**, 5/6 月入职 — "early apply wins" 极强
   - **SWE/Systems intern**: rolling, 但 11 月-2 月发岗位最密集
   - **AV (Munich)** team: 全年, 因为做长期项目
+  - **2027 届 intern (2026-09-26 verified)**: 官方职位 "2027 Internships: Software Engineering" 与 "2027 Internships: Deep Learning" 已上线 jobs.nvidia.com, **rolling apply, 无固定 deadline**, 12 周全职实习; 页面未列具体欧洲城市 (时薪 $20-$71 区间为美元, 推测以 US 岗位为主) [来源 (实际打开过): https://jobs.nvidia.com/careers/job/893397026205]
 
 ## New Grad / Junior 岗位
 

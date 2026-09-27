@@ -29,6 +29,8 @@
 > Information richness: ⭐⭐⭐⭐⭐ (TGP 2026 cohort officially public + active req, Berlin IC1-IC5 Levels.fyi data complete, most information-complete of the 11 firms)
 > Distinct from internships: full-time entry-level (0-2 years experience); has structured **Tech Graduate Program (TGP)** entry + direct Junior Engineer entry as two tracks
 
+- **2026-09-26 status check**: TGP official page currently states "We don't currently have any open tech graduate roles" — the 2027 cohort is not yet open and there is no current application deadline; join the talent community for notice of the next opening [Source (actually opened): https://careers.deliveryhero.com/tech-graduate-program]
+
 - **Common role names**: Engineer L (Android / iOS / Data / ML), Associate Machine Learning Engineer L, Associate Data Scientist; careers page active reqs named like "Data Engineer L (2026 Tech Grad Program)", "Engineer L Android (2026 Tech Grad Program)", etc. [Source (verified opened): https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006]
 - **European locations**: Full-time engineering mainly in **Berlin Mitte HQ** (2 days/week hybrid required); other European brands (Talabat Dubai, foodpanda APAC, PedidosYa Latam) go through local entities, not in TGP scope
 - **Independent Graduate Programme**: **Yes — Tech Graduate Program (TGP) 2026, one of the few of the 11 firms with named grad scheme + 2026 active**

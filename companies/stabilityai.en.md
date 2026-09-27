@@ -18,6 +18,8 @@
 
 ## New Grad / Junior Roles
 
+- **2026-09-26 recheck**: stability.ai/careers still lists no specific job postings (incl. intern/new-grad); no public 2027 internship/new-grad window for Europe [Source (actually opened): https://stability.ai/careers]
+
 > Information density: ⭐ (real-time verification: stability.ai/careers + Built In London 2026-05 verified, **London full-time job listings = 0**, only 2 "Remote GBR" Research roles + 1 "Junior SWE" US/CA role on third-party trackers; Levels.fyi still has zero London data)
 > Difference from internship: full-time entry-level (0-2 years experience) — Stability AI **after 2024 rescue almost never hires junior directly in London**, public roles extremely skewed toward Senior Research / Solutions Engineer
 

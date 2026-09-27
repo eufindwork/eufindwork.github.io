@@ -2,7 +2,7 @@
 
 > **Language**: [中文](databricks.md) | English
 >
-> Updated: 2026-05-26
+> Updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐ (North America interview experience very abundant, Amsterdam intern also has multiple real reports)
 > Company background: Founded by Apache Spark founding team, AI/data lakehouse platform leader, **2024 valuation $62B (pre-IPO)**, Amsterdam is EMEA engineering main hub
 
@@ -23,7 +23,7 @@
   - Data Engineer / Data Scientist Intern (occasional, not fixed)
   - ML / Mosaic AI Intern (occasional)
 - **Internship length**: Standard **12 weeks summer** (May–Aug); some thesis intern can extend to 6 months
-- **Application window**: Usually **Aug–Oct open**, Nov–Dec start scheduling interviews, Jan–Feb offers (North American timeline); EU timeline slightly later, Oct–Nov open
+- **Application window**: Usually **Aug–Oct open**, Nov–Dec start scheduling interviews, Jan–Feb offers (North American timeline); EU timeline slightly later, Oct–Nov open; **verified 2026-09-26**: official university-recruiting page still lists Amsterdam as one of the intern/new-grad hub offices, and states applications typically open in August [Source (actually opened): https://www.databricks.com/company/careers/university-recruiting]; the only live 2027-cohort internship posting found is **Software Engineering Intern (2027 Start) - Winter**, located only in Bellevue / Mountain View / San Francisco — no Amsterdam-specific 2027 summer internship posting was live at check time [Source (actually opened): https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002]
 - **Qualifications**: Undergrad / Grad CS or related, **expected to graduate between fall 2026 – summer 2027** (i.e. 2026 summer internship is for final-year students)
 
 ---

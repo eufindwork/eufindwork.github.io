@@ -20,6 +20,8 @@
 | Application window | Year-round rolling; summer internships usually concentrated Jan-Mar; Helsinki Future Talent usually opens Jan-Mar |
 | Visa policy | Zalando **explicitly does not sponsor work visas for interns / apprentices**; candidates must already have EU work rights (student visa / Blue Card dependent visa / free work rights) |
 
+- **Updated**: 2026-09-26 — Official Early Careers page confirms internships/graduate hiring remain **rolling year-round with no fixed application deadline**, starting dates on the 1st/15th of each month; no dedicated 2027 cohort/batch announcement found [Source (actually opened): https://jobs.zalando.com/en/what-we-do/early-careers]
+
 ---
 
 ## New Grad / Junior Positions

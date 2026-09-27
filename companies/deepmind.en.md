@@ -2,7 +2,7 @@
 
 > **Language**: [中文](deepmind.md) | English
 >
-> Updated: 2026-05-26
+> Updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐ (process/salary data sufficient, intern conversion specifics not public)
 > One-liner: World's top AI Lab, "Google DeepMind" after Google Research merger, internship is the most scarce entry ticket into LLM/AlphaFold/Gemini circles
 
@@ -36,6 +36,7 @@
   - **Dec-Jan** deadline (some teams close early), strong rolling tendency, **apply early interview early**
   - Student Researcher: rolling year-round, but Q4 most active
   - Research Ready (UK campus): Jan-Feb campus deadline, Feb-Apr notification
+  - **2026-09-26 recheck**: Official deepmind.google/careers/ and deepmind.google/student-researcher-program/ pages still live, structure/application entry unchanged (both point to the Google Careers portal for open roles), neither page itself publishes specific 2027-cohort open/close dates [Source (actually opened): https://deepmind.google/careers/] [Source (actually opened): https://deepmind.google/student-researcher-program/]
 
 ## New Grad / Junior Roles
 

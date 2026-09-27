@@ -2,7 +2,7 @@
 
 > **Language**: [中文](imc.md) | English
 >
-> Last updated: 2026-05-28
+> Last updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐⭐ (official EU careers + Levels.fyi L1-L4 all levels + Glassdoor + 1point3acres + Tradermath + IMC official recruitment process page)
 > One-line positioning: Market maker founded in Amsterdam in 1989, same tier and same city as Optiver; global ~1,400 headcount, Amsterdam (HQ) + Chicago + Sydney + Mumbai; proprietary options + futures + ETF + crypto MM; "Graduate Traineeship" is one of the most systematized grad programs in European quant scene (Trading School 6 weeks + local traineeship 6-14 weeks)
 
@@ -56,8 +56,8 @@
   - **Full-time New Grad (Trader, Amsterdam)**: limited public data, industry rumor base €70-90K + massive PnL bonus (Y1 total €120-250K, exceptional Y2-3 jumping to €400K+)
 - **Application windows**:
   - **Software Engineer Intern 2026**: via https://www.imc.com/eu/careers/jobs/4563168101 — open, rolling
-  - **Graduate SWE 2026**: applicable to Sep 2025 - Jul 2026 graduates, full-time start Feb or Aug 2026 [Source (search result): https://www.imc.com/ap/careers/jobs/4580755101]
-  - **Machine Learning Intern 2026 (Amsterdam)**: open [Source (search result): https://job-boards.eu.greenhouse.io/imc/jobs/4635937101]
+  - **Graduate Software Engineer (2027, Amsterdam)**: open, for full-time start Feb or Aug 2027 [Source (actually opened): https://job-boards.eu.greenhouse.io/imc/jobs/4667814101]
+  - **Machine Learning Research Intern (Summer 2027, Amsterdam/Chicago/Sydney)**: open [Source (actually opened): https://www.imc.com/eu/careers/students-graduates]
   - **Trader Intern 2026 EOI**: Expression of Interest rolling open
 - **Interview process differences vs internship**:
   - **HackerRank OA**: 2 coding questions, 120 minutes, both hard, no camera (similar to Optiver but questions independent)

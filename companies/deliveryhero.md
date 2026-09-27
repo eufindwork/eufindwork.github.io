@@ -29,6 +29,8 @@
 > 信息丰富度: ⭐⭐⭐⭐⭐ (TGP 2026 cohort 官方公开 + active req, Berlin IC1-IC5 Levels.fyi 数据齐全, 是 11 家中信息最完整的一个)
 > 区别于实习: 全职 entry-level (0-2 年经验); 有结构化的 **Tech Graduate Program (TGP)** 入口 + 直接 Junior Engineer 入口两条线
 
+- **2026-09-26 现状核实**: TGP 官网当前显示 "We don't currently have any open tech graduate roles"（暂无开放的 tech graduate 岗位），2027 cohort 尚未开放、无当前申请截止日期；建议加入 talent community 等待下一轮开放通知 [来源 (实际打开过): https://careers.deliveryhero.com/tech-graduate-program]
+
 - **常见岗位名**: Engineer L (Android / iOS / Data / ML)、Associate Machine Learning Engineer L、Associate Data Scientist; 招聘页 active req 命名如 "Data Engineer L (2026 Tech Grad Program)"、"Engineer L Android (2026 Tech Grad Program)" 等 [来源 (实际打开过): https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006]
 - **欧洲地点**: 全职工程主要在 **Berlin Mitte HQ** (2 天/周 hybrid 必须); 其他欧洲品牌 (Talabat Dubai、foodpanda 亚太、PedidosYa 拉美) 走本地 entity, 不在 TGP 范围
 - **是否有独立 Graduate Programme**: **Yes — Tech Graduate Program (TGP) 2026, 这是 11 家中少数几个有命名 grad scheme 且 2026 active 的**

@@ -2,7 +2,7 @@
 
 > **Language**: [中文](adyen.md) | English
 >
-> Updated: 2026-05-26
+> Updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐ (rich full-time interview experiences, intern experiences relatively scarce)
 > Company background: global payment platform (PSP, payment service provider), listed on Amsterdam Stock Exchange 2018 (ADYEN.AS), HQ at Rokin 154
 
@@ -22,6 +22,7 @@
   - **Graduate Program**: 0–2 years out of school, full-time rotational
 - **Internship length**: Thesis intern usually **5–6 months**; NextGen flexible (part-time / in-semester)
 - **Application window**: rolling basis, but thesis intern concentrated in Sept–Nov (spring start) and Mar–May (fall start)
+- **2026-09-26 status check**: official student programs page and vacancies listing **both show 0 open positions** (NextGen / Internship / Graduate 2027 roles not yet posted) — keep checking the site for updates [Source (actually opened): https://careers.adyen.com/career-types/student] [Source (actually opened): https://careers.adyen.com/vacancies]
 
 ---
 
@@ -46,7 +47,7 @@
   - **Madrid Tech Grad**: €40K-€48K base (Beckham law applicable)
   - **Equity**: Adyen uses **Phantom Stock Plan**, 4-year vest 25% annually [Source (verified opened): https://www.levels.fyi/companies/adyen/salaries/software-engineer]; Grad usually **only granted starting Y2**, ~€10K-€15K phantom per year
   - Y2 retention offer (~80-90% strong participants receive) base rises to **€45K-€55K total** [Source (search results): https://www.getsmartresume.com/article/adyen-graduate-program]
-- **Application window**: **EU cohort usually opens 9-10 month, priority deadline end of October, closes mid-November**; early application (first 30 days) significantly improves interview rate; acceptance rate drops from ~5% to ~2% as cycle progresses [Source (verified opened): https://www.getsmartresume.com/article/adyen-graduate-program]
+- **Application window**: **EU cohort usually opens 9-10 month, priority deadline end of October, closes mid-November**; early application (first 30 days) significantly improves interview rate; acceptance rate drops from ~5% to ~2% as cycle progresses [Source (verified opened): https://www.getsmartresume.com/article/adyen-graduate-program]; **2026-09-26 check**: official vacancies listing currently **shows 0 open positions**, 2027 Graduate/Next Gen roles not yet live [Source (actually opened): https://careers.adyen.com/vacancies]
 - **Interview process differences vs internship**:
   - Total process **longer than internship** (6-8 weeks vs 4-6 weeks)
   - **Superday (Amsterdam in-person)** = 4-5 × 30 min rounds (fit / technical / group exercise combination) [Source (verified opened): https://www.getsmartresume.com/article/adyen-graduate-program]

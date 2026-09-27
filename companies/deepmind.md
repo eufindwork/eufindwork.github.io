@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](deepmind.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐ (流程/薪资数据充足, intern 转正具体数字不公开)
 > 一句话定位: 全球顶级 AI Lab, Google Research 合并后的 "Google DeepMind", 实习是进入 LLM/AlphaFold/Gemini 圈层的最稀缺入场券
 
@@ -36,6 +36,7 @@
   - **12 月-1 月** deadline (有些 team 提前关), 强 rolling 倾向, **早投早面**
   - Student Researcher: 全年 rolling, 但 Q4 最活跃
   - Research Ready (UK 校内): 1-2 月校内 deadline, 2-4 月通知
+  - **2026-09-26 复核**: 官方 deepmind.google/careers/ 与 deepmind.google/student-researcher-program/ 页面仍在线, 结构/申请入口未变 (均引导至 Google Careers 门户查看在招职位), 页面本身未公开具体 2027 届开放/截止日期 [来源 (实际打开过): https://deepmind.google/careers/] [来源 (实际打开过): https://deepmind.google/student-researcher-program/]
 
 ## New Grad / Junior 岗位
 

@@ -50,6 +50,7 @@
   - **Rev-celerator 2026 cohort: 申请 2025-06-01 ~ 2025-12-14 已关闭** — recruitment Sep 2025 ~ Jan 2026, 入职 Sep 2026
   - 直接 Junior SWE req: rolling 全年
   - 2027 cohort 预计 2026-06 开放
+  - **[2026-09-26 核实] 当前状态: OPEN, rolling 全年滚动招聘** (无固定 2027 截止日), 官方原文: "Applications are open year-round on a rolling basis. Recruitment typically takes place from October to January and again from March to June." 岗位满员即提前关闭; 欧洲地点: London、Krakow、Lisbon/Porto、Madrid/Barcelona [来源 (实际打开过): https://www.revolut.com/graduate-programme/]
 - **面试流程差异 vs 实习**:
   - 实习 4-5 轮, 全职 **5-6 轮 (Recruiter → HackerRank OA → Live Coding → System Design → Team Fit → Bar Raiser)**
   - **System Design 是全职必考** (实习偶有合并到 LC + SOLID): rate limiter / event tracking / chat system / payment ledger

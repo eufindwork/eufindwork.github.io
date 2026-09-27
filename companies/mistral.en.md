@@ -42,7 +42,7 @@
   - **Research Scientist (Mid / Staff)**: TC ~$490K (mid) / $700K-$950K (staff) [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]
   - **Equity structure**: **BSPCE** (French startup options) — 4-year vest + 1-year cliff + **12.8% flat tax** (vs CA 40-50%); illiquid until IPO / acquisition
   - Compared to French local (Criteo / Doctolib) Mistral full-time base 30-50% higher, plus equity has huge upside
-- **Application window**: **Rolling year-round**; **2026-05 active 164 reqs (significant expansion)** across research / engineering / infrastructure, mainly Paris [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]; no cohort batch
+- **Application window**: **Rolling year-round**, no fixed deadline; **2026-05 active 164 reqs (significant expansion)** across research / engineering / infrastructure, mainly Paris [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]; no cohort batch. **2026-09-26 re-check**: official careers page's ATS has moved from Lever to Ashby (jobs.ashbyhq.com/mistral.ai) [Source (verified opened): https://mistral.ai/careers]; the old Lever page is still reachable and currently lists AI Scientist Internship (PhD) — Paris, AI Scientist Internship (PhD) — Palo Alto, and Applied AI Engineer, Use-case (Internship) — Paris, all rolling with no stated deadline [Source (verified opened): https://jobs.lever.co/mistral]
 - **Interview process differences vs internship**:
   - Internship 5-6 rounds (HR → Team Lead → LLM Quiz → Coding → System Design → Fit), full-time **same 5-6 rounds each round depth increasing**
   - **Implementing attention from scratch is still high-frequency test point**, full-time adds multi-GPU training / inference optim / distributed training
@@ -51,7 +51,8 @@
 - **Acceptance competition**: Mistral publicly "hire only the best", Master internship hit rate < 5%, full-time entry-level L1 similarly strict; international student friendliness medium-high (after 1,000+ scale sponsor process more familiar); top-conference first-author paper / large open-source PR is entry ticket; vs Hugging Face / Criteo AI Lab still hardest
 - **Key links**:
   - Mistral Careers: https://mistral.ai/careers
-  - Lever Mistral Jobs (active 164 reqs): https://jobs.lever.co/mistral
+  - **Ashby Mistral Jobs (main link on official site as of 2026-09-26) [Source (verified opened): https://mistral.ai/careers]**: https://jobs.ashbyhq.com/mistral.ai
+  - Lever Mistral Jobs (legacy link, still reachable 2026-09-26, 3 open internships) [Source (verified opened): https://jobs.lever.co/mistral]: https://jobs.lever.co/mistral
   - **Levels.fyi Mistral Paris (2026-05-28)**: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area
   - Levels.fyi Mistral France all levels: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/france
   - **JobsByCulture Mistral Compensation 2026 (incl. BSPCE / leveling)**: https://jobsbyculture.com/blog/mistral-compensation-2026

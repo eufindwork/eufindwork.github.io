@@ -2,7 +2,7 @@
 
 > **Language**: [中文](asml.md) | English
 >
-> Updated: 2026-05-26
+> Updated: 2026-09-26
 > Info richness: ⭐⭐⭐⭐ (official info is transparent, interview reports scattered but multi-sourced via Glassdoor/JoinTaro/1point3acres)
 > Company background: sole global supplier of extreme ultraviolet (EUV) lithography systems, core equipment supplier to TSMC/Samsung/Intel. HQ in Veldhoven (next to Eindhoven), global ~40,000 employees
 
@@ -26,7 +26,7 @@
   - Mechanical / Mechatronics / Process / Control Systems and other engineering internships
 - **Internship duration**: **6-9 months** (official recommends minimum 6 months, 9 months ideal, thesis track can reach 12 months)
 - **Weekly hours**: 4-5 days (at least 2 days on-site, project-dependent)
-- **Application window**: rolling, but **suggest applying at least 3 months in advance** (includes 4-week pre-onboarding)
+- **Application window**: rolling year-round, **May and November are the peak months for new openings** [Source (actually opened): https://www.asml.com/en/careers/students-new-graduates/netherlands/internships], suggest applying at least 3 months in advance (includes 4-week pre-onboarding)
 
 ---
 
@@ -57,7 +57,7 @@
   - Plus 13-month salary (8% holiday allowance)
   - **Stock**: ASML.AS RSU, **L6 Starter 0 stock**, L7 ~$439/year (negligible), L8+ has meaningful grant [Source (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
   - **Net after 30% ruling**: €82K base → ~€5.0K-€5.5K/month net
-- **Application window**: **rolling year-round**, no fixed cohort deadline; Career portal continuously ~200+ Starter roles open; but named programs (e.g. Management Traineeship - Technology) have explicit deadlines (2026 cycle 5/25/2026) [Source (verified opened): https://www.asml.com/en/careers/students-new-graduates]; intern → Starter conversion high (publicly ~30-40%)
+- **Application window**: **rolling year-round**, no fixed cohort deadline; the previous Management Traineeship - Technology 2026 cycle deadline (5/25/2026) has passed; as of 2026-09-26 the official page has not published a specific deadline for the next cycle, so the continuously-open career portal remains the reference [Source (actually opened): https://www.asml.com/en/careers/students-new-graduates]; intern → Starter conversion high (publicly ~30-40%)
 - **Interview process diff vs intern**:
   - Process structure similar (CV → Recruiter → Hiring Manager → Technical → Offer), but **technical round deepens** — one extra round of **technical panel (3 Senior + 1 Architect)**, on-site whiteboard system design
   - **New culture / leadership behavior round** (based on ASML "Challenge, Trust, Care, Collaborate, Have Fun" five principles)

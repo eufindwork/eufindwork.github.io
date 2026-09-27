@@ -50,6 +50,7 @@
   - **Rev-celerator 2026 cohort: applications 2025-06-01 ~ 2025-12-14 closed** — recruitment Sep 2025 ~ Jan 2026, start Sep 2026
   - Direct Junior SWE reqs: rolling year-round
   - 2027 cohort expected to open 2026-06
+  - **[Verified 2026-09-26] Current status: OPEN, rolling year-round** (no fixed 2027 deadline), official text: "Applications are open year-round on a rolling basis. Recruitment typically takes place from October to January and again from March to June." Roles may close early once filled; European locations: London, Krakow, Lisbon/Porto, Madrid/Barcelona [Source (actually opened): https://www.revolut.com/graduate-programme/]
 - **Interview process differences vs intern**:
   - Intern 4-5 rounds, full-time **5-6 rounds (Recruiter → HackerRank OA → Live Coding → System Design → Team Fit → Bar Raiser)**
   - **System Design mandatory for full-time** (intern occasionally merged into LC + SOLID): rate limiter / event tracking / chat system / payment ledger

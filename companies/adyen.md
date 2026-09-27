@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](adyen.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐ (全职面经丰富, 实习面经相对稀缺)
 > 公司背景: 全球支付平台 (PSP, payment service provider), 2018 年阿姆斯特丹证交所上市 (ADYEN.AS), HQ 在 Rokin 154
 
@@ -22,6 +22,7 @@
   - **Graduate Program**: 毕业 0–2 年, 全职轮岗
 - **实习时长**: Thesis intern 通常 **5–6 个月**; NextGen 灵活 (兼职 / 学期内)
 - **申请窗口**: rolling basis, 但 thesis intern 集中在 9–11 月 (春季入职) 和 3–5 月 (秋季入职)
+- **2026-09-26 现状核查**: 官方 student programs 页与 vacancies 职位列表**均显示 0 个在招职位** (NextGen / Internship / Graduate 均未开放 2027 岗位), 需持续关注官网更新 [来源 (实际打开过): https://careers.adyen.com/career-types/student] [来源 (实际打开过): https://careers.adyen.com/vacancies]
 
 ---
 
@@ -46,7 +47,7 @@
   - **Madrid Tech Grad**: €40K-€48K base (适用 Beckham law)
   - **股权**: Adyen 用 **Phantom Stock Plan**, 4 年 vest 25% annually [来源 (实际打开过): https://www.levels.fyi/companies/adyen/salaries/software-engineer]; Grad 通常**第二年才发**, 一年 ~€10K-€15K phantom
   - Y2 retention offer (~80-90% strong participants 收到) base 涨至 **€45K-€55K total** [来源 (搜索结果): https://www.getsmartresume.com/article/adyen-graduate-program]
-- **申请窗口**: **EU cohort 通常 9-10 月开放, priority deadline 10 月底, 11 月中关闭**; 早申请 (首 30 天) 进面率显著更高; 录取率随 cycle 推进从 ~5% 降到 ~2% [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]
+- **申请窗口**: **EU cohort 通常 9-10 月开放, priority deadline 10 月底, 11 月中关闭**; 早申请 (首 30 天) 进面率显著更高; 录取率随 cycle 推进从 ~5% 降到 ~2% [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; **2026-09-26 核查**: 官方 vacancies 列表当前**显示 0 个在招职位**, 2027 届 Graduate/Next Gen 岗位尚未上线 [来源 (实际打开过): https://careers.adyen.com/vacancies]
 - **面试流程差异 vs 实习**:
   - 流程总长**比实习更长** (6-8 周 vs 4-6 周)
   - **Superday (Amsterdam in-person)** = 4-5 × 30 min 轮 (fit / technical / group exercise 组合) [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]

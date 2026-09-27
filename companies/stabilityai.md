@@ -18,6 +18,8 @@
 
 ## New Grad / Junior 岗位
 
+- **2026-09-26 复核**: stability.ai/careers 官方页面仍未列出具体岗位 (含 intern/校招), 欧洲无公开 2027 实习/校招窗口信息 [来源 (实际打开过): https://stability.ai/careers]
+
 > 信息丰富度: ⭐ (实时验证: stability.ai/careers + Built In London 2026-05 实测, **London 全职岗位列表 = 0**, 仅 2 个 "Remote GBR" Research 岗 + 1 个 "Junior SWE" US/CA 岗在第三方 tracker; Levels.fyi 仍零 London 数据)
 > 区别于实习: 全职 entry-level (0-2 年经验) — Stability AI **2024 救火后几乎不在 London 直接招 junior**, 公开岗位极偏向 Senior Research / Solutions Engineer
 

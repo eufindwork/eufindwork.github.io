@@ -2,7 +2,7 @@
 
 > **Language**: [中文](optiver.md) | English
 >
-> Last updated: 2026-05-28
+> Last updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐⭐ (official careers + Levels.fyi all levels + 1point3acres 2026 SWE/QR OA real cases + WSO + Glassdoor + Optiver official interview tips)
 > One-liner positioning: established global market maker founded in Amsterdam 1986, proprietary options / ETF MM, HQ in Amsterdam (>1,000 people), global Sydney + Chicago + Austin + London + Shanghai + Taipei; quant community originator of "50 mental math questions in 8 minutes", annual EU campus hiring for SWE + Quant Researcher + Quant Trader three tracks
 
@@ -52,8 +52,8 @@
   - **Full-time New Grad (Trading track, Amsterdam)**: public data sparse, Glassdoor shows entry trader €70-100K base + huge discretionary bonus (Y1 total rumored €150-300K, directly tied to desk PnL)
 - **Application window**:
   - **Graduate SWE / FPGA**: 2026-27 cycle rolling open, European-specific deadline leans late Oct-Dec
-  - **Internship 2026**: Amsterdam now locked to 2027 cohort (penultimate-year students graduating 2027), Sydney / Chicago / Austin already open for 2026 Summer
-  - **2026-05 live (Amsterdam)**: Junior FPGA Engineer, Graduate FPGA Engineer (Tech department, via official careers board) [Source (verified opened): https://optiver.com/working-at-optiver/career-opportunities/]
+  - **Internship 2027 cohort**: Amsterdam official internships page (verified 2026-09-26) currently lists **FPGA Internship (2027 Start)** and **Quantitative Research Internship (2027 Start)**, both for the 2027 cohort; page does not list a SWE Internship or specific deadline dates [Source (verified opened): https://optiver.com/working-at-optiver/internships/]
+  - **2026-09 Amsterdam careers board** (verified 2026-09-26): no Graduate/Junior/2027 Internship roles listed, only experienced-level roles shown (Data Engineer - Trading, RF Systems Engineer, etc.); Graduate/Internship roles appear to be posted via the separate internships page rather than the main career-opportunities listing [Source (verified opened): https://optiver.com/working-at-optiver/career-opportunities/]
 - **Interview process differences vs internship**:
   - **Optiver mental math (80in8 → currently 50 questions / 8 minutes)** — quant community's most famous filter — must write: 80 four-arithmetic problems (integers + fractions + decimals), 8 minutes, each correct +1 wrong -2, no skipping / no changes, passing ~55, competitive 70+; **2026 SWE / Quant applications all enforce this round**
   - SWE adds 2 HackerRank coding problems (2h, 1 OOP design + 1 algorithm) + Coderpad technical interview (circular buffer queue implementation, LRU variant, exchange system design)

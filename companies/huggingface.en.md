@@ -2,6 +2,8 @@
 
 > **Language**: [中文](huggingface.md) | English
 >
+> Updated: 2026-09-26
+>
 > Global open-source ML community hub, dual French-American HQ (Paris + NYC), almost all roles support remote. Hiring **heavily values open source contribution** — visible contributions on GitHub PR/HF Hub weigh more than traditional CV. Internship stipend is high for Europe (€35K/year gross = €2.9K/month).
 
 ---
@@ -37,7 +39,7 @@
   - **ML Engineer (standalone title)**: €58.8K-€75.4K+ — slightly lower than general SWE, but small sample [Source (search result): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/title/machine-learning-engineer]
   - Remote other EMEA cities: HF publicly states "adjusted to cost of living" — same role floats by city, Berlin / Amsterdam estimated €65-78K base, Eastern Europe €45-55K
   - Equity: ~$10K/year RSU equivalent (Levels.fyi same entry); HF not listed, equity value depends on IPO / next round valuation (2023 Series D valuation ~USD 4.5B)
-- **Application window**: rolling — not announced concentrated like intern cohorts; Workable recruiting page always has 5-15 full-time roles open [Source (verified opened, content is company intro page, actual listing on sub-path): https://apply.workable.com/huggingface/]
+- **Application window**: rolling — not announced concentrated like intern cohorts; Workable listing verified live on 2026-09-26 shows 8 open full-time roles (Xet Storage SWE ×2, Open-Source ML Engineer ×2, Senior ML Engineer Voice Agents ×1, Senior Open-Source Python Engineer ×2, Wild Card ×1), **no 2027 internship cohort or New Grad/Graduate roles currently posted** [Source (actually opened): https://apply.workable.com/api/v1/widget/accounts/huggingface]
 - **Interview process differences vs internship**:
   - Process **almost identical to internship** (recruiter → take-home → review call → team fit); but take-home difficulty higher (intern is "make a Spaces demo", full-time is "fix a real issue in main repo or add new model integration PR")
   - **OSS contribution weighted even more than internship** — full-time hires almost require you to **already be an HF ecosystem contributor** (transformers / diffusers / datasets / accelerate / peft / trl main repo has merged PRs)

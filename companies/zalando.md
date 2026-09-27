@@ -20,6 +20,8 @@
 | 申请窗口 | 全年滚动；夏季实习一般 1–3 月集中；Helsinki Future Talent 一般 1–3 月开放 |
 | Visa 政策 | Zalando **明确不为实习生 / 学徒 sponsor 工作签证**，候选人需已具备 EU 工作权（学生签 / Blue Card 家属签 / 自由工作权）|
 
+- **更新时间**: 2026-09-26 — 官方 Early Careers 页确认实习/校招仍为**全年滚动招聘，无固定截止日期**，起始日期为每月 1 号/15 号，未见 2027 校招专属批次公告 [来源 (实际打开过): https://jobs.zalando.com/en/what-we-do/early-careers]
+
 ---
 
 ## New Grad / Junior 岗位

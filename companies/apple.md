@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](apple.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐ (Munich 数据最厚, London/Cambridge ML 数据次之)
 > 一句话定位: 全球最值钱的硬件+软件+服务公司, 欧洲三大工程中心 (Munich Silicon, London Pay/Swift Server, Cambridge AIML)
 
@@ -20,6 +20,7 @@
   - **Silicon Intern (Munich)**: AMS Digital Design, SoC Design for Test, Top-Level Functional Verification, SoC Power Integrity/EMIR, SoC Performance Modeling, Cellular SoC IP
 - **实习时长**: **最少 3 个月**官方明确, ML/PhD intern 常 3-6 个月; UK 学校 placement year 也有 (12 个月长实习)
 - **招聘周期**: 全年 rolling, 但欧洲暑期段 (3-9 月开放, 5-9 月入职) 是高峰; Cambridge AIML 强烈倾向 PhD 自然学期空档
+- **2026-09-26 验证**: Munich 官网 student internship 岗位当前仍在滚动开放 (6 个在招, 最新一条 SoC Physical Design Intern 于 2026-09-17 发布), 未见独立标注 "2027" 的 intern cohort, 也未见新开 New Grad 职位 [来源 (实际打开过): https://jobs.apple.com/en-us/search?location=germany-DEU&team=internships-STDNT-INTRN]
 
 ## New Grad / Junior 岗位
 

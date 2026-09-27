@@ -2,7 +2,7 @@
 
 > **Language**: [中文](nvidia.md) | English
 >
-> Last updated: 2026-05-26
+> Last updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐ (Munich/Helsinki role list + Munich SWE process confirmed; PhD Research intern data thinner)
 > One-liner positioning: The "pick-and-shovel" champion of the AI era, with three European engineering centers focused on Autonomous Driving / System Software / DL Compiler / Networking Research
 
@@ -26,6 +26,7 @@
   - **PhD Research intern**: **opens Sep-Dec**, **Jan-Mar deadlines**, May/Jun start — "early apply wins" is very strong
   - **SWE/Systems intern**: rolling, but Nov-Feb has the densest postings
   - **AV (Munich)** team: year-round, since they work on long-term projects
+  - **2027 intern cycle (verified 2026-09-26)**: official postings "2027 Internships: Software Engineering" and "2027 Internships: Deep Learning" are live on jobs.nvidia.com, **rolling apply, no fixed deadline**, 12-week full-time internship; posting does not list specific European cities (hourly range $20-$71 USD suggests primarily US-focused) [Source (actually opened): https://jobs.nvidia.com/careers/job/893397026205]
 
 ## New Grad / Junior Roles
 

@@ -2,7 +2,7 @@
 
 > **Language**: [中文](apple.md) | English
 >
-> Updated: 2026-05-26
+> Updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐ (Munich data thickest, London/Cambridge ML data second)
 > One-liner: world's most valuable hardware + software + services company, three major European engineering centers (Munich Silicon, London Pay/Swift Server, Cambridge AIML)
 
@@ -20,6 +20,7 @@
   - **Silicon Intern (Munich)**: AMS Digital Design, SoC Design for Test, Top-Level Functional Verification, SoC Power Integrity/EMIR, SoC Performance Modeling, Cellular SoC IP
 - **Internship length**: **minimum 3 months** officially explicit, ML/PhD intern often 3-6 months; UK school placement year also has (12 month long internship)
 - **Hiring cycle**: year-round rolling, but European summer (Mar-Sep open, May-Sep start) is peak; Cambridge AIML strongly leans toward PhD natural semester gaps
+- **Verified 2026-09-26**: Munich official-site student internship postings remain rolling-open (6 active, most recent SoC Physical Design Intern posted 2026-09-17); no separately labeled "2027" intern cohort seen, and no new New Grad postings observed [Source (verified opened): https://jobs.apple.com/en-us/search?location=germany-DEU&team=internships-STDNT-INTRN]
 
 ## New Grad / Junior Positions
 

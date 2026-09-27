@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](huggingface.en.md)
 >
+> 更新时间: 2026-09-26
+>
 > 全球开源 ML 社区中心, 法美双总部 (Paris + NYC), 几乎所有岗位都支持 remote. 招聘**极度看重开源贡献** — GitHub PR/HF Hub 上的可见 contribution 权重高过传统 CV. 实习 stipend 在欧洲算高 (€35K/年 gross = €2.9K/月).
 
 ---
@@ -37,7 +39,7 @@
   - **ML Engineer (单独 title)**: €58.8K-€75.4K+ — 略低于通用 SWE, 但样本小 [来源 (搜索结果): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/title/machine-learning-engineer]
   - 远程其他 EMEA 城市: HF 公开声明 "adjusted to cost of living" — 同岗按城市浮动, Berlin / Amsterdam 估计 €65-78K base, 东欧 €45-55K
   - 股权: ~$10K/年 RSU equivalent (Levels.fyi 同条目); HF 未上市, equity 价值取决 IPO / 下一轮估值 (2023 D 轮估值 ~USD 4.5B)
-- **申请窗口**: rolling — 不像 intern cohort 那样集中宣布; Workable 招聘页常年挂着 5-15 个 full-time 岗 [来源 (实际打开过, 内容为公司简介页, 实际 listing 在子路径): https://apply.workable.com/huggingface/]
+- **申请窗口**: rolling — 不像 intern cohort 那样集中宣布; Workable 招聘页 2026-09-26 实测共 8 个开放 full-time 岗 (Xet Storage SWE ×2, Open-Source ML Engineer ×2, Senior ML Engineer Voice Agents ×1, Senior Open-Source Python Engineer ×2, Wild Card ×1), **无 2027 实习 cohort 或 New Grad/Graduate 岗位在架** [来源 (实际打开过): https://apply.workable.com/api/v1/widget/accounts/huggingface]
 - **面试流程差异 vs 实习**:
   - 流程**与实习几乎一致** (recruiter → take-home → review call → team fit); 但 take-home 难度更高 (实习是 "做一个 Spaces demo", 全职是 "在主仓 fix 一个真实 issue 或新增 model 集成 PR")
   - **OSS contribution 权重比实习还重** — 全职 hire 几乎要求你**已经是 HF 生态的 contributor** (transformers / diffusers / datasets / accelerate / peft / trl 主仓有 merged PR)

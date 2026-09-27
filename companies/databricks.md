@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](databricks.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐ (北美面经极多, Amsterdam intern 也有多份真实报告)
 > 公司背景: Apache Spark 创始团队创立, AI/data lakehouse 平台龙头, **2024 估值 $62B (pre-IPO)**, Amsterdam 是 EMEA 工程主力 hub
 
@@ -23,7 +23,7 @@
   - Data Engineer / Data Scientist Intern (偶有, 不固定)
   - ML / Mosaic AI Intern (偶有)
 - **实习时长**: 标准 **12 周暑期** (summer, May–Aug); 部分 thesis intern 可延伸到 6 个月
-- **申请窗口**: 通常 **8–10 月开放**, 11–12 月开始安排面试, 1–2 月发 offer (北美时间表); EU 时间表略晚, 10–11 月开放
+- **申请窗口**: 通常 **8–10 月开放**, 11–12 月开始安排面试, 1–2 月发 offer (北美时间表); EU 时间表略晚, 10–11 月开放; **2026-09-26 核实**: 官方校招页仍列 Amsterdam 为 intern/new grad hub 之一, 页面表述申请窗口通常 8 月开放 [来源 (实际打开过): https://www.databricks.com/company/careers/university-recruiting]; 当前实际上线的 2027 届实习职位为 **Software Engineering Intern (2027 Start) - Winter**, 地点仅 Bellevue / Mountain View / San Francisco, 尚未查到 Amsterdam 专属 2027 暑期实习页面上线 [来源 (实际打开过): https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002]
 - **资格**: Undergrad / Grad CS 或相关, **预期 fall 2026 – summer 2027 之间毕业** (即 2026 暑期实习面向最后一学年学生)
 
 ---

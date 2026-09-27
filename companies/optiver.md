@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](optiver.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 careers + Levels.fyi 全 level + 1point3acres 2026 SWE/QR OA 实战 + WSO + Glassdoor + Optiver 官方面试 Tips)
 > 一句话定位: 1986 年阿姆斯特丹起家的全球老牌 market maker, 自营 options / ETF MM, 总部 Amsterdam (>1,000 人), 全球 Sydney + Chicago + Austin + London + Shanghai + Taipei; quant 圈"50 道 mental math 8 分钟"的发明者, 每年 EU 校招 SWE + Quant Researcher + Quant Trader 三轨
 
@@ -52,8 +52,8 @@
   - **全职 New Grad (Trading 轨, Amsterdam)**: 公开数据少, Glassdoor 显示 entry trader €70-100K base + 巨型 discretionary bonus (Y1 总包传闻 €150-300K, 与 desk PnL 直接挂钩)
 - **申请窗口**:
   - **Graduate SWE / FPGA**: 2026-27 cycle 滚动开放 (rolling), 欧洲专属 deadline 偏向 Oct-Dec 年末
-  - **Internship 2026**: Amsterdam 现在锁 2027 cohort (penultimate year 学生, 2027 毕业), Sydney / Chicago / Austin 已开 2026 Summer
-  - **2026-05 实时开放 (Amsterdam)**: Junior FPGA Engineer, Graduate FPGA Engineer (Tech 部门, 通过官方 careers 板) [来源 (实际打开过): https://optiver.com/working-at-optiver/career-opportunities/]
+  - **Internship 2027 cohort**: Amsterdam 官方 internships 页面 (2026-09-26 核实) 目前列出 **FPGA Internship (2027 Start)** 与 **Quantitative Research Internship (2027 Start)**, 均为 2027 届实习; 页面未列出 SWE Internship 或具体 deadline 日期 [来源 (实际打开过): https://optiver.com/working-at-optiver/internships/]
+  - **2026-09 Amsterdam careers 板** (2026-09-26 核实): 未见 Graduate/Junior/2027 Internship 岗位挂出, 仅显示 experienced-level 岗 (Data Engineer - Trading, RF Systems Engineer 等); Graduate/Internship 岗位似经独立 internships 页面单独发布, 而非主 career-opportunities 列表 [来源 (实际打开过): https://optiver.com/working-at-optiver/career-opportunities/]
 - **面试流程差异 vs 实习**:
   - **Optiver mental math (80in8 → 当前 50 题 / 8 分钟)** — quant 圈最著名筛选 — 必写: 80 道四则运算 (整数 + 分数 + 小数), 8 分钟, 每对 +1 错 -2, 不可跳 / 不可改, 及格 ~55, 竞争力 70+; **2026 SWE / Quant 申请均强制此轮**
   - SWE 加 2 道 HackerRank 编程 (2h, 1 OOP design + 1 算法) + Coderpad 技术面 (circular buffer 实现队列、LRU 变种、exchange system 设计)

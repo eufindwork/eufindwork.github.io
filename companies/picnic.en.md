@@ -2,7 +2,7 @@
 
 > **Language**: [中文](picnic.md) | English
 >
-> Last updated: 2026-06-01
+> Last updated: 2026-09-26
 > Information richness: ⭐⭐⭐⭐⭐ (official Tech Academy page + Levels.fyi + Glassdoor 417 interview reviews + relocation page all traceable)
 > One-liner positioning: Dutch online grocery unicorn ("milkman 2.0"), proprietary electric vehicle delivery, 3000+ employees, business covers NL / DE / FR; Tech team ~200+, HQ in Amsterdam Hoofddorp
 
@@ -13,7 +13,7 @@
 - **European offices**: Amsterdam (HQ, Hoofddorp campus, near Schiphol airport) / Düsseldorf / Paris
 - **Role types**: Java backend (core), Android / iOS, Data Engineer, ML Engineer, SRE, UX Designer
 - **Hiring cycle**: rolling (Senior IC) + **2 cohorts/year of Tech Academy** (March + September intake)
-- **Important deadlines**: 2026 September Tech Academy already open, rolling review (closes when CV pool fills) [Source (verified opened): https://jobs.picnic.app/en/vacancies/JAU2ZUYC/graduate-programs/tech-academy-java-graduate-program/amsterdam/north-holland/netherlands]
+- **Important deadlines**: the original September 2026 cohort-specific listing link is dead (404, verified 2026-09-26); the jobs.picnic.app/en/graduate-programs overview page still lists Tech Academy (Engineering & Technology, Amsterdam) as hiring, but does not give a specific 2027 intake deadline — keep monitoring [Source (verified opened): https://jobs.picnic.app/en/graduate-programs]
 - **IND Recognised Sponsor**: Yes (workwithvisa.com official listing) [Source: https://workwithvisa.com/companies/picnic]
 
 ---
@@ -39,7 +39,7 @@
 
 ## NG (New Grad / Junior full-time) Path
 
-- **Role naming**: **Picnic Tech Academy - Java Graduate Program** (Amsterdam, 6 month cohort program, converts to FT after completion) [Source (verified opened): https://jobs.picnic.app/en/vacancies/JAU2ZUYC/graduate-programs/tech-academy-java-graduate-program/amsterdam/north-holland/netherlands]
+- **Role naming**: **Picnic Tech Academy - Java Graduate Program** (Amsterdam, 6 month cohort program, converts to FT after completion) — the original dedicated listing link is dead (404, verified 2026-09-26); the program itself is still listed on the graduate-programs overview page [Source (verified opened): https://jobs.picnic.app/en/graduate-programs]
 - **Whether there is a standalone cohort program**: **Yes — Picnic Tech Academy**
   - **Structure**: 6 month program, covers Java Clean Code → Reactive Programming → MongoDB → Spring 6 / Kafka / Postgres / K8s / Terraform
   - **Requirements**: BSc / MSc CS / AI / IT / related, **0-1 yr experience**, fluent English, 2026 September start

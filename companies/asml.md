@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](asml.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐ (官方信息透明, 面经偏散但有 Glassdoor/JoinTaro/1point3acres 多源)
 > 公司背景: 全球极紫外光刻机 (EUV) 唯一供应商, 台积电/三星/Intel 的核心设备供应商. HQ 在 Veldhoven (Eindhoven 旁), 全球员工 ~40,000 人
 
@@ -26,7 +26,7 @@
   - Mechanical / Mechatronics / Process / Control Systems 等其他工程实习
 - **实习时长**: **6–9 个月** (官方推荐最少 6 个月, 9 个月最佳, thesis 路径可达 12 个月)
 - **每周工时**: 4–5 天 (其中至少 2 天 on-site, 视项目)
-- **申请窗口**: rolling, 但**建议至少提前 3 个月**申请 (含 4 周 pre-onboarding)
+- **申请窗口**: rolling year-round, **5 月和 11 月为岗位开放高峰月** [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates/netherlands/internships], 建议至少提前 3 个月申请 (含 4 周 pre-onboarding)
 
 ---
 
@@ -57,7 +57,7 @@
   - 加 13 月薪 (8% holiday allowance)
   - **Stock**: ASML.AS RSU, **L6 Starter 0 stock**, L7 ~$439/年 (微量), L8 起才有意义 grant [来源 (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
   - **30% ruling 后实得**: €82K base → 实际到手约 €5.0K-€5.5K/月 net
-- **申请窗口**: **rolling year-round**, 没有固定 cohort 截止; Career portal 持续 ~200+ Starter 岗位开放; 但具名 program (例 Management Traineeship - Technology) 有明确 deadline (2026 cycle 5/25/2026) [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates]; 实习转 Starter 转化率高 (公开 ~30-40%)
+- **申请窗口**: **rolling year-round**, 没有固定 cohort 截止; 此前 Management Traineeship - Technology 2026 cycle 截止日期 (5/25/2026) 已过; 截至 2026-09-26 官方页面未公布新一轮具体截止日期, 仍以 career portal 持续开放岗位为准 [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates]; 实习转 Starter 转化率高 (公开 ~30-40%)
 - **面试流程差异 vs 实习**:
   - 流程结构相似 (CV → Recruiter → Hiring Manager → Technical → Offer), 但**技术轮加深** — 多一轮 **technical panel (3 名 Senior + 1 名 Architect)**, 现场 whiteboard 系统设计
   - **新增 culture / leadership behavior 轮** (基于 ASML "Challenge, Trust, Care, Collaborate, Have Fun" 五原则)

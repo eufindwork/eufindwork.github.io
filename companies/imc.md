@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](imc.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 careers EU + Levels.fyi L1-L4 全 level + Glassdoor + 1point3acres + Tradermath + IMC 官方 recruitment process 页面)
 > 一句话定位: 1989 年阿姆斯特丹起家的 market maker, 与 Optiver 同档同城; 全球 ~1,400 人, Amsterdam (总部) + Chicago + Sydney + Mumbai; 自营 options + futures + ETF + crypto MM; "Graduate Traineeship" 是欧洲 quant 圈最系统化的 grad 项目之一 (Trading School 6 周 + 本地 traineeship 6-14 周)
 
@@ -56,8 +56,8 @@
   - **全职 New Grad (Trader, Amsterdam)**: 公开数据少, 业内传闻 base €70-90K + 巨型 PnL bonus (Y1 总包 €120-250K, 极优秀 Y2-3 飙到 €400K+)
 - **申请窗口**:
   - **Software Engineer Intern 2026**: 通过 https://www.imc.com/eu/careers/jobs/4563168101 — 已开放, rolling
-  - **Graduate SWE 2026**: 适用 Sep 2025 - Jul 2026 毕业, full-time start Feb 或 Aug 2026 [来源 (搜索结果): https://www.imc.com/ap/careers/jobs/4580755101]
-  - **Machine Learning Intern 2026 (Amsterdam)**: 已开放 [来源 (搜索结果): https://job-boards.eu.greenhouse.io/imc/jobs/4635937101]
+  - **Graduate Software Engineer (2027, Amsterdam)**: 已开放, 适用 Feb 或 Aug 2027 全职入职 [来源 (实际打开过): https://job-boards.eu.greenhouse.io/imc/jobs/4667814101]
+  - **Machine Learning Research Intern (Summer 2027, Amsterdam/Chicago/Sydney)**: 已开放 [来源 (实际打开过): https://www.imc.com/eu/careers/students-graduates]
   - **Trader Intern 2026 EOI**: Expression of Interest 滚动开放
 - **面试流程差异 vs 实习**:
   - **HackerRank OA**: 2 道编程, 120 分钟, 两道都是 hard, 无摄像头 (类似 Optiver 但题目独立)

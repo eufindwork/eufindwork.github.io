@@ -2,7 +2,7 @@
 
 > **Language**: [中文](meta.md) | English
 >
-> Last updated: 2026-05-26
+> Last updated: 2026-09-26
 > Information richness: ⭐⭐⭐ (London info medium; Amsterdam info scarce — Meta in Amsterdam is sales/marketing-focused, engineering internship has almost no public records)
 > One-line positioning: London is Meta's main EU engineering internship location, salary second only to US + Zurich; PE intern is a more accessible "backdoor" path, but EU intern hiring has clearly tightened in the past two years
 
@@ -44,6 +44,7 @@ Sources: [Medium - 2024 Meta Current State of Hiring](https://chan-keith-96.medi
 
 - **Common role names**: Software Engineer, University Grad (E3) / Production Engineer, University Grad / Research Scientist (PhD) / Data Scientist (Analytics) — Meta public hiring page uses "University Grad" tag to distinguish entry-level vs experienced roles
 - **European locations**: **London (main)** / Dublin (PE + Infra) / Paris (FAIR + AI infra) — Amsterdam **basically doesn't hire SWE NG** (commercial roles dominate), Zurich occasionally FAIR Research Scientist NG (PhD only)
+- **2026-09-26 recruiting status update**: metacareers.com/students-and-grads currently lists an open University Grad full-time role: **Network Production Engineer (University Grad) — Dublin, Ireland (+1 location)**, confirming 2027-cycle NG roles are still open for applications in Europe; the page does not list a specific deadline, and no SWE Intern 2027 Europe batch was confirmed publicly — check metacareers.com/jobs filtered by location for the current live listings [Source (verified opened): https://www.metacareers.com/students-and-grads]
 - **Independent Graduate Programme**: **No** — Meta globally has no structured graduate rotation. **"Meta University"** is a summer intern program for underrepresented undergrad students (US-focused, not FT NG), don't confuse. After E3 NG joins, 6-week "Engineering Bootcamp" (London / Menlo Park) is onboarding not a graduate program. 2026 cycle FT University Grad applications usually open Aug-Sep, 2027 start dates [Source (verified opened): https://www.extern.com/post/faang-internship-guide-2026]
 - **Non-EU visa (full-time)**:
   - UK: **Skilled Worker visa** — Meta UK is a registered sponsor; E3 base £100K well above 2026 general threshold £41,700 + SOC 2134 going rate ~£49,400 [Source (verified opened): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide], sponsor almost automatic

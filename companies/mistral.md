@@ -42,7 +42,7 @@
   - **Research Scientist (Mid / Staff)**: TC ~$490K (mid) / $700K-$950K (staff) [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]
   - **股权结构**: **BSPCE** (法国 startup 期权) — 4 年 vest + 1 年 cliff + **12.8% flat tax** (vs CA 40-50%); illiquid 直到 IPO / acquisition
   - 与法国本土 (Criteo / Doctolib) 相比 Mistral 全职 base 高 30-50%, 加上 equity 上行空间巨大
-- **申请窗口**: **Rolling 全年滚动**; **2026-05 active 164 reqs (大幅扩张)** across research / engineering / infrastructure, 主要 Paris [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]; 没有 cohort batch
+- **申请窗口**: **Rolling 全年滚动**, 无固定截止日期; **2026-05 active 164 reqs (大幅扩张)** across research / engineering / infrastructure, 主要 Paris [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]; 没有 cohort batch. **2026-09-26 复核**: 官网 careers 页招聘系统已从 Lever 迁移至 Ashby (jobs.ashbyhq.com/mistral.ai) [来源 (实际打开过): https://mistral.ai/careers]; 旧 Lever 页面仍可打开, 当前在招实习为 AI Scientist Internship (PhD) — Paris、AI Scientist Internship (PhD) — Palo Alto、Applied AI Engineer, Use-case (Internship) — Paris, 均为 rolling, 未标注具体截止日期 [来源 (实际打开过): https://jobs.lever.co/mistral]
 - **面试流程差异 vs 实习**:
   - 实习 5-6 轮 (HR → Team Lead → LLM Quiz → Coding → System Design → Fit), 全职 **同样 5-6 轮每轮深度上升**
   - **从零实现 attention 仍是高频考点**, 全职加 multi-GPU 训练 / inference optim / distributed training
@@ -51,7 +51,8 @@
 - **录取竞争**: Mistral 公开 "hire only the best", Master 实习命中率 < 5%, 全职 entry-level L1 类似严苛; 国际生 friendliness 中等偏高 (1,000+ scale 后 sponsor 流程更熟练); 顶会一作论文 / 大型开源 PR 是入场券; vs Hugging Face / Criteo AI Lab 仍最难
 - **关键链接**:
   - Mistral Careers: https://mistral.ai/careers
-  - Lever Mistral Jobs (active 164 reqs): https://jobs.lever.co/mistral
+  - **Ashby Mistral Jobs (2026-09-26 起官网主链接) [来源 (实际打开过): https://mistral.ai/careers]**: https://jobs.ashbyhq.com/mistral.ai
+  - Lever Mistral Jobs (旧链接, 2026-09-26 仍可打开, 3 个在招实习) [来源 (实际打开过): https://jobs.lever.co/mistral]: https://jobs.lever.co/mistral
   - **Levels.fyi Mistral Paris (2026-05-28)**: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area
   - Levels.fyi Mistral France 全 levels: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/france
   - **JobsByCulture Mistral Compensation 2026 (含 BSPCE / 分级)**: https://jobsbyculture.com/blog/mistral-compensation-2026

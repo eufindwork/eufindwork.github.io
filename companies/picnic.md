@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](picnic.en.md)
 >
-> 更新时间: 2026-06-01
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 Tech Academy 页 + Levels.fyi + Glassdoor 417 interview reviews + relocation 页全部可溯源)
 > 一句话定位: 荷兰在线生鲜独角兽 ("milkman 2.0"), 自营电动小车配送, 3000+ 员工, 业务覆盖 NL / DE / FR; Tech 团队约 200+, HQ 在 Amsterdam Hoofddorp
 
@@ -13,7 +13,7 @@
 - **欧洲办公室**: Amsterdam (HQ, Hoofddorp 园区, Schiphol 机场附近) / Düsseldorf / Paris
 - **岗位类型**: Java backend (核心), Android / iOS, Data Engineer, ML Engineer, SRE, UX Designer
 - **招聘周期**: rolling (Senior IC) + **2 个 cohort/年的 Tech Academy** (March + September intake)
-- **重要截止日期**: 2026 September Tech Academy 已开放, 滚动审核 (CV 收满即关) [来源 (实际打开过): https://jobs.picnic.app/en/vacancies/JAU2ZUYC/graduate-programs/tech-academy-java-graduate-program/amsterdam/north-holland/netherlands]
+- **重要截止日期**: 原 2026 September cohort 专属链接已失效 (404, 2026-09-26 验证); jobs.picnic.app/en/graduate-programs 汇总页仍在招且列出 Tech Academy (Engineering & Technology, Amsterdam), 但未列出具体 2027 intake 截止日期, 需持续关注 [来源 (实际打开过): https://jobs.picnic.app/en/graduate-programs]
 - **IND Recognised Sponsor**: Yes (workwithvisa.com 官方收录) [来源: https://workwithvisa.com/companies/picnic]
 
 ---
@@ -39,7 +39,7 @@
 
 ## NG (New Grad / Junior 全职) 路径
 
-- **岗位命名**: **Picnic Tech Academy - Java Graduate Program** (Amsterdam, 6 mo cohort 项目, 完成后转 FT) [来源 (实际打开过): https://jobs.picnic.app/en/vacancies/JAU2ZUYC/graduate-programs/tech-academy-java-graduate-program/amsterdam/north-holland/netherlands]
+- **岗位命名**: **Picnic Tech Academy - Java Graduate Program** (Amsterdam, 6 mo cohort 项目, 完成后转 FT) — 原专属岗位链接已下线 (404, 2026-09-26 验证), 项目本身仍列在 graduate-programs 汇总页 [来源 (实际打开过): https://jobs.picnic.app/en/graduate-programs]
 - **是否有独立 cohort program**: **Yes — Picnic Tech Academy**
   - **结构**: 6 mo 项目, 覆盖 Java Clean Code → Reactive Programming → MongoDB → Spring 6 / Kafka / Postgres / K8s / Terraform
   - **要求**: BSc / MSc CS / AI / IT / 相关, **0-1 yr 经验**, fluent English, 2026 September start

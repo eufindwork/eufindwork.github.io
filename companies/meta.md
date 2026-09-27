@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](meta.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-09-26
 > 信息丰富度: ⭐⭐⭐ (London 信息中等;Amsterdam 信息匮乏 — Meta 在 Amsterdam 是 sales/marketing 为主,工程实习几乎没有公开记录)
 > 一句话定位: London 是 Meta EU 主要工程实习地,薪资仅次于美国 + Zurich;PE intern 是更易切入的"后门"路径,但近两年 EU intern 招聘明显收紧
 
@@ -44,6 +44,7 @@
 
 - **常见岗位名**: Software Engineer, University Grad (E3) / Production Engineer, University Grad / Research Scientist (PhD) / Data Scientist (Analytics) — Meta 公开招聘页用 "University Grad" tag 区分 entry-level vs 经验岗
 - **欧洲地点**: **London (主)** / Dublin (PE + Infra) / Paris (FAIR + AI infra) — Amsterdam **基本不招 SWE NG** (商业岗为主),Zurich 偶有 FAIR Research Scientist NG (PhD only)
+- **2026-09-26 招聘状态更新**: metacareers.com/students-and-grads 当前公开 University Grad 全职岗位含 **Network Production Engineer (University Grad) — Dublin, Ireland (+1 地点)**,确认 2027 届 NG 岗位在欧洲仍在开放投递中;页面未列出具体 deadline,SWE Intern 欧洲批次未见公开确认,建议直接用 metacareers.com/jobs 按 location 筛选核实最新在招岗位 [来源 (实际打开过): https://www.metacareers.com/students-and-grads]
 - **是否有独立 Graduate Programme**: **No** — Meta 全球没有结构化 graduate rotation。**"Meta University"** 是面向 underrepresented 学生的本科 summer intern 项目 (US 为主, 不是 FT NG),不要混淆。E3 NG 入职后 6 周 "Engineering Bootcamp" (London / Menlo Park) 是 onboarding 而非 graduate program。2026 cycle FT University Grad applications 通常 8-9 月开放, 2027 start dates [来源 (实际打开过): https://www.extern.com/post/faang-internship-guide-2026]
 - **非EU签证 (全职)**:
   - UK: **Skilled Worker visa** — Meta UK 是注册 sponsor;E3 base £100K 远超 2026 general threshold £41,700 + SOC 2134 going rate ~£49,400 [来源 (实际打开过): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide],sponsor 几乎自动批
