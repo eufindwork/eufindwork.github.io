@@ -2,6 +2,9 @@
 
 > **Language**: [中文](mistral.md) | English
 >
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — the valuation / headcount blurb in the header (Series D €3B at a €21B valuation in 2026-09).
+>
 > France's top homegrown large model company, valuation ~€6-14B (2024-2025), team ~100 people rapidly expanding to 200+. Extremely high hiring bar, usually requires NeurIPS/ICML-level paper or top conference first author; Master interns need to be from "Tier 1" engineering schools.
 
 ---
@@ -22,44 +25,20 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐ (Mistral 2026 public data shows obvious expansion — Levels.fyi L2 Paris data out + jobsbyculture detailed leveling + 164 active reqs; but standalone "Graduate" named reqs for new grads still few, mainly via PhD/Master internship + CIFRE conversion)
-> Distinct from internship: full-time entry-level (0-2 years experience); Mistral **2026 has expanded to 1,000+ employees** (far above 2025 100-200 scale) [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]; hiring senior-skewed but L1/L2 entry is public
+> Checked: 2026-10-10 (live WebSearch + WebFetch; Ashby / IND / UK registers downloaded in full and checked) | Information richness: ⭐⭐⭐⭐ (basis: all 213 open Ashby postings parsed + Levels.fyi Paris levels + official funding / news)
+> **2027 intake status**: **No programme (being built)** — no named graduate cohort, rolling hiring all year; on 2026-10-09 Mistral posted "Talent Acquisition Specialist, Early Careers - EMEA" (Paris), whose JD says the hire will "design, build, and run our global early careers strategy — spanning internships, graduate hiring, and campus recruitment" and "build early careers programs from the ground up" → inferred: structured intern / graduate hiring may appear from 2027 [Source (verified opened): https://jobs.ashbyhq.com/mistral.ai/72a2da95-0844-4b5a-8656-7d73360c788d] [Source (Ashby public API, read directly): https://api.ashbyhq.com/posting-api/job-board/mistral.ai]
+> **2026 H2 news**: 2026-09-08 Series D €3B at a €21B valuation (co-led by Samsung / EQT Scaleup Europe / PSG Equity), use of funds includes "expand its international footprint" [Source (verified opened): https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/]; 2026-09-28 Munich hub opened; 2026-10-06 Mistral Large 4 released [Source (verified opened): https://mistral.ai/news/]
 
-- **Common role names**: Software Engineer (L1 Entry / L2 / L3 Lead), ML Research Engineer, Research Scientist, Applied AI Engineer, Forward Deployed ML Engineer; hiring page rarely tags "Graduate" — prefers 1-2 years large-model experience / PhD in-progress / new PhD
-- **European locations**: main base **Paris (9th arr.)** — most employees [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]; growth in **London + San Francisco**; Junior / new grad roles almost default Paris onsite
-- **Independent Graduate Programme**: **No** — no named cohort, but two entry pathways:
-  - **CIFRE (French doctoral-corporate joint training) → Full-time Research Engineer**: Mistral in AI Scientist Internship JD **explicitly states support for CIFRE renewal** [Source (verified opened): https://www.indexventures.com/startup-jobs/mistral/ai-scientist-paris-internship-phd/ via search]; main entry for PhD students
-  - **Master internship → full-time Software Engineer L1/L2**: Applied AI / Forward Deployed Engineer internship is direct channel for Master / M2
-- **Non-EU visa (full-time)**:
-  - **France Passeport Talent (Salarié Qualifié)**: monthly salary ≥ 2x SMIC (~€3,494/month gross), Mistral Software Engineer L1 starting salary €70-90k well above threshold [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]
-  - **EU Blue Card (France)**: 2026 threshold ~€54-55k/year, Mistral L1 borderline / L2+ safely meets
-  - **APS (Autorisation Provisoire de Séjour)**: M2 France graduation 12 + 24 months job-seeking, main path for China / India candidates
-  - jobsbyculture article doesn't explicitly write sponsor policy, but Mistral's overseas hiring is obvious → actually sponsors (especially top-conference ML candidates)
-- **Salary range (Levels.fyi 2026-05-28 + jobsbyculture data, Greater Paris Area)**:
-  - **L1 (Software Engineer, Entry / Junior)**: base €70K-€90K, +BSPCE equity, TC €90K-€130K [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]
-  - **L2 (Software Engineer)**: TC median ~€78.6K, Levels.fyi USD data base $85.5K + stock $5.7K = TC $91.2K (~€85K) [Source (verified opened): https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area]; jobsbyculture mid-level €90K-€120K base + equity → TC €130K-€180K
-  - **L3 (Lead Software Engineer)**: TC median ~€134K (Levels.fyi $156K), jobsbyculture senior €120K-€165K base + €180K-€250K+ TC
-  - **Research Scientist (Mid / Staff)**: TC ~$490K (mid) / $700K-$950K (staff) [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]
-  - **Equity structure**: **BSPCE** (French startup options) — 4-year vest + 1-year cliff + **12.8% flat tax** (vs CA 40-50%); illiquid until IPO / acquisition
-  - Compared to French local (Criteo / Doctolib) Mistral full-time base 30-50% higher, plus equity has huge upside
-- **Application window**: **Rolling year-round**, no fixed deadline; **2026-05 active 164 reqs (significant expansion)** across research / engineering / infrastructure, mainly Paris [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026]; no cohort batch. **2026-09-26 re-check**: official careers page's ATS has moved from Lever to Ashby (jobs.ashbyhq.com/mistral.ai) [Source (verified opened): https://mistral.ai/careers]; the old Lever page is still reachable and currently lists AI Scientist Internship (PhD) — Paris, AI Scientist Internship (PhD) — Palo Alto, and Applied AI Engineer, Use-case (Internship) — Paris, all rolling with no stated deadline [Source (verified opened): https://jobs.lever.co/mistral]
-- **Interview process differences vs internship**:
-  - Internship 5-6 rounds (HR → Team Lead → LLM Quiz → Coding → System Design → Fit), full-time **same 5-6 rounds each round depth increasing**
-  - **Implementing attention from scratch is still high-frequency test point**, full-time adds multi-GPU training / inference optim / distributed training
-  - System Design: full-time asks inference serving (vLLM-style), KV cache management, batch scheduling, multi-tenant serving
-  - Founder round appears more frequently in full-time process
-- **Acceptance competition**: Mistral publicly "hire only the best", Master internship hit rate < 5%, full-time entry-level L1 similarly strict; international student friendliness medium-high (after 1,000+ scale sponsor process more familiar); top-conference first-author paper / large open-source PR is entry ticket; vs Hugging Face / Criteo AI Lab still hardest
-- **Key links**:
-  - Mistral Careers: https://mistral.ai/careers
-  - **Ashby Mistral Jobs (main link on official site as of 2026-09-26) [Source (verified opened): https://mistral.ai/careers]**: https://jobs.ashbyhq.com/mistral.ai
-  - Lever Mistral Jobs (legacy link, still reachable 2026-09-26, 3 open internships) [Source (verified opened): https://jobs.lever.co/mistral]: https://jobs.lever.co/mistral
-  - **Levels.fyi Mistral Paris (2026-05-28)**: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area
-  - Levels.fyi Mistral France all levels: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/france
-  - **JobsByCulture Mistral Compensation 2026 (incl. BSPCE / leveling)**: https://jobsbyculture.com/blog/mistral-compensation-2026
-  - Mistral AI Scientist PhD Internship (incl. CIFRE renewal statement): https://www.indexventures.com/startup-jobs/mistral/ai-scientist-paris-internship-phd/
-  - Welcome to the Jungle Mistral: https://www.welcometothejungle.com/en/companies/mistral-ai/jobs
-  - startup.jobs Mistral active req: https://startup.jobs/company/mistral-ai
-  - Glassdoor Mistral AI Interviews: https://www.glassdoor.com/Interview/Mistral-AI-Interview-Questions-E9945031.htm
+- **Role names**: no "Graduate / New Grad / Junior" engineering title. On 2026-10-10 Ashby lists 213 open roles (Paris 119 / London 10 / Munich 7 / Amsterdam 4 / Stockholm 3 / Madrid 2 / Zurich, Warsaw, Luxembourg 1 each); engineering roles with no stated years: Software Engineer, Backend (Paris), Software Engineer, Frontend (Paris/London); most Applied AI / FDE roles require "2+ years" (incl. the Amsterdam FDE ML Engineer posted 2026-10-09) [Source (Ashby public API, read directly): https://api.ashbyhq.com/posting-api/job-board/mistral.ai]
+- **Eligibility**: no common graduation window; Software Engineer roles say "Degree in CS ... or equivalent practical experience"; English working language, French a plus; main PhD entry is still CIFRE (internship JD: "open to CIFRE programs as a continuation after the internship") [Source (Ashby public API, read directly): https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b]
+- **European locations**: mostly Paris HQ (JDs ask for ≥3 office days/week); London / Munich (new hub 2026-09) / Amsterdam are mostly Applied AI + sales roles
+- **Programme structure**: no rotation / cohort, direct team placement, start month negotiated per offer; the real junior path = 6-month internship (Applied AI FDE / Applied Scientist, Paris) converting to full-time, or CIFRE for PhDs
+- **Non-EU visa (full-time)**: FR Passeport Talent (salarié qualifié) 2026 floor €39,582/yr + Master's; FR Blue Card €59,373 (shortage roles €47,498) [Source (verified opened): https://jobbatical.com/blog/france-talent-passport-salary-threshold] (previous: 2x SMIC ~€3,494/month, Blue Card ~€54-55k, 2026-05); **Mistral AI NL B.V. (KvK 99923777) is on the IND recognised-sponsor register** → Amsterdam roles can use Kennismigrant; switching from an NL student permit / zoekjaar is feasible [Source (full register downloaded & checked 2026-10-10): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; Mistral AI UK Limited is an A-rated Skilled Worker sponsor [Source (full register downloaded & checked 2026-10-09): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; every JD lists "relocation support", 5 JDs explicitly list "Visa sponsorship" (none of them engineering); French-graduate job-search permits do not apply to NL graduates
+- **Pay (gross/yr, Levels.fyi Greater Paris, 2026-10-10)**: median TC €103,113 (22 entries); L1 median TC €109,559 (base ~€103K + stock ~€6.8K, n=3, sample median 7 years of experience → not new-grad data); L2 €77.8K (n=5); L3 €127K (n=4); highest €133,020 [Source (verified opened): https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area] | previous jobsbyculture (2026-05): L1 base €70K-€90K, TC €90K-€130K [Source (verified opened): https://jobsbyculture.com/blog/mistral-compensation-2026] | equity is BSPCE: 4-year vest + 1-year cliff, 12.8% flat tax, illiquid before IPO
+- **Application window**: rolling, no deadline; open roles 164 (2026-05, jobsbyculture) → 213 (2026-10-10, Ashby); ATS moved from Lever to Ashby (re-checked 2026-09-26)
+- **Interview differences vs internship**: Software Engineer, Frontend (Paris) JD: Intro call 45 min → Live-coding 45 min → System Design 45 min → Tech Culture 30 min → Culture-fit 30 min → References [Source (Ashby public API, read directly): https://jobs.ashbyhq.com/mistral.ai/c0d319b2-eeef-471f-b4b1-db1f6c56289c]; a 2026-09 candidate (SWE, research-engineering track) technical screen covered model / expert parallelism, RMSNorm vs LayerNorm, diffusion, Adam/AdamW, RLHF vs DPO, and was rejected [Source (verified opened): https://prachub.com/interview-experiences/mistral-ai-software-engineer-interview-experience-ml-fundamentals-for-a-research-role]; older points still apply: attention from scratch, LLM Quiz, inference-serving system design
+- **Competition**: very high; most engineering JDs ask for 2+ to 5+ years, so direct new-grad applications rarely land; top-venue papers / LLM open-source PRs remain the main signal
+- **Key links**: Ashby board https://jobs.ashbyhq.com/mistral.ai (official main link since 2026-09-26) · Levels.fyi Paris (verified opened) · IND register (downloaded & checked) · legacy Lever https://jobs.lever.co/mistral (still reachable 2026-09-26) · CIFRE internship JD https://www.indexventures.com/startup-jobs/mistral/ai-scientist-paris-internship-phd/ (earlier citation, not opened this round)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](uber.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (全职面经丰富, 实习面经偏少但 Uber 官方有公开 EMEA intern blog)
 > 公司背景: Uber Technologies Inc. (NYSE: UBER) 阿姆斯特丹 EMEA HQ, 主要负责 Marketplace / Maps / Payments / Mobile / Safety 等产品 & 工程
 
@@ -27,48 +27,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Uber 全球有标准 New Grad SDE 招聘, Amsterdam / Aarhus / Sofia / Lisbon 都有公开岗位; Levels.fyi NL SWE I 数据完整 / TechPays 11 数据点 / Glassdoor 多份 Amsterdam 面经)
-> 区别于实习: 实习 3-6 个月 + EU 学生院校优先; **New Grad SDE** 全职 IND Kennismigrant + 30% ruling, 国际生待遇大幅提升
+> 核查日期: 2026-10-10 (实时 WebFetch + Uber Oracle Recruiting API) | 信息丰富度: ⭐⭐⭐ (依据: ATS 全量岗位 + Levels.fyi 2026-10 直读; 面试 / 签证细节沿用旧数据)
+> **2027 Intake 状态**: **No programme / 欧洲 0 个 new-grad SWE 岗** — 2026-10-10 ATS 共 619 个在招, 欧洲 97 个; Amsterdam 6 个全为非工程 (marketing / HR / finance / sales), Lisbon 7 个非工程, Sofia 0 个, Aarhus 4 个 (含 "Software Engineer - Denmark Pool", 2026-10-07 发布); 全球唯一 grad SWE req 是 US "Graduate 2026 PhD Software Engineer II (AV Labs)" (2026-09-11) [来源 (curl 直读): https://iaziqy.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs;siteNumber=CX_1,limit=100]
+> 2026 H2 变化: careers 站从 uber.com/careers 迁至 jobs.uber.com (旧 URL 301 跳转) [来源 (实际打开过): https://jobs.uber.com/en/teams/emerging-talent/]; layoff / freeze 新闻本轮未核查
+> ⚠️ **待 web 验证**: IND recognised sponsor 状态、30% ruling 细则、面试轮次、Aarhus / Sofia / Lisbon 薪资沿用 2026-05 旧数据, 本轮未复核; 二次核实前勿用于薪资 / 截止日期决策.
 
-- **常见岗位名**: **Software Engineer (New Grad)** / **Software Engineer I** / **Software Engineer II** (1-2 yrs); Uber 内部 level **L3 / SWE I** = New Grad, **L4 / SWE II** = Junior/Mid; 没有专门的 "Graduate Programme" 品牌, 走标准 SWE 招聘 + new-grad 蓄水池 [来源 (搜索结果): https://jobs.uber.com/en/locations/amsterdam/]
-- **欧洲地点**:
-  - **Amsterdam (EMEA HQ, Mr Treublaan 7)**: New Grad 名额最多但竞争最激烈 (Mobility / Maps / Payments / Safety 团队), 2026 公开岗仍以 Senior / Staff 为主 [来源 (搜索结果): https://jobs.uber.com/]
-  - **Aarhus (DK)**: Grail / Data infrastructure 团队, New Grad 数据 / 后端岗位
-  - **Sofia (BG)**: Mobile / Web frontend New Grad (薪资 ~1/3 Amsterdam, 但 cohort 最大)
-  - **Lisbon (PT)**: 2024 新增, Marketplace 团队, New Grad 名额开始扩大
-  - 与实习地点一致, 但 Sofia / Lisbon 新 grad 名额比实习更多
-- **是否有独立 Graduate Programme**: **No** — Uber 没有 cohort-based grad scheme; 走标准 Software Engineer 招聘 + "new grad" / "early career" 标签筛选; 但内部有 **EMEA Engineering Onboarding** 4 周培训 + buddy 制度
-- **非EU签证 (全职)**:
-  - Uber Netherlands B.V. 是 IND **Recognised Sponsor**, Kennismigrant 经验成熟
-  - Amsterdam New Grad SDE 完整 sponsor: visa + relocation lump sum (~$5K-$10K) + 30 天 corporate apartment + 单程机票
-  - Aarhus / Sofia / Lisbon 各国走 Skilled Worker / Blue Card 等本地路径; Sofia 是 Uber EMEA 最 visa-friendly hub (保加利亚 Blue Card 工资门槛低)
-  - **30% ruling (NL 2026)**: Amsterdam New Grad base **远超** Kennismigrant 阈值 **€4,357/月 <30 岁 = €52.3K/年** (硕士新毕业有 **reduced €2,801/月 / €33.6K** 通道) [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026], 100% 适用 — 实习完全不适用
-  - **对国际生 friendly 度 EMEA 顶级** — Uber 是欧洲少数标准化全球 sponsor 美国式 new grad 的公司
-- **薪资范围 (base, gross/年, 2026-05 Levels.fyi 实读)**:
-  - **Amsterdam SWE I (L3 / E3 entry)**: **$84.7K base + $10.5K RSU + $8.7K bonus ≈ $104K total** (USD 报价 ≈ €96K total) [来源 (实际打开过): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **NL entry-level 平均 (TechPays 4 数据点)**: **€75.7K total comp** [来源 (搜索结果): https://techpays.com/europe/netherlands/uber/amsterdam/entry-level]
-  - **SWE I 仅 base (Levels NL filter)**: €67.9K-€91.1K range, median **€85K total** [来源 (搜索结果): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands]
-  - **Amsterdam SWE II (L4, 1-2 yrs)**: $124K base + $45K RSU + $16.4K bonus ≈ **$186K total / €172K** [来源 (实际打开过): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **Aarhus New Grad SDE**: DKK 600K-720K base (~€80K-€96K)
-  - **Sofia New Grad SDE**: BGN 70K-100K base (~€36K-€51K) + RSU; 当地极高薪资
-  - **Lisbon New Grad SDE**: €40K-€55K base + RSU
-  - **股权**: UBER (NYSE) RSU, 4 年 vest **35-30-20-15** 加速 (Y1 重) [来源 (实际打开过): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area]
-  - 30% ruling 后 Amsterdam SWE I 实得 ≈ €4.5K-€5.5K/月 net (而 SWE II 升到 ≈ €7K-€8K/月 net)
-- **申请窗口**: **每年 8-10 月开放 New Grad SWE** (与 US 同步), 11-12 月面试, 1-3 月发 offer, 7-9 月入职; 错过窗口要等次年; New Grad 名额一旦关闭基本无法重开
-- **面试流程差异 vs 实习**:
-  - 流程结构相同 (Recruiter → CodeSignal OA → Hiring Manager → Onsite), 但**Onsite 从 3 轮升到 5 轮**: +1 System Design (45 min, 设计 ride-matching / ETA prediction / 实时位置 stream), +1 深度 Behavioral (Bar Raiser 风格, 与 Senior+ 面试官)
-  - **OA 难度上调** — 实习 CodeSignal medium, New Grad 包含 1 道 hard (DP / graph)
-  - 总流程 6-8 周 (实习 5-6 周)
-- **录取竞争**: Amsterdam New Grad SDE 录取率 **~2-4%** (申请池 5,000-8,000), 比实习更卷; Aarhus / Sofia 因地点冷门反而录取率 ~8-12%; **中国学生 friendliness 高于 Booking / Adyen** (Uber 全球 hire 文化)
-- **关键链接**:
-  - Uber 全球 career: https://jobs.uber.com/
-  - Uber Amsterdam location page: https://jobs.uber.com/en/locations/amsterdam/
-  - Levels.fyi Uber SWE Greater Amsterdam (2026-05 实读): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area
-  - Levels.fyi Uber SWE I Netherlands (€85K median): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands
-  - TechPays NL Uber entry-level: https://techpays.com/europe/netherlands/uber/amsterdam/entry-level
-  - LeetCode Discuss Uber Amsterdam 面经: https://leetcode.com/discuss/interview-experience/?query=uber+amsterdam
-  - 1point3acres Uber tag: https://www.1point3acres.com/bbs/tag/uber-1064-1.html
-  - JoinTaro Uber: https://www.jointaro.com/interviews/companies/uber/
+- **岗位名称**: Uber 欧洲无 graduate programme; entry level = **Software Engineer I** (L3); Emerging Talent 页只列 Software Engineering Internship Program / Data Science & Applied Science Internships / MBA Internship Program / Strategy, Operations, Analytics Rotational Program / UberSTAR / Management Trainee, 无 new-grad SWE 项目 [来源 (实际打开过): https://jobs.uber.com/en/teams/emerging-talent/]
+- **资格窗口**: 无公开数据 (无在招 new-grad 岗可读)
+- **欧洲地点**: Amsterdam (EMEA HQ) / Aarhus / Sofia / Lisbon 为历史工程 hub; 2026-10-10 只有 Aarhus 有工程岗在招 (Senior SWE / EM / "Denmark Pool")
+- **项目结构**: 无 cohort / rotation, 直接进 team (旧版提到的 4 周 EMEA onboarding 本轮未复核)
+- **非EU签证 (全职)**: NL Kennismigrant 2026: €4,357/月 (<30 岁) / reduced €3,122/月 (NL 硕士应届) [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]; Amsterdam SWE I base €75.3K 远高于两档; Uber 为 IND recognised sponsor (旧数据, 本轮未复核) — NL 学生签 / zoekjaar → Kennismigrant 路径成立, 前提是 Amsterdam 有工程 req
+- **薪资 (Levels.fyi Greater Amsterdam, 2026-10 直读)**: SWE I **€94.6K** TC (€75.3K base + €11.7K stock + €7.6K bonus); SWE II €157K (€107K base + €36.5K stock + €13.5K bonus) [来源 (实际打开过): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area] (旧版 2026-05: SWE I $104K ≈ €96K; SWE II $186K ≈ €172K); NL SWE I TC 中位 €90.4K (n=10, YOE 0–7) [来源 (curl 直读): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands]
+- **其他地点 (Levels.fyi, curl 直读, 样本旧)**: Denmark SWE I DKK 624.5K base / DKK 875.9K TC (n=5, 近 12 个月 0 条) [来源 (curl 直读): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/denmark]; Bulgaria SWE I $35.9K base / $44.2K TC (n=3, 近 12 个月 0 条) [来源 (curl 直读): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/bulgaria]; Lisbon: Levels.fyi Portugal 仅 1 个样本, 无可用 entry 数据 (旧版估算已移除)
+- **股权**: RSU 4 年 vest 35/28/22/15 (按月) [来源 (实际打开过): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area] (旧版: 35-30-20-15)
+- **申请窗口**: 旧版 "每年 8-10 月开 new grad" 规律 2026 未出现: 截至 2026-10-10 欧洲 0 个 new-grad SWE req; 欧洲 2027 intern 仅商业岗 (Ops / BD / Account Mgmt / Sales: Berlin / Munich / London / Madrid / Paris, 2026-09-30 至 2026-10-07 发布). 推断: 2027 欧洲 new-grad SWE 若出现, 会是零散 SWE I req
+- **面试流程差异 vs 实习**: (旧数据, 本轮未复核) Recruiter → CodeSignal OA → HM → onsite (coding + system design + behavioral), 6-8 周
+- **录取竞争**: 当前无 req = 无 new-grad 入口; 旧版录取率 "~2-4%" 为社区估计, 本轮未复核
+- **关键链接**: Emerging Talent (实际打开过): https://jobs.uber.com/en/teams/emerging-talent/ · Amsterdam 页 (实际打开过): https://jobs.uber.com/en/locations/amsterdam/ · 岗位搜索 (JS 渲染): https://jobs.uber.com/en/jobs/?location=Amsterdam&radius=100 · TechPays: https://techpays.com/europe/netherlands/uber/amsterdam/entry-level
 
 ---
 

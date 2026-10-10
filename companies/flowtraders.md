@@ -3,7 +3,7 @@
 > **Language**: 中文 | [English](flowtraders.en.md)
 >
 
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi Amsterdam median €129K 直读 + Glassdoor Graduate SWE €157K 中位 + 官方 4 个 Graduate Programs + Tradermath 流程 + WSO + Trading Interview mental math 75-in-10 实测)
 > 一句话定位: 2004 年阿姆斯特丹起家的 ETF Market Maker (全球 ETF MM 龙头之一), 公开上市 (FLOW.AS), 总部 Amsterdam, 全球 Singapore + NYC + HK + Cluj-Napoca; 工程比 Optiver/IMC 偏 systems engineering (非 HFT 极致低延迟), 但 trader 流程的"75题/10分钟 mental math + 集团 trading 模拟"是 ETF MM 独门特色
 
@@ -26,56 +26,22 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (4 个明确 Graduate Program 命名 + Levels.fyi 全 level + Glassdoor 12 数据点 Graduate SWE + Trading Interview 流程实测 + 但 intern stipend 没公开精确数字)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse API 全量下载; WebSearch 配额用尽) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 graduates 页 + Greenhouse JD + IND register + Q2 2026 财报直读; 缺 Amsterdam grad 薪资一手数据)
+> **2027 Intake 状态**: **Rolling** (Graduate Trader, 每年 4 次 intake) / **Open** (PhD Graduate QR, 2026-10-09 发布) / Graduate Software Development **当前无在招 JD**; 另有 **Flow Quant Trading Days 2026** (Amsterdam, 7-8 Dec 2026, 15 人, 仅限 "graduating in 2026 or 2027 from a BSc/MSc STEM degree in the Netherlands", 截止 November 13th, 可直接拿 Graduate Trader 全职 offer) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs]
+> 2026 H2 动态: 2026-07-30 Q2 2026 财报: 1H26 net profit €91.2m; 2026 fixed opex 指引 €235-245m ("technology investments, talent additions"); CEO: "attracting experienced talent with a focus on technology and AI"; 全球 "over 600 professionals" (旧版: ~750-900 人); 3Q26 trading update 定于 2026-10-29 [来源 (实际打开过): https://www.flowtraders.com/media/wt3kym5w/flow-traders-2q26-results-press-release-vf.pdf]; 2026-07-28 选 CoreWeave 训练 AI 量化 foundation model [来源 (实际打开过, Google News RSS 标题): https://news.google.com/rss/search?q=%22Flow+Traders%22+when:120d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **常见岗位名 (区分关键)**:
-  - **Graduate Software Engineer** / **Graduate Software Engineer - C++** — 1 年 training program
-  - **Graduate Trader** — 3 个月 Trading 训练
-  - **Graduate Quantitative Research** — 2 个月 QR training
-  - **Graduate Trading Operations Engineering** — 3 个月 training + 项目, DevOps + trading infra (Flow Traders 独有, 介于 SWE 和 trader 之间)
-  - **Trading Intern** — Amsterdam + NY 双地
-  - **Software Engineer Intern**
-- **欧洲地点**: Amsterdam (主, EU HQ) / 罗马尼亚 Cluj-Napoca (tech 二线, 工资较低) / 其他全球 Singapore / NY / HK
-- **是否有独立 Graduate Programme**: **Yes (4 个并行项目)** — 这是 Flow Traders 比 Optiver/IMC 更细分的地方:
-  - **Graduate Software Development (1 年 training, C++ 或 Java 团队)** — 最长项目
-  - **Graduate Trading (3 个月)** — 4 次 intake / 年, rolling 招生; "Graduate Trader position is open all year round"
-  - **Graduate QR (2 个月)** — 与 senior QR + Trader 协同
-  - **Graduate Trading Operations Engineering (3 个月)** — DevOps + infra 偏向
-- **非EU签证 (全职)**:
-  - **NL Kennismigrant 2026**: 同 Optiver/IMC — <30 €4,357/月, ≥30 €5,942/月, 硕士 reduced €2,801/月 — Flow Traders Graduate SWE base €110-130K 远超 [来源 (用户 MEMORY)]
-  - **30% ruling**: 适用
-  - **重要差异**: 官方明确"Flow Traders is open to providing visa sponsorship to international candidates (and their partner/children)" — **但 intern 不办**: "We do not provide visa sponsorship for our interns" [来源 (实际打开过): https://www.flowtraders.com/careers]
-- **薪资结构 (量化特有, 必填)**:
-  - **Intern (Amsterdam, 2026)**:
-    - 8 周, July 1, 2026 起, housing 提供
-    - **精确 stipend 未官方公开**, 业内估月 €3,500-5,000 + 公寓
-    - 对比: NY Trading Intern Summer 2026 prorated base **$150K** (年化, 即 ~$12.5K/月) [来源 (搜索结果): https://www.builtinnyc.com/job/trading-intern-summer-2026/6880940]
-    - 在职完成可直接转 FTE Graduate Trader
-  - **全职 New Grad (Graduate SWE, Amsterdam)**:
-    - **Glassdoor 2025 数据 (12 数据点)**: 平均 **€156,893/年** (€132K-€189K 区间), 即时薪 €64-91/小时 [来源 (搜索结果): https://www.glassdoor.com/Salary/Flow-Traders-Graduate-Software-Engineer-Netherlands-Salaries-EJI_IE258344.0,12_KO13,39_IL.40,51_IN178.htm]
-    - **Levels.fyi Greater Amsterdam (median, 跨 level)**: total **€129K** = base €116K + bonus €34.7K + stock €0 (median L4, 7 yoe — 即 Graduate 入门数据有限) [来源 (实际打开过): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer/locations/greater-amsterdam-area]
-    - Flow Traders 全球 SWE Levels.fyi 跨 location: $68.8K-$129K, **比 Optiver / IMC 偏低** (Optiver L3 €185K vs Flow Traders Graduate €129-157K)
-    - **No equity** (虽然是上市公司, 但 grad bonus 全 cash; senior 才有 RSU)
-  - **全职 New Grad (Trader, Amsterdam)**: Glassdoor 等显示 Y1 base €60-80K + PnL bonus, Y1 总包 €100-180K (略低于 Optiver/IMC 但 entry 门槛也略低)
-- **申请窗口**:
-  - **Graduate Trader**: "open all year round...rolling basis. **4 个 intakes per year**" (1, 4, 7, 10 月左右)
-  - **Graduate Software Development**: 申请提前 1 年; "no deadline for submitting applications", **2026 summer start 已开放** [来源 (实际打开过): https://www.flowtraders.com/careers/graduates/]
-  - **Trading Intern Summer 2026**: 已开放 (greenhouse) [来源 (搜索结果): https://job-boards.greenhouse.io/flowtraders/jobs/7166435]
-- **面试流程差异 vs 实习**:
-  - **Mental math test**: 75 题 / 10 分钟 (vs Optiver 80 in 8, vs IMC 自家版本) — 30 易 + 30 难 (小数) + 15 选择题
-  - **Zetamac benchmark**: 业内推荐 50+ 是入场, 55-65+ 是竞争力
-  - **Group trading simulation**: Flow Traders 独有 — 候选人之间互相交易 (vs Optiver 1v1 MM game)
-  - **ETF brainteaser**: 1 道 simple math + spot opportunity 题
-  - 全职 vs intern 流程几乎一致, 全职多一轮 culture fit
-- **录取竞争**: OA 通过率传 <25% (比 Optiver/IMC 略友好); 整体 offer rate <3%
-- **关键链接**:
-  - 官方 careers (实际打开过): https://www.flowtraders.com/careers
-  - 官方 Graduate Programs (实际打开过): https://www.flowtraders.com/careers/graduates/
-  - 官方 Job Search (搜索结果): https://www.flowtraders.com/careers/job-search/
-  - Trading Intern Summer 2026 (搜索结果): https://job-boards.greenhouse.io/flowtraders/jobs/7166435
-  - Graduate Trader 当前职位 (搜索结果): https://www.flowtraders.com/careers/job-description/7507482
-  - Levels.fyi Amsterdam (实际打开过, median €129K): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer/locations/greater-amsterdam-area
-  - Levels.fyi Global SWE (搜索结果): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer
+- **岗位名称**: Graduate Trading Program (3 个月培训) · Graduate Quantitative Research (2 个月) · Graduate Trading Operations Engineering (3 个月 = 2 个月培训 + 1 个月 graduation project) · Graduate Software Development (1 年, C++ 或 Java) [来源 (实际打开过): https://www.flowtraders.com/careers/graduates/]
+- **当前在招 (Amsterdam, 2026-10-10)**: Graduate Trader https://job-boards.greenhouse.io/flowtraders/jobs/7507482 · PhD Graduate Quantitative Researcher https://job-boards.greenhouse.io/flowtraders/jobs/8266897 · Flow Quant Trading Days 2026 https://job-boards.greenhouse.io/flowtraders/jobs/8173418; 近 junior: Trading Tools Software Engineer (要求 "previous working experience in professional software development", 未写年限) https://job-boards.greenhouse.io/flowtraders/jobs/8203713; 其余 Amsterdam tech 岗多为 5+ / 7+ 年
+- **资格窗口**: Graduate Trader "Only penultimate and final year students are eligible"; PhD QR 需 PhD; Trading Days 限 NL 高校 2026 / 2027 届 BSc/MSc STEM
+- **欧洲地点**: Amsterdam (EU HQ, grad 项目所在地); London 仅 senior / manager 岗
+- **项目结构**: Trader: Amsterdam 3 个月培训 → 分 desk, "four intakes for this program per year"; SWE: 1 年项目, "a year before the start date" 开放申请, 无截止 (招满即关)
+- **非EU签证 (全职)**: 官方 "We are open to providing visa sponsorship to international candidates (and their partner/ children). We do not provide visa sponsorship for our interns." (全职可, intern 不可, 与旧版一致) (同上 graduates 来源); IND register 2026-10-05 版列 **Flow Traders B.V.** (KvK 33223268) + **Flow Traders Amsterdam Services B.V.** (KvK 98525085) [来源 (实际打开过; 全表下载 grep): https://ind.nl/en/public-register-recognised-sponsors/public-register-work] → NL 学生签 / zoekjaar 转 Kennismigrant 可行; reduced 门槛 €3,122, <30 €4,357, ≥30 €5,942 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]; UK: Flow Traders UK Services Ltd 为 Skilled Worker A-rated sponsor [来源 (实际打开过; CSV 下载 grep): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]
+- **薪资 (gross/年)**: Levels.fyi Amsterdam SWE median **€125K** (= base €110K + bonus €15K + stock €0; 该条 L4, 10 YoE, 2026-07 offer); NL 14 条 average €121,189, highest €155,473; **无 entry level 分档** (旧版: median €129K = base €116K + bonus €34.7K, L4 7 YoE, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer/locations/greater-amsterdam-area]; 美国参考: NY Graduate Quantitative Trader (Fall 2027 入职) base $175,000 + discretionary variable https://job-boards.greenhouse.io/flowtraders/jobs/8094581; Amsterdam JD 仅写 "competitive salary, annual discretionary profit share"
+- ⚠️ **待 web 验证** (Amsterdam grad 薪资, 旧版 Glassdoor 搜索结果, 本轮未复核, 勿用于薪资决策): Graduate SWE NL 平均 €156,893 https://www.glassdoor.com/Salary/Flow-Traders-Graduate-Software-Engineer-Netherlands-Salaries-EJI_IE258344.0,12_KO13,39_IL.40,51_IN178.htm; Graduate Trader Y1 base €60-80K + PnL bonus, Y1 总包 €100-180K
+- **申请窗口**: Trader 全年 rolling; Trading Days 截止 November 13th (2026); PhD QR 2026-10-09 发布; Graduate SWE 无在招 JD (上一 cycle 为提前 1 年开放); Amsterdam Summer 2027 Trading Intern 尚无 JD (HK Trading Intern 已开, 毕业 2027-08 ~ 2028-12)
+- **面试流程差异 vs 实习**: ⚠️ **待 web 验证**: 旧版 (搜索结果: Tradermath / WSO) 记 mental math 75 题 / 10 分钟 → recruiter → trader 面 → case → assessment day (含 group trading simulation); 本轮未复核
+- **录取竞争**: Trading Days 仅 15 人; Amsterdam 当前 3 个 grad 向岗位 (推断: intake 集中)
+- **关键链接**: graduates 页 (实际打开过): https://www.flowtraders.com/careers/graduates/ · careers FAQ (实际打开过): https://www.flowtraders.com/careers · Greenhouse API (实际打开过, 见上) · Levels.fyi Amsterdam (实际打开过, 见上)
 
 ---
 
@@ -190,4 +156,4 @@
 - Trading Interview Graduate Trader (搜索结果): https://www.tradinginterview.com/?post_type=ti_job&p=10263277536
 - TechPays Flow Traders NL (搜索结果): https://techpays.com/europe/netherlands/flow-traders
 - TechPays Flow Traders Amsterdam (搜索结果): https://techpays.com/europe/netherlands/flow-traders/amsterdam/eng_generic
-- IND Kennismigrant 2026 thresholds (用户 MEMORY): NL <30 €4,357/月; ≥30 €5,942/月; reduced €2,801/月
+- IND Kennismigrant 2026 thresholds: NL <30 €4,357/月; ≥30 €5,942/月; reduced €3,122/月 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]

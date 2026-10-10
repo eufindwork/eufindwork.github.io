@@ -2,6 +2,8 @@
 
 > **Language**: [中文](gresearch.md) | English
 >
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'ML College' in the header and §2 (no longer on the official pages).
 
 > UK's largest native quant HF, London Soho Place HQ. One of the most cohort-based quant hirers — has formal Graduate Programme + Internship + Placement + ML College + in-house training system. SWE Grad starting salary is top-tier in London quant, Levels.fyi L1 median £188k total.
 
@@ -23,44 +25,23 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (Programme most transparent)
+> Checked: 2026-10-10 (live WebFetch) | Information richness: ⭐⭐⭐⭐ (basis: official Graduates page + 2027 grad / intern postings + Levels.fyi London JSON read directly + UK sponsor register checked directly; missing QR grad pay figures and 2025-26 candidate reports)
+> **2027 intake status**: **Open (rolling, no deadline)** — the vacancies page (103 roles) lists 2 grad roles on 2026-10-10: **Graduate Machine Learning Engineer** (start Tuesday 31st August 2027) + **Quantitative Researcher – Postgraduate**; official: "We typically launch our graduate positions in August" [Source (verified opened): https://www.gresearch.com/vacancies/] [Source (verified opened): https://www.gresearch.com/students-graduates/graduates/]
+> 2026 H2 news: no layoff / hiring-freeze reports found; the latest reported cut was 2024-01-19 (~100 London tech roles, some new tech hiring shifted to the Dallas office) [Source (verified opened): https://www.efinancialcareers.com/news/G-research-cut-jobs]
 
-- **Common role names**:
-  - **Software Engineering Internship** (10-12 weeks summer, London)
-  - **Machine Learning Research Internship** (10 weeks, 2026-06-22 → 2026-08-28) [Source (verified opened): https://www.gresearch.com/vacancies/machine-learning-research-internship/]
-  - **Quantitative Researcher — Postgraduate** (Master's/PhD entry, FT grad) [Source (verified opened): https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/]
-  - **Technology Placement Year** (industrial year, 10-12 months)
-  - **Software Engineer** (FT, multiple sub-teams: Platform / Data / Full-Stack / Cyber / Infra)
-  - **Quant Analyst / Data Scientist / NLP Researcher / Machine Learning Researcher** (Quant Research stream)
-  - **Open-Source Evangelist** (TIG team)
-- **European locations**: London (only)
-- **Independent Graduate Programme**: **Yes** — explicit Graduates entry + three streams (Quant Research / Engineering / Corporate); Graduate roles **usually open August** [Source (verified opened): https://www.gresearch.com/students-graduates/graduates/]
-- **Non-EU visa (full-time)**: UK Skilled Worker 2026 £41,700 / SOC 2134 ~£49,400. G-Research SWE Grad base usually £80-110k+ far exceeds threshold. A-rated sponsor.
-- **Salary structure**:
-  - **Intern (10-week ML Research Internship summer 2026)**: "Competitive" (official not public number), community reports £6-8k/month; corporate housing assistance + commute subsidy
-  - **Full-time New Grad SWE**:
-    - Levels.fyi L1 SWE London: base **$134k** + bonus **$117k**, total **median £188k** (£73-189k+ range) [Source (verified opened): https://www.levels.fyi/companies/g-research/salaries/software-engineer/locations/london-metro-area]
-    - Glassdoor SWE London avg £100k base (50-114k range, excl. bonus) [Source (verified opened): https://www.glassdoor.com/Salary/G-Research-Software-Engineer-London-Salaries-EJI_IE297747.0,10_KO11,28_IL.29,35_IM1035.htm]
-    - Public community estimate grad SWE Y1: base £80-100k + bonus 50-80% = total £120-180k+
-  - **Quant Researcher Postgraduate**: "highly competitive" compensation + annual discretionary bonus + 9% pension contrib + 35 days leave + ML College access
-- **Application window**:
-  - **Graduate positions**: usually **open August**
-  - **SWE Internship 2026**: 30 March → 18 Sept or 29 June → 18 Sept (dual cohort)
-  - **ML Research Internship 2026**: 22 June → 28 Aug (10 weeks)
-- **Interview process differences vs internship**:
-  - **Quant Research**: 4 stages (1-2 weeks): Application → Quant aptitude test → Technical interviews → Final with functional lead
-  - **Engineering Internship**: 3 stages: Application → Skills test → Assessment centre
-  - **SWE FT Grad**: Technical test → Assessment centre → Mentor interviews (4× 1h, including 1h math depth)
-- **Selection competition**: large application volume (top UK quant employer), accept rate community estimate < 3%. Top interns after ML College have highest intern-to-FT conversion rate.
-- **Key links**:
-  - [G-Research Careers Overview](https://www.gresearch.com/careers/)
-  - [Students & Graduates Entry](https://www.gresearch.com/students-graduates/)
-  - [Graduates page](https://www.gresearch.com/students-graduates/graduates/)
-  - [All Vacancies](https://www.gresearch.com/vacancies/)
-  - [Quant Researcher Postgrad listing](https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/)
-  - [SWE Internship listing](https://www.gresearch.com/vacancies/software-engineering-internship/)
-  - [ML Research Intern listing](https://www.gresearch.com/vacancies/machine-learning-research-internship/)
-  - [Levels.fyi London SWE](https://www.levels.fyi/companies/g-research/salaries/software-engineer/locations/london-metro-area)
+- **Role names**: Graduate Machine Learning Engineer (Technical ML team) / Quantitative Researcher – Postgraduate; on 2026-10-10 the vacancies page has **no generic Graduate Software Engineer role** (SWE new grads mainly via intern conversion, inferred); placements: only HR Placement Year (previous: Technology Placement Year)
+- **Eligibility**: Grad MLE = current undergraduate / master's / PhD student (ML or related), Python + PyTorch + NumPy [Source (verified opened): https://www.gresearch.com/vacancies/graduate-machine-learning-engineer/]; QR Postgraduate = Masters / PhD held or in progress (maths / statistics / CS / physics / engineering), no finance experience needed [Source (verified opened): https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/]
+- **European locations**: London (One Soho Place) only; there is also a US office in Dallas
+- **Programme structure**: Grad MLE single start date 2027-08-31; the QR Postgraduate posting gives no start date; the official Graduates page cites an intern who received a grad offer at the end of the internship; the "ML College" mentioned in the previous version does not appear on the 2026-10 Graduates page / postings (doubtful)
+- **Non-EU visa (full-time)**: G-Research is the trading name of Alastair LLP (OC451515) [Source (verified opened): https://www.gresearch.com/terms/]; Alastair LLP is on the register as an A-rated Skilled Worker sponsor (2026-10-09) [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; postings state relocation + "Immigration support" (external consultant throughout); Skilled Worker threshold £41,700, grad pay far above it; NL zoekjaar not applicable, a UK Skilled Worker CoS is required
+- **Pay (gross/yr, no equity)**:
+  - **SWE London (Levels.fyi, 2026-10-10)**: median package = L1, 0 YOE, 2025-10 offer: base £100K + bonus £87.6K = TC £187.8K (first year £220K); UK distribution n=47: base median £99.2K (p25 £83.3K / p75 £122.0K), bonus median £34.6K, average TC £137.9K [Source (verified opened): https://www.levels.fyi/companies/g-research/salaries/software-engineer/locations/london-metro-area] (previous: "base $134k + bonus $117k, median £188k" — same data point, USD / GBP mix-up corrected)
+  - Glassdoor SWE London average base £100k (previous 2026-05, verified opened) [Source (verified opened): https://www.glassdoor.com/Salary/G-Research-Software-Engineer-London-Salaries-EJI_IE297747.0,10_KO11,28_IL.29,35_IM1035.htm]
+  - **QR / Grad MLE**: official wording only "Highly competitive compensation plus annual discretionary bonus" + 9% pension + 35 days' leave (MLE posting body says 30 days); no public figures
+- **Application window**: grad roles usually go live in August; 2027 Grad MLE + QR Postgraduate open on 2026-10-10, no deadline in postings (rolling); no public data on the previous cycle's exact open / close dates
+- **Interview process**: QR Postgraduate: Online Application (reply within 1 week) → Online Quant Quiz → Technical Interviews (typically 4 × 1h maths, or 2 × 1h ML) → Leadership Interviews; Grad MLE: Application → Technical Interview or remote test → Behavioural → Further Technical → Management Interviews; 2025-26 candidate reports could not be verified (Glassdoor 403)
+- **Competition**: ⚠️ **Pending web verification**: the previous community estimate of < 3% accept rate has no source; on 2026-10-10 there are only 2 grad tracks (inferred: limited places)
+- **Key links**: SWE Internship 2027 (verified opened): https://www.gresearch.com/vacancies/software-engineering-intern/
 
 ---
 

@@ -117,7 +117,7 @@
 
 ## 8. For UvA Students (NL student visa) — Specific Assessment ⭐
 
-- **Core trade-off**: Already in NL holding student visa → choosing Voi means **giving up NL zoekjaar (€2,801 reduced HSM)**, exchanging for Sweden certified employer fast track
+- **Core trade-off**: Already in NL holding student visa → choosing Voi means **giving up NL zoekjaar (€3,122 reduced HSM)**, exchanging for Sweden certified employer fast track
 - **Intern feasibility**: ❌ **Zero** — no formal intern program; thesis worker can use KTH/Chalmers channels but default requires SE work visa
 - **FT feasibility**:
   - **R&D senior → medium-high** — Sweden certified employer 2-4 weeks fast, starting salary should cover 90% median; but currently Stockholm 9 reqs all senior, **Junior/Grad not friendly**

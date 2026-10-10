@@ -3,7 +3,7 @@
 > **Language**: 中文 | [English](google.en.md)
 >
 
-> 更新时间: 2026-05-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (STEP/SWE 信息丰富,Warsaw/Research 略稀疏)
 > 一句话定位: 欧洲 Tier 1 实习中的"金标准";苏黎世薪资全球最高梯队,但门槛极高,STEP 项目对一二年级本科尤其友好
 
@@ -32,49 +32,28 @@ Google 在 EMEA 的核心实习项目分三种,定位不同,务必区分清楚:
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi L3 数据 5 城齐全且为 2026-05 最新; Engineering Residency 状态已 web 核实; Dublin 数据点仍少)
-> 区别于实习: 全职 entry-level (0-2 年经验), 入职级别 **L3 (SWE II)**, 永久合同 + 全套股权 (GSU 4 年 vest)
+> 核查日期: 2026-10-10 (实时 WebFetch; Google Careers 页面 WebFetch 被截断, 改用 curl 抓取原始 HTML 解析, 标注 "原始 HTML 抓取") | 信息丰富度: ⭐⭐⭐⭐ (依据: 5 城 Levels.fyi L3 直读 + 官方在招岗位逐条核查; 候选人面经未更新)
+> **2027 Intake 状态**: **No programme (Rolling)** — EMEA 无结构化 graduate scheme; 2026-10-10 Google Careers 搜 "University Graduate" 共 38 条, 欧洲只有 Legal Trainee, 没有 EMEA "Software Engineer, University Graduate, 2027"; 上一 cycle 的 "Software Engineer, University Graduate, 2026" req 已下线 ("Job not found") [来源 (实际打开过, 原始 HTML 抓取): https://www.google.com/about/careers/applications/jobs/results/?q=University%20Graduate] [来源 (实际打开过, 原始 HTML 抓取): https://www.google.com/about/careers/applications/jobs/results/125611950166942406-software-engineer-university-graduate-2026]
+> **2026 动态**: 1 月 Platforms & Devices 自愿离职 (buyout) + 约 1,000 人滚动绩效裁员, 3 月 P&D 再裁数百人, 全年估算 1,500–3,000+ (约 1–2% headcount), 文中只涉及美国 [来源 (实际打开过): https://www.kore1.com/google-layoffs-2026/]; 2026-06 至 2026-10 tracker 无新的 Google 裁员条目, 2026-07 超 4,500 名员工联署要求裁员保护 [来源 (实际打开过): https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-all-the-job-losses-across-xbox-apple-oracle-uber-tiktok-meta-and-others-144545528.html]
 
-- **常见岗位名**: **Software Engineer, University Graduate, 2026** (官方 req 标准命名, 2026 start) / Software Engineer II / Software Engineer, Early Career; 同步还有 **Software Engineer, PhD, Early Career, 2026 Start** (博士走独立 pipeline); **Silicon Engineer, University Graduate, 2026** (硬件方向, 主要 Munich)。参考 [Google Careers — SWE University Graduate 2026 req 125611950166942406 (实际打开过)](https://www.google.com/about/careers/applications/jobs/results/125611950166942406-software-engineer-university-graduate-2026) 与 [Silicon Engineer UG 2026 (实际打开过)](https://www.google.com/about/careers/applications/jobs/results/131079854375215814-silicon-engineer-university-graduate-2026)
-- **欧洲地点**: Zurich / London / Munich / Dublin / Warsaw / Paris / Stockholm — 与实习城市基本一致。Zurich 仍是工程主力 hub, Warsaw / Dublin 全职 HC 通常比实习更多 (Cloud / Ads operations team 常年缺人)
-- **是否有独立 Graduate Programme**: **No, 没有结构化 Graduate Scheme** — Google EMEA 全职 NG 走和经验工程师 **同一 requisition pool**, 区分仅在 job title 末尾的 "University Graduate, 2026" tag。**重要更新: 美国的 Engineering Residency 项目已被 Google 终止** (2021 年因内部对 ER 与 standard L3 薪资 / refresh 不平等的抗议而 retire) — 参见 [Hacker News 报道 (实际打开过): Google drops engineering residency after protests over 'inequities'](https://news.ycombinator.com/item?id=27607335)。EMEA 历史上从来没有等效 Residency。**目前唯一带 "Residency" 命名的 entry-level 项目是 Network Operations Residency Program (NORP) 2026** — 但 2026 期定在 **Thornton CO (US) + Bengaluru (印度)**, 欧洲没席位, 参见 [Google Careers — NORP 2026 (实际打开过)](https://www.google.com/about/careers/applications/jobs/results/110139330885755590-network-operations-residency-program-university-graduate-2026-start)。事实上的 EMEA NG pipeline 仍是 **STEP → SWE Intern → return NG offer** (return 是最稳路径)
-- **非EU签证 (全职)**:
-  - **UK (London)**: **Skilled Worker visa** (Google UK Limited 是注册 sponsor),L3 base ≈ £116K 远高于 £38,700 一般 threshold,sponsorship 几乎自动批
-  - **CH (Zurich)**: 第三国全职走 Swiss **B permit** (居留 > 1 年, 默认全职 NG 走这个) 或短期 **L permit** (< 12 个月, 较少用于 FT) + **labour market test** — Google 必须证明欧盟内招不到人, 因此 Zurich NG **国际生竞争比 intern 更激烈** (intern 用学生签证或 IAESTE 绕过 quota)。第三国 NG 海投 Zurich 命中率明显低于 EU 候选人
-  - **DE (Munich)**: **EU Blue Card**, 2026 IT shortage occupation threshold ≈ €45,300/年,Google Munich L3 base €94K 完全 cover; Blue Card 21-33 个月内 (取决于德语水平) 可转永居
-  - **PL (Warsaw)**: 普通 Work Permit Type A + 居留许可,Google PL 长期 sponsor friendly,但 L3 base PLN 215K 折美元后较低
-  - **IE (Dublin)**: **Critical Skills Employment Permit** (SWE 在 SOC list, 2 年后可转 Stamp 4 → 5 年后入籍)
-- **薪资范围 (L3 entry-level, gross/年, Levels.fyi 2026-05 数据)**:
-  | 城市 | Base | Total Comp (含 GSU + bonus) | 来源 |
-  |------|------|----------------------------|------|
-  | Zurich | ≈ CHF 145K (≈ $180K) | **median CHF 180K (≈ $226K)** = base $180,365 + stock $28,772 + bonus $16,992 | [Levels.fyi CH L3 (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/switzerland), median CHF 180,451 由 [Levels.fyi 综合页 (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/locations/greater-zurich-area) 确认 |
-  | London | £85.5K-£143K range, **average ≈ £116K base** | **average ≈ £151K** = base £115,839 + stock £31,128 + bonus £4,504 (USD-报告) | [Levels.fyi UK L3 (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/united-kingdom) |
-  | Munich | **€94.2K base** | **€131K total** (€94.2K + €26.4K stock + €10.3K bonus), 数据更新于 2026-05-27 | [Levels.fyi Munich (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/locations/munich-metro-region) |
-  | Warsaw | **≈ PLN 215K (≈ $53.3K)** | **≈ $72.4K total** (base $53,277 + stock $14,851 + bonus $4,292), USD-报告 | [Levels.fyi Warsaw L3 (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/warsaw-metropolitan-area) |
-  | Dublin | €80K-€100K base (估算, Levels.fyi 直接 L3-Dublin 数据点 < 5, **置信度低**) | €100K-€130K | 间接 (Glassdoor + 1point3acres, 缺直接 levels 页面) |
-  - **Zurich 特别说明**: NG 个例口径 (Quora 公开 offer): 总包 CHF 165K 起 (低分位), 中位数 CHF 180K, 高分位 CHF 205K — 来源 [Quora — Google Zurich SWE L3 CHF 165K offer](https://www.quora.com/Google-Zurich-offered-me-165k-CHF-total-compensation-for-SWE-L3-How-can-I-negotiate-when-I-dont-have-other-offers-but-3-years-of-experience-and-a-decent-salary-in-my-current-job-different-country)。**Zurich 不发独立 housing stipend 给 FT NG** (housing 福利只针对 intern, FT 靠 base 自付); 但 Google 提供 relocation 一次性包 (CHF 5K-15K + 临时酒店) 和搬迁报销
-- **申请窗口**: **Rolling, 全年开放**, 但 2026 start 的 University Graduate req 主集中在 **2025 年 9 月 - 2026 年 3 月** 投递, 4-5 月已基本关闭。校招 NG 与 PhD/Master 毕业季同步 (EU 学制 6-9 月毕业)。**Return offer 实习生 9-10 月就锁 next-year NG offer** — 普通投递者 deadline 上往往已晚一拍
-- **面试流程差异 vs 实习**:
-  - 轮数: 实习 2 tech round → NG **4-5 tech rounds** (通常 3 coding + 1 BQ/Googliness + 1 system design)
-  - 题目难度: medium-hard 比例上升, 偶有 1 道 hard;**system design** 1 轮 (intern 不考, NG 强制, 但 L3 是 lite 版 — component design 为主, 不深挖分布式存储)
-  - Host matching 阶段更长 (NG 可能 8-12 周还在 match team, intern 4-6 周)
-  - Googleyness 单独评分轴 (intern 此项权重低), 由独立 BQ 面试官打分送 hiring committee
-  - 来源: [Glassdoor — Google SWE New Grad Interview Questions (实际打开过)](https://www.glassdoor.com/Interview/Google-SWE-New-Grad-Interview-Questions-EI_IE9079.0,6_KO7,19.htm) — 平均 hire 周期 45 天, 难度 3.4/5
-- **录取竞争**: 极卷。Zurich L3 NG 据 1point3acres / Blind 估算 acceptance < 2%, return offer 候选人 (STEP/SWE intern) 享 5-10x 优势。国际生在 Zurich 受 labour market test 影响实质 disadvantage, London / Munich 较友好 (Skilled Worker / Blue Card 流程标准化)。**没有 return offer 的海外应届** → 主要 fallback 是 Warsaw (HC 大但薪资低) 或 Dublin。注: Google 2023 全球裁员 12K 人后 EMEA 招聘节奏未停, 但 headcount 比 2021-2022 高峰收紧 (与本文件第 1 节背景一致)
-- **关键链接**:
-  - 官方 early careers 入口: [https://buildyourfuture.withgoogle.com/jobs](https://buildyourfuture.withgoogle.com/jobs) (筛选 "Early Career" + EMEA location)
-  - 官方 careers — SWE University Graduate 2026 req (实际打开过): [https://www.google.com/about/careers/applications/jobs/results/125611950166942406-software-engineer-university-graduate-2026](https://www.google.com/about/careers/applications/jobs/results/125611950166942406-software-engineer-university-graduate-2026)
-  - 官方 careers — Silicon Engineer UG 2026 (实际打开过): [https://www.google.com/about/careers/applications/jobs/results/131079854375215814-silicon-engineer-university-graduate-2026](https://www.google.com/about/careers/applications/jobs/results/131079854375215814-silicon-engineer-university-graduate-2026)
-  - 官方 careers — Network Operations Residency Program 2026 (US/印度, 实际打开过): [https://www.google.com/about/careers/applications/jobs/results/110139330885755590-network-operations-residency-program-university-graduate-2026-start](https://www.google.com/about/careers/applications/jobs/results/110139330885755590-network-operations-residency-program-university-graduate-2026-start)
-  - Engineering Residency 终止背景 — Hacker News (实际打开过): [https://news.ycombinator.com/item?id=27607335](https://news.ycombinator.com/item?id=27607335)
-  - Levels.fyi L3 Switzerland (实际打开过): [https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/switzerland](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/switzerland)
-  - Levels.fyi L3 UK (实际打开过): [https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/united-kingdom](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/united-kingdom)
-  - Levels.fyi L3 Munich (实际打开过): [https://www.levels.fyi/companies/google/salaries/software-engineer/locations/munich-metro-region](https://www.levels.fyi/companies/google/salaries/software-engineer/locations/munich-metro-region)
-  - Levels.fyi L3 Warsaw (实际打开过): [https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/warsaw-metropolitan-area](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/warsaw-metropolitan-area)
-  - Glassdoor — SWE New Grad Interview (实际打开过): [https://www.glassdoor.com/Interview/Google-SWE-New-Grad-Interview-Questions-EI_IE9079.0,6_KO7,19.htm](https://www.glassdoor.com/Interview/Google-SWE-New-Grad-Interview-Questions-EI_IE9079.0,6_KO7,19.htm)
-  - Quora — Google Zurich SWE L3 CHF 165K 实际 offer 数据点: [https://www.quora.com/Google-Zurich-offered-me-165k-CHF-total-compensation-for-SWE-L3-How-can-I-negotiate-when-I-dont-have-other-offers-but-3-years-of-experience-and-a-decent-salary-in-my-current-job-different-country](https://www.quora.com/Google-Zurich-offered-me-165k-CHF-total-compensation-for-SWE-L3-How-can-I-negotiate-when-I-dont-have-other-offers-but-3-years-of-experience-and-a-decent-salary-in-my-current-job-different-country)
-  - 1point3acres Google Zurich 2 年评价 (L3 入职体验, 403 阻挡未直接打开, 但社区索引可达): [https://www.1point3acres.com/bbs/thread-955883-1-1.html](https://www.1point3acres.com/bbs/thread-955883-1-1.html)
-  - 1point3acres 苏黎世难度讨论 (国内 5 年经验 → Zurich, 同样 403): [https://www.1point3acres.com/bbs/thread-646416-1-1.html](https://www.1point3acres.com/bbs/thread-646416-1-1.html)
+- **岗位名称**: EMEA 入门级全职走单个 req, L3 = "Software Engineer II"。2026-10-10 全欧 Early 级 SWE 只有 1 条: Software Engineer II, Pixel Graphics and Video (London) [来源 (实际打开过, 原始 HTML 抓取): https://www.google.com/about/careers/applications/jobs/results/73118609391395526-software-engineer-ii-pixel-graphics-and-video]; Warsaw 另有 Forward Deployed Engineer, Global Scaled Delivery (Early, 要求法语) [来源 (实际打开过, 原始 HTML 抓取): https://www.google.com/about/careers/applications/jobs/results/97874955504362182-forward-deployed-engineer-global-scaled-delivery-english-french]; Zurich / Munich / Paris Early 级 0 条, Dublin 62 条 Early 级几乎全是 sales / ops, Amsterdam 只有 1 条 Legal Trainee。"University Graduate, 2027 Start" req 目前只在美国 (e.g. Silicon Engineer, PhD, University Graduate, 2027 Start — Sunnyvale)
+- **资格窗口**: SWE II (London): Bachelor's 或同等经验 + 1 年软件开发 + 1 年 data structures / algorithms 经验 (0–2 年可投); BSc / MSc 应届通常定 L3, PhD 常见 L4 (推断, 社区口径, 未见官方说明)
+- **欧洲地点**: Zurich / London / Munich / Dublin / Warsaw / Paris / Stockholm; NL (Amsterdam) 基本没有工程 entry 岗
+- **项目结构**: 无 rotation / cohort, 直接入组; 永久合同 + GSU
+- **非EU签证 (全职)**: UK 官方 register (2026-10-09) 列 Google (UK) Limited — Worker A (Premium), Skilled Worker [来源 (实际打开过, 原始文件抓取): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; Skilled Worker 一般门槛 £41,700 或 going rate 取高者 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; NL: Google Netherlands B.V. 在 IND recognised sponsor 名单 (更新于 2026-10-05) [来源 (实际打开过, 原始 HTML 抓取): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], 但 NL 没有工程 entry 岗, 从 NL 学生签 / zoekjaar 直接转入 Google NL 的路径基本不存在 (推断); DE: L3 base €95,584 远高于 Blue Card 门槛。⚠️ 待 web 验证: CH (B/L permit 配额 + 本地/EU 优先, 难度最高) / IE (CSEP) / PL (Work Permit Type A) 沿用旧版, 本次未复核
+- **薪资范围 (L3, Levels.fyi 平均值, 2026-10 直读; TC = base + 首年 stock + bonus/sign-on)**:
+  | 城市 | Base | Stock/年 | Bonus | Avg TC | Title 区间 | 来源 |
+  |---|---|---|---|---|---|---|
+  | Zurich (CH) | CHF 148,514 | CHF 28,103 | CHF 13,246 | **CHF 189,863** | CHF 180K–194K+ | [Levels.fyi (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/switzerland) |
+  | London (UK) | £85,713 | £29,156 | £8,073 | **£122,942** | £98.9K–£140K+ | [Levels.fyi (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/united-kingdom) |
+  | Munich (DE) | €95,584 | €19,691 | €6,067 | **€121,342** | €111K–€123K+ | [Levels.fyi (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/germany) |
+  | Dublin (IE) | €88,691 | €30,692 | €8,395 | **€127,778** | €101K–€146K+ | [Levels.fyi (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/ireland) |
+  | Warsaw (PL) | PLN 209,552 | PLN 64,156 | PLN 20,114 | **PLN 293,822** | PLN 235K–334K+ | [Levels.fyi (实际打开过)](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l3/locations/poland) |
+  - 旧版对比: (旧版: London base ≈ £116K / TC ≈ £151K, 2026-05; 与本次 GBP 直读不符, 疑为 USD 口径) (旧版: Zurich median CHF 180,451; Munich TC €131K; Dublin 只有估算 €80K-€100K base, 2026-05)
+- **申请窗口**: 上一 cycle 的 2026 Start UG req 主要在 2025-09 至 2026-03 接受投递 (旧版, 2026-05), 现已下线; 2027: EMEA 未见 UG 批次, 只能盯单个 "Software Engineer II" req + 实习 return offer (推断)
+- **面试流程差异 vs 实习**: NG 通常 3 coding + 1 Googleyness + L3 lite design, 之后 hiring committee + team match (旧版, 2026-05); 现行 posting 写明 "In most instances, this position requires in-person interviews" (同上 SWE II 来源); Glassdoor NG 平均 45 天, 难度 3.4/5 (旧版, 2026-05) [来源 (实际打开过): https://www.glassdoor.com/Interview/Google-SWE-New-Grad-Interview-Questions-EI_IE9079.0,6_KO7,19.htm]
+- **录取竞争**: 极高; 2026-10-10 全欧只有 1 条 Early 级 SWE II, 没有 return offer 的应届直投成功率很低 (推断); 实习 → return offer 仍是主路径 (见第 1 节)
+- **关键链接**: Early 级岗位搜索 (London 示例, 实际打开过, 原始 HTML 抓取): https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=London%2C%20UK · Early careers 入口 (旧版, 未复核): https://buildyourfuture.withgoogle.com/jobs · Engineering Residency 已终止 (旧版): https://news.ycombinator.com/item?id=27607335 · NORP 2026 (US / 印度, 旧版): https://www.google.com/about/careers/applications/jobs/results/110139330885755590-network-operations-residency-program-university-graduate-2026-start
 
 ---
 

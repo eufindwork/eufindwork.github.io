@@ -2,7 +2,7 @@
 
 > **Language**: [中文](meta.md) | English
 >
-> Last updated: 2026-09-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐ (London info medium; Amsterdam info scarce — Meta in Amsterdam is sales/marketing-focused, engineering internship has almost no public records)
 > One-line positioning: London is Meta's main EU engineering internship location, salary second only to US + Zurich; PE intern is a more accessible "backdoor" path, but EU intern hiring has clearly tightened in the past two years
 
@@ -39,43 +39,28 @@ Sources: [Medium - 2024 Meta Current State of Hiring](https://chan-keith-96.medi
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (London E3 Levels.fyi 2026-05 direct-read data solid, Dublin/Paris/Amsterdam engineering NG data still thin)
-> Distinct from internship: Full-time entry-level **E3 level** (Meta's first IC level), permanent contract + full RSU (4 year vest, 25% per year)
+> Checked: 2026-10-10 (live WebFetch) | Information richness: ⭐⭐⭐ (basis: Levels.fyi E3 London / Dublin direct reads + official sponsor registers; live EU postings could not be listed)
+> **2027 Intake status**: **Rolling (no structured programme; live EU postings could not be verified)** — metacareers is JS-rendered, WebFetch of the students-and-grads page returned HTTP 500 (2026-10-10), and robots.txt prohibits automated collection, so it was not crawled; on 2026-10-10 the only featured role on the careerprograms/students page is Research Engineer, AI (University Grad) — Montreal, no European role [Source (verified opened, raw HTML fetch): https://www.metacareers.com/careerprograms/students]. On 2026-09-26 Network Production Engineer (University Grad) — Dublin, Ireland (+1 location) was listed [Source (verified opened): https://www.metacareers.com/students-and-grads]
+> **2026 news**: 2026-01 cut of ~10% of Reality Labs (>1,000 people) [Source (search result): https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html]; 2026-03 ~700 people, 2026-04 ~200 in the Bay Area; **2026-05 cut of ~8,000 people (~10% of the workforce) plus closing 6,000 open roles**, to make room for AI spending; the tracker (updated 2026-10-09) shows no new round after 2026-06 [Source (verified opened): https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-all-the-job-losses-across-xbox-apple-oracle-uber-tiktok-meta-and-others-144545528.html]; a secondary source attributes the 2026-05-20 round to Bloomberg and says "a second-half round has been signaled but not dated" (not confirmed by a primary source) [Source (verified opened): https://www.kore1.com/meta-layoffs-2026/]
 
-- **Common role names**: Software Engineer, University Grad (E3) / Production Engineer, University Grad / Research Scientist (PhD) / Data Scientist (Analytics) — Meta public hiring page uses "University Grad" tag to distinguish entry-level vs experienced roles
-- **European locations**: **London (main)** / Dublin (PE + Infra) / Paris (FAIR + AI infra) — Amsterdam **basically doesn't hire SWE NG** (commercial roles dominate), Zurich occasionally FAIR Research Scientist NG (PhD only)
-- **2026-09-26 recruiting status update**: metacareers.com/students-and-grads currently lists an open University Grad full-time role: **Network Production Engineer (University Grad) — Dublin, Ireland (+1 location)**, confirming 2027-cycle NG roles are still open for applications in Europe; the page does not list a specific deadline, and no SWE Intern 2027 Europe batch was confirmed publicly — check metacareers.com/jobs filtered by location for the current live listings [Source (verified opened): https://www.metacareers.com/students-and-grads]
-- **Independent Graduate Programme**: **No** — Meta globally has no structured graduate rotation. **"Meta University"** is a summer intern program for underrepresented undergrad students (US-focused, not FT NG), don't confuse. After E3 NG joins, 6-week "Engineering Bootcamp" (London / Menlo Park) is onboarding not a graduate program. 2026 cycle FT University Grad applications usually open Aug-Sep, 2027 start dates [Source (verified opened): https://www.extern.com/post/faang-internship-guide-2026]
-- **Non-EU visa (full-time)**:
-  - UK: **Skilled Worker visa** — Meta UK is a registered sponsor; E3 base £100K well above 2026 general threshold £41,700 + SOC 2134 going rate ~£49,400 [Source (verified opened): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide], sponsor almost automatic
-  - IE: **Critical Skills Employment Permit** (SWE on IE shortage list), Meta Dublin is one of IE's top sponsors
-  - FR: **Passeport Talent** (Salarié Qualifié), Meta Paris uses this channel
-  - Distinct from internship: NG goes via permanent work visa (5 year + PR path), intern goes via Tier 5 GAE / student visa (short-term, doesn't accumulate PR)
-- **Salary range (base, gross/year, E3 entry-level, 2026-05 Levels.fyi direct read)**:
-  | City | Base | Stock (annual) | Bonus | Total Comp | Source |
-  |------|------|---------------|-------|-----------|------|
-  | London | **£78.3K (~$100.2K)** | £18.3K | £3K | **£94.7K - £127.4K range** (avg £127K) | [Levels.fyi Meta E3 London (verified opened)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
-  | UK overall E3 | £82.7K base median | £19K-£23K | £3K-£4K | £82.7K - £114K | [Levels.fyi Meta E3 UK (search result)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/united-kingdom) |
-  | Dublin | €80K-€95K base (estimated, data points < 5) | ~€20K | low | €100K-€130K | indirect Glassdoor + 1point3acres |
-  | Paris | €60K-€75K base | €15K-€20K | low | €85K-€110K | indirect (TechPays + 1point3acres) |
-  - **Signing bonus**: London E3 historically $20K-$40K (Blind data); **RSU refresh**: Meta higher than Google/Amazon, E3 → E4 promo refresh significantly. Meta all UK SWE range £95.4K - £1.3M+ (E3-E8) [Source (verified opened): https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom]
-  - **London E3 vs Google L3**: Meta E3 base £78.3K vs Google L3 base £116K — **Google base clearly higher**, but Meta RSU growth curve is steeper (total comp surpasses after E4 jump)
-- **Application window**: **Rolling** + autumn hiring (open Aug-Sep for 2027 start) + spring hiring (Jan-Mar). Meta tends to lock University Grad 6-9 months before graduation. **Return offer (intern to NG) is the main path** — 2024-2025 conversion rate ~40-50% (vs 2022 ~70%, Blind data). Overseas grads applying directly for EU FT have significantly lower odds than returns [Source (verified opened): https://www.extern.com/post/faang-internship-guide-2026]
-- **Interview process differences vs internship**:
-  - Rounds: intern 1 tech round → NG **5 rounds** (2 coding + 1 **system design** + 1 behavioral + 1 hiring manager/team match)
-  - System design: NG mandatory 1 round 45 min (e.g., design Newsfeed / Notification), intern doesn't have
-  - Coding difficulty: intern 1 medium question → NG 2 medium questions per round (45 min), Meta tag overlap still >80%
-  - Behavioral: scored against Meta 5 core values (Move Fast, Be Bold, Focus on Impact, Build Awesome Things, Live in the Future), intern weights this lightly
-- **Acceptance competition**: London E3 acceptance estimated < 3% (Blind / 1point3acres NG posts); **2023-2024 EU NG HC continues to tighten** — onsite pass still may fail team match (some cases waiting 12 weeks+) see [1point3acres Meta NG SWE seeking team match](https://www.1point3acres.com/bbs/thread-1074805-1-1.html). International student friendliness: medium (London visa-friendly, but EU degree + return offer have top priority)
-- **Key links**:
-  - Official University & Grad: [https://www.metacareers.com/careerprograms/students](https://www.metacareers.com/careerprograms/students)
-  - Meta Careers Jobs (Early Career filter): [https://www.metacareers.com/jobs](https://www.metacareers.com/jobs)
-  - Levels.fyi Meta E3 London (verified opened): [https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area)
-  - Levels.fyi Meta UK SWE comprehensive (verified opened): [https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom)
-  - Extern FAANG Internship Guide 2026 (verified opened): [https://www.extern.com/post/faang-internship-guide-2026](https://www.extern.com/post/faang-internship-guide-2026)
-  - 1point3acres Meta 25 NG SDE London: [https://www.1point3acres.com/bbs/thread-1096596-1-1.html](https://www.1point3acres.com/bbs/thread-1096596-1-1.html)
-  - 1point3acres Meta NG SWE London team match: [https://www.1point3acres.com/bbs/thread-1074805-1-1.html](https://www.1point3acres.com/bbs/thread-1074805-1-1.html)
-  - 1point3acres Meta DSA London team selection: [https://www.1point3acres.com/bbs/thread-1129134-1-1.html](https://www.1point3acres.com/bbs/thread-1129134-1-1.html)
+- **Role names**: Software Engineer (University Grad) / Production Engineer (University Grad) / Research Engineer, AI (University Grad) / Research Scientist (PhD); Meta uses the "(University Grad)" tag for entry-level roles. A sample SWE (University Grad) req says the degree must be completed before joining [Source (search result): https://metacareers.com/jobs/8187200048015588] — WebFetch of that req returned 404 on 2026-10-10 (inferred closed)
+- **Eligibility**: BSc / MSc new grads → **E3**; PhD new grads often E4 (inferred, community consensus, no official statement seen); no public cap on years since graduation
+- **European locations**: **London (main)** / Dublin (PE + Infra) / Paris (FAIR + AI infra); Amsterdam is a commercial hub and basically does not hire SWE NG; Zurich occasionally has PhD Research Scientist roles
+- **Programme structure**: no graduate rotation; the Engineering Bootcamp after joining as E3 is onboarding (previous version); "Meta University" is a US undergraduate summer programme, not FT NG
+- **Non-EU visa (full-time)**: the official UK register (2026-10-09) lists Facebook UK — Worker (A rating), Skilled Worker [Source (verified opened, raw file fetch): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; threshold £41,700 or the going rate, whichever is higher; E3 London base £74,828 is far above it [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; NL: Facebook Netherlands B.V. is on the IND recognised sponsor register (updated 2026-10-05) [Source (verified opened, raw HTML fetch): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], but Amsterdam has no engineering NG roles, so a zoekjaar transfer only matters for commercial roles (inferred). ⚠️ Pending web verification: IE (CSEP) / FR (Passeport Talent) carried over from the previous version, not re-checked
+- **Pay (E3, Levels.fyi averages, read directly 2026-10)**:
+  | City | Base | Stock/yr | Bonus | Avg TC | Title range | Source |
+  |---|---|---|---|---|---|---|
+  | London (UK) | £74,828 | £18,538 | £1,869 | **£95,235** | £84.9K–£106K+ | [Levels.fyi E3 London (verified opened)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
+  | UK overall | £74,828 | £18,538 | £1,869 | **£95,235** (same as London) | £84.9K–£106K+ | [Levels.fyi E3 UK (verified opened)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/united-kingdom) |
+  | Dublin (IE) | €75,756 | €21,602 | €7,646 | **€105,004** | €81.3K–€128K+ | [Levels.fyi E3 Ireland (verified opened)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/ireland) |
+  | Paris (FR) | no public direct-read data | — | — | — | — | ⚠️ Pending web verification: previous indirect estimate €60K-€75K base, not re-checked |
+  - Versus previous version: (previous: London base £78.3K / avg TC £127K, 2026-05; UK median base £82.7K, search result) — this direct read is lower; use this table. Like-for-like, Google L3 London avg TC £122,942 (see google page)
+  - Signing bonus / RSU refresh claims (London E3 historically $20K-$40K, Blind) carried over from the previous version, not re-checked
+- **Application window**: Rolling; FT University Grad applications usually open Aug-Sep for the following year's start [Source (verified opened): https://www.extern.com/post/faang-internship-guide-2026] (previous version, 2026-09); whether a 2027 EU batch is open: no public data (see status line above)
+- **Interview differences vs internship**: NG 5 rounds (2 coding + 1 system design + 1 behavioral + team match), internship 1-2 rounds with no design (previous version, not re-checked); after passing onsite, team match can drag on 12+ weeks [Source (search result): https://www.1point3acres.com/bbs/thread-1074805-1-1.html]
+- **Competition**: high; after closing 6,000 open roles and cutting 8,000 people in 2026-05, headcount is tight and NG slots outside AI product lines are expected to shrink (inferred); intern → return offer remains the main path
+- **Key links**: students / grads entry (verified opened, raw HTML fetch): https://www.metacareers.com/careerprograms/students · job search (JS, filter London / Dublin manually in a browser): https://www.metacareers.com/jobs · 1point3acres Meta 25 NG SDE London: https://www.1point3acres.com/bbs/thread-1096596-1-1.html
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Language**: [中文](qrt.md) | English
 >
-> Updated: 2026-05-28
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (official careers + Levels.fyi London/Paris dual data points + multiple efinancialcareers articles + WSO + Substack deep dive; Paris entry-level stock/bonus breakdown still missing)
 > One-liner: Systematic hedge fund spun out of Credit Suisse Quantitative & Systematic Asset Management division via management buyout in 2018, HQ in London but Paris is the second-largest office, heavily recruits École Polytechnique / ENS / CentraleSupélec alumni; grew from 100 people in 8 years to ~2,000 by 2026, AUM ~$20-25B, flagship fund returned 30%+ in 2024
 
@@ -26,45 +26,24 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Levels.fyi Paris L3 €112K total + London Quant Researcher £118K actual + Built In London 2026 internship confirmed + 5-6 round interview process clear; stock breakdown missing — QRT is private with no RSU, all deferred bonus)
+> Checked: 2026-10-10 (live WebFetch + Greenhouse API) | Information richness: ⭐⭐⭐⭐ (basis: official 2027 EMEA postings + three Levels.fyi pages London/Paris/QR + UK sponsor register; no official grad pay)
+> **2027 Intake status**: **Open (rolling)** — 2027 EMEA postings went live 2026-09-08, no deadline ("reviewed on a rolling basis"), start in 2027; direct grad hiring only via the Infrastructure / FPGA "Graduate or Internship" roles + QR&T "some permanent opportunities", otherwise mainly final-year internship → FT [Source (verified opened): https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002]
+> 2026 H2: news headlines — eFinancialCareers 2026-09-17 "QRT has been hiring heavily, paying less"; QRT expands into London's n2 building (2026-09-23) [Source (search result): https://www.bloomberg.com/news/articles/2026-09-23/qrt-expands-london-office-as-hedge-funds-compete-for-prime-space]; 2026-07-01 eFC reports QRT building a "lab" [Source (search result): https://news.google.com/rss/search?q=Qube+Research+Technologies+when:120d]
 
-- **Common role names**:
-  - **Quantitative Researcher** (Paris/London primary, heavy ML/Stats)
-  - **Quantitative Trader** (systematic strategy build + monitor)
-  - **Software Engineer** (Trading Tech / systems / low-latency)
-  - **Research Engineer** (Quant + SWE hybrid)
-  - **Quantitative Developer** (Paris has a dedicated students/new grads section)
-- **European locations**: London (HQ, most) / Paris (Quant Dev + Quant Research stronghold, French not required) / also Zurich / Dubai / Hong Kong / Singapore
-- **Independent Graduate Programme**: **Semi-structured**. No traditional "Graduate Scheme" brand, but (1) official Paris site has dedicated "Students and New Graduates" entry (2) 2026 Early Access Internship Programme 5-6 months, year before final / penultimate / final year + Master/PhD; (3) general application email `campus@qube-rt.com` [Source (verified opened): https://www.qube-rt.com/careers; https://openquant.co/job/2026-early-access-internship-research-qube-research-and-technologies/2756]
-- **Non-EU visa (full-time)**:
-  - **London**: Provides Skilled Worker visa sponsorship (£41,700 2026 general threshold, QRT London Quant Researcher £112K base far exceeds)
-  - **Paris**: Passeport Talent Salarié Qualifié, 2026 threshold €39,582 gross/year (= €2,707/month, i.e. 1.5 SMIC), QRT Paris SWE L3 base ~$119K (~€110K) far exceeds [Source (verified opened): https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]
-  - QRT is a French-system fund, officially relatively skilled at processing Passeport Talent for non-EU students (especially Polytechnique / ENS international students)
-- **Salary structure (quant-specific, key)**:
-  - **Intern (Paris/London)**: QRT does not publish intern stipend, but efinancialcareers lists QRT as "elite niche quant internship", industry benchmark internship €4-6k/month (London £5-7k/month) — not as outlier as Jump Trading, but far above European SWE average
-  - **Full-time New Grad (London Quant Researcher)**: median **£118K total / £112K base / £6K bonus / £0 stock** (Levels.fyi L1, latest 2026-05-28) — note bonus number is low because of deferred comp [Source (verified opened): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/data-scientist/title/quantitative-researcher]
-  - **Full-time SWE London**: median £135K total / all-level £90K-£135K+ range [Source (verified opened): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer]
-  - **Full-time SWE Paris (L3)**: $119K base + $11.9K stock + $0 bonus = **$131K total (~€121K)**, all-level €82.6K-€112K+ range [Source (verified opened): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer/locations/greater-paris-area]
-  - **Equity**: $0 RSU (QRT is private, no IPO), but firmwide **deferred compensation plan** — 40%+ employees participate, top performers report 75% bonus deferred 3 years into QRT-managed funds (2024 returns 30%+ → actually good but locked in); lower-tier employee profit share reported as low as 3% — i.e. base is transparent, bonus is unpredictable [Source (verified opened): https://builtin.com/company/qube-research-technologies/faq/compensation-benefits]
-- **Application window**:
-  - 2026 Internship cycle open (5-6 month program); general email campus@qube-rt.com
-  - Full-time rolling, careers page often shows "no matching jobs" — reflects QRT's heavy use of hidden / referral pipelines, not that there are no roles
-- **Interview process differences vs intern**:
-  - 5-6 rounds (early rounds online, final onsite)
-  - **OA**: 2 LeetCode easy/medium
-  - **Round 1**: behavioral/technical, Python questions + team intro
-  - **Final**: medium/hard LeetCode + Python data structure deep dive
-  - Quant Researcher track emphasizes ML/Stats/probability; SWE track LeetCode + system questions
-  - SWE difficulty is actually the lowest (Glassdoor user reviews)
-- **Hiring competition**: efinancialcareers reports "weird experience" — some candidates report final round drags on + individual employees rated low on profit share; overall competition tier = Citadel < QRT ≈ Two Sigma (relatively friendly but still high bar) [Source (verified opened): https://www.wallstreetoasis.com/forum/hedge-fund/qrt-weird-experience]
-- **Key links**:
-  - Official careers (verified opened, shows "no matching jobs" as of 2026-05-28): https://www.qube-rt.com/careers
-  - Paris new graduates sub-page (verified opened): https://www.qube-rt.com/careers/technology/quantitative-development/paris/students-and-new-graduates/
-  - Levels.fyi QRT Paris SWE (verified opened, L3 €121K total): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer/locations/greater-paris-area
-  - Levels.fyi QRT London Quant Researcher (verified opened, L1 £118K): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/data-scientist/title/quantitative-researcher
-  - 2026 Early Access Internship (verified opened, 5-6 month program): https://openquant.co/job/2026-early-access-internship-research-qube-research-and-technologies/2756
-  - efinancialcareers pay controversy (search result, deferred 75%): https://www.efinancialcareers.com/news/qube-qrt-pay
-  - topQuantUnis QRT profile (verified opened): https://topquantunis.com/firms/a6c8f9c4-5d9e-4768-8ea2-290954f3f3d0
+- **Role names (2027 EMEA)**: "2027 - Internship, Software Engineering and Quantitative Development" (SWE: London / Wrocław / Zurich; QD: London / Paris / Wrocław / Dubai / Aarhus / **Amsterdam**) [Source (verified opened): https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002]; "2027 - Internship, Quantitative Research and Trading" (Aarhus / Budapest / Dubai / Geneva / London / Paris / Zurich); "2027 – Graduate or Internship, Infrastructure Engineer" (London / Paris) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs/8773447002]; "2027 – Internship or Graduate, FPGA Engineering" (London / Paris / New York); "Quantitative Researcher – PhD & Postdoc Opportunities" (London / Paris / Zurich, rolling)
+- **Eligibility**: penultimate / final-year BSc/MSc (QR&T also PhD); SWE/QD require "on track for a 2:1 or above"; the PhD role is for final-year PhD / postdoc; fluent English, French not required
+- **European locations**: London (HQ) / Paris / Zurich / Geneva / Wrocław / Aarhus / Budapest / Amsterdam / Dubai; Amsterdam currently has 5 experienced roles (all 5+ years level) [Source (ATS API read via curl): https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs?content=true]
+- **Programme structure**: SWE/QD internship 3–6 months or 12-month placement (12 months SWE only); QR&T 4–6 months; the application form asks "availability for a full-time role immediately post-internship" → a final-year internship is the FT route; "Strong performance during the internship may lead to consideration for a full-time graduate role"
+- **Non-EU visa (full-time)**: UK sponsor register (2026-10-09 version) lists Qube Research & Technologies Limited — Worker (A rating), Skilled Worker [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; Paris Passeport Talent salarié qualifié €2,707/month = €32,484/year (1.5 SMIC, 2026) (previous: €39,582/year, 2026-05) [Source (verified opened): https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]; **NL**: the IND recognised sponsor register (2026-10-05 version, full-text check) shows no QRT entity → reduced Kennismigrant for an Amsterdam FT role is unconfirmed [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; an Amsterdam QD internship looks feasible on NL student status (inferred)
+- **Pay (Levels.fyi, 2026-10-10)**:
+  - SWE London: median £126K total (72 entries); 0 YOE Level 1 card total £168K / base £101K / stock £25.2K / bonus £0 (components do not add up to the total; use the median) (previous: median £135K, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer]
+  - SWE Paris: median €114K; L1 0 YOE card total €131K / base €85.1K / bonus €29.3K (previous: L3 $131K, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer/locations/greater-paris-area]
+  - QR London: median £162K = £102K base + £60.1K bonus, L1, typically 2 YOE (25 entries) (previous: L1 £118K, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/data-scientist/title/quantitative-researcher]
+  - Deferred design: no equity; eFC 2025-02-26 cites insiders saying only 25% of senior bonuses are cash, 75% deferred over 3 years; 526 UK staff averaged £597k in 2023 [Source (verified opened): https://www.efinancialcareers.com/news/qube-qrt-pay]
+- **Application window**: 2027 cycle opened 2026-09-08, rolling, "applying early is recommended"; the official careers page still shows "no matching jobs", live roles sit on Greenhouse [Source (verified opened): https://www.qube-rt.com/careers]
+- **Interview process**: Apply (rolling) → Technical Assessment (coding challenge) → on-site assessment centre or Microsoft Teams interviews; QR candidates are encouraged to join a Data Challenge (challengedata.ens.fr), strong results can trigger direct contact
+- **Competition**: community reports slow final-round feedback (see §4); no official acceptance rate
+- **Key links**: Greenhouse postings (verified opened) https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002 · campus email campus@qube-rt.com
 
 ---
 

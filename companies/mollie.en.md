@@ -2,7 +2,7 @@
 
 > **Language**: [中文](mollie.md) | English
 >
-> Updated: 2026-06-01
+> Updated: 2026-10-10
 > Info richness: ⭐⭐⭐⭐ (official careers page + Levels.fyi + Glassdoor 4.6★ all traceable; intern channel info is sparse)
 > One-liner: Dutch native fintech unicorn, EU's #2 PSP (Payment Service Provider). Mollie Connect / Checkout / Payments API competes directly with Adyen / Stripe. 850+ employees across Amsterdam HQ / Lisbon / Milan / Munich / London / Paris.
 
@@ -35,22 +35,23 @@
 
 ## NG (New Grad / Junior Full-Time) Path
 
-- **Role naming**: **Graduate Engineer - Application** (Amsterdam / Lisbon / Milan, 1 listing each) [Source (verified opened): https://jobs.mollie.com/departments/engineering]
-- **Independent cohort program**: **Yes — Engineering Graduate Program**
-  - **Structure**: 15-month program, 2 rotations (1st rotation 9 months, 2nd 6 months) covering Security Engineering / Ops Efficiency / Platform / Data Engineering scrum teams
-  - **Requirements**: BSc / MSc CS / Engineering / related, **graduating 2025 or 2026**, proficient in at least 1 of PHP / Java / Python
-  - **Mentor + buddy assigned**, tech + soft skill training
-  - [Source (verified opened): https://www.glassdoor.com/Reviews/Mollie-Software-Engineer-Reviews-EI_IE1366725.0,6_KO7,24.htm]
-- **Starting salary (base + bonus + equity)** (Levels.fyi NL):
-  - **SWE 1 (Graduate)**: total **€77K** (base €71.4K + stock €1.7K + bonus €3.5K) [Source (verified opened): https://www.levels.fyi/companies/mollie/salaries/software-engineer]
-  - SWE 2: total ≈ €88K (base €83.7K + bonus €2.9K)
-  - Senior: total ≈ €107K (base €101.7K + bonus €4.6K)
-  - Staff: total ≈ €141K
-  - **median all levels**: €95.6K (Levels.fyi)
-  - **Equity**: Mollie is private (General Atlantic / TCV investors), very little equity (Levels.fyi shows SWE1 only €1.7K/year stock); compensation primarily base
-- **Sponsor policy (FT)**: NL Kennismigrant. 2026 threshold < 30 €4,357/month — Graduate base €71.4K / 12 ≈ €5,950/month, **well above threshold**. Also applicable **reduced HSM for recent NL master grads (€2,801/month)**, even easier.
-- **Application window**: 1 main cohort per year, usually opens December-March, starts September
-- **Process diff vs intern**: Grad program is more standardized, includes OA + take-home + system design + behavioral; intern process is typically compressed
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Info richness: ⭐⭐⭐⭐ (basis: official job pages + TCV job mirrors + Levels.fyi NL + IND / UK sponsor registers)
+> **2027 intake status**: **Upcoming (not announced)** — on 2026-10-10 jobs.mollie.com lists 47 roles (12 in Engineering), none Graduate; all 2026-cohort postings are closed [Source (verified opened): https://jobs.mollie.com/vacancies]
+> **2026 H2 news**: 2026-09-01 completed the GoCardless acquisition; it runs as "GoCardless, a Mollie company", CEO Koen Köppen; integration is "phased", no layoffs / hiring plans mentioned [Source (verified opened): https://gocardless.com/blog/mollie-and-gocardless-combine] [Source (verified opened): https://fintech.global/2026/09/01/mollie-completes-gocardless-acquisition-to-expand-payments-offering/]; €1.1bn deal value seen only in a news headline (BusinessCloud, not opened)
+
+- **Role names**: **Engineering Graduate Program**. 2026 cohort tracks: Graduate Engineer - Application (Amsterdam / Milan / Lisbon), Graduate Program 2026 - Security (Amsterdam), Graduate Engineer - Data 2026 (Lisbon) [Source (verified opened): https://portfoliojobs.tcv.com/companies/mollie/jobs/79848694-graduate-engineer-application-amsterdam]; 2025 cohort: Graduate Engineer - Platform Engineering (Amsterdam) [Source (verified opened): https://portfoliojobs.tcv.com/companies/mollie/jobs/48466597-graduate-engineer-platform-engineering]
+- **Eligibility**: BSc / MSc CS / Engineering or related (Data track also Econometrics / Maths); the 2026 cohort required a **2025 or 2026 graduation date**; at least 1 of PHP / Java / Python; written + spoken English, no Dutch required
+- **European locations**: Amsterdam / Lisbon / Milan; the only entry-level engineering role on 2026-10-10: Machine Learning Platform Engineer I (Lisbon, requires "1+ year" of production ML experience) [Source (verified opened): https://jobs.mollie.com/vacancies/ff439d94-cfb5-4523-8e99-a19edcb56ed6]; Amsterdam engineering roles are all level II or manager
+- **Programme structure**: 2 rotations, September start, mentor + buddy + tech / soft skill training; Platform 2025 = 15 months (9 + 6); Data 2026 = 12 months (6 + 6) [Source (verified opened): https://portfoliojobs.tcv.com/companies/mollie/jobs/84679371-graduate-engineer-data-2026]
+- **Non-EU visa (full-time)**: **Conditional — Graduate roles do not sponsor visas**. Amsterdam 2026 text: "For this role we do not sponsor relocation and visas."; Platform 2025 added "A Dutch work permit is required"; Milan required candidates to "currently reside in Italy and be legally authorized to work there" [Source (verified opened): https://portfoliojobs.tcv.com/companies/mollie/jobs/79848699-graduate-engineer-application-milan]
+  - NL zoekjaar: "Work freely permitted, TWV not required", 1 year, not extendable [Source (verified opened): https://ind.nl/en/residence-permits/work/residence-permit-for-orientation-year] → inferred: joining during the zoekjaar is possible; switching to Kennismigrant afterwards needs the employer to apply, and whether Mollie does this for Grad hires is not public
+  - Mollie B.V. + Mollie Business B.V. are on the IND recognised sponsor register (2026-10-05 version) [Source (verified opened; full text checked via curl): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; UK: Mollie B.V. (London) is an A-rated Skilled Worker sponsor (checked in the 2026-10-09 register CSV)
+  - (previous: "FT arranges Kennismigrant, zero friction", 2026-06 — contradicts the Grad posting text, corrected)
+- **Pay range (gross/year)**: Levels.fyi Netherlands (updated 2026-10-10, 57 data points): **Software Engineer 1 TC €72.4K** (base €67.6K + stock €1.5K + bonus €3.3K); SWE 2 €84.2K; Senior €103K; median €97.7K [Source (verified opened): https://www.levels.fyi/companies/mollie/salaries/software-engineer/locations/netherlands]; previous all-location page SWE 1 TC €77K (base €71.4K, 2026-06) [Source (verified opened): https://www.levels.fyi/companies/mollie/salaries/software-engineer]; official postings show no pay. base €67.6K / 12 ≈ €5,633/month, above Kennismigrant €4,357 (<30) and reduced €3,122
+- **Application window**: 2026-cohort postings appeared on the TCV mirror on 2026-05-22 (Application Amsterdam / Milan) and 2026-06-30 (Data Lisbon), closed by 2026-10; inferred: 2027 cohort opens around 2027 Q2 for a 2027-09 start (previous: "usually opens December–March", 2026-06)
+- **Interview process vs intern**: official 3 steps: Apply (reply within 2 weeks) → Screening call → 2+ interviews + technical assessment (per the ML Platform Engineer I page); past Grad loops: recruiter → take-home (PHP / Java / Python) → 2 technical rounds → culture / HM (see §3); 2025-26 new reports: no public data (Glassdoor 403)
+- **Competition**: only 1 listing per track per city; headcount direction during the GoCardless integration is unknown (inferred)
+- **Key links**: job board https://jobs.mollie.com/vacancies (verified opened) · Levels.fyi NL (verified opened, above) · TCV mirrors of past Graduate postings (verified opened, above)
 
 ---
 
@@ -61,7 +62,7 @@
   - Intern: does not arrange work permit, requires candidate to already have NL student visa / EU work rights (just complete Nuffic convention)
   - FT (Graduate / IC): arranges Kennismigrant
 - **Known sponsorship cases**: Dwayne Gefferie (NL fintech recruiter) publicly names Mollie as sponsor [Source (verified opened): https://www.linkedin.com/posts/dwaynegefferie_why-dutch-fintechs-adyen-mollie-and-bunq-activity-7185920215904309248-s52u]
-- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: From 2024 the 5-year period is tiered down 30%→27%→20%→15%, further tightening in 2027. Grad base €71.4K meets the criterion + residence ≥150km from NL border eligible
 
 ---
@@ -130,7 +131,7 @@ Note: Glassdoor reviews mention "interview too technical, lots of behavioral", "
 ## 8. For UvA Students (NL Student Visa) — Specific Assessment ⭐
 
 - **Intern feasibility**: **Medium** — Mollie has no public intern listing, but as a UvA student + NL student visa holder, student visa 16h semester / 40h holidays directly covers it, just complete Nuffic convention, **no additional visa arrangement needed from company**. Suggest contacting talent@mollie.com directly via UvA career service for spontaneous stage application
-- **FT feasibility**: **Zero friction** — graduate via zoekjaar 1 year, Grad offer base €71.4K well above reduced HSM €2,801/month threshold, also above standard HSM €4,357. Company is IND Recognised Sponsor, process is mature
+- **FT feasibility**: **Zero friction** — graduate via zoekjaar 1 year, Grad offer base €71.4K well above reduced HSM €3,122/month threshold, also above standard HSM €4,357. Company is IND Recognised Sponsor, process is mature
 - **Expected friction**:
   - Intern: medium (since no public channel, requires self outreach)
   - FT: zero

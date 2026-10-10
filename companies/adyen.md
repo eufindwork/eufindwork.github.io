@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](adyen.en.md)
 >
-> 更新时间: 2026-09-26
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §1 的 '2026-09-26 现状核查' (2026-10-10 学生页返回 404, 238 个岗位中无 grad / intern).
 > 信息丰富度: ⭐⭐⭐⭐ (全职面经丰富, 实习面经相对稀缺)
 > 公司背景: 全球支付平台 (PSP, payment service provider), 2018 年阿姆斯特丹证交所上市 (ADYEN.AS), HQ 在 Rokin 154
 
@@ -28,38 +29,25 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Adyen Graduate / Next Gen 是欧洲 fintech 中最知名的 entry-level scheme; 官方 student 入口 + Levels.fyi + Glassdoor + TechPays 综合可对照; 注意 2026 官方品牌已偏向 **"Next Gen" 直接安置** 而非传统 "rotational")
-> 区别于实习: 实习 = Master thesis 5-6 个月 或 NextGen part-time; Graduate = **全职 direct-placement (Engineering / Product / Commercial 三条 track), 12-18 个月发展弧 + 后续 geographic mobility**, 而非死板轮岗
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Greenhouse API) | 信息丰富度: ⭐⭐⭐ (依据: 官方 student 页已下线 + Greenhouse 在招列表 + Levels.fyi 2026-10-10 + H1 2026 电话会; grad 细节多来自第三方)
+> **2027 Intake 状态**: **未开放 / 无在挂 programme** — `careers.adyen.com/career-types/student` 在 2026-10-10 返回 HTTP 404 (2026-09-26 仍可打开、显示 0 个岗位); 官网 career types 仅剩 Tech / Commercial / Product / Operational [来源 (实际打开过): https://careers.adyen.com/]; vacancies 静态页显示 "0 jobs found" (JS 渲染, 不能据此判断) [来源 (实际打开过): https://careers.adyen.com/vacancies]; Greenhouse 公共职位板 2026-10-10 共 238 个岗位 (Amsterdam 66), 标题含 Graduate / Junior / Intern / NextGen / Thesis 的为 0 [来源 (实际打开过, API 直读): https://boards-api.greenhouse.io/v1/boards/adyen/jobs]
+> **2026 H2 动态**: H1 2026 电话会 (2026-08-13): 2026-06-30 共 5,020 名 FTE, H1 净增 249, 全年目标净增 550-650, "disciplined and targeted approach to hiring focused primarily on technical and go-to-market roles" [来源 (实际打开过): https://www.investing.com/news/transcripts/earnings-call-transcript-adyen-shares-jump-on-h1-2026-growth-platform-push-93CH-4858426]; 未见裁员报道; student 页下线原因无公开说明
+> ⚠️ **待 web 验证**: 旧版 relocation (free visa + 头 3 个月住房 + 机票 + lump sum, 原引自现已 404 的 student 页)、"每年 150-200+ 签证"、Madrid Tech Grad 薪资、Y2 retention、take-home "production-grade" 难度描述本次均未重新核实, 数据基于旧版页面; 二次核实前勿用于薪资 / 截止日期决策.
 
-- **常见岗位名**: **Next Gen / Graduate** (品牌名, 2026 官方页统称) — 分 **Engineering Track** (SWE / Data / ML), Product, Commercial 三大 track [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; 普通职位线另有 **Software Engineer I / II** (1-3 yrs)
-- **欧洲地点**: **Amsterdam (HQ, Rokin 154) 占 50%+ 名额**, Madrid / Berlin / London / Paris / Stockholm 也接收 Tech Grad (cohort 较小); 全球其他 hubs 含 Chicago / SF / Singapore [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]。直接安置 (direct placement) 而非"先 classroom 后 rotation", 入职即上 live project
-- **是否有独立 Graduate Programme**: **Yes — Adyen Next Gen / Graduate Program** — 不是传统 18-24 月 rotational scheme, 而是**direct-placement 模型**, 发展弧 12-18 个月 (onboarding → integration → mobility), 全公司平均 tenure ~3.2 年 [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]
-- **非EU签证 (全职)**:
-  - Adyen 是 IND **重点 Recognised Sponsor**, 每年办理 150-200+ 签证 (NL 最熟练的 Kennismigrant 雇主之一)
-  - Graduate 全球候选人**全程支持** H-1B (US) / Skilled Worker (UK) / Kennismigrant (NL) / Blue Card (DE/ES)
-  - 提供 **free visa + 头 3 个月住房 (corporate apartment) + 单程机票 + relocation lump sum** [来源 (搜索结果): https://careers.adyen.com/career-types/student]
-  - **30% ruling (NL 2026)**: Graduate base 通常**符合**Kennismigrant 门槛 (**€4,357/月 <30 岁 = €52.3K/年**, **€5,942/月 ≥30 岁 = €71.3K/年**) [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]; 但 30% ruling 自 2024 年起比例下调 (前 20 个月 30%, 中 20 个月 20%, 后 20 个月 10%) — 与实习不同, 实习完全不适用
-- **薪资范围 (base, gross/年)**:
-  - **Amsterdam Graduate Tech (SWE)**: **€55K-€70K base** [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; 另一份社区估算给 €40K-€45K base + €3-5K bonus = €43-50K Y1 (偏低端) [来源 (搜索结果): https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level]; 加 13 月薪 (8% holiday allowance)
-  - **Adyen 全 entry-level (SE0 + SE1 综合 11 数据点)**: 平均 **€64.5K/年 total comp** [来源 (搜索结果): https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level]
-  - **Software Engineer 2 (转正 / 1-2 yrs)**: **$108K base + $17.7K phantom stock + $7.5K bonus ≈ $133K total** (Levels.fyi 2026-05, USD 报价) [来源 (实际打开过): https://www.levels.fyi/companies/adyen/salaries/software-engineer]
-  - **London Tech Grad**: £55K-£65K base [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]
-  - **Madrid Tech Grad**: €40K-€48K base (适用 Beckham law)
-  - **股权**: Adyen 用 **Phantom Stock Plan**, 4 年 vest 25% annually [来源 (实际打开过): https://www.levels.fyi/companies/adyen/salaries/software-engineer]; Grad 通常**第二年才发**, 一年 ~€10K-€15K phantom
-  - Y2 retention offer (~80-90% strong participants 收到) base 涨至 **€45K-€55K total** [来源 (搜索结果): https://www.getsmartresume.com/article/adyen-graduate-program]
-- **申请窗口**: **EU cohort 通常 9-10 月开放, priority deadline 10 月底, 11 月中关闭**; 早申请 (首 30 天) 进面率显著更高; 录取率随 cycle 推进从 ~5% 降到 ~2% [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; **2026-09-26 核查**: 官方 vacancies 列表当前**显示 0 个在招职位**, 2027 届 Graduate/Next Gen 岗位尚未上线 [来源 (实际打开过): https://careers.adyen.com/vacancies]
-- **面试流程差异 vs 实习**:
-  - 流程总长**比实习更长** (6-8 周 vs 4-6 周)
-  - **Superday (Amsterdam in-person)** = 4-5 × 30 min 轮 (fit / technical / group exercise 组合) [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]
-  - **Take-home assignment 难度升级** — 实习生通常给一个 mini payment service, Grad 要求 production-grade 设计 + 部署 + 测试 + 文档
-  - Behavioral 部分对 "Adyen Formula" 八条原则的考察深度 2-3x 于实习
-- **录取竞争**: 全球申请池 **3,000-4,000/cohort, 80-120 spot, 录取率 ~3-5%** [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; 国际生 friendliness 高于 NL 平均 (因 Adyen 强国际化文化)
-- **关键链接**:
-  - Adyen 早期人才官方页 (Graduate / NextGen / Internship 三入口): https://careers.adyen.com/career-types/student
-  - Levels.fyi Adyen SWE 数据 (含 SE2 entry): https://www.levels.fyi/companies/adyen/salaries/software-engineer
-  - TechPays NL Adyen 入门级: https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level
-  - getsmartresume.com Graduate Program 详解: https://www.getsmartresume.com/article/adyen-graduate-program
-  - Glassdoor 面经 (筛 "Graduate"): https://www.glassdoor.com/Reviews/Adyen-Reviews-E684495.htm
+- **岗位名称**: 官方旧描述三类: **NextGen** (剩 6-12 个月的在读生 part-time, 毕业后转全职) / Internship (master) / **Graduate** ("recent graduates with up to two years of experience") [来源 (搜索结果): https://careers.adyen.com/career-types/student]; 第三方称 2027 统一用 "Next Gen" 品牌, 分 Engineering / Product / Commercial track [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]
+- **资格窗口**: Bachelor 或 Master, 入职前毕业; Graduate ≤2 年经验; 无官方 GPA 门槛 [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]; 工作语言英语
+- **欧洲地点**: Amsterdam (HQ) 为主, Madrid / Berlin / London / Paris / Stockholm 有小 cohort (第三方, 同上); 当前 Amsterdam 常青 Java SWE 岗 (Payments / CX) 要求部署高吞吐服务经验或写明 "Mid level and Senior", 不面向应届 [来源 (实际打开过, API 直读): https://boards-api.greenhouse.io/v1/boards/adyen/jobs]
+- **项目结构**: direct placement (直接进 live team), 非 rotational, 12-18 个月发展弧 (第三方) [来源 (实际打开过): https://www.getsmartresume.com/article/adyen-graduate-program]
+- **非EU签证 (全职)**: Adyen N.V. (KvK 34259528) + Adyen Netherlands B.V. (KvK 98924397) 在 IND recognised sponsor register (2026-10-05 更新) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; 2026 HSM 门槛 €5,942 (≥30) / €4,357 (<30) / €3,122 (reduced, zoekjaar / recent graduates) gross/月 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]; 第三方称 "Visa sponsorship available globally" (同上 getsmartresume); 从 NL 学生签 / zoekjaar 转 HSM 可行 (推断)
+  - **30% ruling**: 2026 salary norm €48,013 / <30 + master €36,497; 2027-01-01 起新 ruling 上限 27% [来源 (实际打开过): https://www.bakertilly.nl/en/inzichten/kennisartikel/new-threshold-amounts-for-expats-and-highly-skilled-migrants-in-2026]; 需入职前长期居住在距荷兰边境 >150 km 处 [来源 (实际打开过): https://www.iamexpat.nl/expat-info/taxation/30-percent-ruling] — 在 NL 读书后直接入职通常不满足 (推断) (旧版: "前 20 个月 30% / 中 20 个月 20% / 后 20 个月 10%", 与现行规则不符)
+- **薪资 (gross/年)**:
+  - **Levels.fyi NL 2026-10-10**: Software Engineer 1 €92.5K total (€75.8K base + €7.8K stock + €8.8K bonus); Software Engineer 2 €114K (€91.9K base + €14.2K stock + €8.2K bonus); Senior €138K; median €122K, 273 条; Phantom Stock Plan 4 年 vest, 首年 25% [来源 (实际打开过): https://www.levels.fyi/companies/adyen/salaries/software-engineer/locations/netherlands]
+  - 旧版 (2026-05): SE2 $108K base + $17.7K phantom stock + $7.5K bonus ≈ $133K [来源 (实际打开过): https://www.levels.fyi/companies/adyen/salaries/software-engineer]
+  - **Graduate (第三方, 2024-2025 数据)**: Amsterdam €55,000–€70,000 base; London £55,000–£65,000 base (同上 getsmartresume); TechPays entry-level 平均 €64.5K total, 另一估算 €40K-€45K base + €3-5K bonus [来源 (搜索结果): https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level]; NL 另加 8% holiday allowance
+- **申请窗口**: 第三方 (2026-01-14 更新) 预测 2027 欧洲 cohort 2026-09/10 开放、priority deadline 2026-10 下旬 (同上 getsmartresume) — 截至 2026-10-10 官方无对应岗位 (合并 2026-09-26 核查: 当时 vacancies 亦为 0); 留意 Greenhouse 列表是否出现 Graduate / NextGen 岗
+- **面试流程差异 vs 实习**: 第三方: CV 筛选 → 30 分钟 recruiter screen → 2-4 轮 technical / behavioral → final round + team matching (同上 getsmartresume); 技术环节为 HackerRank (1-2 道 medium) 或 payment 相关 take-home + code review, 全程 4-6 周 [来源 (搜索结果): https://www.techprep.app/blog/adyen-interview-process]; 旧版: Amsterdam in-person Superday 4-5 × 30 min (fit / technical / group exercise)
+- **录取竞争**: 第三方: 每年 3,000-4,000 份申请, 全球 80-100 个名额, 录取率 3-5% (旧版: 80-120 名额) (同上 getsmartresume)
+- **关键链接**: Greenhouse 职位 API (实际打开过): https://boards-api.greenhouse.io/v1/boards/adyen/jobs · 官网 vacancies (实际打开过): https://careers.adyen.com/vacancies · Levels.fyi NL (实际打开过): https://www.levels.fyi/companies/adyen/salaries/software-engineer/locations/netherlands · TechPays: https://techpays.com/europe/netherlands/adyen/amsterdam/entry-level · Glassdoor: https://www.glassdoor.com/Reviews/Adyen-Reviews-E684495.htm
 
 ---
 

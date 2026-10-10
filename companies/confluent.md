@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](confluent.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > Confluent 是 Apache Kafka 的商业化母公司,由 Kafka 原作者团队创立。欧洲业务以伦敦为核心,业务重心是分布式流处理、Kafka 平台与 "Data in Motion" 基础设施。对志在分布式系统的实习生而言是顶级品牌。
 
 ## 1. 公司速览
@@ -18,50 +20,22 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐ (Confluent London 是分布式系统圈层的 prestige offer; Levels.fyi UK L2 实读 + 单 Blind 数据点 £120K TC + 官方 Early Talent 入口完整)
-> 区别于实习: 实习 12 周或 12 个月 FTC + Student Visa; **New Grad SWE** 全职 Skilled Worker, package 与 senior 比例统一
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + ATS API) | 信息丰富度: ⭐⭐⭐ (依据: SEC 8-K + 收购 / 裁员报道 + Ashby 岗位 API + UK 担保名册 + Levels.fyi 直读; 缺: careers.confluent.io 被拦截 (HTTP 429), 无 2025-26 欧洲 new-grad 面经)
+> **2027 Intake 状态**: **No programme / 无在招岗** — Confluent 自有 Ashby 招聘板 2026-10-10 共 17 个岗位, 全在北美 / 印度, 无欧洲岗、无 new grad / intern / junior 岗 [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/confluent]
+> **2026 动态 (重大)**: IBM 于 2026-03-17 完成收购 ($31/股现金, EV ~$11B), CFLT 退市; 交割后有 "可能高达 800 人" 裁员的非官方报道, IBM / Confluent 未官方确认 [来源 (实际打开过): https://factorhouse.io/articles/what-the-ibm-confluent-acquisition-means-for-kafka-users/]; 2026-08-14 报道 CEO Jay Kreps 卸任, 由 CPO Shaun Clowes 接任 [来源 (实际打开过): https://www.sdxcentral.com/news/ibm-in-new-software-blow-as-confluent-ceo-exits/]
 
-- **常见岗位名**: **Software Engineer, New Grad** / **Software Engineer I (L2)** / **Associate Software Engineer**; 没有专门 "Graduate Programme" 品牌, 走标准 SWE 招聘 + new-grad 标签 [来源 (实际打开过): https://careers.confluent.io/early-talent]
-- **欧洲地点**:
-  - **London (UK)**: EMEA 唯一主要工程 hub; **13 个 London 开放岗** (Glassdoor 2026-05) [来源 (搜索结果): https://www.glassdoor.co.uk/Job/london-confluent-jobs-SRCH_IL.0,6_IC2671300_KO7,16.htm]; Kafka Cloud / Connect / Schema Registry / Stream Governance 团队
-  - **Belfast (北爱)**: 部分 SRE / Platform 团队, New Grad 名额较少但 visa-friendly
-  - **Madrid (ES)**: 2023 新增 Cloud / Networking 团队, New Grad 名额增长
-  - **UK 总开放岗数**: 10+ (Careers portal 直筛) [来源 (搜索结果): https://careers.confluent.io/search/jobs/in/country/united-kingdom]
-  - 与实习地点一致, EMEA 全职 entry-level 80%+ 在 London
-- **是否有独立 Graduate Programme**: **No** — Confluent 没有 cohort-based grad scheme; Early Talent 仅 cover 12 周 + 1 年 FTC 实习, 全职 New Grad 走标准 SWE Pipeline + new-grad 标签 [来源 (实际打开过): https://careers.confluent.io/early-talent]; 内部有 4 周 Kafka 内核 deep dive bootcamp
-- **非EU签证 (全职)**:
-  - **Confluent UK Ltd 是 UK Skilled Worker 持牌雇主**, 全额支持新 grad visa
-  - 2026 年 UK Skilled Worker 工资门槛: 一般 £38,700; IT 行业 going rate 通常 £42K-£50K, Confluent New Grad base **£70K 100% 超过**
-  - 提供 visa lawyer + IHS surcharge 报销 + relocation lump sum (~£5K-£10K, Blind 报告)
-  - **High Potential Individual (HPI) visa**: Confluent 接收已持 HPI 的中国 top 50 校友, 不需要 sponsor 直接 hire
-  - **对中国应届生 friendliness 高** — Confluent 在伦敦 EMEA team 中国 / 印度 / 东欧员工比例较高
-- **薪资范围 (base, gross/年, 2026-05 Levels.fyi UK 实读)**:
-  - **London New Grad SWE (L2)**: **$92.7K base + $45.8K stock + $3.1K bonus ≈ $142K total ≈ £106K total** (Levels.fyi UK L2 entry) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/confluent/salaries/software-engineer/locations/united-kingdom]
-  - **单 Blind 数据点 (UK new grad signed)**: **£70K base + RSU ≈ £120K total** [来源 (搜索结果): https://www.teamblind.com/post/confluent-london-salary-ty8nxfgh]
-  - **UK 全 level range**: **£106K (L2) - £170K (L5a)**, median £168K [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/confluent/salaries/software-engineer/locations/united-kingdom]
-  - **Greater London (Levels)**: median **£192K total** (含 senior, 偏高); 最高 £253K [来源 (搜索结果): https://www.levels.fyi/companies/confluent/salaries/software-engineer/locations/london-metro-area]
-  - **Belfast / Madrid**: £55K-£70K / €55K-€68K base + RSU (低于 London 30-40%)
-  - **股权**: CFLT (Nasdaq) RSU, 4 年 vest 25% annually 或 3 年 33%; Initial grant New Grad ~$80K-$120K
-  - 加 ~6-8% pension match (UK), private health, £400/月 home office stipend
-- **申请窗口**: **每年 8-10 月开放 New Grad SWE** (与北美同步), 11 月 - 次年 2 月面试, 3-5 月发 offer, 7-9 月入职; New Grad 名额一旦关闭基本无法重开
-- **面试流程差异 vs 实习**:
-  - 流程结构相同 (Recruiter → OA → Tech → Concurrency → System Design → HM), 但**实习版砍 1 轮 system design**, New Grad **全 5 轮 + Bar Raiser**
-  - **OA 难度上调** — 实习 LC medium, New Grad medium-hard, 偶有 hard (LC "Number of Atoms" / parser 类)
-  - **并发 / 系统编程轮难度加深** — 实习考线程安全 LRU, New Grad 要求 lock-free / wait-free 数据结构 + memory ordering (acquire/release semantics)
-  - **System Design 必考 Kafka 相关**: 设计 stream ingestion / config propagation / exactly-once / 跨 region replication; 实习生通常砍此轮
-  - 总流程 6-8 周 (实习 4-6 周)
-- **录取竞争**: London New Grad SWE 录取率 **~2-3%** (申请池 3,000-5,000/cohort), 分布式系统圈层声誉极高 (Kafka 原作者团队 prestige); **对中国学生 friendly 度高于 Canva, 与 Databricks 接近** — Confluent 全球 hire 文化 + UK Skilled Worker 路径成熟
-- **关键链接**:
-  - Confluent Early Talent 官方页: https://careers.confluent.io/early-talent
-  - Confluent UK Careers 直筛: https://careers.confluent.io/search/jobs/in/country/united-kingdom
-  - Confluent 全球 Career 入口: https://careers.confluent.io/jobs
-  - Levels.fyi Confluent SWE UK (2026-05 实读 L2 £106K): https://www.levels.fyi/en-gb/companies/confluent/salaries/software-engineer/locations/united-kingdom
-  - Levels.fyi Confluent SWE Greater London (median £192K): https://www.levels.fyi/companies/confluent/salaries/software-engineer/locations/london-metro-area
-  - Blind Confluent London salary 帖: https://www.teamblind.com/post/confluent-london-salary-ty8nxfgh
-  - Glassdoor Confluent London 岗位 (13 open): https://www.glassdoor.co.uk/Job/london-confluent-jobs-SRCH_IL.0,6_IC2671300_KO7,16.htm
-  - LeetCode Discuss Confluent: https://leetcode.com/discuss/interview-experience/?query=confluent
-  - Blind cflt 板块: https://www.teamblind.com/company/Confluent
-  - 1point3acres Confluent tag: https://www.1point3acres.com/bbs/tag/confluent-1495-1.html
+- **岗位名称**: 旧版记录 "Software Engineer, New Grad" / "Software Engineer I (L2)", 无独立 graduate programme; 2026-10 无任何在招 entry-level 岗; 并入 IBM 后 Confluent 是否另设 graduate 渠道: 无公开数据
+- **资格窗口**: 当前无岗位可查; 无公开数据
+- **欧洲地点**: London 为 EMEA 主要工程 hub (旧版); 2026-10 Ashby 板上无任何欧洲岗 (同上来源); 旧版 Belfast / Madrid 团队信息本次未核实
+- **项目结构**: 无 cohort 制 grad scheme (旧版); 入职月份 / cohort 规模: 无公开数据
+- **非EU签证 (全职)**: UK: Confluent Europe Ltd 持 **Skilled Worker + GBM Senior or Specialist Worker (A rating)** (gov.uk 名册 2026-10-09 版) [来源 (实际打开过): https://sponsorlist.co.uk/visa-sponsorship/confluent-europe-ltd/ , https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; Skilled Worker 一般门槛 **£41,700** 或 going rate 取高 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job] (旧版: £38,700, 2026-05); new entrant 门槛 **£33,400** / going rate 的 70%, 条件为申请时 <26 岁或 2 年内持 UK Student / Graduate visa 等 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less] — 从 NL 毕业 / zoekjaar 过去只能靠 <26 岁条件, 否则按 £41,700; NL: IND recognised sponsor 名册中无 Confluent 实体 [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]
+- **薪资 (TC, gross/年)**: Levels.fyi UK L2 (entry) **£106K = £69.4K base + £34.3K stock + £2.3K bonus**, median £168K (2026-10) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/confluent/salaries/software-engineer/locations/united-kingdom] — 数据多为收购前提交 (推断); 单 Blind 数据点 £70K base ≈ £120K TC [来源 (搜索结果): https://www.teamblind.com/post/confluent-london-salary-ty8nxfgh]
+- **股权**: 合并协议 (2025-12-07) 规定员工未归属 RSU 转为 IBM RSU, 归属条款不变; 期权按 $31 与行权价差额现金结算 [来源 (实际打开过): https://www.sec.gov/Archives/edgar/data/1699838/000110465925119081/tm2532777d2_8k.htm] (旧版: "CFLT (Nasdaq) RSU" 已失效); 新 offer 的股权形式: 无公开数据
+- **申请窗口**: 旧版 "每年 8-10 月开放" 无来源; 2027 cycle: 无岗位, 无公告
+- **面试流程差异 vs 实习**: 旧版: Recruiter → OA → coding → concurrency → system design (Kafka 相关) → HM, 实习通常无 system design (见 §4); 并入 IBM 后流程是否改变: 无公开数据
+  > ⚠️ **待 web 验证**: 旧版条目无来源, 本次未能核实 — London new grad 录取率 ~2-3%, 申请池 3,000-5,000, relocation ~£5K-£10K, Belfast / Madrid base, 4 周 bootcamp, home office £400/月; 二次核实前勿用于薪资 / 截止日期决策.
+- **录取竞争**: 2026 欧洲 entry-level 招聘基本停滞 (依据: 无在招岗 + 裁员报道; 推断)
+- **关键链接**: Ashby 岗位 API (实际打开过, 见上); Early Talent 页 https://careers.confluent.io/early-talent (2026-10-10 返回 HTTP 429, 未能打开); Levels.fyi UK / UK 名册 / SEC 8-K (实际打开过, 见上)
 
 ---
 

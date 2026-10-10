@@ -2,7 +2,8 @@
 
 > **Language**: [中文](photoroom.md) | English
 >
-> Last updated: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'monthly mandatory in-person' in §1 no longer applies to most roles.
 > Information richness: ⭐⭐⭐ (Photoroom public data limited, but English-first / 30% international policy explicit)
 > One-liner positioning: Paris generative image AI top startup (Diffusion / on-device AI), CEO emphasizes "international by design" — 30% mandatory international, English-first, visa assistance + relocation bonus.
 
@@ -23,28 +24,25 @@
 
 ## New Grad / Junior Roles
 
-- **Common role names**: Software Engineer (iOS / Android / Backend), ML Research Engineer, ML Engineer, Founding-type roles (small team)
-- **European locations**: **Paris only** (monthly in-person mandatory), remote allowed within Europe other days
-- **Whether there is a standalone Graduate Programme**: **No** — too small (~45-100 people 2024-2026, YC), no cohort; junior goes via final-year M2 stage conversion + direct hire
+> Checked: 2026-10-10 (live WebFetch + Ashby API) | Information richness: ⭐⭐⭐ (basis: all 14 Ashby JDs + Levels.fyi France direct read + Tech.eu; no entry-level pay, Glassdoor not re-checked)
+> **2027 intake status**: **No programme** — no grad / junior / intern roles; photoroom.com/careers redirects to Ashby, which lists 14 roles on 2026-10-10 (Paris 12 / NYC 2; R&D 8); the closest to junior is Product ML Engineer (Paris, 2+ years of experience) [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/photoroom]
+> **2026 news**: 2026-09-01 co-founder / CTO Eliot Andres stepped down from his executive role to become a board member, replaced by Javier Sotelo (ex-Groupon, joined early 2026); article cites a €500M valuation, no layoffs mentioned [Source (verified opened): https://tech.eu/2026/09/01/photoroom-co-founder-quits-executive-role/]; the official blog's 2026 posts are mostly product launches (Visual Agents etc.), no funding / layoffs seen [Source (verified opened): https://www.photoroom.com/inside-photoroom]
+
+- **Role names**: no dedicated new grad role; on 2026-10-10 the only engineering / ML roles are Product ML Engineer (2+ years), Senior Backend Engineer (5+ years), Head of GenAI Platform; the rest are PM / Analyst / Sales / G&A
+- **Eligibility window**: no degree gate (previous, Sifted: "qualifications are not important" [Source (verified opened, previous 2026-05): https://sifted.eu/articles/how-to-get-a-job-at-photoroom]); JDs require fluent English, "French isn't required"
+- **European locations**: Paris HQ (hybrid, most JDs say ~3 days/week in the office); JDs mention employees in other European countries via EOR; the previous "monthly in-person" model no longer applies to most roles
+- **Programme structure**: no cohort / rotation; rolling per-role hiring; JDs describe "100+" people, Series B, 300+ million users
 - **Non-EU visa (full-time)**:
-  - **France**: Passeport Talent – Salarié Qualifié €38,616/yr or French Tech Visa ~€43K/yr — Photoroom SWE median ~€72K-€103K, far exceeds threshold [Source (verified opened): https://www.levels.fyi/en-gb/companies/photoroom/salaries/software-engineer]
-  - **Photoroom publicly commits "visa assistance" + relocation bonus** (Paris relocation bonus) [Source (verified opened): https://www.photoroom.com/inside-photoroom/from-around-the-world-to-photoroom-how-we-attract-and-nurture-global-talent]
-  - Rumored €10K signing bonus (user-provided, not verified in CEO article)
-- **Salary range (Levels.fyi 2026, France)**:
-  - SWE all levels: **€72.4K-€103K range** [Source (verified opened): https://www.levels.fyi/en-gb/companies/photoroom/salaries/software-engineer]
-  - No public entry-level cut, estimated Junior base ~€55-65K + equity (BSPCE)
-- **Application window**: Rolling, hiring competitive
-- **Interview process differences vs internship**: full-time adds founder round (CEO Matt Rouif or CTO Eliot Andres appears), values round weights over technical
-- **Admission competition / international student friendliness**:
-  - **extremely high competition** — public statement "hiring very competitive"
-  - **international student friendliness high** — 30% international mandatory, English-first, **"qualifications are not important" (Sifted report)** [Source (verified opened): https://sifted.eu/articles/how-to-get-a-job-at-photoroom]
-  - **Does not require college credentials** — Photoroom public talent guide: "we don't require college credentials, demonstrable real-world impact and passion are what get you hired"
-- **Key links**:
-  - Company: https://www.photoroom.com/company
-  - Inside Photoroom blog (international policy): https://www.photoroom.com/inside-photoroom/from-around-the-world-to-photoroom-how-we-attract-and-nurture-global-talent
-  - WTTJ Jobs: https://www.welcometothejungle.com/en/companies/photoroom/jobs
-  - Levels.fyi: https://www.levels.fyi/en-gb/companies/photoroom/salaries/software-engineer
-  - YC profile: https://www.ycombinator.com/companies/photoroom
+  - JD wording: "Visa sponsorship and relocation support up to €10,000" (Product ML Engineer); "Relocation support (up to 10k) ... including apartment finding and visa assistance"; "Visa sponsorship and relocation support are only available for positions based in France. We cannot sponsor visas for remote positions outside of France." (same Ashby source)
+  - **"€10K signing bonus" not confirmed**: none of the 14 JDs mentions a "signing bonus"; the figure is the cap on relocation (incl. visa) support (previous "rumoured signing bonus" corrected); the CEO's 2023-07-07 article only mentions "visa assistance, language classes, and team events" [Source (verified opened): https://www.photoroom.com/inside-photoroom/from-around-the-world-to-photoroom-how-we-attract-and-nurture-global-talent]
+  - **NL**: Photoroom is not on the IND register → zoekjaar / Kennismigrant do not apply; you would need an FR Passeport Talent; ⚠️ **Pending web verification**: FR thresholds (previous Salarié Qualifié €38,616/yr, French Tech ~€43K/yr) not re-checked this time, do not use for decisions
+- **Salary range (gross/year, Levels.fyi France direct read 2026-10-10; few samples, not entry level)**:
+  - SWE median €137K, range €87.2K–€137K+, highest €156,083; the median package is Senior 9 YOE = base €104K + stock €32.8K [Source (verified opened): https://www.levels.fyi/companies/photoroom/salaries/software-engineer]
+  - Previous (2026-05): range €72.4K-€103K, estimated Junior base ~€55-65K + BSPCE (inferred, unsourced); the only JD with public pay is a non-engineering Senior User Acquisition Manager at €60,000–€70,000 + BSPCE
+- **Application window**: rolling; nothing announced for 2027; no previous grad cycle
+- **Interview process (JD text)**: Senior Backend: Talent Manager screen 30min → HM technical 45min → take-home + live review 45min → culture fit / meet the team (~3h) → reference + offer; Product ML: ML engineer screen → take-home + review → culture fit → reference + offer (same Ashby source); previous Glassdoor: 24 days on average, 30.8% positive (2026-05)
+- **Competition**: very high; only 2 IC engineering / ML roles open, requiring 2+ / 5+ years → slim odds for new grads applying directly (inferred); a final-year M2 stage converting to full-time remains the main entry route (previous)
+- **Key links**: Careers (redirects to Ashby): https://www.photoroom.com/careers · Company (verified opened): https://www.photoroom.com/company · Levels.fyi (verified opened): https://www.levels.fyi/companies/photoroom/salaries/software-engineer
 
 ---
 

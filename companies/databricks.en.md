@@ -2,7 +2,8 @@
 
 > **Language**: [中文](databricks.md) | English
 >
-> Updated: 2026-09-26
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — the $62B valuation (now $190B after the 2026-08 round) and 2026-cycle eligibility in the header and §1; '30% ruling applies' in §2 (someone hired straight after an NL master's usually fails the 150 km condition).
 > Information richness: ⭐⭐⭐⭐ (North America interview experience very abundant, Amsterdam intern also has multiple real reports)
 > Company background: Founded by Apache Spark founding team, AI/data lakehouse platform leader, **2024 valuation $62B (pre-IPO)**, Amsterdam is EMEA engineering main hub
 
@@ -30,49 +31,22 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Databricks New Grad SDE is one of Europe's hottest entry-level offers; Levels.fyi Greater Amsterdam L3 verified data + Blind RSU discussion + latest IPO prep updates complete)
-> Differences vs internship: Internship 12 weeks + prefers NL school / EU students; **New Grad SWE** full-time Kennismigrant + 30% ruling, international students fully sponsored
+> Checked: 2026-10-10 (live WebSearch + WebFetch + Greenhouse API) | Information richness: ⭐⭐⭐⭐ (basis: full official job-API scan + Levels.fyi direct read + IND register; missing: no European SWE New Grad 2027 posting yet, no 2025-26 European new-grad interview reports found)
+> **2027 intake status**: **SWE New Grad = Upcoming (not posted)** — on 2026-10-10 none of the 892 Greenhouse jobs is a SWE New Grad (2027) role (none worldwide); the only European new-grad posting is **Product Manager, New Grad (2027)** (Amsterdam / Berlin / Belgrade, rolling, no deadline) [Source (verified opened): https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002]; EMEA 2027 university postings went live around 2026-10-02 (absent from the 2026-09-22 snapshot) [Source (fetched via curl): https://web.archive.org/web/20260922181913/https://boards-api.greenhouse.io/v1/boards/databricks/jobs]
+> **2026 H2 news**: 2026-08-13 closed a $5B round at a $190B valuation, revenue run-rate >$7B, Q2 growth >80% YoY; CEO called 2026 "a terrible year to go public" [Source (verified opened): https://thenextweb.com/news/databricks-closes-5-billion-round-at-190-billion-valuation]; no S-1 as of mid-2026-08 [Source (search results): https://www.allied.vc/articles/databricks-ipo-expectations-key-dates-valuation-risks]; no layoff / hiring-freeze reports found
 
-- **Common role names**: **Software Engineer (New Grad) — University Graduate** / **Software Engineer, IC1 / L3** / **SWE I**; Databricks internal level **L3 = New Grad (0 yr)**, **L4 = Junior (1-2 yr)**; no dedicated "Graduate Programme" brand, goes through standard SWE + new-grad pipeline
-- **European locations**:
-  - **Amsterdam (Zuidas)**: EMEA's largest engineering hub, main New Grad location, hires ~30-50/cohort (Mosaic AI / SQL / Unity Catalog / Delta Lake teams)
-  - **Berlin (DE)**: Second-largest European hub, New Grad slots growing (since 2024-2025)
-  - **Belgrade (RS)**: Engineering hub, New Grad hires locally / nearby countries
-  - **London (UK)**: Some GTM plus few Engineering New Grad
-  - Same as internship locations, but New Grad leans more to Amsterdam than internship (intern accepts Berlin too, New Grad primarily Amsterdam)
-- **Independent Graduate Programme**: **No** — Databricks has no cohort-based grad scheme; goes through standard University Recruiting Pipeline (similar to Google / Meta / Stripe); internally has 4-week onboarding + bootcamp + mentor system
-- **Non-EU visa (full-time)**:
-  - Databricks Netherlands B.V. is IND **Recognised Sponsor**, Kennismigrant experience mature (built rapidly in last 2-3 years)
-  - Amsterdam New Grad SDE **full sponsor**: visa + relocation lump sum ($10K-$15K reported on Blind) + 60 days corporate apartment + one-way flight + spouse assistance
-  - **30% ruling (NL 2026)**: New Grad base **far exceeds** Kennismigrant threshold **€4,357/month <30 years = €52.3K/year** [Source (verified opened): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026], 100% applies
-  - **International student friendliness EMEA top-tier** — alongside Stripe / Snowflake, Databricks is one of few companies that directly sponsors Amsterdam New Grad from North American / Indian / Chinese top campuses
-- **Salary range (base, gross/year, 2026-05 Levels.fyi verified read)**:
-  - **Greater Amsterdam L3 (New Grad)**: **$86.6K base + $44.8K stock + $6.8K bonus ≈ $138K total / year (≈ €119K-€132K total)** [Source (verified opened): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]; TechPays Amsterdam new grad 2 data points average **€132.5K total** [Source (search results): https://techpays.com/europe/netherlands/databricks/amsterdam/entry-level]
-  - **NL L3 (national filter)**: **€79.8K-€152K range** [Source (search results): https://www.levels.fyi/companies/databricks/salaries/software-engineer/levels/l3/locations/netherlands]
-  - **Greater Amsterdam all level range**: **€118K (L3) - €498K (L6)** [Source (verified opened): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **Berlin New Grad SDE**: Close to Amsterdam, ~€75K-€90K base + RSU
-  - **Belgrade New Grad SDE**: ~€30K-€45K base (extremely top local salary) + RSU
-  - **Major equity change (2025 update — critical)**: Databricks **removed RSU second trigger in 2025** — even without IPO, already vested RSU converts directly to share, no longer needs IPO/acquisition liquidity event trigger; this means new signed offers **are no longer traditional double-trigger pre-IPO model** [Source (search results): https://www.teamblind.com/post/databricks-rsu-value-after-100b-valuation-8rgfsw4j , https://framer.caplight.com/insights/how-databricks-and-stripe-are-redefining-rsu-liquidity-pre-ipo]
-  - **RSU vest**: 4-year **40-30-20-10** schedule (Y1 accelerated) [Source (verified opened): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **IPO status (2026 update)**: Databricks **still not IPO'd**, but CEO Ali Ghodsi 2025-12 does not rule out 2026 listing; S-1 expected to file 2026 H2, valuation has risen to **$134B (2026)** [Source (search results): https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html , https://tech-insider.org/databricks-134-billion-ipo-enterprise-software-2026/]; Revenue run rate ~$4.8-5B grew 55% YoY
-  - 30% ruling after Amsterdam L3 net ≈ €5.5K-€6.5K/month + long-term RSU monetization (now able to settle)
-- **Application window**: **Aug-Oct each year opens New Grad SWE** (synced with North America), Nov - next Feb interviews, Mar-May offers, Jul-Sep start; missed window basically waits for next year; once New Grad slots close, basically cannot reopen
-- **Interview process differences vs internship**:
-  - Same process structure (HR → Karat → Hiring Manager → Onsite), but **Onsite upgraded from 4 rounds to 5-6 rounds**: +1 **System Design** (45-60 min, required: design distributed query engine / design metadata catalog / Spark SQL optimizer) + +1 deep behavioral (with Director-level Bar Raiser)
-  - **Karat Phone Screen difficulty raised** — intern 1 easy + 1 medium, New Grad 1 medium + 1 hard (typical: graph + DP)
-  - **Take-home (occasional)**: design mini distributed cache / mini SQL parser, 5-7 day submission
-  - Total process 6-9 weeks (intern 5-7 weeks)
-- **Hiring competition**: Amsterdam New Grad SDE acceptance rate **~1-2%** (applicant pool 5,000-8,000/cohort), one of Europe's hardest entry-level (same tier as Stripe / Citadel / Two Sigma); **international student friendliness higher than Booking / Adyen** (Databricks global hire culture, directly recruits from North American campus to European office)
-- **Key links**:
-  - Databricks University Careers (filter EMEA): https://www.databricks.com/company/careers/university-recruiting
-  - Global Career main entry (filter New Grad + Amsterdam): https://www.databricks.com/company/careers/open-positions
-  - Levels.fyi Databricks SWE Greater Amsterdam (2026-05 verified read L3 $138K total): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area
-  - TechPays Databricks Amsterdam entry-level: https://techpays.com/europe/netherlands/databricks/amsterdam/entry-level
-  - Databricks RSU second-trigger removal discussion (Blind): https://www.teamblind.com/post/databricks-rsu-value-after-100b-valuation-8rgfsw4j
-  - Databricks IPO 2026 prep report (CNBC): https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html
-  - LeetCode Discuss Databricks Amsterdam interview experience: https://leetcode.com/discuss/interview-experience/?query=databricks+amsterdam
-  - 1point3acres Databricks tag: https://www.1point3acres.com/bbs/tag/databricks-1280-1.html
-  - Blind databricks board (salary crowdsourced): https://www.teamblind.com/company/Databricks
+- **Role names**: PM: "Product Manager, New Grad (2027)" (joins the "2027 APM cohort", with a mentor); SWE: internal L3 = new grad, L4 = 1-2 yrs (previous record), no standalone graduate programme; low-experience SWE roles open in Europe in 2026-10 are "Software Engineer - Backend" (Amsterdam / Aarhus, 2+ yrs required, not for fresh grads) [Source (fetched via curl): https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true]
+- **Eligibility**: PM NG: "graduate between Fall 2026 and Summer 2027" + BSc/MSc in CS or related + SQL/Python; postings in English, no other language requirement stated; only one application per 30 days [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/databricks/jobs/6866534002]
+- **European locations**: official hubs: Amsterdam / Berlin / Belgrade [Source (verified opened): https://www.databricks.com/company/careers/university-recruiting]; 170 open roles in Europe in 2026-10 (London 41 / Amsterdam 30 / Belgrade 15 / Munich 13)
+- **Programme structure**: no cohort-based SWE grad scheme; PM NG is cohort-based; start month: no public data
+- **Non-EU visa (full-time)**: "Databricks" (KvK 51208121) is on the IND recognised-sponsor register (updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; Kennismigrant 2026 H2 thresholds €5,942 (≥30) / €4,357 (<30) / reduced €3,122 (within 3 years of graduation or during zoekjaar) [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements] — L3 base is far above, so NL graduation → zoekjaar → Kennismigrant works; **30% ruling** requires living >150 km from the Dutch border for >16 of the 24 months before starting, and the cap drops to 27% from 2027-01-01 [Source (verified opened): https://business.gov.nl/regulations/30-percent-ruling/] — usually not met when hired straight after an NL master's (inferred; previous: "100% applies", 2026-09); UK: Databricks UK Limited holds Skilled Worker + GBM (A) (register 2026-10-09) [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; postings carry no visa statement
+- **Pay (TC, gross/yr)**: Greater Amsterdam L3 **€131K = €78.3K base + €40.9K stock + €11.8K bonus** (2026-10; previous: $138K, 2026-05), L4 €201K, median €172K [Source (verified opened): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/greater-amsterdam-area]; Germany L3 **€138K = €81.6K + €45.1K + €11K** (2026-10) [Source (verified opened): https://www.levels.fyi/companies/databricks/salaries/software-engineer/locations/germany]; London table locked (too few data points); TechPays Amsterdam entry-level [Source (search results): https://techpays.com/europe/netherlands/databricks/amsterdam/entry-level]
+- **Equity**: RSU 4-year 40/30/20/10 (alternative 25%/yr schedule) (same Levels.fyi page); valuation $190B (2026-08), IPO not expected before 2027 (inferred)
+  > ⚠️ **Pending web verification**: the earlier claim "RSU second trigger removed in 2025" could not be verified — the cited Caplight piece (2024-11) says Databricks "probably got an exemption" to keep the double-trigger structure, and the Blind thread (2025-08) says nothing on it [Source (verified opened): https://framer.caplight.com/insights/how-databricks-and-stripe-are-redefining-rsu-liquidity-pre-ipo , https://www.teamblind.com/post/databricks-rsu-value-after-100b-valuation-8rgfsw4j]; do not use for offer decisions until re-checked.
+- **Application window**: official: "typically opening applications in August", rolling (same university page); last cycle's actual SWE NG open/close dates: no public data; 2027 SWE NG: not posted yet, check weekly from 2026 Q4 (inferred)
+- **Interview process / competition**: official SWE focus is data structures / algorithms / code quality, "vary by role" (same university page); full-time loop (HR → phone screen → ~5 onsite rounds incl. system design) see §3
+  > ⚠️ **Pending web verification**: unsourced earlier items, not verifiable this round — Amsterdam ~30-50 per cohort, acceptance ~1-2%, relocation $10K-$15K + 60-day apartment, Karat new grad "1 medium + 1 hard", Berlin base ~€75K-€90K, Belgrade base ~€30K-€45K; do not use for pay / deadline decisions until re-checked.
+- **Key links**: university page / PM NG Amsterdam posting / Levels.fyi Amsterdam (all verified opened, above); all jobs: https://www.databricks.com/company/careers/open-positions (search results); Blind board: https://www.teamblind.com/company/Databricks (search results)
 
 ---
 

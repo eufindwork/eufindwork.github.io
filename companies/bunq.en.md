@@ -44,7 +44,7 @@
   - Software Engineer (median Greater Amsterdam): **€56.2K** [Source (verified opened): https://www.levels.fyi/companies/bunq/salaries/software-engineer/locations/greater-amsterdam-area]
   - Bunq global SWE range: **€38.7K – €55.9K+** (Levels.fyi global range)
   - **Equity**: private company (CEO Ali Niknam holds majority), equity allocation opaque
-- **Sponsor policy (FT)**: NL Kennismigrant. 2026 threshold < 30 €4,357/month ≈ €52.3K/year. **Bunq entry €39K significantly below standard HSM threshold**, must go via **reduced HSM for recent NL master grads (€2,801/month ≈ €33.6K)** to comply. This is the key risk for applying to Bunq.
+- **Sponsor policy (FT)**: NL Kennismigrant. 2026 threshold < 30 €4,357/month ≈ €52.3K/year. **Bunq entry €39K significantly below standard HSM threshold**, must go via **reduced HSM for recent NL master grads (€3,122/month ≈ €33.6K)** to comply. This is the key risk for applying to Bunq.
 - **Application window**: Year-round rolling
 - **Process difference vs intern**: N/A (intern almost non-existent)
 
@@ -59,8 +59,8 @@
 - **Known sponsorship cases**:
   - Bunq Together (official community) self-described as "primary choice for new skilled migrants to NL" [Source: https://careers.bunq.com/]
   - Dwayne Gefferie LinkedIn: NL fintechs Adyen / Mollie / **bunq** sponsor [Source (verified opened): https://www.linkedin.com/posts/dwaynegefferie_why-dutch-fintechs-adyen-mollie-and-bunq-activity-7185920215904309248-s52u]
-- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
-- **Key risk**: Entry-level base €39K = €3,250/month, **below standard HSM <30 threshold (€4,357)**. UvA master graduate using reduced €2,801/month OK, but if applying directly from China fresh without zoekjaar path, **may not be able to sponsor**
+- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
+- **Key risk**: Entry-level base €39K = €3,250/month, **below standard HSM <30 threshold (€4,357)**. UvA master graduate using reduced €3,122/month OK, but if applying directly from China fresh without zoekjaar path, **may not be able to sponsor**
 
 ---
 
@@ -134,7 +134,7 @@
 
 - **Intern feasibility**: **Low** — no public intern channel, even if you can get stage offer, culture risk large. Student visa technically covers (16h semester / 40h vacation), Nuffic process complete, no company additional visa processing required
 - **FT feasibility**: **Medium** — apply FT via zoekjaar, but has **2 major risks**:
-  1. Entry-level base €39K stuck at HSM threshold edge, **must confirm offer is reduced HSM eligibility (€2,801/month)** or negotiate to base ≥ €4,357
+  1. Entry-level base €39K stuck at HSM threshold edge, **must confirm offer is reduced HSM eligibility (€3,122/month)** or negotiate to base ≥ €4,357
   2. Glassdoor culture rating extremely low, suggest entry-level enter cautiously
 - **Estimated friction**:
   - Intern: High (no channel + culture risk)

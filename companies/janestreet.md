@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](janestreet.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Wikipedia + 官方 careers + Levels.fyi London 直读 + eFinancialCareers London headcount + Glassdoor 流程评分 + JSIP/SE intern 区分)
 > 一句话定位: NYC 起家 / OCaml 主战栈 / 全球 ETF + options + 固收做市巨头, London 是欧洲总部 (688 人, 2024 末) 且**积极 sponsor Skilled Worker**, SWE 全职 L1 总包 ~£245K — 比 UK 全国 SWE 中位数 (£67K) 高 3-4 倍
 
@@ -24,38 +24,22 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London L1 直读 + eFinancialCareers headcount + Wikipedia 全球)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch) | 信息丰富度: ⭐⭐⭐⭐⭐ (依据: 官方 jobs JSON + 职位页 + Levels.fyi London 直读 + UK / IND 注册表 + 官方面试页)
+> **2027 Intake 状态**: **Open (Rolling)** — "2027 Full-Time: New Grad" (London) 自 2026-08-03 开放, 无截止日, 滚动审核; 入职月份未公布 [来源 (实际打开过): https://gradbeam.co.uk/jobs/t-jane-street-a0o6k4h9og] [来源 (实际打开过): https://www.janestreet.com/jobs/main.json]
+> 2026 H2: 未见 layoff / hiring freeze 报道; UK LLP 2025 账目 (2026-09 披露): staff costs $1,484.4m / 790 人 ≈ 人均 $1.88m (全员含 bonus 均值, 非新人薪资) [来源 (实际打开过): https://www.tradermath.org/salaries/jane-street]
 
-- **常见岗位名 (区分关键)**:
-  - **Software Engineer** (London): 通用 OCaml SWE, 包含 platform / trading systems / research infra — 不一定碰 strategy; 这是 SWE 路径主入口
-  - **Quantitative Trader / Trading**: 数学 + 心算主导, 非 SWE 路径
-  - **Quantitative Researcher**: ML/统计/PhD heavy
-  - **Strategy and Product**: 偏 business
-  - **Machine Learning**: ML 工程 / 应用
-  - 注: Jane Street 没有 "Quant Developer" 这个 title — SWE 直接对接 trader, 工程 + 业务深度高 [来源 (实际打开过): https://www.janestreet.com/join-jane-street/internships/]
-- **欧洲地点**: London (**唯一欧洲办公室**); 其他全球 NY / Hong Kong / Singapore
-- **是否有独立 Graduate Programme**: **没有"品牌化 grad scheme"** (区别于 Citadel/HRT 的 named programme); 全职 New Grad 直接走 "Software Engineer, London" open role 投递 → 入职后等同其他 SWE; 实习转正是主要 pipeline (intern → return offer FT)
-- **实习项目细分 (London 可投)**:
-  - **Software Engineering Internship** (10-12 周, May-Sep, **London / NY / HK 都开**): 主流路径; 全公司 SWE intern Levels.fyi 显示时薪 **$144.23/hr ≈ $4,800/周** (NY 基准, London 按地理 15-25% 折扣估 £3,500-£4,500/周 + 公司报销 housing) [来源 (实际打开过): https://www.levels.fyi/internships/Jane-Street/Software-Engineer-Intern/]
-  - **Quantitative Trading Internship** (London 可投)
-  - **JSIP (Jane Street Immersion Program)**: **仅 NYC**, 不在 London! Mid-June - Mid-August, 一二年级本科 + 多元背景, $12,500 scholarship + 包 housing/travel/meals, 2026 cycle 截止 2026-02-08 — 这是品牌混淆点, JSIP ≠ 普通 SWE intern [来源 (实际打开过): https://www.janestreet.com/join-jane-street/programs-and-events/jsip/]
-- **非EU签证 (全职)**: **Sponsor 积极** — Jane Street UK 在 worksponsors.co.uk 列入 active Skilled Worker license; L1 SWE 全职 base ≈ **£175-234K** (远超 2026 SOC 2136 going rate £55K 阈值 + Skilled Worker 全国阈值 £41,700, 完全无障碍); intern 是 Tier 5 GAE / Student visa work, FT 转 Skilled Worker 是标准操作
-- **薪资结构 (London, gross/年)**:
-  - **Intern (SWE)**: $144.23/hr (≈ £113/hr 当前汇率) 全球统一基准, London 实际可能略低; 11-12 周累计 ~$60-70k stipend + corporate housing + 报销机票; quant/trading intern 周薪 $4.5-6k+ [来源 (实际打开过): https://www.levels.fyi/internships/Jane-Street/Software-Engineer-Intern/]
-  - **全职 New Grad SWE (London L1)**: **TC ~£245K = $327K** (Levels.fyi 直读); base $234K + bonus $91.1K + stock $1.8K (Jane Street 是私人公司, "stock" 是名义数字 / 实质为 phantom equity) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/jane-street/salaries/software-engineer/locations/london-metro-area]
-  - **Quant Trader / Researcher New Grad**: TC 跨度 £300K-£500K+ (eFinancialCareers 报道 partner-level 达 £14m, "UK average pay £808k per head" — 这是 partner 拉高的均值)
-  - **奖金主导**: base 占 TC ~70%, 剩余是 discretionary year-end bonus; 公司私人, 无 RSU 上市抛售路径
-- **申请窗口**: SWE intern + FT rolling, 但 fall recruiting (Sep-Nov) 是最佳窗口; JSIP 2026 截 2026-02-08
-- **面试流程差异 vs 实习**: 实习面试 ~3 轮 (HR + 1-2 tech), FT ~5-6 轮 (HR + 2-3 tech + final 多人 + culture/judgment); 都包含 **mental math 50q/8min** + probability puzzles + OCaml/任意语言 coding; **可以用任意语言面 — 官方明确"不建议第一次试 OCaml"** [来源 (搜索结果): https://www.janestreet.com/preparing-for-a-software-engineering-interview/]
-- **录取竞争**: London ~30-60 SWE FT 每年 (按 41 technologist 净增量推断); intern → FT return offer 命中高 (Jane Street 严重依赖 intern pipeline)
-- **关键链接**:
-  - 官方 careers (实际打开过): https://www.janestreet.com/join-jane-street/
-  - Internships 页 (实际打开过, 列 London/NY/HK + 10-12 周): https://www.janestreet.com/join-jane-street/internships/
-  - JSIP 页 (实际打开过, NY-only, $12.5k scholarship): https://www.janestreet.com/join-jane-street/programs-and-events/jsip/
-  - Open Roles 入口: https://www.janestreet.com/join-jane-street/open-roles/
-  - Preparing for SE Interview (实际打开过, 不强制 OCaml): https://www.janestreet.com/preparing-for-a-software-engineering-interview/
-  - Levels.fyi SWE London (实际打开过, L1 TC $327K = £245K): https://www.levels.fyi/en-gb/companies/jane-street/salaries/software-engineer/locations/london-metro-area
-  - Levels.fyi SWE Intern (实际打开过, $144.23/hr): https://www.levels.fyi/internships/Jane-Street/Software-Engineer-Intern/
+- **岗位名称** (官方 JSON, 2026-10-10, London "Full-Time: New Grad" 共 8 个): Software Engineer (8647260002) / Quantitative Trader (8576270002) / Quantitative Researcher (8600948002) / Machine Learning Researcher / Hardware Engineer (FPGA/ASIC) / Linux Engineer / Cybersecurity Engineer / Trading Desk Operations Engineer; 无品牌化 grad scheme, 无 "Quant Developer" title [来源 (实际打开过): https://www.janestreet.com/join-jane-street/position/8647260002/]
+- **资格窗口**: 职位页未写毕业窗口 / 学位门槛 / 经验上限; 均要求 "Fluent in English"; SWE 不要求 OCaml / finance 背景; QT 不要求特定编程语言; QR 需熟悉 Python, "PhD or other research experience is a plus"
+- **欧洲地点**: London (唯一有在招岗位的欧洲 office); Amsterdam 有实体 (官方 culture 页列出 Amsterdam; Jane Street Netherlands B.V.), 但 jobs JSON 中 0 个 Amsterdam 岗位 (旧版: "London 唯一欧洲办公室", 2026-05) [来源 (实际打开过): https://www.janestreet.com/culture/overview/]
+- **项目结构**: 无固定 rotation / cohort 规模公开; QT 新人参加 "year-long firmwide educational curriculum", 数周至数月内上手 trading
+- **非EU签证 (全职)**: UK — Jane Street Europe Limited 持 Worker (A rating) license (Skilled Worker + GBM Senior or Specialist Worker), Home Office 注册表 2026-10-09 版 [来源 (实际打开过): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; Skilled Worker 一般门槛 £41,700, L1 base £175K 远超 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; NL — Jane Street Netherlands B.V. 在 IND recognised sponsor 名单 (KvK 69767491, 名单 2026-10-05 更新) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], 但无 Amsterdam 岗位 → NL zoekjaar / reduced Kennismigrant 目前用不上, 实际路径 = UK Skilled Worker
+- **薪资范围 (gross/年)**:
+  - SWE London L1 (0 年经验): TC £244K = base £175K + bonus £66.6K + stock £1.8K; L3 £182K; median £242K, 160 数据点 (Levels.fyi, 2026-10) (旧版: TC ~£245K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/jane-street/salaries/software-engineer/locations/london-metro-area]
+  - QT / QR London: 无公开 London 数据; NYC 官方 posted base: New Grad SWE / QT / QR 均 $300,000 (jobs JSON, 2026-10), 仅作锚点 (旧版: QT/QR TC £300K-£500K+, 2026-05, 无来源, 未能核实)
+- **申请窗口**: 全年滚动, 无 deadline; 2027 cycle 自 2026-08-03 开放; 官方 "reviewed on a rolling basis", "hear back from us within a week" [来源 (实际打开过): https://www.janestreet.com/join-jane-street/interviewing/]
+- **面试流程差异 vs 实习**: 官方: 可用任意语言, 不需会 OCaml; QT 重 collaborative problem solving; QR = trading + SWE 面试混合; QuantBlueprint 2026: phone screen (概率 + mental math) → (可选) math/probability test → 2-3 轮 onsite → final, 共 4-5 轮, 4-8 周; 无正式 timed mental-math OA (旧版: "50q/8min mental math", 2026-05, 未证实, 疑与 Optiver 混淆) [来源 (实际打开过): https://www.quantblueprint.com/guides/how-to-get-a-job-at-jane-street]; Glassdoor 2026 London 面经 (摘要, 页面 403): 2026-07 QT 递归 / 期望值题; 2026-02 3 轮概率 / 博弈 → onsite trading game + coding + data science + behavioural [来源 (搜索结果): https://clear.glassdoor.nl/Interview/Jane-Street-Interview-E255549-RVW101130499.htm]
+- **录取竞争**: 极高; intern → FT return offer 是主 pipeline; London 年招人数无公开数据 (旧版按 headcount 推断 ~30-60 SWE)
+- **Intern (次要)**: London Summer Internship 14 个岗 (June-September, 含 SWE / QT / QR / ML); NYC intern posted base $300,000 年化; JSIP 仅 NYC [来源 (实际打开过): https://www.janestreet.com/join-jane-street/internships/]
 
 ---
 

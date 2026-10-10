@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](arm.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > Arm Holdings (软银控股,2023 NASDAQ IPO) 是全球 IP 半导体核心,几乎所有 ARM 架构 SoC 的根源都在剑桥 Fulbourn Road 总部。Arm 是英国"硬科技"实习的旗舰品牌,**placement 文化极成熟**,有完整 3 / 6 / 12 个月 + 两年 Part-time Undergraduate Programme,Chinese / Indian 学生历史招聘量大。
 
 ## 1. 公司速览
@@ -18,54 +20,21 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Arm Graduate Programme 全球 650+ grad / 21 location / 11 country 公开, Levels.fyi Grade 2-6 分级 2026-05 实时数据齐全, 中英印社区面经丰富)
-> 区别于实习: 全职 entry-level (0-2 年经验); Arm 有命名的 **Graduate Program** [来源 (实际打开过): https://careers.arm.com/graduates], 跨 software engineering / microchip design / IP 多 function
+> 核查日期: 2026-10-10 (实时 WebFetch + careers.arm.com 搜索接口) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 FAQ + 3 个含薪资职位页 + Levels.fyi 2026-10 直读; 2026 H2 新闻未核查)
+> **2027 Intake 状态**: **欧洲 Open / UK Upcoming** — 官方 FAQ: Europe & Israel 申请 2026-09 开放, UK interns/graduates 2026-10 开放 (2026-10-10 时 UK 尚无 graduate 岗上线), rolling 先到先审 [来源 (实际打开过): https://careers.arm.com/emerging-talent-faq]; UK 为 2 年制项目, 每年 9 月入职 (推断 2027-09 入职) [来源 (实际打开过): https://careers.arm.com/arm-united-kingdom]
+> ⚠️ **待 web 验证**: 2026 H2 新闻 (layoff / 重组 / 自研芯片) 本轮因 WebSearch 配额用尽未核查; 二次核实前勿据此判断招聘规模.
 
-- **常见岗位名**: Graduate Engineer (general)、Graduate Engineer - CPU Implementation (硬件)、Graduate Software Engineer、Graduate ML Engineer、Graduate Architecture Engineer; 招聘页明确按 "Graduate" 命名独立 req
-- **欧洲地点**: 总部 **Cambridge UK (Peterhouse Tech Park / Fulbourn Road)** — 最大 Graduate cohort 入口; 其他 UK: **Manchester、Sheffield、Belfast、Warwick**; 欧洲: **Sophia Antipolis (法国)、Lund (Sweden) 、Trondheim (Norway)**; 全球 21 个 location 11 个 country [来源 (实际打开过): https://careers.arm.com/graduates]; Graduate cohort 大部分在 UK
-- **是否有独立 Graduate Programme**: **Yes — Arm Graduate Program (全球 650+ graduates)**
-  - 跨 software engineering / microchip design / IP 多 function
-  - **学历**: Bachelor / Master / PhD 均接受 ("all degree types") [来源 (实际打开过): 同上]
-  - 多个 track: **Software (Compilers / OS / Tools)、Silicon (CPU Implementation / GPU / SoC)、Machine Learning、Architecture、Research、System Performance (含 AI/ML / 计算机视觉 / 媒体 / 游戏 workload 分析)**
-  - cohort 集中 onboarding (通常 9 月入职 next September); Bright Network 公示 2026 Graduate SWE Cambridge 仍在招 [来源 (搜索结果): https://www.brightnetwork.co.uk/graduate-jobs/arm/graduate-software-engineer-cambridge-2026]
-  - 满 program 后默认 convert 为 Engineer; 大量 Intern → Graduate → Engineer 通道
-  - **薪资 review 频率: 每年 2 次** [来源 (实际打开过): https://careers.arm.com/graduates]
-- **非EU签证 (全职) — 2026 重大政策变化**:
-  - **UK Skilled Worker Visa 2026 新阈值**: 一般门槛 **£41,700** (从 £38,700 上调, 2025-07 起); Software Developer 行业 going rate **£49,400** [来源 (搜索结果): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]
-  - **Graduate / new entrant 低门槛**: **£33,400** (年轻 / 应届 / Student switcher), Arm Graduate Cambridge base £42K 安全达标 new entrant 通道
-  - Arm UK 是持牌 sponsor, **Graduate role 会 sponsor Skilled Worker** (业内最积极的硬科技公司之一)
-  - **Graduate Visa (PSW)**: UK 毕业生 2 年 (PhD 3 年), Arm 大量接受 PSW candidate 后转 Skilled Worker
-  - **High Potential Individual (HPI) Visa**: Top 50 全球大学 5 年内毕业可申请 2 年 (PhD 3 年), Arm 接受
-  - 实习多用 Student Visa, 全职 sponsor 常规操作 — Arm 是 UK **国际学生 sponsor 最友好的硬科技公司之一**, 历史招大量中国 / 印度 candidate
-- **薪资范围 (Levels.fyi 2026-05 数据, Greater Cambridge Area)**:
-  - **Grade 2 (Graduate Engineer entry)**: TC 中位 **£52,622**, base ~$61,488 (~£48K) + stock $12,319 + 0 bonus, 区间 £41.7K-£68.5K+ [来源 (实际打开过): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-2/locations/greater-cambridge-area]
-  - **Grade 3 (Engineer)**: TC 中位 **£74,064**, 区间 £61.8K-£88.2K+ [来源 (搜索结果): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-3/locations/greater-cambridge-area]
-  - **Grade 4 (Senior Engineer)**: TC 中位 **£110,962**, 区间 £89.4K-£130K+ [来源 (搜索结果): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-4/locations/greater-cambridge-area]
-  - **Grade 5 (Principal)**: TC 中位 **£158,279**, 区间 £120K-£222K+
-  - **Grade 6 (Distinguished)**: TC 中位 **£222,604**, 区间 £182K-£298K+
-  - **整体 Cambridge SWE**: TC 中位 £113K, 区间 £55.3K-£227K+ [来源 (搜索结果): https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-cambridge-area]
-  - 福利: RSU (Arm NASDAQ: ARM, 2024-2025 股价从 $50 涨到 $150+ 后 RSU 价值实化)、年度 bonus、pension 18% (业内极高)、健康保险、Arm Academy 培训、relocation budget
-  - 比 FAANG London (Google L3 ~£70k base + RSU) 低, 但 Cambridge 生活成本低 + WLB 极佳
-- **申请窗口**: **秋季 9-10 月开放** Rolling 评估 (先到先评), 通常 **12 月 - 次年 1 月趋势上招满**; 入职 9 月 (next September); apprenticeships 2026 早春开放 9 月入职
-- **面试流程差异 vs 实习**:
-  - 实习 4 轮 (OA → tech chat → tech panel → manager), Graduate **5-6 轮 + Final Day onsite assessment**
-  - **Final Day onsite** 含: 2 轮 tech panel + behavioural + 团队 fit (整天)
-  - System Design / 架构题在 Graduate 更深: SWE 考 compiler pass design / OS scheduler / cache coherence; Silicon 考 pipeline hazard + memory consistency + power 优化
-  - HireVue 录像 + 性格测试在 Graduate 流程仍保留
-  - 与 FAANG 不同: Arm 极少考 LeetCode hard, 偏重 systems / architecture / C++ 深度
-- **录取竞争**: Arm Graduate 录取率 ~5-10% (申请池 5000+/年), bar 中等偏低 (vs FAANG), 重深度 systems / hardware 知识; 国际生 friendliness **业内顶尖** — UK 硬科技 grad 国际生最佳入口; 转正率高
-- **关键链接**:
-  - **Arm Graduate Program (官方 2026)**: https://careers.arm.com/graduates
-  - Arm Graduate Job Listings: https://careers.arm.com/graduate-jobs
-  - Arm Graduate jobs by category: https://careers.arm.com/category/graduate-jobs/34601/8097056/1
-  - Arm UK Graduate & Intern Roles: https://careers.arm.com/arm-united-kingdom
-  - **Bright Network Arm Graduate SWE Cambridge 2026**: https://www.brightnetwork.co.uk/graduate-jobs/arm/graduate-software-engineer-cambridge-2026
-  - **Levels.fyi Arm Grade 2 Cambridge (2026-05)**: https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-2/locations/greater-cambridge-area
-  - Levels.fyi Arm Grade 3 Cambridge: https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-3/locations/greater-cambridge-area
-  - Levels.fyi Arm SWE All Levels Cambridge: https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-cambridge-area
-  - Glassdoor Arm Cambridge Graduate: https://www.glassdoor.com/Interview/ARM-Holdings-Graduate-Software-Engineer-Interview-Questions-EI_IE7834.0,12_KO13,39.htm
-  - **UK Skilled Worker 2026 阈值更新**: https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide
-  - 一亩三分地 Arm 面经汇总: https://www.1point3acres.com/interview/company/arm
+- **岗位名称**: 2026-10-10 在招 graduate 岗 7 个, 欧洲 5 个: Graduate Software Engineer (Munich) · Graduate Software Engineer、Graduate Engineer, System IP Engineering (Budapest) · Graduate Hardware Engineer、GPU Modelling Graduate Engineer (Trondheim); 另 Ra'anana、Austin 各 1 个; UK 0 个 [来源 (curl 直读): https://careers.arm.com/category/graduate-jobs/34601/8097056/1]
+- **资格窗口**: Bachelor's / Master's / PhD, 须 "hold, or be on track to complete, a degree by the start of your program"; 未写经验上限; 英语 (Budapest 岗明确要求) [来源 (实际打开过): https://careers.arm.com/graduates]
+- **欧洲地点**: UK (Cambridge / Manchester / Sheffield / Bristol, 2026-10 开) + Munich / Budapest / Trondheim (已开) + Sophia Antipolis / Galway (当前仅 intern); 官方规模 "650+ graduates over 21 locations in 11 countries" (注 "Data accurate as of July 2025")
+- **项目结构**: 2 年 Graduate Program, 入职即 permanent 员工, 结束后转正式 engineer; 薪资每年 review 2 次 [来源 (实际打开过): https://careers.arm.com/graduates]
+- **非EU签证 (全职)**: FAQ 原文 "If you don't currently hold the right to work in the UK, Arm is authorised to sponsor individuals"; Budapest / Trondheim 职位页: "Visa sponsorship support is also available for candidates who require it"; Munich 职位页未提 sponsorship. UK Skilled Worker 一般门槛 £41,700 [来源 (搜索结果): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; Munich 起薪 €64,500 高于 DE Blue Card 门槛 (推断可走 Blue Card). 列表中无 NL 岗 → 从 NL 学生签 / zoekjaar 出发须换国家 permit
+- **薪资 (官方职位页, 2026-10)**: Munich Graduate SWE 起薪 **€64,500** (区间 €54,800–€74,200) [来源 (实际打开过): https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704] · Trondheim Graduate HW: BSc NOK 695,000 / MSc NOK 715,000 (区间 NOK 609,300–824,300) [来源 (实际打开过): https://careers.arm.com/job/trondheim/graduate-hardware-engineer/33099/100604944128] · Budapest Graduate SWE 起薪 HUF 10,950,000 (区间 HUF 10,340,000–13,990,000) [来源 (实际打开过): https://careers.arm.com/job/budapest/graduate-software-engineer/33099/101386258448]
+- **薪资 (Levels.fyi Greater Cambridge, 2026-10)**: Grade 2 (graduate 入口) 平均 TC **£51,500** = base £45,446 + stock £5,943 + bonus £111, 区间 £42.4K–£57.2K+ (n=17, YOE 0–2) [来源 (实际打开过): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-2/locations/greater-cambridge-area] (旧版: TC 中位 £52,622, 2026-05); Grade 3 平均 TC £70.6K (n=10) [来源 (curl 直读): https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-cambridge-area]; Graduate Hardware Engineer 平均 TC £50.0K (n=8) [来源 (curl 直读): https://www.levels.fyi/companies/arm/salaries/hardware-engineer/locations/greater-cambridge-area]
+- **申请窗口**: 本 cycle: Europe 2026-09 开, UK 2026-10 开, 无统一 deadline ("first come/first served"); 已发布: Trondheim 2026-09-14, Budapest 2026-10-01, Munich 2026-10-09. 上一 cycle: UK 9-10 月开、12 月-1 月趋势招满 (旧版社区数据, 未复核)
+- **面试流程**: 官方 3 步: 申请 + profile review → initial interview (HireVue digital interview 或电话; 动机 / 思路 / problem-solving) → final interview (见团队与 leader) [来源 (实际打开过): https://careers.arm.com/emerging-talent-faq]; Trondheim 岗需附成绩单; 旧版 "5-6 轮 + Final Day" 为社区数据, 本轮未复核
+- **录取竞争**: 无官方录取率 (旧版 "~5-10%" 为社区估计, 未复核); 欧洲非 UK 岗每城仅 1-2 个 req, UK 10 月开放后名额最多
+- **关键链接**: Graduate Program (实际打开过): https://careers.arm.com/graduates · Emerging Talent FAQ (实际打开过): https://careers.arm.com/emerging-talent-faq · Arm UK early careers (实际打开过): https://careers.arm.com/arm-united-kingdom · Graduate 岗位列表 (curl 直读): https://careers.arm.com/category/graduate-jobs/34601/8097056/1 · Glassdoor 面经: https://www.glassdoor.com/Interview/ARM-Holdings-Graduate-Software-Engineer-Interview-Questions-EI_IE7834.0,12_KO13,39.htm
 
 ---
 

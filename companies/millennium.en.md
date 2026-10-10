@@ -2,6 +2,8 @@
 
 > **Language**: [中文](millennium.md) | English
 >
+> Updated: 2026-10-10
+>
 > World's largest multi-manager / pod-based HF, AUM ~$73bn. London is Millennium International main entity (Europe-Asia branch, 800+ employees). Pod-based means each PM has own team, hiring is highly decentralized — each pod's hiring pace / process / compensation is independent, **no unified Grad Programme**.
 
 ---
@@ -22,36 +24,21 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐ (pod-by-pod opaque)
+> Checked: 2026-10-10 (live WebFetch + ATS API) | Information richness: ⭐⭐⭐ (basis: official students page + full Eightfold job list + Levels.fyi UK figures; pod-level FT pay still opaque)
+> **2027 Intake status**: **No programme (no direct FT grad hiring)** — official: "It is our goal to hire our analyst class from our internship program"; 2027 Internship Program opened 2026-08-03, rolling until filled, max 2 applications per person [Source (verified opened): https://www.mlp.com/careers/students/]
+> 2026 H2: Hedgeweek 2026-10-02 — London average pay £671k (2025) vs £717k (2024), investment staff -31 / support staff +52 [Source (verified opened): https://hedgeweek.com/news/millennium-average-london-pay-falls-again-as-non-investment-headcount-grows]; per news headlines: record $20bn capital raise (2026-07-29) / Anthropic partnership on an AI risk analyst (2026-08-06) / planned Athens office (2026-09-09) [Source (search result): https://news.google.com/rss/search?q=Millennium+Management+hedge+fund+when:120d]
 
-- **Common role names (London-active)**:
-  - **Quantitative Developer** (pod-embedded, multiple pods independently hire)
-  - **Senior Platform Engineer** (central IT Infrastructure)
-  - **Corporate Technology Support Engineer** (Equity IT)
-  - **Quant Modeling Intern** (Summer cohort, limited)
-  - **Summer Quantitative Finance Internship** (~24-hr Jupyter take-home)
-  - Cubist (Point72 quant sub-unit) is **sibling comparison** — similarly pod-based but Cubist is Point72's internal systematic division, not an independent firm. Cubist KEPL elite team intern $25k/month (NYC, USD).
-- **European locations**: London (main); some corp / IT in other EU
-- **Independent Graduate Programme**: **No unified cohort programme** — each pod or central tech team hires separately. Stark contrast with G-Research / Man Group.
-- **Non-EU visa (full-time)**: UK Skilled Worker £41,700 / SOC 2134 ~£49,400. Quant Dev base usually £100k+ well above threshold. A-rated sponsor licence.
-- **Salary structure (pod-dependent, high variance)**:
-  - **Intern**: Summer Quant Modeling intern London estimate £6-10k/month (not officially disclosed, 1point3acres reports 24-hr Jupyter project + standard corporate housing)
-  - **Full-time Quant Developer (London)**:
-    - Junior: base £100-140k + bonus 30-100% (pod-dependent)
-    - Mid to senior: total £200-400k+ common
-    - Some senior Quant Dev reports ~£300k+ all-in stable for years [Source (search result): https://www.wallstreetoasis.com/forum/hedge-fund/quant-developer-in-a-pod-career-advice]
-    - Levels.fyi Lead SWE $500k top tier
-  - **Quant Researcher / PM**: $2m+ not few, but vast majority < $300-400k all-in [Source (search result): https://youngandcalculated.substack.com/p/the-detailed-and-honest-reality-of]
-- **Application window**: pod-by-pod rolling; Summer intern usually opens Sep-Nov; central Platform / IT year-round rolling.
-- **Interview process differences vs internship**: pod interview ad-hoc by PM, intern OA standardized (90 sec/question sequences / combinatorics); FT more in-depth (stochastic calculus, C++).
-- **Acceptance competition**: Joining easier than top firms (HRT/Jane Street), but pod may be dissolved within 1-2 years if P&L doesn't meet expectation.
-- **Key links**:
-  - [Millennium Careers](https://www.mlp.com/careers/)
-  - [career.mlp.com (actual portal)](https://career.mlp.com/careers)
-  - [Quant Blueprint Millennium guide](https://www.quantblueprint.com/interview-question-companies/millennium)
-  - [Quantt Millennium International page](https://www.quantt.co.uk/quant-firms/millennium-international)
-  - [Levels.fyi Millennium](https://www.levels.fyi/companies/millennium/salaries)
-  - [WSO Quant Dev London compensation](https://www.wallstreetoasis.com/company/millennium/compensation/quantitative-developer)
+- **Role names**: no "Graduate" FT role — on 2026-10-10 all 45 campus-site postings are internships (2027 + off-cycle); European roles among the 214 main-site postings generally require 3+/5+ years (e.g. Junior Business Analyst London asks 2-5 years sell-side) [Source (ATS API read via curl): https://mlp.eightfold.ai/careers?domain=mlp.com&microsite=campus-site]
+- **Eligibility**: FT analysts come from intern conversion; 2027 QD/QR Intern London requires "Graduating between December 2027 and July 2028" (BSc/MSc), QR asks for a 2:1 or above [Source (ATS API read via curl): https://mlp.eightfold.ai/careers/job/755957819517]
+- **European locations (2027 internships)**: London (QR / QD / Applied AI Engineer / Technology Collaboration / Trading Services / Market Risk etc., 14 types), Dublin (Applied AI / QR / Finance), Paris (QR), Zug (QR); no NL roles
+- **Programme structure**: London QR internship from 2027-06, 11 weeks; Paris QR from 2027-03, 6 months; Zug QR from 2027-06, 11 weeks; converts into a pod / central tech, no cohort rotation
+- **Non-EU visa (full-time)**: UK sponsor register (2026-10-09 version) lists Millennium Capital Management Limited and Millennium Europe Limited — Worker (A rating), Skilled Worker [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; threshold £41,700; no NL office → NL zoekjaar / reduced Kennismigrant do not apply, a new UK visa is needed (Tier B)
+- **Pay (Levels.fyi, 2026-10-10)**: UK SWE Entry £146K total = £116K base + £1.1K stock + £29.3K bonus; UK median £158K [Source (verified opened): https://www.levels.fyi/companies/millennium/salaries/software-engineer/locations/united-kingdom]; US Entry $224K ($177K base + $46.7K bonus) [Source (verified opened): https://www.levels.fyi/companies/millennium/salaries/software-engineer]
+  > ⚠️ **Pending web verification**: pod Quant Dev junior "base £100-140k + bonus 30-100%" is an older community estimate (no traceable source); do not use for pay decisions before re-checking.
+- **Application window**: 2026 cycle opened 2026-08-03, rolling; 2027 investment internship full by 2026-06 (~30 places) [Source (verified opened): https://www.hedgeweek.com/millenniums-2027-investment-internship-programme-at-capacity/]
+- **Interview process**: official Screening → Assessments (technical / non-technical) → technical + behavioral interviews [Source (verified opened): https://www.mlp.com/careers/students/]; community reports a 90 sec/question OA + 24-hr Jupyter take-home (see §3-4)
+- **Competition**: internships draw "thousands of applicants" with very low acceptance (Hedgeweek 2026-06-05); experienced FT roles are hired per pod, not aimed at new grads
+- **Key links**: official students page (verified opened) https://www.mlp.com/careers/students/ · careers home (verified opened) https://www.mlp.com/careers/ · Levels.fyi UK (verified opened) see above
 
 ---
 

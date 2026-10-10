@@ -70,7 +70,7 @@
   - **FT**: not specified, case-by-case consultation needed
 - **Intern vs FT sponsor differences**: significant — intern fully dependent on candidate's existing NL student visa / EU work rights; FT visa path not transparent
 - **Known sponsorship cases**: public data scarce; SDC Rotterdam Glassdoor has few expat reviews but no clear sponsor channel
-- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: SDC Rotterdam is NL legal entity (Swisscom DevOps Center B.V.), satisfies overseas hiring + ≥150km residence to apply
 
 ---
@@ -159,7 +159,7 @@
 ## 8. For UvA Students (NL Student Visa) — Specific Assessment ⭐⭐⭐ (Strong Recommendation)
 
 - **Intern feasibility**: **Zero friction (perfect fit)** — Swisscom Rotterdam intern officially requires "**studying or living in the Netherlands**" + "**last year HBO/University**" perfectly matches UvA master enrollment. Student visa 16h semester / 40h vacation covered, Nuffic convention completed, **company doesn't need to handle work permit**. **This is one of user's highest-priority interns**
-- **FT feasibility**: **Medium** — UvA master graduate goes through zoekjaar then applies FT, whether company sponsors Kennismigrant is **opaque**. But since user has gone through zoekjaar and is already in NL, doesn't need immediate visa conversion, can apply for reduced HSM (€2,801) within 1 year after joining during zoekjaar
+- **FT feasibility**: **Medium** — UvA master graduate goes through zoekjaar then applies FT, whether company sponsors Kennismigrant is **opaque**. But since user has gone through zoekjaar and is already in NL, doesn't need immediate visa conversion, can apply for reduced HSM (€3,122) within 1 year after joining during zoekjaar
 - **Estimated friction**:
   - Intern: **zero** (optimal)
   - FT (post-zoekjaar): low (reduced HSM)

@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](snowflake.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > 美国云数据仓库 / Data Cloud 大厂 (NYSE: SNOW). 欧洲工程实习集中在 **Berlin + Warsaw** 两个 R&D hub, London / Amsterdam / Dublin / Paris 主要是 GTM/Sales/Support, **几乎不开 SWE intern**. OA 用 HackerRank, 题目"比 FAANG 还硬" (DP + 系统类居多), 国际生 friendliness 中等 — Berlin / Warsaw 工程岗对 Blue Card sponsor 友好, 但 entry-level new grad headcount 少, 主路径仍是 intern → return offer.
 
 ---
@@ -25,40 +27,21 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐ (Berlin / Warsaw Levels.fyi 数据齐全, 但欧洲专门 Graduate Programme 几乎没有, 信息散落)
+> 核查日期: 2026-10-10 (Ashby API + Levels.fyi WebFetch; "原文直读" = curl 读取官方 API / 原文, 非 WebFetch) | 信息丰富度: ⭐⭐⭐ (依据: 在招 JD 直读 + Levels.fyi; 欧洲无 graduate programme)
+> **2027 Intake 状态**: **No programme (欧洲)** — 欧洲无 new grad / graduate programme; 2026-10-10 Ashby 在招 358 个, 欧洲工程 entry 入口 = **Software Engineer Intern - Berlin (2027)** (2026-09-29 发布, "Target start dates: February 2027 and onward") + intern → return offer; Berlin / Warsaw 普通 SWE req 多要求 2+ / 3+ / 4+ 年 [来源 (原文直读): https://api.ashbyhq.com/posting-api/job-board/snowflake]
+> **2026 H2 动态**: Q2 FY27 (2026-09-02) 营收 $1.55B +35%, FY27 product revenue 指引 $6,070M (+36%) [来源 (原文直读): https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm]; 2026-09-28 定价 $3.75B 可转债 [来源 (原文直读): https://www.sec.gov/Archives/edgar/data/1640147/000164014726000043/exhibit992-pricingpressrel.htm]; 未发现 layoff / hiring freeze 公告
 
-- **常见岗位名**: Software Engineer (entry, IC1)、Software Engineer Intern (Backend / AI-ML / Infra Automation / Engineering Systems / Document AI)、Research Intern (AI); 全职 entry-level 偶有但放在 general SWE req 里, 无 "Graduate Programme" 品牌
-- **欧洲地点 (工程)**: **Berlin** + **Warsaw**; London 工程主要 senior (Java Platform / Metadata IC4+), 不招 entry SWE
-- **是否有独立 Graduate Programme**: **No (欧洲)** — Snowflake 全球只有美国总部的 GenSWE (General Software Engineering Program) [来源 (实际打开过): https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram]; 欧洲走"intern → return offer"主路径, ~70-80% 强 intern 转正 [来源 (搜索结果): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]
-- **非EU签证 (全职)**:
-  - **Germany Blue Card (Berlin)**: 2025 阈值 ~€48,300/年 (普通) / €43,759 (短缺职业, IT 包含), Snowflake Berlin IC1 base €94.6K, 远超阈值, **明确 sponsor** (Berlin 办公室是 R&D hub, 大量国际员工)
-  - **Poland Blue Card / Type A 工作许可 (Warsaw)**: 阈值低 (~PLN 9,000/月 = €2,100), Snowflake Warsaw IC1 base ~PLN 200K+/年, **可 sponsor**
-  - **UK Skilled Worker (London)**: Snowflake UK 有 sponsor license (LinkedIn 全职 senior 岗写"sponsor available"), 但 London 不开 entry-level SWE, 实际利用率低
-  - **NL Kennismigrant (Amsterdam)**: Amsterdam 工程岗位极少, 主要 Commercial Solution Engineer, 不是国际生 SWE 路径
-  - **Ireland GE Permit (Dublin)**: 同 NL, Dublin 主 Cloud Support 岗, 非 SWE
-- **薪资范围 (base, gross/年)** (Levels.fyi 2026-05 更新):
-  - **Berlin IC1**: base **€94.6K**, RSU **€43.8K/年** (4年 vest, 25%/年), bonus €4.7K → **TC ~€143K** [来源 (实际打开过): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region]
-  - **Berlin IC2**: base **€117K**, RSU **€75K/年**, bonus €11.4K → **TC ~€203K**
-  - **Warsaw IC1**: base **~PLN 200K** (~$46.5K), RSU ~$15.5K/年, bonus ~$5.9K → **TC ~$68K** [来源 (实际打开过): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/warsaw-metropolitan-area]
-  - **London / Amsterdam / Dublin / Paris IC1**: **Levels.fyi 无数据点** (因为这些办公室基本不招 entry SWE)
-  - 福利: RSU 是大头 (上市公司, NYSE 流动性好), Berlin/Warsaw 还有 Edenred 餐券 / 健康保险 / 公司股票 ESPP 15% 折扣
-- **申请窗口**:
-  - 实习 (Berlin/Warsaw): **每年 9-11 月开放次年 summer**, fall intern 9-10 月开放, "early application 拿优势" (US 9-10 月 rolling 与欧洲同步) [来源 (搜索结果): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]
-  - 全职: Rolling 全年, 主要 H1/H2 各 1 波
-- **面试流程差异 vs 实习**:
-  - 实习: HackerRank OA (3 题 90-120 分钟) + 2-3 轮技术 (主要 coding)
-  - 全职 entry: 同 OA + 4 轮 (2 coding + 1 system design + 1 BQ), Snowflake **"system design 是 IC1+ 必考"** (intern 偶有), 偏 database internals 而非纯 LeetCode
-  - 全 panel 4 stages, **2-4 周走完** [来源 (搜索结果): https://www.glassdoor.com/Interview/Snowflake-Berlin-Interview-Questions-EI_IE928471.0,9_IC2622109.htm]
-- **录取竞争**: Acceptance rate ~6-8% (interns + new grads), 比 FAANG 略难, OA 砍人凶 [来源 (搜索结果): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]; intern 转正受 **team headcount 限制** (无 floating pool), Glassdoor 多条 review 抱怨 "贡献再多, team 没 headcount 就拿不到 return"
-- **关键链接**:
-  - 官方 University Recruiting: https://careers.snowflake.com/us/en/university
-  - GenSWE Program (US only): https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram
-  - Berlin 办公室页: https://careers.snowflake.com/us/en/berlin-germany
-  - Warsaw 办公室页: https://careers.snowflake.com/us/en/warsaw-poland
-  - Levels.fyi Berlin SWE: https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region
-  - Levels.fyi Warsaw SWE: https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/warsaw-metropolitan-area
-  - Levels.fyi Intern (全球): https://www.levels.fyi/internships/Snowflake/Software-Engineer-Intern/
-  - Internship FAQ: https://careers.snowflake.com/us/en/blogarticle/snowflake-internship-faqs
+- **岗位名称**: 无 "Graduate Programme" 品牌; GenSWE 仅美国 [来源 (实际打开过): https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram]。欧洲 2026-10-10 在招 non-senior SWE: Berlin "Software Engineer - Java Platform" (2026-09-25, 只写 "BS in Computer Science or equivalent experience", 无年限) [来源 (原文直读): https://jobs.ashbyhq.com/snowflake/23c94498-23c8-4d6e-a1d8-4355bf605663]; Berlin Dynamic Tables (2+ 年), Warsaw Software Engineer (3+ 年) / SnowCommand (2+ 年) / Applied AI (3+ 年) / AI Team (4+ 年) → 应届可投的全职 req 仅 Java Platform (推断)
+- **资格窗口**: Berlin intern (2027): 实习期间须在读 (本科 3 年级起至 MSc / PhD), 4 个月起 / 推荐 6 个月 / 最长 12 个月, C++ 或 Java, 英语 [来源 (原文直读): https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8]; 毕业后全职依赖 return offer (JD: "Clear pathways for post-internship career opportunities, including full-time roles")
+- **欧洲地点**: 工程 = Berlin (Potsdamer Platz, "The official language for this office is English", "actively hiring software engineers from Europe and around the world") + Warsaw; London / Amsterdam / Paris 只有 GTM (Amsterdam: SDR / Solution Engineer / AE; London: Associate Solution Engineer 2026-09-22 发布, SDR Intern)
+- **项目结构**: 无 cohort, 全职按普通 IC1 req 招; intern 另有 Software Engineer Intern - Berlin (2026) (2026-06-02, 仍挂) 与 Warsaw Security intern
+- **非EU签证 (全职)**: DE Blue Card 2026: €50,700 一般 / €45,934.20 短缺职业或毕业 3 年内 [来源 (实际打开过): https://service.berlin.de/dienstleistung/324659/en/] — Berlin IC1 base 远超; NL: Snowflake Computing Netherlands B.V. (KvK 73059277) 在 IND recognised sponsor 名单 (2026-10-05 版) [来源 (原文直读): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], 但 Amsterdam 无工程岗, zoekjaar 对 Snowflake 工程路径无直接帮助
+- ⚠️ **待 web 验证**: Poland (Warsaw) Blue Card / work permit 2026 门槛本轮未核实 (旧版 "~PLN 9,000/月"); 二次核实前勿用于 visa 决策
+- **薪资范围 (Levels.fyi, 2026-10-10)**: Berlin IC1 €125K = base €82.6K + stock €38.2K + bonus €4.1K; IC2 €176K (base €102K) [来源 (实际打开过): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region] (旧版: IC1 ~€143K / IC2 ~€203K, 2026-05); Warsaw IC1 PLN 256K = base PLN 176K + stock PLN 58.3K + bonus PLN 22.3K; IC2 PLN 345K [来源 (实际打开过): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/warsaw-metropolitan-area] (旧版: IC1 ~$68K); RSU 4 年 vest
+- **申请窗口**: Berlin intern (2027) 2026-09-29 发布, 无截止日 (rolling); 全职 rolling, 无固定窗口
+- **面试流程差异 vs 实习**: 旧版 (未重新核实): HackerRank OA 3 题 90-120 min → 2 coding → system design (全职 IC1+ 必考, 偏 database internals) → BQ; 全程约 2-4 周; intern 通常无 system design; OA 建议用 Java / C++
+- **录取竞争**: intern 转正受 team headcount 限制; 旧版 "acceptance ~6-8%" 仅来自搜索结果 [来源 (搜索结果): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]
+- **关键链接**: [University Recruiting: https://careers.snowflake.com/us/en/university] · [Ashby 职位板 (原文直读): https://jobs.ashbyhq.com/snowflake] · [Levels.fyi Berlin (实际打开过): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region]
 
 ---
 

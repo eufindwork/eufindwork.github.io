@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](openai.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 一句话定位: ChatGPT / GPT / Sora / Codex 系列闭源 LLM 商业领军, 2026 加速欧洲扩张 (~900 hires 2026-27 公开 reports). 与 Anthropic 不同, **OpenAI 有正式 internship + Residency**, 是欧洲非EU学生进入 frontier lab 最实际的入口之一 (尤其 London / Dublin).
 
 ---
@@ -22,39 +22,20 @@
 
 ## New Grad / Junior 岗位
 
-> OpenAI 是少数还在做命名 Emerging Talent / Residency 的 frontier lab. 这是非EU学生进入 frontier 的稀缺入口.
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Ashby API) | 信息丰富度: ⭐⭐⭐ (依据: Ashby 全量 posting 解析 + Levels.fyi UK 直读; openai.com 对 WebFetch 返回 403)
+> **2027 Intake 状态**: **Europe: No programme; US: Open** — 唯一 early-career posting = "Software Engineer, Applied Emerging Talent (2027)", **仅 San Francisco**, 2026-09-14 发布, 未写截止日, base $180K + equity, "0-1 years of experience", BSc/MSc [来源 (实际打开过): https://www.choppingblock.ai/jobs/software-engineer-applied-emerging-talent-2027-at-openai]; 2026-10-10 Ashby 815 个 posting 中欧洲 0 个 new grad / intern / residency (Ashby API curl 全量解析: https://api.ashbyhq.com/posting-api/job-board/openai)
+> **2026 H2 动态**: 2026-08-19 CFO Friar 对员工称 OpenAI "will be a public company in 2027" or sooner [来源 (搜索结果): https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html]; 截至 2026-04 无裁员、持续扩招 [来源 (实际打开过): https://jobsbyculture.com/blog/openai-layoffs-2026]; 未见 2026 H2 hiring freeze 报道 (搜索非穷尽)
 
-- **常见岗位名**: Software Engineer, New Grad / Applied Engineering Emerging Talent; Research Engineer (Residency / Junior)
-- **欧洲地点**: London 为主 (intern + new grad 都开过), Dublin commercial 类, Munich 工程也开但需 German, Paris 偏 GTM
-- **是否有独立 Graduate Programme**:
-  - **Emerging Talent Program** 包括 internships + co-ops + new grad full-time [来源 (实际打开过): https://openai.com/careers/emerging-talent/]
-  - **OpenAI Residency** — 6 个月 → 全职转正路径 (SF base, 非欧洲) [来源: https://openai.com/residency/]
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker**: Blind 帖确认 OpenAI 在 UK 发 sponsor [来源 (实际打开过): https://www.teamblind.com/post/does-openai-sponsor-h1b-visa-4o3ha6vf]; 2026 £41,700 阈值 SWE base 安全达标
-  - **Ireland CSEP** (Dublin): €38k 阈值, OpenAI Dublin 远超
-  - **DE Blue Card** (Munich): 但 Munich 工程岗实际要求 German B2+ — 国际生避坑
-  - **FR Passeport Talent** (Paris): 2 × SMIC (~€41,930), OpenAI Paris 商业岗达标
-- **薪资范围**:
-  - **Intern**: 数据有限. 业内估 SF SWE intern $50/hr+ (~$100K annualized); London/Dublin 折算估 £55-75/hr
-  - **Full-time SWE London**: **Levels.fyi 实测 UK median £390,787 TC** (range £391K-£894K+) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/openai/salaries/software-engineer/locations/united-kingdom]; 与 SF L4 median $640K / L5 $818K 同档, 因 UK 个税重实际净更低
-  - **New Grad SWE (L2)**: SF L2 median $245K-$265K [https://www.levels.fyi/companies/openai/salaries/software-engineer/levels/l2]; London 折算 ~£200K-£250K TC (base £130K-£170K + PPU)
-- **申请窗口**:
-  - **Fall 2026 intern**: 2026 年初已开始 surveying (job posted in early 2026, applications rolling)
-  - **Spring / Summer intern**: 通常前一年 Q3-Q4 开
-  - **New grad full-time**: rolling, 通常秋季 cohort
-- **面试流程差异 vs senior**:
-  - Intern / new grad 更偏 coding (45-60 min × 2-3), 较少 deep system design
-  - Senior 加 system design + project deep-dive + values
-  - Take-home 48hr 项目对 intern 常见 [来源 (实际打开过): https://www.tryexponent.com/guides/openai-software-engineer-interview]
-- **录取竞争 / 国际生 friendliness**:
-  - 极高 — Glassdoor 33% positive, 难度 3.2/5; 6-8 轮 spread over 数周 [来源 (实际打开过): https://www.glassdoor.com/Interview/OpenAI-Software-Engineer-Interview-Questions-EI_IE2210885.htm]
-  - 国际生 friendliness: **London/Dublin 高 (sponsor 路径熟练), Munich 极低 (German B2+ 硬卡)**
-- **关键链接**:
-  - Emerging Talent: https://openai.com/careers/emerging-talent/
-  - Careers search: https://openai.com/careers/search/
-  - Residency: https://openai.com/residency/
-  - Ashby job board (实时 reqs): https://jobs.ashbyhq.com/openai/
-  - Interview Guide 官方: https://openai.com/interview-guide/
+- **岗位名称**: Software Engineer, Applied Emerging Talent (2027) (SF); OpenAI Residency 2026 cohort (SF, 6 个月, $18.3K/月, 已关闭) [来源 (实际打开过): https://opportunitydesk.org/2025/12/05/openai-residency-program-2026/], 2026-10-10 无 2027 Residency posting; 欧洲只能投常规 req (SWE / Applied AI Engineer / FDE / Researcher)
+- **资格窗口**: Emerging Talent: BSc/MSc CS 或同等经验, 0-1 年, JavaScript/React + Python; 欧洲常规 req: London SWE ChatGPT Infrastructure "4+ years", FDE London/Munich/Paris/Zurich "5+ years", Madrid FDE "6+ years". 语言: Munich/Paris/Madrid "Applied AI Engineer, Codex" 要求 "speak English and German/French/Spanish fluently"; Munich FDE JD 未列德语 (旧版: "Munich 工程岗 German B2+", 2026-05 — 实际仅客户岗写明)
+- **欧洲地点**: 77 个 posting 含欧洲地点 (按地点: London 34 / Dublin 19 / Paris 9 / Munich 9 / Madrid 2 / Stockholm 2 / Zurich 2 / Berlin 1); London = 工程 + 研究, Dublin = support / GTM / ops, Paris / Munich / Madrid = Applied AI / FDE / GTM, Zurich = research + FDE
+- **项目结构**: Emerging Talent = 全职直接入组 (Applied Engineering), 无 rotation; Residency = 6 个月, "Some Residents may be considered for full-time roles"
+- **非EU签证 (全职)**: **UK**: OpenAI UK Ltd 在官方 register = Worker (A rating), Skilled Worker + Global Business Mobility [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers — 2026-10-09 版 CSV 下载检索]; 门槛 £41,700 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; 欧洲 JD 写 "relocation assistance", 未写 sponsor 条款. **IE CSEP**: €40,904 / 12 个月内取得学历 €36,848 [来源 (实际打开过): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/] (旧版: €38k, 2026-05). **FR**: 非法国学位走 EU Blue Card €59,373 [来源 (实际打开过): https://www.service-public.gouv.fr/particuliers/vosdroits/F16922] (旧版: ~€41,930, 2026-05). **NL 学生签 / zoekjaar**: 无 NL 办公室, zoekjaar 不适用; 唯一 new grad 岗在 SF → 需美国工作签证 (本轮未核查)
+- **薪资范围 (gross/年)**: Emerging Talent (2027) SF base $180K + equity; London 官方 posting: SWE ChatGPT Infrastructure / Model Deployment £194K – £280K (4+ yrs), Researcher, Training £170K – £445K (Ashby API); **Levels.fyi UK SWE (2026-10-10)**: 中位 £279,000, 区间 £177,000 – £887,000+, L4 = £333,000 (base £161,000 + stock £172,000) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/openai/salaries/software-engineer/locations/united-kingdom] (旧版: 中位 £390,787, 2026-05); **Levels.fyi US**: L2 (entry) $249K (base $170K + stock $78.8K), L3 $346K; 股权标注 RSU, 4 年 vesting [来源 (实际打开过): https://www.levels.fyi/companies/openai/salaries/software-engineer] (旧版: L2 $245K-$265K, 股权写 PPU, 2026-05). 定级: BSc/MSc new grad → L2 (推断, 无官方 ladder 说明)
+- **申请窗口**: 2027 Emerging Talent 2026-09-14 开放 (SF, rolling); 上一 cycle "Software Engineer, Applied Emerging Talent (2026)" 同为 SF [来源 (搜索结果): https://jobs.khoslaventures.com/companies/openai/jobs/58781719-software-engineer-applied-emerging-talent-2026]; 欧洲 new grad: 无 cycle
+- **面试流程**: recruiter screen → 2 × 60 min technical → take-home (48hr) → virtual onsite 4-5 轮 (coding + system design + project deep dive + behavioral) → HC; 2 周-2 月 [来源 (实际打开过): https://igotanoffer.com/en/advice/openai-interview-process] (2026-05 核查); new grad 偏 coding、system design 较浅. 本轮未找到 2026 H2 new grad 面经 (WebSearch 配额用尽)
+- **录取竞争**: 极高 — 全球 815 个 posting 仅 1 个 early-career; Glassdoor SWE positive 33%, 难度 3.2/5 (2026-05 读数) [来源 (实际打开过): https://www.glassdoor.com/Interview/OpenAI-Software-Engineer-Interview-Questions-EI_IE2210885.htm]
+- **关键链接**: Emerging Talent https://openai.com/careers/emerging-talent/ (本轮 WebFetch 403) · Residency https://openai.com/residency/ (本轮 WebFetch 403) · Ashby https://jobs.ashbyhq.com/openai/ · Levels.fyi UK (见上)
 
 ---
 

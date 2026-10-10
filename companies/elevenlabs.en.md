@@ -3,7 +3,8 @@
 > **Language**: [中文](elevenlabs.md) | English
 >
 
-> Update: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — '$3.3B Series C' in the header (the 2026-09 employee tender valued it at $22B); the Voice AI Fellowship, E4/R5 pay and 'senior ML visa' claims cited in §1/§2/§5 no longer appear in the source article.
 > One-line positioning: globally leading voice AI / TTS / dubbing company, 2024-2025 Series C $3.3B+ valuation, **remote-first + three main hubs: London (Shoreditch) / NYC / Warsaw**. **Eleven Labs Ltd holds UK Skilled Worker license** [Source (verified opened): https://immigrationgpt.co.uk/company/Eleven-Labs-Ltd], but sponsor practice skews senior ML; intern / new grad path still evolving.
 
 ---
@@ -25,33 +26,21 @@
 
 ## New Grad / Junior Roles
 
-- **Common role names**: Software Engineer, ML Engineer, Forward Deployed Engineer, Voice AI Fellow (research)
-- **European locations**: London primary, Warsaw secondary; remote also open (but visa sponsorship mainly hub-based)
-- **Independent Graduate Programme**:
-  - **Voice AI Fellowship** (6 mo, MSc/PhD) — named entry research program [Source (verified opened): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]
-  - **SWE Internship** (12 wk) — named internship program
-  - No "Graduate Programme" cohort, new grad goes through SWE same pipeline
-- **Non-EU visa (full-time)**:
-  - **UK Skilled Worker**: Eleven Labs Ltd licensed sponsor [Source (verified opened): https://immigrationgpt.co.uk/company/Eleven-Labs-Ltd]
-  - 2026 threshold £41,700, ElevenLabs London SWE base £80K+ safely meets
-  - **⚠️ sponsor skews senior ML talent**: jobsbyculture writes "ElevenLabs provides Skilled-Worker visas for senior ML talent relocating to London" [Source (verified opened): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]; entry-level SWE sponsor cases few
-  - **Poland** (Warsaw): EU work permit standard, non-EU needs Type A work permit + residence card
-- **Salary range (Levels.fyi 2026)**:
-  - **SWE London Median TC**: **£98.7K - £109K+** (P50-P75) [Source (verified opened): https://www.levels.fyi/en-gb/companies/elevenlabs/salaries/software-engineer/locations/london-metro-area]
-  - **SWE global (Levels.fyi)**: £101K-£111K+ [Source (verified opened): https://www.levels.fyi/companies/elevenlabs/salaries/software-engineer]
-  - **Senior ML Engineer (E4)**: £90K-£110K base + ~0.05% equity + bonus [Source (verified opened): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]
-  - **Staff Research Scientist (R5)**: £120K-£140K base + 0.08% equity
-  - **Intern / Fellow stipend**: public data still lacking (2026-06 retry: ElevenLabs careers + Ashby still no stipend numbers listed; Research Engineer JD lists benefits incl. "annual discretionary stipend for L&D + social travel + co-working" but does not disclose numbers). Industry estimate SWE intern £5K-7K/month, Fellow similar (LLM frontier startups all in Anthropic SF $11K/month range). jobsbyculture.com aggregated ElevenLabs overall comp $140K-$290K range, median $128K [Source (verified opened): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]
-  - **Equity**: Series C $3.3B valuation, illiquid; 0.05-0.08% range for E4-R5
-- **Application window**: Rolling. Fellowship usually cohort-based (Spring / Fall)
-- **Interview process differences vs senior**: Intern / new grad goes through take-home + 1-2 onsite (3-4 weeks); senior adds system design + leadership + product decomp
-- **Selection competition / international student friendliness**:
-  - Medium-high — Glassdoor 50% positive, difficulty 2.5/5 [Source (verified opened): https://www.glassdoor.com/Interview/ElevenLabs-Software-Engineer-Interview-Questions-EI_IE9081894.0,10_KO11,28.htm]
-  - International student friendliness: London medium (sponsor skews senior); Warsaw friendlier (but EU priority)
-- **Key links**:
-  - Careers: https://elevenlabs.io/careers
-  - Ashby (real-time reqs): https://jobs.ashbyhq.com/elevenlabs/
-  - Compensation breakdown: https://jobsbyculture.com/blog/elevenlabs-compensation-2026
+> Checked: 2026-10-10 (live WebSearch + WebFetch + full Ashby API parse) | Info richness: ⭐⭐⭐ (basis: all 124 open JDs searched + Levels.fyi London + UK/NL sponsor registers; missing entry-level pay samples and 2026 new-grad interview reports)
+> **2027 Intake status**: **No programme (Rolling)** — no graduate / new grad / intern programme, no deadline; on 2026-10-10, 0 of 124 open Ashby roles have Intern / Graduate / Junior / Fellow in the title [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/elevenlabs ]
+> **2026 H2 news**: on 2026-09-30 announced a $300M employee tender offer at a $22B valuation (2026-02 Series D: $11B); 800+ employees, "almost 200 open positions across 53 locations"; no layoff / hiring-freeze reports found [Source (verified opened): https://www.digitalmusicnews.com/2026/09/30/elevenlabs-tender-offer/ ]
+
+- **Role names**: no grad level (JD wording: "We don't have job titles"); 8 European roles are open to new grads (JD sets no experience bar): 5 Full-Stack Engineer variants ("We do not require any formal experience, certifications, or degrees", judged on projects / GitHub; e.g. https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f ) + Forward Deployed Engineer - Software Engineer - United Kingdom (customer experience from "student clubs or side projects" is accepted; https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6 ) + Enterprise Solutions Engineer Sweden / Greece; Research Engineer roles also waive degrees but require production ML-serving experience
+- **Correction of previous version**: "Voice AI Fellowship (6 mo)" / "SWE Internship (12 wk)" / E4-R5 pay were all cited to jobsbyculture; the 2026-10-10 re-check of that article (published 2026-05-14) found none of it → treated as unverified, removed from this section [Source (verified opened): https://jobsbyculture.com/blog/elevenlabs-compensation-2026 ]
+- **Eligibility**: no degree / graduation-year / years-of-experience bar; judged on demonstrable work (projects / GitHub); working language English
+- **European locations**: remote-first; primary locations of open roles United Kingdom 24 + London 7, plus Sweden 7 / Germany 4 / Poland 3 etc.; 5 Full-Stack-type roles list Amsterdam / Netherlands as an option
+- **Programme structure**: no cohort / rotation / training period; you join a product team directly
+- **Non-EU visa (full-time)**: UK — Eleven Labs Ltd Skilled Worker A rating, added 2025-11-25, still listed 2026-10-09 [Source (verified opened): https://immigrationgpt.co.uk/company/Eleven-Labs-Ltd ], 2026 threshold £41,700; but none of the 124 JDs promises visa / relocation, so ask the recruiter per role; NL — no ElevenLabs entity on the IND recognised-sponsor register (2026-10-05 version) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work ], and Kennismigrant requires a recognised-sponsor employer [Source (verified opened): https://ind.nl/en/residence-permits/work/highly-skilled-migrant ] → even for roles listing Amsterdam, zoekjaar → Kennismigrant is currently not possible here (inferred)
+- **Pay (TC, gross/yr)**: Levels.fyi London SWE (updated 2026-10-10): median £158,759 (shown as £159K), average £180,870, highest £288,252; 13 SWE submissions company-wide, no 0-2 YOE samples [Source (verified opened): https://www.levels.fyi/en-gb/companies/elevenlabs/salaries/software-engineer/locations/london-metro-area ] (previous: £98.7K - £109K+, 2026-05); entry level: no public data (none of the 124 JDs discloses £ / € pay); equity is options, the 2026-09 tender priced at $22B
+- **Application window**: Rolling, no deadline; new European engineering roles still posted 2026-10-04 ~ 2026-10-09
+- **Interview process (no separate new-grad track)**: recruiter → timed CoderPad coding screen (~90 min, 2-3 medium questions) → behavioral (project deep-dive) → practical coding (customer scenario) → product decomposition (UI down to data model, no code); ~2-5 weeks [Source (verified opened): https://www.aced.io/guides/elevenlabs-software-engineer-interview ]
+- **Competition**: a third-party guide claims 225,988 applications / 322 hires in 2025 (~0.14%, no source given) [Source (verified opened): https://www.extern.com/post/elevenlabs-internship-guide ]; ⚠️ **Pending web verification** (Glassdoor not re-checked this round): old data 50% positive, difficulty 2.5/5 (2026-05)
+- **Key links**: Ashby openings https://jobs.ashbyhq.com/elevenlabs (JS-rendered; data read via the API above) · Careers https://elevenlabs.io/careers (not opened this round)
 
 ---
 

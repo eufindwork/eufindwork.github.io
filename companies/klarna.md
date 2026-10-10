@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](klarna.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > 范围：Software Engineer Intern、Machine Learning / Data Science Intern。Klarna 的核心工程团队仍在 Stockholm，其它办公室（柏林、伦敦、马德里、纽约）以业务/合规/商务为主。
 
 ---
@@ -25,47 +27,24 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Stockholm L1-L4 Levels.fyi 数据齐全, IPO 后 hc 信号明确, jointaro / Glassdoor 主要面经偏 mid/senior, 应届生独立面经仍较少)
-> 区别于实习: 全职 entry-level (0-2 年经验); Klarna 内部 leveling 是 **L1-L4 (Junior → Senior)** [来源 (实际打开过): https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm via 摘要]; 应届通常 L1/L2; 没有命名 graduate programme
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: Deel 职位板 + 官方 careers / press + Levels.fyi Stockholm + Migrationsverket)
+> **2027 Intake 状态**: **No programme** — careers 页无 graduate / internship / thesis / visa 内容, 仅链接 Deel 职位板 [来源 (实际打开过): https://www.klarna.com/careers/]; 2026-10-10 职位板 101 个职位 (Stockholm 34 / London 25 / Milan 15 / Warsaw 7 / Amsterdam 2; Engineering 32), 无 Graduate / Intern / Thesis / Junior 标题 [来源 (实际打开过): https://jobs.deel.com/job-boards/klarna]
+> **2026 H2 动态**: 2026-07-06 提交 U.S. banking license 申请 [来源 (搜索结果): https://www.klarna.com/international/press/klarna-submits-application-for-u-s-banking-license/]; 2026-08-18 Q2 业绩: revenue $1.042B (+27% YoY), net income $9M, 未披露 headcount [来源 (实际打开过): https://www.klarna.com/international/press/klarna-reports-second-quarter-2026-results/]; 同日公布 CFO / CMO 交接 (搜索结果); 2026-08-28 CEO 增持 $10M 股票 [来源 (搜索结果): https://www.klarna.com/international/press/klarna-ceo-sebastian-siemiatkowski-acquires-692-506-shares-for-10-million/]
 
-- **常见岗位名**: Software Engineer (L1 / L2)、Associate Engineer; **Klarna 官方 careers 页明确说没有专门 Graduate Programme 入口** [来源 (实际打开过): https://www.klarna.com/careers/] — 招聘按 10 个 "competence" 分轨, 应届与 1-2 年经验同一 req
-- **欧洲地点**: 工程核心 **Stockholm (Årsta HQ, 现 ~3,800 员工, 从 2022 5,000 峰值下来后稳住)** [来源 (实际打开过): https://kitalent.com/articles/article-stockholm-fintech-talent-split/]; Berlin / Madrid / London 多为商务 / 合规 / merchant ops, 工程 hc 极少; Junior SWE 几乎默认 Stockholm onsite/hybrid
-- **是否有独立 Graduate Programme**: **No** — Klarna 官方 careers 页明确无 graduate scheme; 论文实习 (Master Thesis Intern) → Associate / Junior Engineer 是最常见 new grad pipeline
-- **IPO + 招聘状态 (重大更新)**:
-  - **Klarna 2025-09 完成 US IPO**, 股价首日 +30%, 估值约 **$19.65B** [来源 (搜索结果): mlq.ai 摘要]
-  - 实际 IPO timeline: 2024 Q4 confidential SEC filing → 2025-09 上市 (与 KiTalent 文章描述的 "2026 listing" 略有出入, 以摘要 IPO 完成为准)
-  - **CEO Siemiatkowski 公开承认 AI 替代客服走过激**, 重启 customer service 招聘 (含 "Uber-style" remote agent pilot); 工程 hc 同步重启
-  - IPO 上市将触发 **800-1,000 Stockholm 员工股权 liquidity event**, 锁定到期后预计内部流动性大幅释放, 给外部 candidate 腾出 hc
-- **非EU签证 (全职)**:
-  - **Sweden Work Permit**: Klarna 是 Migrationsverket **certified employer (与 Spotify 同档)**, 处理周期 **2-4 周** vs 普通 1-3 个月 [来源 (实际打开过): https://www.eurotoptech.com/blog/visa-sponsorship-sweden-software-engineers-2026 via 摘要]; sponsor backend / payments / platform / data engineering
-  - **重要变化**: 2026-06-01 起 Sweden 工签薪资门槛上调到瑞典中位数 90% (~SEK 35,600/月+), Klarna L2+ 起薪通常达标但 L1 边缘
-  - **EU Blue Card (Sweden)**: 阈值 ~SEK 60,860/月 (2026, 中位数 1.5x), Klarna L3+ 起达标
-  - 与实习政策对比明显: 实习几乎不 sponsor, 全职 sponsor 是常规操作 + certified 快速通道
-- **薪资范围 (Levels.fyi 2026-05 数据)**:
-  - **Stockholm L1 (Junior)**: TC 起 SEK 489K/年 [来源 (搜索结果): https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm]
-  - **Stockholm L2 (Junior+)**: TC 中位 SEK 558,503, 区间 SEK 506K-620K+ [来源 (实际打开过): https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l2/locations/greater-stockholm]
-  - **Stockholm L3 (Engineer)**: TC 中位 SEK 712,361, 区间 SEK 632K-821K+ [来源 (搜索结果): https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l3/locations/greater-stockholm]
-  - **Stockholm L4 (Senior)**: TC 中位 SEK 831,790, 区间 SEK 728K-1.02M+ [来源 (搜索结果): https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l4/locations/greater-stockholm]
-  - **整体 Greater Stockholm SWE**: 中位 SEK 697K, 区间 SEK 489K-811K+
-  - 与 Spotify Stockholm Engineer I (中位 SEK 624K) 相比 Klarna L2 略低, L3 略高; **post-IPO 股票从 RSU 转为公开市场 (NYSE: KLAR), 流动性大幅改善** — 应届可拿到 sign-on + equity 组合
-- **申请窗口**: **Rolling 全年滚动**; 2025-09 IPO 后 hc 明确扩张, payments / risk / platform / GenAI 是 2026 招聘热点; **retention bonuses 平均 18-24 月 base salary** 给 critical 技术岗 → 反映 talent war 强度
-- **面试流程差异 vs 实习**:
-  - 实习 6-7 轮 (含 Kattis Logic Test), 全职 **同样保留 Kattis + 流程 6-8 轮**, take-home / 设计深度显著上升
-  - 全职 System Design 是必考 (实习偶有): payment 幂等 / outbox pattern / event-driven SAGA / Kafka consumer 一致性
-  - Bar Raiser round 在全职流程出现频率更高
-  - Krew values 行为面权重相同 (7 个 value 必问)
-  - DS / ML 全职会加一轮 ML deep-dive + 一轮 product sense
-- **录取竞争**: Klarna 通过率 ~29-31% (Glassdoor 综合), 平均流程 36 天; 国际生 friendliness 中等偏高 (certified sponsor + 上调薪资门槛后 L1 入门有压力); IPO 后偏好已有 fintech / 风控 / GenAI 背景; Master Thesis → Junior 通道仍是国际生最高 ROI 路径
-- **关键链接**:
-  - 官方 Careers: https://www.klarna.com/careers/
-  - Klarna Engineering Careers: https://www.klarna.com/careers/our-competences/engineering/
-  - Klarna Application Process: https://www.klarna.com/careers/tips-and-tricks/application-process/
-  - Levels.fyi Klarna Stockholm L2: https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l2/locations/greater-stockholm
-  - Levels.fyi Klarna Stockholm L3: https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l3/locations/greater-stockholm
-  - Levels.fyi Klarna Stockholm L4: https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l4/locations/greater-stockholm
-  - KiTalent Stockholm Fintech 2026: https://kitalent.com/articles/article-stockholm-fintech-talent-split/
-  - mlq.ai Klarna CEO admits AI cuts went too far (2025-09 IPO 后): https://mlq.ai/news/klarna-ceo-admits-aggressive-ai-job-cuts-went-too-far-starts-hiring-again-after-us-ipo/
-  - Euro Top Tech Sweden Visa Sponsorship 2026: https://www.eurotoptech.com/blog/visa-sponsorship-sweden-software-engineers-2026
+- **岗位名称**: 通用 **"Engineer"** 岗 (Stockholm, 2026-09-02 上架): 原文 "care more about what you've built than how long you've been building", 无年限 / 学历门槛 [来源 (实际打开过): https://jobs.deel.com/klarna/job-details/32e481e6-16ef-48c2-8849-bd3f76304530/overview]; 同名岗另有 Milan / Warsaw; 其余工程岗多为 Senior / Lead. Klarna 级别 L1-L4 (Levels.fyi 现标 L3 = Senior, L4 = Lead)
+- **资格窗口**: 无 graduate scheme / 毕业年份要求; CV 需英文; 旧 "Master Thesis → Junior" 通道: 2026-10-10 职位板无 thesis 岗, 官方 application-process 页已 404
+- **欧洲地点**: Stockholm (工程核心) / Milan / Warsaw (Engineer 岗) / London (Senior / Lead 为主); Amsterdam 仅 Business Development Associate 等商务岗; hybrid, "Most teams currently meet in the office 2–3 days per week"
+- **项目结构**: 无 cohort / rotation, 按岗位直接入职
+- **非EU签证 (全职)**: **Conditional** — 职位页未提 sponsorship / relocation
+  - Sweden 工签门槛 2026-06-01 起 = 中位数 90% = SEK 34,470/月, 软件开发 (SSYK 2512) 不豁免 [来源 (实际打开过): https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html] → L1 base SEK 497K/年 ≈ SEK 41,417/月 达标 (旧版: "~SEK 35,600/月, L1 边缘", 2026-05)
+  - EU Blue Card = 平均工资 1.25 倍 = SEK 53,625/月 (2026-07-15 起) [来源 (实际打开过): https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/eu-blue-cards.html] → L1 / L2 base 不够 (旧版: "~SEK 60,860/月, 中位数 1.5x", 2026-05 — 已更正)
+  - UK: Klarna Bank AB UK Branch = Skilled Worker A-rating sponsor (2026-10-09 登记册 CSV 核对); NL: Klarna B.V. 在 IND 登记册 (2026-10-05 版) 但 NL 无工程岗 → NL zoekjaar 基本不适用
+- **薪资范围 (gross/年)**: 职位板内嵌区间 (2026-10-10): Engineer Stockholm SEK 572,165–775,398 / Milan €43,256–58,620 / Warsaw PLN 337,470–554,315; Lead Engineer Stockholm SEK 798,970–1,183,345 [来源 (实际打开过): https://jobs.deel.com/job-boards/klarna]
+  - Levels.fyi Greater Stockholm (2026-10-10 更新, 312 条): **L1 TC SEK 505K (base 497K + stock 8.6K)**, L2 SEK 576K, L3 SEK 758K, L4 SEK 856K, median SEK 720K [来源 (实际打开过): https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm] (旧版 2026-05: L1 起 SEK 489K, L2 中位 SEK 558,503, L3 SEK 712,361, L4 SEK 831,790, median SEK 697K); 推断: 应届落 L1 / L2
+- **申请窗口**: Rolling; Engineer 岗 2026-09-02 上架, 2026-10-10 仍开放
+- **面试流程差异 vs 实习**: 往届 (jointaro 2023-25, 见 §3): Kattis Logic Test → recruiter → take-home / live coding → tech deep-dive (全职必考 system design) → Krew values → HM (+ bar raiser), 平均 36 天; 2025-26 新面经: 无公开数据 (Glassdoor 403)
+- **录取竞争**: 工程岗 32 / 101, 多为 Senior / Lead, entry 级仅 3 个 "Engineer" 岗 → 名额极少; 2025-09 NYSE: KLAR 上市后 RSU 可流通, 价值随股价波动
+- **关键链接**: careers https://www.klarna.com/careers/ (实际打开过) · Deel 职位板 (实际打开过, 见上) · Levels.fyi Stockholm (实际打开过, 见上)
 
 ---
 

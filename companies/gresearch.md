@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](gresearch.en.md)
 >
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头及 §2 的 'ML College' (官方页已不再出现).
 
 > 英国本土最大 quant HF, London Soho Place HQ. 招聘最 cohort 化的 quant 之一 — 有正式 Graduate Programme + Internship + Placement + ML College + 自研培训体系. SWE Grad 起薪在 London 量化里数一数二, Levels.fyi L1 median £188k total.
 
@@ -23,44 +25,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Programme 最透明)
+> 核查日期: 2026-10-10 (实时 WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 Graduates 页 + 2027 grad / intern posting + Levels.fyi London JSON 直读 + UK sponsor register 直查; 缺 QR grad 薪资数字与 2025-26 面经)
+> **2027 Intake 状态**: **Open (rolling, 无截止日)** — vacancies 页 (共 103 岗) 2026-10-10 有 2 个 grad 岗: **Graduate Machine Learning Engineer** (入职 Tuesday 31st August 2027) + **Quantitative Researcher – Postgraduate**; 官方: "We typically launch our graduate positions in August" [来源 (实际打开过): https://www.gresearch.com/vacancies/] [来源 (实际打开过): https://www.gresearch.com/students-graduates/graduates/]
+> 2026 H2 动态: 未发现 layoff / hiring freeze 报道; 最近一次裁员报道为 2024-01-19 (London 技术岗约 100 人, 新 tech 招聘部分转向 Dallas 办公室) [来源 (实际打开过): https://www.efinancialcareers.com/news/G-research-cut-jobs]
 
-- **常见岗位名**:
-  - **Software Engineering Internship** (10-12 周 summer, London)
-  - **Machine Learning Research Internship** (10 周, 2026-06-22 → 2026-08-28) [来源 (实际打开过): https://www.gresearch.com/vacancies/machine-learning-research-internship/]
-  - **Quantitative Researcher — Postgraduate** (Master's/PhD entry, FT grad) [来源 (实际打开过): https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/]
-  - **Technology Placement Year** (industrial year, 10-12 月)
-  - **Software Engineer** (FT, multiple sub-teams: Platform / Data / Full-Stack / Cyber / Infra)
-  - **Quant Analyst / Data Scientist / NLP Researcher / Machine Learning Researcher** (Quant Research stream)
-  - **Open-Source Evangelist** (TIG team)
-- **欧洲地点**: London (唯一)
-- **是否有独立 Graduate Programme**: **是** — 显式的 Graduates 入口 + 三大 stream (Quant Research / Engineering / Corporate); Graduate 岗位**通常 8 月开放申请** [来源 (实际打开过): https://www.gresearch.com/students-graduates/graduates/]
-- **非EU签证 (全职)**: UK Skilled Worker 2026 £41,700 / SOC 2134 ~£49,400. G-Research SWE Grad base 通常 £80-110k+ 远超阈值. A-rated sponsor.
-- **薪资结构**:
-  - **Intern (10 周 ML Research Internship summer 2026)**: "Competitive" (官方未公开数字), community 报告 £6-8k/月; corporate housing 协助 + 通勤补助
-  - **全职 New Grad SWE**:
-    - Levels.fyi L1 SWE London: base **$134k** + bonus **$117k**, total **median £188k** (£73-189k+ range) [来源 (实际打开过): https://www.levels.fyi/companies/g-research/salaries/software-engineer/locations/london-metro-area]
-    - Glassdoor SWE London avg £100k base (50-114k range, 不含 bonus) [来源 (实际打开过): https://www.glassdoor.com/Salary/G-Research-Software-Engineer-London-Salaries-EJI_IE297747.0,10_KO11,28_IL.29,35_IM1035.htm]
-    - 公开 community 估算 grad SWE Y1: base £80-100k + bonus 50-80% = total £120-180k+
-  - **Quant Researcher Postgraduate**: "高竞争力" 薪酬 + 年度 discretionary bonus + 9% pension contrib + 35 days leave + ML College access
-- **申请窗口**:
-  - **Graduate positions**: 通常 **August 开放**
-  - **SWE Internship 2026**: 30 March → 18 Sept 或 29 June → 18 Sept (双 cohort)
-  - **ML Research Internship 2026**: 22 June → 28 Aug (10 周)
-- **面试流程差异 vs 实习**:
-  - **Quant Research**: 4 stages (1-2 周): Application → Quant aptitude test → Technical interviews → Final with functional lead
-  - **Engineering Internship**: 3 stages: Application → Skills test → Assessment centre
-  - **SWE FT Grad**: Technical test → Assessment centre → Mentor interviews (4× 1h, 含 1h math 深度)
-- **录取竞争**: 申请量大 (top UK quant employer), accept rate community 估 < 3%. ML College 后顶 intern 转 FT 比例最高.
-- **关键链接**:
-  - [G-Research Careers 总览](https://www.gresearch.com/careers/)
-  - [Students & Graduates 入口](https://www.gresearch.com/students-graduates/)
-  - [Graduates page](https://www.gresearch.com/students-graduates/graduates/)
-  - [Vacancies 全岗位](https://www.gresearch.com/vacancies/)
-  - [Quant Researcher Postgrad listing](https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/)
-  - [SWE Internship listing](https://www.gresearch.com/vacancies/software-engineering-internship/)
-  - [ML Research Intern listing](https://www.gresearch.com/vacancies/machine-learning-research-internship/)
-  - [Levels.fyi London SWE](https://www.levels.fyi/companies/g-research/salaries/software-engineer/locations/london-metro-area)
+- **岗位名称**: Graduate Machine Learning Engineer (Technical ML 团队) / Quantitative Researcher – Postgraduate; 2026-10-10 vacancies 页**无通用 Graduate Software Engineer 岗** (SWE 应届主要靠 intern 转正, 推断); Placement 仅 HR Placement Year (旧版: Technology Placement Year)
+- **资格窗口**: Grad MLE = 在读 undergraduate / master's / PhD (ML 或相关), Python + PyTorch + NumPy [来源 (实际打开过): https://www.gresearch.com/vacancies/graduate-machine-learning-engineer/]; QR Postgraduate = 已有或在读 Masters / PhD (数学 / 统计 / CS / 物理 / 工程), 不需金融经验 [来源 (实际打开过): https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/]
+- **欧洲地点**: London (One Soho Place) 唯一; 另有 US Dallas 办公室
+- **项目结构**: Grad MLE 2027-08-31 统一入职; QR Postgraduate posting 未写入职日期; 官方 Graduates 页有 intern 结束拿 grad offer 的案例; 旧版提到的 "ML College" 在 2026-10 官方 Graduates 页 / posting 中未出现 (存疑)
+- **非EU签证 (全职)**: G-Research 是 Alastair LLP (OC451515) 的 trading name [来源 (实际打开过): https://www.gresearch.com/terms/]; Alastair LLP 在 register 上为 A-rated Skilled Worker sponsor (2026-10-09) [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; posting 写明 relocation + "Immigration support" (外部顾问全程); Skilled Worker 门槛 £41,700, grad 薪资远超; NL zoekjaar 不适用, 需 UK Skilled Worker CoS
+- **薪资 (gross/年, 无 equity)**:
+  - **SWE London (Levels.fyi, 2026-10-10)**: median 套餐 = L1, 0 YOE, 2025-10 offer: base £100K + bonus £87.6K = TC £187.8K (首年 £220K); UK 分布 n=47: base median £99.2K (p25 £83.3K / p75 £122.0K), bonus median £34.6K, 平均 TC £137.9K [来源 (实际打开过): https://www.levels.fyi/companies/g-research/salaries/software-engineer/locations/london-metro-area] (旧版: "base $134k + bonus $117k, median £188k" — 同一数据点, 已更正 USD / GBP 混写)
+  - Glassdoor SWE London 平均 base £100k (旧版 2026-05 实际打开过) [来源 (实际打开过): https://www.glassdoor.com/Salary/G-Research-Software-Engineer-London-Salaries-EJI_IE297747.0,10_KO11,28_IL.29,35_IM1035.htm]
+  - **QR / Grad MLE**: 官方仅写 "Highly competitive compensation plus annual discretionary bonus" + 9% pension + 35 天年假 (MLE posting 正文写 30 天); 无公开数字
+- **申请窗口**: grad 岗通常 8 月上线; 2027 Grad MLE + QR Postgraduate 2026-10-10 在招, posting 无截止日 (rolling); 上一 cycle 精确 open / close 日期无公开数据
+- **面试流程**: QR Postgraduate: Online Application (1 周内回复) → Online Quant Quiz → Technical Interviews (通常 4 × 1h 数学, 或 2 × 1h ML) → Leadership Interviews; Grad MLE: Application → Technical Interview 或 remote test → Behavioural → Further Technical → Management Interviews; 2025-26 面经未能核实 (Glassdoor 403)
+- **录取竞争**: ⚠️ **待 web 验证**: 旧版社区估 accept rate < 3% 无来源; 2026-10-10 grad 岗仅 2 个方向 (推断名额有限)
+- **关键链接**: SWE Internship 2027 (实际打开过): https://www.gresearch.com/vacancies/software-engineering-intern/
 
 ---
 

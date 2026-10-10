@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](stripe.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐
 > 一句话定位: Collison 兄弟创立, payments + AI infra, **Dublin 是真 eng hub** (不是 ops), CSEP Trusted Partner (2–4 周 visa), Europe 区薪资标杆 (L1 €131k → L4 €436k).
 
@@ -19,24 +19,30 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**: Software Engineer (New Grad / L1), Site Reliability Engineer, ML Engineer, Data Engineer; **Apprenticeship Programme** (Dublin, 给无传统计算机本科背景)
-- **欧洲地点**: Dublin (主), London (主), 偶有 remote within EU
-- **是否有独立 Graduate Programme**: 没有 "rotation programme", New Grad SWE 直接进具体 team; **Apprenticeship** 是独立产品
-- **非EU签证 (全职)**: **Ireland CSEP Trusted Partner** (2–4 周快速通道), salary threshold €40,904/年 (2026-03-01 起) — Stripe Dublin base 远超门槛; UK Skilled Worker £41,700 持牌
-- **薪资范围 (Levels.fyi Dublin)**:
-  - **L1**: median total €131,185 (base €70,884 + RSU €33,260 + bonus €12,086)
-  - **L2**: median total €167,115 (base €93,978 + RSU €41,437)
-  - **L3**: median total **€238,209**
-  - **L4**: median total **$436,667** (~€400k+)
-  - [来源 (实际打开过): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/greater-dublin-area] (updated 2026-03-31)
-- **申请窗口**: New Grad 主要 fall (8–11 月) + spring (1–3 月) 两批
-- **面试流程差异 vs 实习**: New Grad 5 轮 (含 system design); intern 3–4 轮 (无 system design)
-- **录取竞争 / 国际生 friendliness**: ⭐⭐⭐⭐⭐ Trusted Partner + Dublin eng heavy, Glassdoor Dublin 评分 3.7/5
-- **关键链接**:
-  - [Stripe Jobs University (实际打开过): https://stripe.com/jobs/university]
-  - [Stripe Jobs full board: https://stripe.com/jobs]
-  - [TCD SCSS Stripe internship page (实际打开过): https://www.tcd.ie/scss/courses/undergraduate/internships-for-students/internship-roles/stripe/]
-  - [Levels.fyi Dublin (实际打开过): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/greater-dublin-area]
+> 核查日期: 2026-10-10 (实时 Greenhouse API + WebFetch) | 信息丰富度: ⭐⭐⭐⭐⭐ (依据: Greenhouse 全量 728 岗实抓 + Levels.fyi Dublin / London 分级直读 + gov.uk 登记册 + DETE CSEP 页)
+> **2027 Intake 状态**: **Open (rolling)** — "Software Engineer, New Grad" Dublin / London / Bucharest + "New Grad - Frontend" Barcelona 均于 2026-08-31 首发; 学位须 "obtained by summer 2027", 且 "no more than 18 months of professional experience (excluding internship experience)"; 无截止日期, JD 未写入职月 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/stripe/jobs/8130881]
+> 2026 动态: 2026-02-24 年度信 + 员工 tender offer, 估值 $159B (€135B) [来源 (实际打开过): https://stripe.com/newsroom/news/stripe-2025-update]; H2 宣布收购 OpenRouter (2026-08-19) 与 Parafin (2026-09-30) [来源 (实际打开过): https://stripe.com/newsroom/news]; newsroom 未见 2026 layoff 公告; New Grad JD 新增 "Ability to leverage AI tools to accelerate development" 要求
+
+- **岗位名称 (欧洲, 2026-10-10 在招)** [来源 (curl 实抓 Greenhouse API, 2026-10-10): https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true]:
+  - Software Engineer, New Grad — Dublin: https://stripe.com/jobs/search?gh_jid=8130881 · London: https://stripe.com/jobs/search?gh_jid=8130930 · Bucharest: https://stripe.com/jobs/search?gh_jid=8130922
+  - Software Engineer, New Grad - Frontend — Barcelona: https://stripe.com/jobs/search?gh_jid=8130927
+  - Security Engineer, New Grad — Dublin (2026-10-07 首发; JD 写 "graduating by Summer 2026", 疑似沿用旧文案): https://stripe.com/jobs/search?gh_jid=8257892
+  - 非工程: Junior Commercial Associate — Works in Progress (London, 每天到办公室). "Software Engineer, Early Career — Immediate Start" 只在 US / Toronto; 欧洲无在招 apprenticeship (旧版: Dublin Apprenticeship)
+- **资格窗口**: BSc / MSc (CS 或直接相关, 或同等工作经验), summer 2027 前取得学位, 全职经验 ≤ 18 个月 (实习不计); JD 无语言要求
+- **欧洲地点**: Dublin (2025-10-09 启用新 HQ) / London / Bucharest / Barcelona (frontend)
+- **项目结构**: 无 rotation, 直接入组; 官方: "For full-time positions and apprenticeships, we hire continuously" (无固定 cohort) [来源 (实际打开过): https://stripe.com/jobs/university]
+- **非EU签证 (全职)**:
+  - IE: CSEP 门槛 €40,904 (Critical Skills 岗位), **申请前 12 个月内毕业者 €36,848**, 其他岗位 €68,911 [来源 (实际打开过): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]; Stripe 为 CSEP Trusted Partner (旧版 2026-05 核查, 本次未重核) [来源 (实际打开过): https://www.eurotoptech.com/blog/visa-sponsorship-ireland-software-engineers-2026]
+  - UK: "Stripe Payments UK Ltd" — Worker (A rating), Skilled Worker + GBM (登记册 2026-10-09 版, CSV 下载 grep 核查) [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; London L1 base 远超 £41,700
+  - Bucharest / Barcelona: JD 未提 sponsor, 无公开数据. NL zoekjaar 对 IE / UK 无作用, 需新办 CSEP / Skilled Worker
+- **薪资范围 (Levels.fyi, 2026-10-10)**:
+  - Dublin: L1 (0–1 年经验) TC €111K = base €68.9K + stock €29.2K + bonus €12.8K; L2 €167K (base €109K + stock €47.6K + bonus €10.7K); L3 €252K; L4 €372K; median €165K [来源 (实际打开过): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/greater-dublin-area] (旧版 2026-03-31: L1 €131,185 / L2 €167,115 / L3 €238,209 / L4 $436,667)
+  - London: L1 TC £97.2K = base £70.9K + stock £23K + bonus £3.4K; L2 £155K; L3 £198K; median £167K [来源 (实际打开过): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/london-metro-area]
+  - BSc / MSc new grad 均入 L1 (推断: Levels.fyi L1 = 0–1 年; MSc 直入 L2 无公开数据)
+- **申请窗口**: 2027 cycle 欧洲 New Grad 自 2026-08-31 开放, rolling, 无截止 (旧版: fall 8–11 月 + spring 1–3 月两批, 未重核); 建议尽早投 (推断)
+- **面试流程差异 vs 实习**: New Grad 5 轮 (含 system design), intern 3–4 轮 (无 system design) — 旧版信息, 本次未重核
+- **录取竞争**: Glassdoor Dublin 评分 3.7/5 (旧版); 欧洲 4 城同时开, Dublin / London 竞争最激烈 (推断)
+- **关键链接**: Stripe University (实际打开过): https://stripe.com/jobs/university · Stripe 全部职位: https://stripe.com/jobs
 
 ---
 

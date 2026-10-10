@@ -2,7 +2,7 @@
 
 > **Language**: [中文](openai.md) | English
 >
-> Last updated: 2026-05-31
+> Updated: 2026-10-10
 > One-liner positioning: ChatGPT / GPT / Sora / Codex series closed-source LLM commercial leader, 2026 accelerating European expansion (~900 hires 2026-27 publicly reported). Unlike Anthropic, **OpenAI has a formal internship + Residency**, making it one of the most practical entry points for non-EU students into a frontier lab in Europe (especially London / Dublin).
 
 ---
@@ -22,39 +22,20 @@
 
 ## New Grad / Junior Roles
 
-> OpenAI is one of the few frontier labs still using named Emerging Talent / Residency programs. This is a scarce entry point for non-EU students into frontier.
+> Checked: 2026-10-10 (live WebSearch + WebFetch + Ashby API) | Information richness: ⭐⭐⭐ (basis: full Ashby posting parse + Levels.fyi UK read directly; openai.com returns 403 to WebFetch)
+> **2027 intake status**: **Europe: No programme; US: Open** — the only early-career posting = "Software Engineer, Applied Emerging Talent (2027)", **San Francisco only**, posted 2026-09-14, no deadline stated, base $180K + equity, "0-1 years of experience", BSc/MSc [Source (verified opened): https://www.choppingblock.ai/jobs/software-engineer-applied-emerging-talent-2027-at-openai]; on 2026-10-10, 0 European new grad / intern / residency postings among 815 on Ashby (full Ashby API parse via curl: https://api.ashbyhq.com/posting-api/job-board/openai)
+> **2026 H2 news**: 2026-08-19 CFO Friar told employees OpenAI "will be a public company in 2027" or sooner [Source (search result): https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html]; no layoffs and continued hiring as of 2026-04 [Source (verified opened): https://jobsbyculture.com/blog/openai-layoffs-2026]; no 2026 H2 hiring-freeze reports found (search not exhaustive)
 
-- **Common role names**: Software Engineer, New Grad / Applied Engineering Emerging Talent; Research Engineer (Residency / Junior)
-- **European locations**: London primarily (intern + new grad both opened), Dublin commercial type, Munich engineering also opens but needs German, Paris leans GTM
-- **Whether there is a standalone Graduate Programme**:
-  - **Emerging Talent Program** includes internships + co-ops + new grad full-time [Source (verified opened): https://openai.com/careers/emerging-talent/]
-  - **OpenAI Residency** — 6 months → full-time conversion path (SF base, not Europe) [Source: https://openai.com/residency/]
-- **Non-EU visa (full-time)**:
-  - **UK Skilled Worker**: Blind post confirms OpenAI issues sponsor in UK [Source (verified opened): https://www.teamblind.com/post/does-openai-sponsor-h1b-visa-4o3ha6vf]; 2026 £41,700 threshold SWE base safely meets
-  - **Ireland CSEP** (Dublin): €38k threshold, OpenAI Dublin far exceeds
-  - **DE Blue Card** (Munich): but Munich engineering role actually requires German B2+ — international students avoid trap
-  - **FR Passeport Talent** (Paris): 2 × SMIC (~€41,930), OpenAI Paris commercial roles meet
-- **Salary range**:
-  - **Intern**: limited data. Industry estimate SF SWE intern $50/hr+ (~$100K annualized); London/Dublin converted estimate £55-75/hr
-  - **Full-time SWE London**: **Levels.fyi confirmed UK median £390,787 TC** (range £391K-£894K+) [Source (verified opened): https://www.levels.fyi/en-gb/companies/openai/salaries/software-engineer/locations/united-kingdom]; same tier as SF L4 median $640K / L5 $818K, but UK net lower due to higher income tax
-  - **New Grad SWE (L2)**: SF L2 median $245K-$265K [https://www.levels.fyi/companies/openai/salaries/software-engineer/levels/l2]; London converted ~£200K-£250K TC (base £130K-£170K + PPU)
-- **Application window**:
-  - **Fall 2026 intern**: surveying started in early 2026 (job posted in early 2026, applications rolling)
-  - **Spring / Summer intern**: usually opens Q3-Q4 of prior year
-  - **New grad full-time**: rolling, usually fall cohort
-- **Interview process differences vs senior**:
-  - Intern / new grad more coding-heavy (45-60 min × 2-3), less deep system design
-  - Senior adds system design + project deep-dive + values
-  - Take-home 48hr project common for intern [Source (verified opened): https://www.tryexponent.com/guides/openai-software-engineer-interview]
-- **Admission competition / international student friendliness**:
-  - extremely high — Glassdoor 33% positive, difficulty 3.2/5; 6-8 rounds spread over several weeks [Source (verified opened): https://www.glassdoor.com/Interview/OpenAI-Software-Engineer-Interview-Questions-EI_IE2210885.htm]
-  - International student friendliness: **London/Dublin high (sponsor path well-practised), Munich extremely low (German B2+ hard block)**
-- **Key links**:
-  - Emerging Talent: https://openai.com/careers/emerging-talent/
-  - Careers search: https://openai.com/careers/search/
-  - Residency: https://openai.com/residency/
-  - Ashby job board (live reqs): https://jobs.ashbyhq.com/openai/
-  - Official Interview Guide: https://openai.com/interview-guide/
+- **Role names**: Software Engineer, Applied Emerging Talent (2027) (SF); OpenAI Residency 2026 cohort (SF, 6 months, $18.3K/month, closed) [Source (verified opened): https://opportunitydesk.org/2025/12/05/openai-residency-program-2026/], no 2027 Residency posting on 2026-10-10; in Europe only regular reqs (SWE / Applied AI Engineer / FDE / Researcher)
+- **Eligibility**: Emerging Talent: BSc/MSc CS or equivalent experience, 0-1 years, JavaScript/React + Python; European regular reqs: London SWE ChatGPT Infrastructure "4+ years", FDE London/Munich/Paris/Zurich "5+ years", Madrid FDE "6+ years". Language: Munich/Paris/Madrid "Applied AI Engineer, Codex" require "speak English and German/French/Spanish fluently"; Munich FDE JD lists no German (previous: "Munich engineering German B2+", 2026-05 — in fact only customer-facing roles state it)
+- **European locations**: 77 postings include a European location (by location: London 34 / Dublin 19 / Paris 9 / Munich 9 / Madrid 2 / Stockholm 2 / Zurich 2 / Berlin 1); London = engineering + research, Dublin = support / GTM / ops, Paris / Munich / Madrid = Applied AI / FDE / GTM, Zurich = research + FDE
+- **Programme structure**: Emerging Talent = full-time, placed directly in a team (Applied Engineering), no rotation; Residency = 6 months, "Some Residents may be considered for full-time roles"
+- **Non-EU visa (full-time)**: **UK**: OpenAI UK Ltd on the official register = Worker (A rating), Skilled Worker + Global Business Mobility [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers — 2026-10-09 CSV downloaded and searched]; threshold £41,700 [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; European JDs mention "relocation assistance", no sponsorship clause. **IE CSEP**: €40,904 / €36,848 if qualification obtained within 12 months [Source (verified opened): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/] (previous: €38k, 2026-05). **FR**: non-French degrees use EU Blue Card €59,373 [Source (verified opened): https://www.service-public.gouv.fr/particuliers/vosdroits/F16922] (previous: ~€41,930, 2026-05). **NL student visa / zoekjaar**: no NL office, zoekjaar does not apply; the only new-grad role is in SF → needs a US work visa (not checked this round)
+- **Pay range (gross/year)**: Emerging Talent (2027) SF base $180K + equity; London official postings: SWE ChatGPT Infrastructure / Model Deployment £194K – £280K (4+ yrs), Researcher, Training £170K – £445K (Ashby API); **Levels.fyi UK SWE (2026-10-10)**: median £279,000, range £177,000 – £887,000+, L4 = £333,000 (base £161,000 + stock £172,000) [Source (verified opened): https://www.levels.fyi/en-gb/companies/openai/salaries/software-engineer/locations/united-kingdom] (previous: median £390,787, 2026-05); **Levels.fyi US**: L2 (entry) $249K (base $170K + stock $78.8K), L3 $346K; equity labelled RSU, 4-year vesting [Source (verified opened): https://www.levels.fyi/companies/openai/salaries/software-engineer] (previous: L2 $245K-$265K, equity listed as PPU, 2026-05). Levelling: BSc/MSc new grad → L2 (inferred, no official ladder statement)
+- **Application window**: 2027 Emerging Talent open since 2026-09-14 (SF, rolling); previous cycle "Software Engineer, Applied Emerging Talent (2026)" was also SF [Source (search result): https://jobs.khoslaventures.com/companies/openai/jobs/58781719-software-engineer-applied-emerging-talent-2026]; European new grad: no cycle
+- **Interview process**: recruiter screen → 2 × 60 min technical → take-home (48hr) → virtual onsite 4-5 rounds (coding + system design + project deep dive + behavioral) → HC; 2 weeks-2 months [Source (verified opened): https://igotanoffer.com/en/advice/openai-interview-process] (checked 2026-05); new grad is coding-heavy with lighter system design. No 2026 H2 new-grad reports found this round (WebSearch quota exhausted)
+- **Competition**: extremely high — only 1 early-career posting among 815 globally; Glassdoor SWE 33% positive, difficulty 3.2/5 (2026-05 reading) [Source (verified opened): https://www.glassdoor.com/Interview/OpenAI-Software-Engineer-Interview-Questions-EI_IE2210885.htm]
+- **Key links**: Emerging Talent https://openai.com/careers/emerging-talent/ (WebFetch 403 this round) · Residency https://openai.com/residency/ (WebFetch 403 this round) · Ashby https://jobs.ashbyhq.com/openai/ · Levels.fyi UK (see above)
 
 ---
 

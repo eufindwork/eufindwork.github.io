@@ -115,7 +115,7 @@
 
 ## 8. For UvA Students (NL Student Visa) — Specific Assessment ⭐
 
-- **Core trade-off**: already holding NL student visa → choosing Aiven means **giving up NL zoekjaar (€2,801 reduced HSM)**, switching to DE Blue Card (Berlin) or Finland Blue Card (Helsinki)
+- **Core trade-off**: already holding NL student visa → choosing Aiven means **giving up NL zoekjaar (€3,122 reduced HSM)**, switching to DE Blue Card (Berlin) or Finland Blue Card (Helsinki)
 - **Intern feasibility**: ❌ **almost infeasible** — no formal intern program, thesis worker defaults to requiring local work permit, cross-Europe intern not sponsored
 - **FT feasibility**:
   - **Berlin SRE/Backend → high** — DE Blue Card shortage occupation €45,934, JD explicit guaranteed; Aiven SRE starting salary should cover

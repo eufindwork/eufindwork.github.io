@@ -129,7 +129,7 @@
 
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
-- **核心 trade-off**: 已在 NL 持学生签 → 选 Supercell 意味着 **放弃 NL zoekjaar (€2,801 reduced HSM)**, 换 Finland Blue Card / specialist permit
+- **核心 trade-off**: 已在 NL 持学生签 → 选 Supercell 意味着 **放弃 NL zoekjaar (€3,122 reduced HSM)**, 换 Finland Blue Card / specialist permit
 - **Intern 可行性**:
   - **非 EU → 低-中** — Supercell 明文 EU/ETA 优先; 除非你是 "truly exceptional" (ACM/IOI 金/顶 OSS), 否则别投
   - 推荐策略: 若你符合 "truly exceptional" 信号 → 强化 cover letter + 投 Data Engineer Intern (2026 deadline 已过, 等 2027 cohort)

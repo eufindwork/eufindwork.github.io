@@ -59,7 +59,7 @@
 - **已知 sponsorship 案例**: 
   - workwithvisa.com 收录 Miro
   - Miro 历史 Perm (Russia) office 大量俄罗斯工程师 relocate 至 Amsterdam (2022 后)
-- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: SWE I base €115K 完全满足, 海外招聘 + 居住 ≥150km 可申. **2024 起 5 年阶梯下调** (30%→27%→20%→15%)
 
 ---
@@ -131,7 +131,7 @@
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
 - **Intern 可行性**: **低** — 无公开 intern 通道; 即使能拿 stage, 公司 layoff 期招聘缓慢. 学生签技术上 cover, 但价值有限
-- **FT 可行性**: **零摩擦 (技术) / 中 (风险)** — UvA master 毕业走 zoekjaar 后申 SWE I, base €115K 远超 reduced HSM €2,801, 也大幅超标准 HSM. 公司 IND sponsor, 流程成熟. **但 layoff 风险需要评估**
+- **FT 可行性**: **零摩擦 (技术) / 中 (风险)** — UvA master 毕业走 zoekjaar 后申 SWE I, base €115K 远超 reduced HSM €3,122, 也大幅超标准 HSM. 公司 IND sponsor, 流程成熟. **但 layoff 风险需要评估**
 - **预计摩擦**:
   - Intern: 高 (无通道)
   - FT: 低 (技术上零摩擦, 但要 weigh layoff 风险)

@@ -2,7 +2,7 @@
 
 > **Language**: [中文](huggingface.md) | English
 >
-> Updated: 2026-09-26
+> Updated: 2026-10-10
 >
 > Global open-source ML community hub, dual French-American HQ (Paris + NYC), almost all roles support remote. Hiring **heavily values open source contribution** — visible contributions on GitHub PR/HF Hub weigh more than traditional CV. Internship stipend is high for Europe (€35K/year gross = €2.9K/month).
 
@@ -25,33 +25,20 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐ (Levels.fyi Paris median 2026-05-27 measured, Workable + Indeed has measured remote full-time roles; HF still has **no formal new grad programme**, junior-specific data sparse)
-> Distinct from internship: full-time entry-level (0-2 years experience) — HF doesn't tag "junior", goes directly through ML Engineer / Software Engineer / Research Engineer at the lowest level
+> Checked: 2026-10-10 (live WebSearch + WebFetch; Workable API / IND / UK registers downloaded in full and checked) | Information richness: ⭐⭐⭐ (basis: every open Workable posting + Levels.fyi Paris + SEC 8-K; junior-specific data still sparse)
+> **2027 intake status**: **No programme** — no new grad / graduate programme; on 2026-10-10 Workable lists only 6 full-time roles and 0 intern / junior / new grad roles [Source (verified opened): https://apply.workable.com/api/v1/widget/accounts/huggingface]
+> **2026 H2 news**: NVIDIA signed a definitive agreement on 2026-09-02 to acquire Hugging Face (NVIDIA blog states $12,930,300,000; ~$11.9B to stockholders + up to ~$1.0B equity retention for employees), expected to close in 2027 H1 subject to regulatory approvals [Source (verified opened): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm] [Source (verified opened): https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/]; inferred: weak headcount-growth signal until closing, HF equity handled per deal terms
 
-- **Common role names**: ML Engineer, Software Engineer, Research Engineer (Open Source / Hub / Science), Cloud ML DevRel Engineer, Backend Engineer; **no explicit "Junior" / "Graduate" / "L3" title** — all called "Engineer", internally leveled by experience [Source (search result): https://startup.jobs/company/hugging-face]
-- **European locations**: Paris (main, same as internship) + Remote EMEA (most roles open remote, 2026 Cloud ML DevRel "EMEA Remote" is a public case [Source (search result): https://www.indeed.com/q-hugging-face-l-remote-jobs.html]); London / Berlin / Amsterdam etc. local engineers signed via contractor
-- **Whether there is a standalone Graduate Programme**: **No** — HF is a ~350 person OSS small shop, doesn't run cohort-based grad pipeline; new grad and experienced candidates **go through the same process**, using OSS contribution as main leveling signal
-- **Non-EU visa (full-time)**: Paris full-time roles Hugging Face SAS can sponsor Passeport Talent (salarié qualifié), 2026 base needs ≥ €43,243/year (legal SMIC × 1.8), HF Paris median base €70.8K far exceeds; for fully remote EMEA roles, HF usually signs via contractor (Deel / Remote.com) in your home country, **no visa sponsor involved**; this is completely different from internship via carte de séjour étudiant + convention de stage
-- **Salary range (base, gross/year)**:
-  - **Paris SWE median 2026-05-27 measured**: **base ~€70.8K (~$81.7K) / total ~€79.1K (~$91.9K) / stock ~€10.2K** — data point is L3 ML Ops Engineer, 0 years tenure [Source (verified opened): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area]
-  - **Paris SWE range**: €63.9K-€79.1K+ total comp (Levels.fyi 2026-05 range)
-  - **France-wide SWE range**: €62.8K-€78.2K+ (almost identical to Paris, indicating HF France role salary band is narrow) [Source (search result): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/france]
-  - **ML Engineer (standalone title)**: €58.8K-€75.4K+ — slightly lower than general SWE, but small sample [Source (search result): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/title/machine-learning-engineer]
-  - Remote other EMEA cities: HF publicly states "adjusted to cost of living" — same role floats by city, Berlin / Amsterdam estimated €65-78K base, Eastern Europe €45-55K
-  - Equity: ~$10K/year RSU equivalent (Levels.fyi same entry); HF not listed, equity value depends on IPO / next round valuation (2023 Series D valuation ~USD 4.5B)
-- **Application window**: rolling — not announced concentrated like intern cohorts; Workable listing verified live on 2026-09-26 shows 8 open full-time roles (Xet Storage SWE ×2, Open-Source ML Engineer ×2, Senior ML Engineer Voice Agents ×1, Senior Open-Source Python Engineer ×2, Wild Card ×1), **no 2027 internship cohort or New Grad/Graduate roles currently posted** [Source (actually opened): https://apply.workable.com/api/v1/widget/accounts/huggingface]
-- **Interview process differences vs internship**:
-  - Process **almost identical to internship** (recruiter → take-home → review call → team fit); but take-home difficulty higher (intern is "make a Spaces demo", full-time is "fix a real issue in main repo or add new model integration PR")
-  - **OSS contribution weighted even more than internship** — full-time hires almost require you to **already be an HF ecosystem contributor** (transformers / diffusers / datasets / accelerate / peft / trl main repo has merged PRs)
-  - No LeetCode, no whiteboard system design; **paper bar lower than Mistral / Cohere Research** (Science Team exception)
-  - Research Engineer roles ask about recent HF science blog / papers (FineWeb, SmolLM, Idefics etc.)
-- **Acceptance competition**: bar high but **international student friendly** — HF recruiting description repeatedly emphasizes welcoming underrepresented, school brand has no weight, **OSS is hard currency**; a new grad with all-green contributions tab from a second-tier school > Tsinghua/PKU with no OSS; actual hire rate extremely low (small company, full-year full-time hire volume estimated < 50)
-- **Key links**:
-  - Official careers page: [apply.workable.com/huggingface](https://apply.workable.com/huggingface/) (verified opened, landing page links to Workable listing)
-  - Levels.fyi Paris SWE: [Hugging Face SWE Paris](https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area) (verified opened, 2026-05-27 data)
-  - HF Recruiter AMA (Emily Witko): [discuss.huggingface.co - AMA](https://discuss.huggingface.co/t/ama-with-emily-witko-hf-recruiter/18076)
-  - Glassdoor HF Paris salaries: [Glassdoor HF Paris](https://www.glassdoor.com/Salary/Hugging-Face-Paris-Salaries-EI_IE6487302.0,12_IL.13,18_IC2881970.htm)
-  - r/MachineLearning HF hiring discussion: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/search/?q=hugging+face+hiring&restrict_sr=on)
+- **Role names**: no "Junior / Graduate" title, everything is "Engineer"; EMEA roles on 2026-10-10: Open-Source Machine Learning Engineer - EMEA Remote (posted 2026-05-29, no years stated), Senior ML Engineer, Voice Agents - EMEA Remote (2026-09-02), Senior Open-Source Python Engineer, ML Developer Tools - EMEA Remote (2026-09-21, requires 5+ years Python); plus US Remote ×2 + Wild Card (2024-10-17); there were 8 on 2026-09-26 (Xet Storage SWE ×2 removed) [Source (verified opened): https://apply.workable.com/api/v1/widget/accounts/huggingface]
+- **Eligibility**: no graduation window / hard degree bar; the core ask is "A public track record of open-source contributions ... that we can review on GitHub" + PyTorch + the Transformers / Datasets / Accelerate stack; English (async written) [Source (Workable API, read directly): https://apply.workable.com/j/81B46579FE]
+- **European locations**: Paris office + EMEA Remote; JD: "While we have office spaces in NYC and Paris, we're very distributed"
+- **Programme structure**: no cohort / rotation; new grads go through the same process as experienced candidates, leveled on OSS contributions
+- **Non-EU visa (full-time)**: none of the 6 JDs mention visa / sponsorship (2026-10-10); Paris roles can use the FR Passeport Talent (2026 floor €39,582/yr + Master's) [Source (verified opened): https://jobbatical.com/blog/france-talent-passport-salary-threshold] (previous: €43,243/yr, 2026-09); **HF is not on the IND recognised-sponsor register** [Source (full register downloaded & checked 2026-10-10): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants] nor on the UK sponsor register [Source (full register downloaded & checked 2026-10-09): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv] → HF cannot itself sponsor an NL Kennismigrant / UK Skilled Worker permit; inferred: Remote EMEA roles need existing right to work in the country of residence (zoekjaar allows work in NL, after it ends a recognised sponsor is needed); the earlier claim "contracts via Deel / Remote.com" has no public source found
+- **Pay (gross/yr)**: Levels.fyi Greater Paris (2026-10-10): median TC €81,646 (32 entries), average €81,859, highest €99,420, no junior levels [Source (verified opened): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area] | previous (2026-05-27): base ~€70.8K / total ~€79.1K / stock ~€10.2K (L3 ML Ops, 0 years tenure); France-wide €62.8K-€78.2K+ [Source (search result): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/france]; MLE title €58.8K-€75.4K+ [Source (search result): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/title/machine-learning-engineer] | equity: JD says "All employees have company equity"
+- **Application window**: rolling, no deadline; no 2027 internship cohort / new grad roles posted on 2026-10-10
+- **Interview differences vs internship**: essentially the same as interns (recruiter → take-home → review call → team fit), full-time take-homes lean toward real repo issues / model-integration PRs; no LeetCode; Research Engineer roles ask about recent HF science work (FineWeb, SmolLM etc.) — all from the earlier version, no new 2026 reports found this round
+- **Competition**: very few seats (only 1 non-senior EMEA engineering role); OSS contributions are the currency, school brand matters little; high uncertainty until the acquisition closes
+- **Key links**: Workable https://apply.workable.com/huggingface/ (opened in earlier version) · Workable API (verified opened) · Levels.fyi Paris (verified opened) · NVIDIA blog / SEC 8-K (verified opened) · Recruiter AMA https://discuss.huggingface.co/t/ama-with-emily-witko-hf-recruiter/18076
 
 ---
 

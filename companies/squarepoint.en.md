@@ -2,7 +2,7 @@
 
 > **Language**: [中文](squarepoint.md) | English
 >
-> Updated: 2026-05-28
+> Updated: 2026-10-10
 > Information density: ⭐⭐⭐⭐ (Levels.fyi UK Quant Dev £85.5K-£129K real numbers + multi-source OA process + Paris/London dual-site + global 13-office list; missing public intern stipend)
 > One-line positioning: systematic mid-sized (~700 people) global multi-strategy quant hedge fund, AUM ~$100B, founding team came out of BNP Paribas, **strong French DNA** (Paris is one of the core offices); standard Quant Dev + Quant Researcher dual ladder, engineers primarily use Python + KDB+/q + C++, Glassdoor difficulty higher than QRT (3.21/5)
 
@@ -25,42 +25,23 @@
 
 ## New Grad / Junior Roles
 
-> Information density: ⭐⭐⭐⭐ (Levels.fyi UK QD £85.5K-£129K + WSO Paris/London intern + Glassdoor process; country-specific visa paths + KDB+/q bonus all have hard data)
+> Checked: 2026-10-10 (live WebFetch + Greenhouse API) | Information density: ⭐⭐⭐⭐ (basis: official early-careers page + full list of 93 live Greenhouse roles + Levels.fyi UK SWE/QD per-level figures + UK sponsor register; no European QR pay)
+> **2027 Intake status**: **Rolling** — evergreen grad / junior roles live on 2026-10-10, no deadline; "Graduate Quant Developer" posted 2026-05-12, updated 2026-09-09 [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/squarepointcapital/jobs/7918610]
+> 2026 H2: news headlines — eFinancialCareers 2026-07-29 "Squarepoint is still ramping up its commodities trading business"; a "Campus Recruitment Specialist" role (London / Paris / New York) posted 2026-09-29 [Source (search result): https://news.google.com/rss/search?q=Squarepoint+Capital+when:120d]
 
-- **Common role names**:
-  - **Quantitative Developer** (core, Python/KDB+; London + Paris + Madrid plentiful)
-  - **Quantitative Researcher** (ML/Stats, signal alpha; Junior QR also open — e.g. "Junior Quant Researcher - ML Alpha Research")
-  - **Software Developer - Internal Compute Frameworks / Data Pipelines** (Python infra)
-  - **Software Engineer Intern / Quantitative Developer Intern / Quantitative Researcher Intern** (3 independent intern tracks)
-- **European locations**: London (primary) / Paris (strong French presence + grandes écoles alumni) / Madrid (also many Quant Dev) / Zug + Geneva (QR)
-- **Independent Graduate Programme**: **No cohort brand**, but clear "Early Careers" / "Internship" entry; SWE/QD interns and grads go through the same pipeline + proprietary Python platform training [Source (search result): https://www.squarepoint-capital.com/open-opportunities]
-- **Non-EU visa (full-time)**:
-  - **London**: Skilled Worker visa £41,700 (2026); Squarepoint UK QD £85.5K-£129K directly compliant [Source: https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer]
-  - **Paris**: Passeport Talent Salarié Qualifié €39,582/year (2026); Squarepoint Paris QD base industry €70-90k → compliant [Source: https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]
-- **Salary structure (quant-specific, key)**:
-  - **Intern (SWE)**: Levels.fyi shows **$28.85/hr** (~$5K/mo, on the low side — because this is historical/global average) [Source (verified opened): https://www.levels.fyi/internships/Squarepoint-Capital/Software-Engineer-Intern/]
-  - **Intern (Paris QD/QR)**: WSO users report €3-4k/mo (gratification well above statutory €659), includes Medical but no retirement
-  - **Intern (London QD/QR)**: WSO users report £5-7k/mo, includes Medical/Dental + 401(k)
-  - **Full-time New Grad QD (London)**: Junior SWE £85.5K → mid-level £129K+ range (Levels.fyi UK Quant Dev), median across levels £100K+ [Source (search result): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer]
-  - **Full-time New Grad QD (Paris)**: industry estimate €70-90K base + €10-30K bonus (Paris overall is 15-25% lower than London, but net income not necessarily worse due to tax system)
-  - **Equity**: $0 RSU (private company); bonus + some deferred plan
-- **Application window**:
-  - Internship rolling, 2026 Summer Internship opens 6 months early (i.e. peak 2025-09 to 2025-12)
-  - Full-time rolling, view directly at https://www.squarepoint-capital.com/open-opportunities
-- **Interview process differences vs intern**:
-  - OA + 5-6 rounds (intern 4-5 rounds)
-  - OA all Python: data structures + probability + stats
-  - QD emphasizes algo / system design lite + KDB+/q bonus; QR emphasizes stats / regression / time series / signal design
-- **Admission competition**: Glassdoor 39.8% positive (stricter than QRT 47.7%), difficulty 3.21/5; Python Developer path averages 1 day fastest process, all titles average 31 days [Source (search result): https://www.glassdoor.com/Interview/Squarepoint-Capital-Interview-Questions-E1442647.htm]
-- **Key links**:
-  - Official careers (verified opened): https://www.squarepoint-capital.com/open-opportunities
-  - Levels.fyi UK Quant Dev (search result, £85.5K-£129K): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer
-  - SWE Intern Levels.fyi (verified opened, $28.85/hr): https://www.levels.fyi/internships/Squarepoint-Capital/Software-Engineer-Intern/
-  - Glassdoor (search result, 39.8% positive): https://www.glassdoor.com/Interview/Squarepoint-Capital-Interview-Questions-E1442647.htm
-  - WSO London Quant Dev interview (search result): https://www.wallstreetoasis.com/company/squarepoint-capital/interview/quant-dev
-  - WSO Paris intern comp (search result): https://www.wallstreetoasis.com/company/squarepoint-capital/compensation/quant-developer-intern-0
-  - everythingquant Squarepoint Grad QD Python (verified opened): https://everythingquant.com/forum/post/squarepoint-capital-graduate-quant-developer-interview-python/
-  - Junior Quant Researcher ML Alpha (search result): https://www.squarepoint-capital.com/open-opportunities?id=6069464
+- **Role names (open to Europe)**: Graduate Quant Developer (London / Montreal / Singapore); Graduate Software Developer (London / Montreal / Singapore / Warsaw; Python / C++ / Front-End tracks); Trading Infrastructure Specialist – Graduate Programme (London etc., 18-month rotation); Graduate Trading Applications Specialist (London etc.); Junior Quant Researcher (London / Paris / Zug / Geneva etc.); Junior QR – ML Alpha Research (master's or higher); Junior Quant Developer and Junior Software Developer (Python / C++ / KDB+/q / Front-end, "Up to 4 years experience"); Junior Discretionary Trader (London etc.) [Source (ATS API read via curl): https://boards-api.greenhouse.io/v1/boards/squarepointcapital/jobs?content=true]
+- **Eligibility**: official "Whether you have just graduated or have a few years of experience" [Source (verified opened): https://www.squarepoint-capital.com/early-careers]; Grad QD needs a quantitative degree + one of Python / C++ / KDB+/q + ability to work with AI tools; apply to one role only ("Please only apply to the one job")
+- **European locations**: London (main) / Paris / Madrid / Zug / Geneva / Warsaw; no NL office
+- **Programme structure**: apart from the Trading Infrastructure 18-month rotation (incl. 1-week DevOps / Systems rotations), roles are direct team placements, no unified cohort
+- **Non-EU visa (full-time)**: UK sponsor register (2026-10-09 version) lists Squarepoint Capital LLP — Worker (A rating), Skilled Worker [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; threshold £41,700, junior base well above; Paris Passeport Talent €32,484/year (previous: €39,582/year, 2026-05) [Source (verified opened): https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]; postings say nothing on sponsorship; NL zoekjaar / reduced Kennismigrant do not apply (no NL entity)
+- **Pay (Levels.fyi UK, 2026-10-10)**:
+  - SWE: Junior £78.7K total = £65.5K base + £13.3K bonus; SWE £128K; UK median £114K (139 entries) [Source (verified opened): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer]
+  - Quant Dev: Junior £85.3K = £67.1K base + £3.1K stock + £15.1K bonus; next level £131K; UK median £136K (17 entries) (previous: £85.5K-£129K, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer]
+  - Quant Researcher: US data only (NYC median $210K), no public European data [Source (verified opened): https://www.levels.fyi/companies/squarepoint-capital/salaries/data-scientist/title/quantitative-researcher]; NY postings disclose minimum base $150,000 for Junior QR and $100,000 for Graduate Software Developer (NY only)
+- **Application window**: rolling; no fixed open/close dates in the 2026 cycle (Graduate Software Developer evergreen since 2024-06-14, updated 2026-10-06)
+- **Interview process vs internship**: the official page lists only stage headings, no details; community reports a HackerRank Python OA + 4-5 rounds (see §3-4), 31 days on average
+- **Competition**: Glassdoor 39.8% positive / difficulty 3.21 (older data, search result)
+- **Key links**: early-careers (verified opened) https://www.squarepoint-capital.com/early-careers · live roles https://www.squarepoint-capital.com/open-opportunities
 
 ---
 

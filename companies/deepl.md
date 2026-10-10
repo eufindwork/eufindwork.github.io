@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](deepl.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §2 的 Blue Card reduced €41,041.80 与 '明确 Blue Card sponsor' (2026: €50,700 / €45,934.20; 官方页未提 sponsor); 开头 ⭐⭐⭐⭐ 以 New Grad 段 ⭐⭐⭐ 为准.
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi DeepL Berlin SWE €77-95K + median total €95.5K 实抓 + Glassdoor SWE 面经 60% positive + Ashby ATS 实抓 + DE Blue Card sponsor 行业实证 + Arbeitnow sponsor 标签)
 > 一句话定位: 2017 年 Cologne 创立的"业界最强 NLP 翻译"公司, 推出 **DeepL Translator** (40+ 语言) + **DeepL Write** (写作助手) + **DeepL Voice** (实时语音翻译, 2024 推出); 估值 $2B; 800+ 员工, **明确 Blue Card sponsor + relocation 友好**, EU NLP 最 mature 商业化公司之一.
 
@@ -38,41 +39,26 @@
 
 ## New Grad / Junior 岗位
 
-> DeepL 是 EU NLP 最成熟商业化公司, **Blue Card sponsor 业内公开 + 多个国际生入职案例**; 招聘强调 Python / PyTorch / 后端工程, Cologne ML / Berlin Engineering 双重心
+> 核查日期: 2026-10-10 (实时 WebFetch + Ashby API) | 信息丰富度: ⭐⭐⭐ (依据: Ashby 官方 board 全量 + Levels.fyi Germany/Berlin 直读 + IND 名册; 无 entry-level 分级薪资, Glassdoor 403)
+> **2027 Intake 状态**: **No programme, 且工程岗暂无空缺** — 无 graduate programme; 2026-10-10 Ashby 仅 7 个岗位 (Sales 4 / Customer 1 / Marketing 1 / Finance 1), **0 个 engineering / research / junior / intern 岗** [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/DeepL]
+> **2026 新动态**: 2026-05-07 宣布裁员 ~250 人 (原 1,000+ 人, 约 25%), CEO 称 "AI-first" 结构调整, 未公布受影响部门 [来源 (实际打开过): https://www.heise.de/en/news/Cologne-AI-translator-DeepL-lays-off-a-quarter-of-its-workforce-11286250.html]; 2026-06-17 收购 SF 实时音频公司 Mixhalo, 开设 SF Bay Area 办公室 [来源 (实际打开过): https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/]
 
-- **常见岗位名**:
-  - **Software Engineer / Software Developer** (Backend Python + Frontend React + Mobile iOS/Android)
-  - **Machine Learning Engineer** (Cologne 主力)
-  - **Research Scientist (NLP / MT / TTS)** (Cologne, PhD 优先)
-  - **Site Reliability Engineer**
-  - **Working Student** (DE only)
-- **欧洲地点**: Cologne (ML/Research 主力) / Berlin (Engineering 主力) / Munich / Amsterdam / London / Paris / Warsaw / Tallinn
-- **是否有独立 Graduate Programme**: **No structured cohort**, 走标准 SWE / ML Engineer 招聘; 但**Ashby 有 grad-level 岗位** (经常标 "0-2 yr experience")
+- **岗位名称**: 无 grad / junior 专属岗; 历来走标准 Software Engineer / ML Engineer / Research Scientist 单岗招聘 (旧版: "Ashby 常标 0-2 yr", 2026-05, 本次无工程岗无法复核); Working Student IT (Cologne, 2026-08-04 发布) 已关闭 [来源 (实际打开过): https://careers.atomico.com/companies/deepl/jobs/88608232-working-student-it-werkstudent]
+- **资格窗口**: 无 programme → 无统一窗口; Working Student 要求在读 BSc/MSc (CS/IT) + 英语和德语 + 学期内 ≤20h/周 (同上来源)
+- **欧洲地点**: Cologne (HQ) / Berlin / Munich / Amsterdam / London / Paris / Warsaw / Tallinn (旧版, 2026-05); 2026-10-10 在招仅 Vienna / Munich / London (均非工程)
+- **项目结构**: 无 cohort / rotation; 推断: 有空缺时按单岗 rolling 招聘, 无固定入职月份
 - **非EU签证 (全职)**:
-  - **Cologne / Berlin / Munich (DE EU Blue Card)**: 2026 IT 短缺 €45,934/年; reduced (新毕业 3yr 内) €41,041.80; DeepL Berlin SWE median total **€95.5K** (Levels.fyi 直读), base 估 €70-85K, 充分符合
-  - **Amsterdam (NL Kennismigrant)**: 2026 <30 €4,357/月 (€52.3K/年), DeepL NL SWE 估算符合
-  - **London (UK Skilled Worker)**: 2026 £41,700, DeepL London SWE 估算符合
-  - **Sponsorship 实证**:
-    - Arbeitnow 标 sponsor (DE Blue Card 列表) [来源: arbeitnow.com 通用 sponsor jobs filter]
-    - Glassdoor 多个国际 SWE 入职 (印度/巴西/中国/俄罗斯背景多见 in Cologne/Berlin)
-    - DE Cologne / Berlin / Munich 是 EU 顶级 Blue Card sponsor hubs, DeepL 是常见 sponsor 之一
-- **薪资范围 (base, gross/年, Levels.fyi 2026-05-31 直读)**:
-  - **Berlin SWE median**: **total €95.5K**, base $111K USD (≈€102K?), L3 (注: Levels.fyi 数据有 USD/EUR 换算, 实际数据点 base 与 total 接近, 表明 RSU/bonus 极少)
-  - **Berlin SWE range**: **€77.1K - €95.5K+**
-  - **DeepL DE 最高包**: **€150,709/年** (Levels.fyi FAQ 引用, Senior level)
-  - **股权**: Private startup ($2B 估值), RSU/option; 但 Levels.fyi 数据显示 stock $0/yr 在多数 reported 数据点 — 表明 RSU 在 entry-level 几乎为 0, comp 主要靠 base
-  - **bonus 普遍 $0** (Levels.fyi 直读)
-- **申请窗口**: rolling
-- **面试流程差异 vs Intern**:
-  - 全职 SWE: 4-5 轮 (30min screening + 1h tech bg + 1h coding + system design + culture)
-  - Praktikum / Werkstudent: 2-3 轮 (HR + technical + team fit)
-- **录取竞争 / 国际生 friendliness**:
-  - Glassdoor SWE 难度 3/5, 60% positive, 20 天 hire 周期 (Cologne) — **EU tech 偏快档**
-  - 国际生友好度高 (Cologne / Berlin 国际化 + Blue Card 公开)
-- **关键链接**:
-  - DeepL Career Hub (实际打开过): https://www.deepl.com/en/careers/hub
-  - Ashby ATS: https://jobs.ashbyhq.com/DeepL
-  - Levels.fyi (实际打开过): https://www.levels.fyi/companies/deepl/salaries/software-engineer
+  - **NL**: **DeepL NL B.V. (KvK 84080930) 在 IND 公认 sponsor 名册** (名册 2026-10-05 更新) → Amsterdam 岗可走 Kennismigrant, zoekjaar 期间适用 reduced 阈值 €3,122/月 [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; 但 Amsterdam 当前 0 个岗位
+  - **DE Blue Card 2026**: 一般 €50,700 / reduced €45,934.20 (短缺职业含 IT + 毕业 <3 年) [来源 (实际打开过): https://gpa.net/blogs/emea-1/germany-eu-blue-card-rules-for-2026-tightened-higher-salaries-expanded-talent-pool] (旧版 reduced €41,041.80 为旧年度数值, 已更正)
+  - 官方 careers 页 2026-10-10 **未提** visa sponsorship / relocation [来源 (实际打开过): https://www.deepl.com/en/careers]; "Blue Card sponsor" 结论来自第三方标签 + 员工背景 (旧版推断, 未获官方确认)
+- **薪资范围 (gross/年, Levels.fyi 2026-10-10 直读; 无 level 分级, 样本多为 mid/senior)**:
+  - Germany SWE: median €105K, range €78.3K–€105K+; median 包 = base €84.7K + stock €19.9K (Research Scientist, 5 YOE, Cologne) [来源 (实际打开过): https://www.levels.fyi/companies/deepl/salaries/software-engineer]
+  - Berlin SWE: median €107K, range €83.4K–€107K+, 最高 €156,802 (median 包为 Senior, 5 YOE) [来源 (实际打开过): https://www.levels.fyi/companies/deepl/salaries/software-engineer/locations/berlin-metropolitan-region]
+  - 旧版 (2026-05): Berlin median €95.5K, range €77.1K-€95.5K+; **entry-level 无公开数据**, 推断 BSc/MSc 新人低于 p10 (€78.3K)
+- **申请窗口**: rolling, 无固定窗口; 2027 无公告; 无上一轮 grad cycle 可参照
+- **面试流程 (全职 vs 实习)**: Glassdoor 片段 (2025-26): recruiter 30 min → 2 轮 1h live coding (Google Doc, 非 IDE) → 1.5h system design (如设计 DeepL API) → EM 30 min; 2026-04 一例含 "AI round" (用 AI 写 ticket / scoping); 无 OA [来源 (搜索结果): https://www.glassdoor.ca/Interview/DeepL-Interview-E2426949-RVW104429136.htm]; Werkstudent 2-3 轮 (旧版)
+- **录取竞争**: 裁员后 board 上 0 工程岗 (2026-10), 推断工程招聘近乎停滞、竞争显著上升; NLP/MT 背景 + 德语 (Werkstudent) 加分
+- **关键链接**: Ashby board: https://jobs.ashbyhq.com/DeepL (数据经上方 API 实际打开过) · Career Hub (实际打开过): https://www.deepl.com/en/careers/hub · Levels.fyi (实际打开过): https://www.levels.fyi/companies/deepl/salaries/software-engineer
 
 ---
 

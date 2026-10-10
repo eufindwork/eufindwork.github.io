@@ -73,7 +73,7 @@
   - **限时 €30K bonus** for select positions (高级岗)
 - **2026 阈值**: 
   - **LT**: National Visa / EU Blue Card LT 阈值 ≈ €2,178/月 gross (1.2x avg, 2025 数据), Academy €2,233 刚好满足
-  - **NL** (若申 Amsterdam): Kennismigrant <30 €4,357 / 30+ €5,942 / reduced €2,801
+  - **NL** (若申 Amsterdam): Kennismigrant <30 €4,357 / 30+ €5,942 / reduced €3,122
 - **Lithuanian 语言**: 非必须 (Vinted 内部工作语言 English)
 
 ---

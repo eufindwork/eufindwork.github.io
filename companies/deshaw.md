@@ -2,6 +2,7 @@
 
 > **Language**: 中文 | [English](deshaw.en.md)
 >
+> 更新时间: 2026-10-10
 
 > 纽约总部的顶级 multi-strat HF, 量化 + discretionary 双轨. London 站点较小 (~150 人 across 2 UK 法人主体) 但 bar 极高, UK 实体 2025 财年人均薪酬 ~£801k ($1.08m). 招聘极其挑剔, 流程严谨.
 
@@ -23,35 +24,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐
+> 核查日期: 2026-10-10 (实时 WebFetch + 官方 careers 页数据直读; WebSearch 配额中途用尽) | 信息丰富度: ⭐⭐⭐ (依据: 官方 London 岗位清单 + NYC 官方 base; London 无公开薪资数据点, 无 grad programme)
+> **2027 Intake 状态**: **No programme (Rolling)** — 2026-10-10 官方 101 个在招岗位中 London 6 个, 无 London new grad SWE / Quant 岗; 通用 Software Developer / Quantitative Analyst 只挂 New York [来源 (官方页 curl 直读): https://www.deshaw.com/careers]. London 唯一对 junior 开放的全职技术岗 = Quant Systems: Systems Developer (London) [来源 (实际打开过): https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295]
+> 2026 H2 动态: 未发现 (官方 news 页最新条目为 2025 年) [来源 (官方页 curl 直读): https://www.deshaw.com/news]; 背景 (H1): 2026-01-06 eFC 报道 UK 两个实体利润同比 -57% [来源 (实际打开过): https://www.efinancialcareers.com/news/de-shaw-london-pay]
 
-- **常见岗位名 (London-active)**:
-  - **Quant Systems: Systems Developer (London)** — 高性能工程, 量化基础设施
-  - **Senior Virtualization and Storage Engineer (London)**
-  - **Systems: Senior Linux Infrastructure Engineer (London)**
-  - **Trader/Analyst Intern (London) — Summer 2026** (10 周, 6-8 月)
-  - **D.E. Shaw Investment Management (DESIM) Intern (London) — Summer 2026**
-  - **Investor Relations Intern (London) — Summer 2026**
-- **欧洲地点**: London (唯一)
-- **是否有独立 Graduate Programme**: **无 rotational programme**, 但有定向 Summer Internship Pipeline. Quant Analyst Internship (NYC focus) 接受 London-based candidates 偶有. London 现阶段更多 senior + lateral hire.
-- **非EU签证 (全职)**: UK Skilled Worker 2026 £41,700 / SOC 2134 ~£49,400. D.E. Shaw London base 远超 (历史 PM/Analyst ~£800k+ all-in), sponsor 完全无 base 问题. UK 主体是 A-rated sponsor.
-- **薪资结构**:
-  - **Intern**: NYC SWE intern $144.23/hr (Levels.fyi) = ~$25k/月 PhD-level; London 折合 ~£8-12k/月 estimate (官方未公开 London-specific) [来源 (实际打开过): https://www.levels.fyi/internships/D-E-Shaw/Software-Engineer-Intern/]
-  - **全职 New Grad / Software Developer**:
-    - NYC base: $275k base + 第一年 guaranteed bonus + sign-on + relo (官方 listing) — London 通常按 70% 比例折算, base ~£140-180k + bonus [来源 (搜索结果): https://www.deshaw.com/careers/software-developer-2646]
-    - London Quant Systems Developer FT estimate: base £120-160k + 30-100% bonus
-    - UK 主体 2025 财年人均薪酬 £801k ($1.08m), 但这是 PM + senior 拉高 (78 人样本) [来源 (搜索结果): https://www.efinancialcareers.com/news/de-shaw-london-pay]
-- **申请窗口**: Summer 2026 intern 已 closed (官方页声明); Summer 2027 intern form 已开 notify list. **官方建议: 上一年的年底前申请**.
-- **面试流程差异 vs 实习**: Intern 4-5 轮 (OA + 2-3 tech + ref check); FT 类似但更看重 production experience + writing/code sample 可能要求.
-- **录取竞争**: 数学/概率深度面试是杀手锏, accept rate < 1% (community estimate).
-- **关键链接**:
-  - [D.E. Shaw Careers](https://www.deshaw.com/careers)
-  - [Software Developer (NYC base info)](https://www.deshaw.com/careers/software-developer-2646)
-  - [Quant Systems: Systems Developer (London)](https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295)
-  - [Campus Recruiting / Internships](https://campus.deshaw.com/internships)
-  - [Trader/Analyst Intern London Summer 2026](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2026-5465)
-  - [Interviewing Guide (PDF)](https://www.deshaw.com/assets/articles/D_E_Shaw_Group_Interviewing_Guide.pdf)
-  - [Quant Blueprint guide](https://www.quantblueprint.com/companies/de-shaw-group)
+- **岗位名称 (London, 2026-10)**: Quant Systems: Systems Developer (London) · Senior Virtualization and Storage Engineer (London) · Systems: Senior Linux Infrastructure Engineer (London) · Legal Analyst and Contract Negotiator (London) + 学生岗 Systems Engineering Intern (London) - Summer 2027 · Systems Administrator Industry Placement Year (London). 无 rotational graduate programme
+- **资格窗口**: Systems Developer (London) 要求 CS 或相关技术学位, 或最多 5 年同等经验, Python / Golang / Rust 等 → 应届可投 (同上 5295 页); NYC Quantitative Analyst 面向各专业 "top students", BSc/MSc 与 PhD 分档 [来源 (实际打开过): https://www.deshaw.com/careers/quantitative-analyst-2636]
+- **欧洲地点**: 仅 London
+- **项目结构**: 无 cohort / rotation, 直接进 team; 入职月份按 offer 协商 (无公开数据)
+- **非EU签证 (全职)**: "D. E. Shaw & Co. (U.K.), Ltd." (London) 在 UK sponsor 注册表 2026-10-09 版: Worker (A rating), Skilled Worker + GBM [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers; CSV 经 curl 下载核对]. 门槛 general £41,700 / SOC 2134 going rate £54,700 (旧版: ~£49,400) [来源 (实际打开过): https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes]. 官方岗位页无 visa 表述. 推断: NL zoekjaar 不适用 (EU 只有 London)
+- **薪资 (base + bonus, 无 equity)**:
+  - NYC 官方 (2026-10): Quantitative Analyst base $275,000 (BSc / MSc) / $300,000 (PhD), 另有 Y1 guaranteed year-end bonus + sign-on + relocation (同上 2636 页); Software Developer base $275,000 [来源 (官方页 curl 直读): https://www.deshaw.com/careers/software-developer-2646]
+  - London: Levels.fyi 数据未解锁 ("need 4 more ... submissions", 2026-10-10) [来源 (实际打开过): https://www.levels.fyi/companies/the-d-e-shaw-group/salaries/software-engineer/locations/london-metro-area]; UK 实体 FY 截至 2025-03: 78 人, 人均 £801k ($1.08m), 被 PM / senior 拉高, 不代表 new grad [来源 (实际打开过): https://www.efinancialcareers.com/news/de-shaw-london-pay]
+  - ⚠️ **待 web 验证**: London new grad base ~£140-180k + bonus (按 NYC base × ~70% 折算) 与 Quant Systems Developer base £120-160k + 30-100% bonus 均为旧版估算, 无公开数据点; 二次核实前勿用于薪资决策
+- **申请窗口**: 全职 rolling, 无公开截止; 官方实习口径 "selection ... early in the first quarter", 建议上一年年底前投 [来源 (实际打开过): https://campus.deshaw.com/internships]. 推断: London new grad 主要来自实习转正 + 零星 lateral junior 岗
+- **面试流程 vs 实习**: 官方: application review → phone interview → virtual interviews → reference 沟通 → offer; 视岗位要求 writing / code sample 或 case study [来源 (实际打开过): https://www.deshaw.com/careers/interviewing]; 官方页未提 AI 工具政策, 反而 2027 London Systems Engineering Intern 岗要求 "effectively use AI-assisted development tools" [来源 (官方页 curl 直读): https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925]. 本轮未打开新的 2025-26 面经, 见 §3 / §4
+- **录取竞争**: 社区估算 accept rate < 1% (旧版, 未核实); 推断: London 年度 junior 名额极少, PhD / 实习转正占优
+- **关键链接**: [Careers](https://www.deshaw.com/careers) · [Quant Systems Developer London](https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295) (实际打开过) · [Campus Internships](https://campus.deshaw.com/internships) (实际打开过) · [Interviewing](https://www.deshaw.com/careers/interviewing) (实际打开过)
 
 ---
 

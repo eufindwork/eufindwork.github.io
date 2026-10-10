@@ -2,7 +2,7 @@
 
 > **Language**: [中文](janestreet.md) | English
 >
-> Last updated: 2026-05-28
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐⭐ (Wikipedia + official careers + Levels.fyi London direct read + eFinancialCareers London headcount + Glassdoor process rating + JSIP/SE intern distinction)
 > One-line positioning: NYC origins / OCaml main stack / global ETF + options + fixed income market making giant, London is European HQ (688 headcount, end of 2024) and **actively sponsors Skilled Worker**, SWE full-time L1 total package ~£245K — 3-4x higher than UK national SWE median (£67K)
 
@@ -24,38 +24,22 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (Levels.fyi London L1 direct read + eFinancialCareers headcount + Wikipedia global)
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information richness: ⭐⭐⭐⭐⭐ (basis: official jobs JSON + job page + Levels.fyi London direct read + UK / IND registers + official interview page)
+> **2027 intake status**: **Open (Rolling)** — "2027 Full-Time: New Grad" (London) open since 2026-08-03, no deadline, rolling review; start month not published [Source (verified opened): https://gradbeam.co.uk/jobs/t-jane-street-a0o6k4h9og] [Source (verified opened): https://www.janestreet.com/jobs/main.json]
+> 2026 H2: no layoff / hiring-freeze reports found; UK LLP 2025 accounts (disclosed 2026-09): staff costs $1,484.4m / 790 staff ≈ $1.88m per head (all-staff average incl. bonus, not new-hire pay) [Source (verified opened): https://www.tradermath.org/salaries/jane-street]
 
-- **Common role names (key distinction)**:
-  - **Software Engineer** (London): general OCaml SWE, includes platform / trading systems / research infra — doesn't necessarily touch strategy; this is the main SWE path entry
-  - **Quantitative Trader / Trading**: math + mental math driven, non-SWE path
-  - **Quantitative Researcher**: ML/stats/PhD heavy
-  - **Strategy and Product**: business-oriented
-  - **Machine Learning**: ML engineering / applications
-  - Note: Jane Street doesn't have "Quant Developer" title — SWE directly interfaces with traders, high engineering + business depth [Source (verified opened): https://www.janestreet.com/join-jane-street/internships/]
-- **European locations**: London (**the only European office**); other global NY / Hong Kong / Singapore
-- **Whether there is a standalone Graduate Programme**: **No "branded grad scheme"** (distinct from Citadel/HRT's named programme); full-time New Grad applies directly via "Software Engineer, London" open role → equivalent to other SWE once onboarded; internship conversion is the main pipeline (intern → return offer FT)
-- **Internship program breakdown (London applicable)**:
-  - **Software Engineering Internship** (10-12 weeks, May-Sep, **London / NY / HK all open**): main path; company-wide SWE intern Levels.fyi shows hourly **$144.23/hr ≈ $4,800/week** (NY baseline, London estimated at 15-25% geographic discount £3,500-£4,500/week + company reimbursed housing) [Source (verified opened): https://www.levels.fyi/internships/Jane-Street/Software-Engineer-Intern/]
-  - **Quantitative Trading Internship** (London applicable)
-  - **JSIP (Jane Street Immersion Program)**: **NYC only**, not in London! Mid-June - Mid-August, freshman/sophomore + diverse backgrounds, $12,500 scholarship + housing/travel/meals included, 2026 cycle closes 2026-02-08 — this is a brand confusion point, JSIP ≠ regular SWE intern [Source (verified opened): https://www.janestreet.com/join-jane-street/programs-and-events/jsip/]
-- **Non-EU visa (full-time)**: **Active sponsor** — Jane Street UK listed in worksponsors.co.uk active Skilled Worker license; L1 SWE full-time base ≈ **£175-234K** (far exceeds 2026 SOC 2136 going rate £55K threshold + Skilled Worker national threshold £41,700, completely unobstructed); intern is Tier 5 GAE / Student visa work, FT conversion to Skilled Worker is standard operation
-- **Salary structure (London, gross/year)**:
-  - **Intern (SWE)**: $144.23/hr (≈ £113/hr at current exchange) global standard baseline, London actual may be slightly lower; 11-12 weeks accumulated ~$60-70k stipend + corporate housing + reimbursed flight; quant/trading intern weekly $4.5-6k+ [Source (verified opened): https://www.levels.fyi/internships/Jane-Street/Software-Engineer-Intern/]
-  - **Full-time New Grad SWE (London L1)**: **TC ~£245K = $327K** (Levels.fyi direct read); base $234K + bonus $91.1K + stock $1.8K (Jane Street is private, "stock" is nominal number / actually phantom equity) [Source (verified opened): https://www.levels.fyi/en-gb/companies/jane-street/salaries/software-engineer/locations/london-metro-area]
-  - **Quant Trader / Researcher New Grad**: TC range £300K-£500K+ (eFinancialCareers reports partner-level reaching £14m, "UK average pay £808k per head" — this is partner-skewed mean)
-  - **Bonus-dominant**: base accounts for ~70% of TC, rest is discretionary year-end bonus; company private, no RSU listed liquidation path
-- **Application window**: SWE intern + FT rolling, but fall recruiting (Sep-Nov) is best window; JSIP 2026 closes 2026-02-08
-- **Interview process differences vs internship**: intern interview ~3 rounds (HR + 1-2 tech), FT ~5-6 rounds (HR + 2-3 tech + final multi-person + culture/judgment); all include **mental math 50q/8min** + probability puzzles + OCaml/any language coding; **can interview in any language — officially explicit "don't try OCaml for the first time"** [Source (search result): https://www.janestreet.com/preparing-for-a-software-engineering-interview/]
-- **Acceptance competition**: London ~30-60 SWE FT per year (extrapolated from 41 technologist net increase); intern → FT return offer hit rate high (Jane Street heavily depends on intern pipeline)
-- **Key links**:
-  - Official careers (verified opened): https://www.janestreet.com/join-jane-street/
-  - Internships page (verified opened, lists London/NY/HK + 10-12 weeks): https://www.janestreet.com/join-jane-street/internships/
-  - JSIP page (verified opened, NY-only, $12.5k scholarship): https://www.janestreet.com/join-jane-street/programs-and-events/jsip/
-  - Open Roles entry: https://www.janestreet.com/join-jane-street/open-roles/
-  - Preparing for SE Interview (verified opened, OCaml not mandatory): https://www.janestreet.com/preparing-for-a-software-engineering-interview/
-  - Levels.fyi SWE London (verified opened, L1 TC $327K = £245K): https://www.levels.fyi/en-gb/companies/jane-street/salaries/software-engineer/locations/london-metro-area
-  - Levels.fyi SWE Intern (verified opened, $144.23/hr): https://www.levels.fyi/internships/Jane-Street/Software-Engineer-Intern/
+- **Role names** (official JSON, 2026-10-10, 8 London "Full-Time: New Grad" roles): Software Engineer (8647260002) / Quantitative Trader (8576270002) / Quantitative Researcher (8600948002) / Machine Learning Researcher / Hardware Engineer (FPGA/ASIC) / Linux Engineer / Cybersecurity Engineer / Trading Desk Operations Engineer; no branded grad scheme, no "Quant Developer" title [Source (verified opened): https://www.janestreet.com/join-jane-street/position/8647260002/]
+- **Eligibility**: postings state no graduation window / degree bar / experience cap; all require "Fluent in English"; SWE needs no OCaml / finance background; QT needs no specific programming language; QR must be comfortable with Python, "PhD or other research experience is a plus"
+- **European locations**: London (the only European office with open roles); an Amsterdam entity exists (official culture page lists Amsterdam; Jane Street Netherlands B.V.), but the jobs JSON has 0 Amsterdam roles (previous: "London is the only European office", 2026-05) [Source (verified opened): https://www.janestreet.com/culture/overview/]
+- **Programme structure**: no fixed rotation / public cohort size; new QTs join a "year-long firmwide educational curriculum" and take on trading responsibility within weeks to months
+- **Non-EU visa (full-time)**: UK — Jane Street Europe Limited holds a Worker (A rating) licence (Skilled Worker + GBM Senior or Specialist Worker), Home Office register 2026-10-09 edition [Source (verified opened): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; Skilled Worker general threshold £41,700, L1 base £175K far above [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; NL — Jane Street Netherlands B.V. is on the IND recognised-sponsor register (KvK 69767491, register updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], but there are no Amsterdam roles → NL zoekjaar / reduced Kennismigrant is not usable for now; the practical route is UK Skilled Worker
+- **Pay range (gross/year)**:
+  - SWE London L1 (0 yrs experience): TC £244K = base £175K + bonus £66.6K + stock £1.8K; L3 £182K; median £242K, 160 data points (Levels.fyi, 2026-10) (previous: TC ~£245K, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/jane-street/salaries/software-engineer/locations/london-metro-area]
+  - QT / QR London: no public London data; NYC official posted base: New Grad SWE / QT / QR all $300,000 (jobs JSON, 2026-10), anchor only (previous: QT/QR TC £300K-£500K+, 2026-05, unsourced, could not verify)
+- **Application window**: rolling all year, no deadline; 2027 cycle open since 2026-08-03; official: "reviewed on a rolling basis", "hear back from us within a week" [Source (verified opened): https://www.janestreet.com/join-jane-street/interviewing/]
+- **Interview differences vs internship**: official: interview in any language, no OCaml needed; QT focuses on collaborative problem solving; QR = mix of trading + SWE interviews; QuantBlueprint 2026: phone screen (probability + mental math) → (optional) math/probability test → 2-3 onsite rounds → final, 4-5 rounds total, 4-8 weeks; no formal timed mental-math OA (previous: "50q/8min mental math", 2026-05, unconfirmed, likely confused with Optiver) [Source (verified opened): https://www.quantblueprint.com/guides/how-to-get-a-job-at-jane-street]; Glassdoor 2026 London reports (snippets, page 403): 2026-07 QT recursion / expected-value questions; 2026-02 3 rounds probability / game theory → onsite trading game + coding + data science + behavioural [Source (search result): https://clear.glassdoor.nl/Interview/Jane-Street-Interview-E255549-RVW101130499.htm]
+- **Competition**: extremely high; intern → FT return offers are the main pipeline; no public London hiring numbers (previous headcount-based inference ~30-60 SWE)
+- **Intern (secondary)**: 14 London Summer Internship roles (June-September, incl. SWE / QT / QR / ML); NYC intern posted base $300,000 annualised; JSIP is NYC-only [Source (verified opened): https://www.janestreet.com/join-jane-street/internships/]
 
 ---
 

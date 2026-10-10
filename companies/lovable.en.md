@@ -2,7 +2,8 @@
 
 > **Language**: [中文](lovable.md) | English
 >
-> Last updated: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — the 'People Operations Intern' mentioned in §1 is no longer open.
 > Information richness: ⭐⭐⭐ (HN founder original-quote visa+relocation evidence + Levels.fyi Stockholm SEK data + careers live-scraped 81 roles; no 1point3acres / Glassdoor full interview experiences yet)
 > One-line positioning: Founded 2024, Stockholm HQ "AI software engineer in your browser" — an AI code agent company turning natural-language prompts into full-stack web apps, ~125 people, growing extremely fast, **founder's HN public statement "sponsor visas + 1-year visit OK"** is a rare and explicit international student channel.
 
@@ -28,28 +29,26 @@
 
 ## New Grad / Junior Roles
 
-> Lovable has no cohort-based Grad Program, **Junior / new graduates** go through standard Engineering job hiring — but the founder's public HN statement "sponsor visas + relocation packages, even for 1-year visits" is the most explicit international student commitment among EU AI startups of this class
+> Checked: 2026-10-10 (live WebFetch + Ashby API) | Information richness: ⭐⭐⭐ (basis: careers page 81 roles + full Ashby JD parse + HN 2026-10 hiring post quote + Levels.fyi Stockholm direct read + Migrationsverket; no entry-level pay, Glassdoor 403)
+> **2027 intake status**: **No programme** — no grad / junior / intern roles; careers page lists 81 roles (Engineering 31 / Product 15 / Marketing 12 / Finance & BizOps 9 / Revenue 8 / Design 7 / People 3 / EPD 2) [Source (verified opened): https://lovable.dev/careers]; engineering JDs require 5+ to 12+ years of experience [Source (Ashby API, parsed directly): https://api.ashbyhq.com/posting-api/job-board/lovable]
+> **2026 news**: 2026-08-12 Series C $400M (€343M) @ $13.3B, led by Menlo Ventures + Scaleup Europe Fund (EQT); Stockholm stays the main hub, expanding London / Boston / SF / NYC [Source (verified opened): https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/]; Dealroom: plans ~450 staff by end of 2026 (about +50%), revenue run-rate target ~$600M [Source (verified opened): https://dealroom.co/news/144597-lovable-raises-400m-at-13-3b-valuation-eyes-600m-revenue-run-rate]
 
-- **Common role names**: **Full-Stack Engineer** / **ML Engineer** / **Backend Engineer** / **Frontend Engineer** / **Infrastructure Engineer** (all in-person Stockholm-preferred)
-- **European locations**: Mainly **Stockholm**, small number of remote-ish roles in London
-- **Independent Graduate Programme**: **No** — no structured grad cohort, no rotation; takes the "raw IC hire" path
+- **Role names**: no dedicated new grad / junior role; on 2026-10-10 engineering roles are IC or Staff/Principal (e.g. Software Engineer, Product (Integration Platform) requires 5+ years; Forward Deployed Engineer 8+ years) (same Ashby source)
+- **Eligibility window**: JDs set no degree requirement, but engineering roles need at least 5+ years → new grads are effectively out of scope (inferred); working language English
+- **European locations**: Ashby 2026-10-10: Stockholm 51 / London 17 (plus NYC 6, Boston 3, SF 2, São Paulo 1, Remote 1); most Stockholm engineering roles are "on-site, 5-days-a-week"
+- **Programme structure**: no cohort / rotation / fixed start month; rolling all year
 - **Non-EU visa (full-time)**:
-  - **Sweden Work Permit (Migrationsverket)**: From 2026, SE requires monthly salary at least **80%** of the national median (~**SEK 28,480/month ≈ €2,500/month**, i.e. **SEK 341.7K/year ≈ €30K/year gross**), Lovable Stockholm SWE entry-level base SEK 642K well above — 100% compliant
-  - Note: SE is brewing a raise to **100% median (SEK 35,600/month)**, legislation in progress 2025-2026, re-check the latest threshold before applying
-  - **EU Blue Card SE path**: Sweden also accepts EU Blue Card (2026 SE threshold ~ SEK 56,290/month gross), Lovable SWE salary meets it
-  - **HN original quote commitment (CTO @cviktore 2025-08)**: > "We sponsor visas and have very generous relocation packages (even if you just want to come for a year)." [Source (verified opened): https://news.ycombinator.com/item?id=44761620]
-- **Salary range (base + total, gross/year)**:
-  - **Stockholm SWE total**: **SEK 642K – SEK 879K+** (≈ €56K – €77K), median SEK 641,941 ≈ €56K [Source (verified opened): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm]
-  - **Sweden national SWE total**: SEK 649K – SEK 889K+ ≈ €57K – €78K [Source: https://www.levels.fyi/companies/lovable/salaries/software-engineer]
-  - **Equity**: Early-stage startup, large RSU/option pool but strike price not public; founded 2024, valuation skyrocketing — high option upside leverage but high risk too
-  - **Comparison**: Far below FAANG Stockholm (Amazon Stockholm SWE SEK 648K – 1.71M+), but consistent with Nordic startup market; Spotify Stockholm L4 ~SEK 850K-1.0M total is a tier higher
-- **Application window**: rolling
-- **Interview process differences vs internship**: Full-time goes through complete process (recruiter + HM + 2-3 tech + work sample + founder); internship is barely open right now, intern only seen for ops/PX roles
-- **Acceptance competition / international student friendliness**: Extremely high competition (AI codegen is a red ocean, 25 wave of resumes); but **international student friendliness is clearly high** — founder-level public sponsor + 1-year experiment path, top tier among EU comparable startups
-- **Key links**:
-  - Lovable Careers (verified opened): https://lovable.dev/careers
-  - HN Aug 2025 hiring post (verified opened, founder sponsor visa original quote): https://news.ycombinator.com/item?id=44761620
-  - Levels.fyi Stockholm SWE (verified opened): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm
+  - **HN "Who is hiring? (October 2026)"** (2026-10-02, vikeri): "we sponsor visas and have very generous relocation packages", Stockholm / London in-person [Source (verified opened): https://news.ycombinator.com/item?id=49930260]; the 2025-08 post made the same commitment (incl. "even if you just want to come for a year") [Source (verified opened): https://news.ycombinator.com/item?id=44761620]
+  - The careers page only states relocation support ("Moving countries is a big deal. We help make it a little less so."); none of the 81 JDs contains the word "visa"
+  - **SE work permit**: from 2026-06-16 the salary must be ≥ SEK 34,470/month (90% of the SEK 38,300 median) [Source (verified opened): https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html] (previous: 80% of median, ~SEK 28,480/month, 2026-05, outdated); Lovable SWE pay is far above
+  - **NL**: Lovable is not on the IND register (no NL entity) → zoekjaar / Kennismigrant give no direct benefit; you would move to SE on an SE work permit [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]
+- **Salary range (gross/year, Levels.fyi Greater Stockholm direct read 2026-10-10; few samples, not entry level)**:
+  - median SEK 965K, range SEK 792K–SEK 965K+; median package = base SEK 761K + stock SEK 203K (12 YOE) [Source (verified opened): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm]
+  - Previous (2026-05): range SEK 642K – SEK 879K+, median SEK 641,941; **no public entry-level data**; Stockholm JDs do not disclose pay (only US JDs do, e.g. Boston Analytics Engineer $141.5K – $192K + equity)
+- **Application window**: rolling; nothing announced for 2027; no previous grad cycle
+- **Interview process**: 2026-06 check: short application form → recruiter intro call → ~30 min technical interview, focused on practical building [Source (verified opened, 2026-06): https://www.glassdoor.com/Interview/Lovable-Interview-Questions-E1912696.htm]; Glassdoor returned 403 this time, not re-checked; no OA
+- **Competition**: very high (decacorn + mostly senior roles); inferred that new grads only have a chance with standout AI agent / full-stack work, ideally via direct contact on HN / X (@cviktore)
+- **Key links**: Careers (verified opened): https://lovable.dev/careers · HN 2026-10 (verified opened): https://news.ycombinator.com/item?id=49930260 · Levels.fyi Stockholm (verified opened): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Language**: [中文](uber.md) | English
 >
-> Updated: 2026-05-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (rich full-time interview experiences, fewer intern experiences but Uber has an official EMEA intern blog)
 > Company background: Uber Technologies Inc. (NYSE: UBER) Amsterdam EMEA HQ, mainly handles Marketplace / Maps / Payments / Mobile / Safety products & engineering
 
@@ -27,48 +27,23 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Uber has global standard New Grad SDE hiring, Amsterdam / Aarhus / Sofia / Lisbon all have public roles; Levels.fyi NL SWE I data complete / TechPays 11 data points / multiple Glassdoor Amsterdam interview experiences)
-> Different from internship: internship 3-6 months + EU student schools preferred; **New Grad SDE** full-time IND Kennismigrant + 30% ruling, international student treatment significantly improved
+> Checked: 2026-10-10 (live WebFetch + Uber Oracle Recruiting API) | Information richness: ⭐⭐⭐ (basis: full ATS job list + Levels.fyi 2026-10 direct read; interview / visa details carried over from older data)
+> **2027 intake status**: **No programme / 0 new-grad SWE roles in Europe** — on 2026-10-10 the ATS lists 619 open jobs, 97 in Europe; Amsterdam's 6 are all non-engineering (marketing / HR / finance / sales), Lisbon's 7 non-engineering, Sofia 0, Aarhus 4 (incl. "Software Engineer - Denmark Pool", posted 2026-10-07); the only grad SWE req worldwide is the US "Graduate 2026 PhD Software Engineer II (AV Labs)" (2026-09-11) [Source (read via curl): https://iaziqy.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs;siteNumber=CX_1,limit=100]
+> 2026 H2 change: the careers site moved from uber.com/careers to jobs.uber.com (old URLs 301-redirect) [Source (verified opened): https://jobs.uber.com/en/teams/emerging-talent/]; layoff / freeze news not checked this round
+> ⚠️ **Pending web verification**: IND recognised-sponsor status, 30% ruling details, interview rounds, and Aarhus / Sofia / Lisbon pay are carried over from 2026-05 data and were not re-checked this round; verify before using for salary / deadline decisions.
 
-- **Common role names**: **Software Engineer (New Grad)** / **Software Engineer I** / **Software Engineer II** (1-2 yrs); Uber internal level **L3 / SWE I** = New Grad, **L4 / SWE II** = Junior/Mid; no dedicated "Graduate Programme" brand, uses standard SWE hiring + new-grad pool [Source (search result): https://jobs.uber.com/en/locations/amsterdam/]
-- **European locations**:
-  - **Amsterdam (EMEA HQ, Mr Treublaan 7)**: New Grad has the most slots but most competitive (Mobility / Maps / Payments / Safety teams), 2026 public roles still mainly Senior / Staff [Source (search result): https://jobs.uber.com/]
-  - **Aarhus (DK)**: Grail / Data infrastructure team, New Grad data / backend roles
-  - **Sofia (BG)**: Mobile / Web frontend New Grad (salary ~1/3 of Amsterdam, but cohort is largest)
-  - **Lisbon (PT)**: added 2024, Marketplace team, New Grad slots starting to expand
-  - Same as internship locations, but Sofia / Lisbon new grad slots are more than internship
-- **Whether there's an independent Graduate Programme**: **No** — Uber has no cohort-based grad scheme; uses standard Software Engineer hiring + "new grad" / "early career" tag filtering; but internally has **EMEA Engineering Onboarding** 4-week training + buddy system
-- **Non-EU visa (full-time)**:
-  - Uber Netherlands B.V. is an IND **Recognised Sponsor**, Kennismigrant experience mature
-  - Amsterdam New Grad SDE full sponsor: visa + relocation lump sum (~$5K-$10K) + 30-day corporate apartment + one-way ticket
-  - Aarhus / Sofia / Lisbon each country uses Skilled Worker / Blue Card local paths; Sofia is Uber EMEA's most visa-friendly hub (Bulgaria Blue Card salary threshold low)
-  - **30% ruling (NL 2026)**: Amsterdam New Grad base **far exceeds** Kennismigrant threshold **€4,357/month <30 = €52.3K/year** (master's new graduates have **reduced €2,801/month / €33.6K** channel) [Source (verified opened): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026], 100% applicable — internship completely not applicable
-  - **International student friendliness EMEA top-tier** — Uber is one of the few European companies that standardizes US-style new grad global sponsorship
-- **Salary range (base, gross/year, 2026-05 Levels.fyi verified)**:
-  - **Amsterdam SWE I (L3 / E3 entry)**: **$84.7K base + $10.5K RSU + $8.7K bonus ≈ $104K total** (USD quote ≈ €96K total) [Source (verified opened): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **NL entry-level average (TechPays 4 data points)**: **€75.7K total comp** [Source (search result): https://techpays.com/europe/netherlands/uber/amsterdam/entry-level]
-  - **SWE I base only (Levels NL filter)**: €67.9K-€91.1K range, median **€85K total** [Source (search result): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands]
-  - **Amsterdam SWE II (L4, 1-2 yrs)**: $124K base + $45K RSU + $16.4K bonus ≈ **$186K total / €172K** [Source (verified opened): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **Aarhus New Grad SDE**: DKK 600K-720K base (~€80K-€96K)
-  - **Sofia New Grad SDE**: BGN 70K-100K base (~€36K-€51K) + RSU; locally extremely high salary
-  - **Lisbon New Grad SDE**: €40K-€55K base + RSU
-  - **Equity**: UBER (NYSE) RSU, 4-year vest **35-30-20-15** accelerated (Y1 heavy) [Source (verified opened): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area]
-  - After 30% ruling Amsterdam SWE I take-home ≈ €4.5K-€5.5K/month net (and SWE II up to ≈ €7K-€8K/month net)
-- **Application window**: **Annually Aug-Oct opens New Grad SWE** (synchronized with US), Nov-Dec interviews, Jan-Mar offers, Jul-Sep start; missing the window means waiting until next year; New Grad slots basically cannot be reopened once closed
-- **Interview process differences vs internship**:
-  - Same process structure (Recruiter → CodeSignal OA → Hiring Manager → Onsite), but **Onsite goes from 3 rounds to 5 rounds**: +1 System Design (45 min, design ride-matching / ETA prediction / real-time location stream), +1 deeper Behavioral (Bar Raiser style, with Senior+ interviewers)
-  - **OA difficulty increased** — internship CodeSignal medium, New Grad includes 1 hard (DP / graph)
-  - Total process 6-8 weeks (internship 5-6 weeks)
-- **Hiring competition**: Amsterdam New Grad SDE acceptance rate **~2-4%** (applicant pool 5,000-8,000), more competitive than internship; Aarhus / Sofia due to unpopular locations actually have ~8-12% acceptance; **Chinese student friendliness higher than Booking / Adyen** (Uber global hire culture)
-- **Key links**:
-  - Uber global career: https://jobs.uber.com/
-  - Uber Amsterdam location page: https://jobs.uber.com/en/locations/amsterdam/
-  - Levels.fyi Uber SWE Greater Amsterdam (2026-05 verified): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area
-  - Levels.fyi Uber SWE I Netherlands (€85K median): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands
-  - TechPays NL Uber entry-level: https://techpays.com/europe/netherlands/uber/amsterdam/entry-level
-  - LeetCode Discuss Uber Amsterdam interview: https://leetcode.com/discuss/interview-experience/?query=uber+amsterdam
-  - 1point3acres Uber tag: https://www.1point3acres.com/bbs/tag/uber-1064-1.html
-  - JoinTaro Uber: https://www.jointaro.com/interviews/companies/uber/
+- **Role names**: Uber has no graduate programme in Europe; entry level = **Software Engineer I** (L3); the Emerging Talent page lists only Software Engineering Internship Program / Data Science & Applied Science Internships / MBA Internship Program / Strategy, Operations, Analytics Rotational Program / UberSTAR / Management Trainee — no new-grad SWE programme [Source (verified opened): https://jobs.uber.com/en/teams/emerging-talent/]
+- **Eligibility**: no public data (no open new-grad role to read)
+- **European locations**: Amsterdam (EMEA HQ) / Aarhus / Sofia / Lisbon are the historic engineering hubs; on 2026-10-10 only Aarhus has engineering roles open (Senior SWE / EM / "Denmark Pool")
+- **Programme structure**: no cohort / rotation, direct team hire (the 4-week EMEA onboarding in the older version was not re-checked)
+- **Non-EU visa (full-time)**: NL Kennismigrant 2026: €4,357/month (<30) / reduced €3,122/month (recent NL master's grads) [Source (verified opened): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]; Amsterdam SWE I base €75.3K clears both; Uber as IND recognised sponsor (older data, not re-checked) — the NL student visa / zoekjaar → Kennismigrant route works, but only if an Amsterdam engineering req exists
+- **Pay (Levels.fyi Greater Amsterdam, 2026-10 direct read)**: SWE I **€94.6K** TC (€75.3K base + €11.7K stock + €7.6K bonus); SWE II €157K (€107K base + €36.5K stock + €13.5K bonus) [Source (verified opened): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area] (previous 2026-05: SWE I $104K ≈ €96K; SWE II $186K ≈ €172K); NL SWE I TC median €90.4K (n=10, YOE 0–7) [Source (read via curl): https://www.levels.fyi/companies/uber/salaries/software-engineer/levels/software-engineer-i/locations/netherlands]
+- **Other locations (Levels.fyi, read via curl, old samples)**: Denmark SWE I DKK 624.5K base / DKK 875.9K TC (n=5, 0 in last 12 months) [Source (read via curl): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/denmark]; Bulgaria SWE I $35.9K base / $44.2K TC (n=3, 0 in last 12 months) [Source (read via curl): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/bulgaria]; Lisbon: Levels.fyi Portugal has 1 sample only, no usable entry data (old estimate removed)
+- **Equity**: RSU 4-year vest 35/28/22/15 (monthly) [Source (verified opened): https://www.levels.fyi/companies/uber/salaries/software-engineer/locations/greater-amsterdam-area] (previous: 35-30-20-15)
+- **Application window**: the older "new grad opens Aug-Oct every year" pattern has not appeared in 2026: as of 2026-10-10 Europe has 0 new-grad SWE reqs; European 2027 internships are business roles only (Ops / BD / Account Mgmt / Sales in Berlin / Munich / London / Madrid / Paris, posted 2026-09-30 to 2026-10-07). Inferred: any 2027 European new-grad SWE openings will be scattered SWE I reqs
+- **Interview process differences vs internship**: (older data, not re-checked) Recruiter → CodeSignal OA → HM → onsite (coding + system design + behavioral), 6-8 weeks
+- **Hiring competition**: no req = no new-grad entry point right now; the older "~2-4%" acceptance rate is a community estimate, not re-checked
+- **Key links**: Emerging Talent (verified opened): https://jobs.uber.com/en/teams/emerging-talent/ · Amsterdam page (verified opened): https://jobs.uber.com/en/locations/amsterdam/ · job search (JS-rendered): https://jobs.uber.com/en/jobs/?location=Amsterdam&radius=100 · TechPays: https://techpays.com/europe/netherlands/uber/amsterdam/entry-level
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](huggingface.en.md)
 >
-> 更新时间: 2026-09-26
+> 更新时间: 2026-10-10
 >
 > 全球开源 ML 社区中心, 法美双总部 (Paris + NYC), 几乎所有岗位都支持 remote. 招聘**极度看重开源贡献** — GitHub PR/HF Hub 上的可见 contribution 权重高过传统 CV. 实习 stipend 在欧洲算高 (€35K/年 gross = €2.9K/月).
 
@@ -25,33 +25,20 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐ (Levels.fyi Paris median 2026-05-27 实测, Workable + Indeed 实测有 remote 全职岗; HF 仍**无正式 new grad programme**, junior-specific 数据稀少)
-> 区别于实习: 全职 entry-level (0-2 年经验) — HF 不打 "junior" 标签, 直接走 ML Engineer / Software Engineer / Research Engineer 的最低档
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch; Workable API / IND / UK 登记册为全表下载核对) | 信息丰富度: ⭐⭐⭐ (依据: Workable 在招岗逐条 + Levels.fyi Paris + SEC 8-K; junior 专属数据仍稀少)
+> **2027 Intake 状态**: **No programme** — 无 new grad / graduate programme; 2026-10-10 Workable 仅 6 个全职岗, 0 个 intern / junior / new grad 岗 [来源 (实际打开过): https://apply.workable.com/api/v1/widget/accounts/huggingface]
+> **2026 H2 动态**: NVIDIA 2026-09-02 签署最终协议收购 Hugging Face (NVIDIA blog 公布总价 $12,930,300,000; ~$11.9B 付股东 + 最高 ~$1.0B 员工留任股权), 预计 2027 H1 完成, 需监管批准 [来源 (实际打开过): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm] [来源 (实际打开过): https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/]; 推断: 交割前 headcount 扩张信号弱, HF 股权按交易条款处理
 
-- **常见岗位名**: ML Engineer, Software Engineer, Research Engineer (Open Source / Hub / Science), Cloud ML DevRel Engineer, Backend Engineer; **无 "Junior" / "Graduate" / "L3" 显式 title** — 全部统称 "Engineer", 内部按经验定 level [来源 (搜索结果): https://startup.jobs/company/hugging-face]
-- **欧洲地点**: Paris (主力, 与实习一致) + Remote EMEA (大多数岗位都开 remote, 2026 Cloud ML DevRel "EMEA Remote" 是公开 case [来源 (搜索结果): https://www.indeed.com/q-hugging-face-l-remote-jobs.html]); London / Berlin / Amsterdam 等本地工程师以 contractor 形式合签
-- **是否有独立 Graduate Programme**: **No** — HF 是 ~350 人 OSS 小厂, 不跑 cohort-based grad pipeline; new grad 与有经验候选人**走同一条流程**, 用 OSS contribution 当 leveling 主信号
-- **非EU签证 (全职)**: Paris 全职岗 Hugging Face SAS 可办 Passeport Talent (salarié qualifié), 2026 起 base 需 ≥ €43,243/年 (法定 SMIC × 1.8), HF Paris median base €70.8K 远超达标; 对于 fully remote EMEA 岗, HF 通常以 contractor (Deel / Remote.com) 在你本国签合同, **不涉及签证 sponsor**; 这与实习走 carte de séjour étudiant + convention de stage 完全不同
-- **薪资范围 (base, gross/年)**:
-  - **Paris SWE median 2026-05-27 实测**: **base ~€70.8K (~$81.7K) / total ~€79.1K (~$91.9K) / stock ~€10.2K** — 数据点是 L3 ML Ops Engineer, 0 年 tenure [来源 (实际打开过): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area]
-  - **Paris SWE 区间**: €63.9K-€79.1K+ total comp (Levels.fyi 2026-05 区间)
-  - **France 全境 SWE 区间**: €62.8K-€78.2K+ (与 Paris 几乎一致, 说明 HF 法国岗薪资带很窄) [来源 (搜索结果): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/france]
-  - **ML Engineer (单独 title)**: €58.8K-€75.4K+ — 略低于通用 SWE, 但样本小 [来源 (搜索结果): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/title/machine-learning-engineer]
-  - 远程其他 EMEA 城市: HF 公开声明 "adjusted to cost of living" — 同岗按城市浮动, Berlin / Amsterdam 估计 €65-78K base, 东欧 €45-55K
-  - 股权: ~$10K/年 RSU equivalent (Levels.fyi 同条目); HF 未上市, equity 价值取决 IPO / 下一轮估值 (2023 D 轮估值 ~USD 4.5B)
-- **申请窗口**: rolling — 不像 intern cohort 那样集中宣布; Workable 招聘页 2026-09-26 实测共 8 个开放 full-time 岗 (Xet Storage SWE ×2, Open-Source ML Engineer ×2, Senior ML Engineer Voice Agents ×1, Senior Open-Source Python Engineer ×2, Wild Card ×1), **无 2027 实习 cohort 或 New Grad/Graduate 岗位在架** [来源 (实际打开过): https://apply.workable.com/api/v1/widget/accounts/huggingface]
-- **面试流程差异 vs 实习**:
-  - 流程**与实习几乎一致** (recruiter → take-home → review call → team fit); 但 take-home 难度更高 (实习是 "做一个 Spaces demo", 全职是 "在主仓 fix 一个真实 issue 或新增 model 集成 PR")
-  - **OSS contribution 权重比实习还重** — 全职 hire 几乎要求你**已经是 HF 生态的 contributor** (transformers / diffusers / datasets / accelerate / peft / trl 主仓有 merged PR)
-  - 不考 LeetCode, 不考系统设计白板; **paper bar 低于 Mistral / Cohere Research** (Science Team 例外)
-  - Research Engineer 岗会问最近一两篇 HF science blog / 论文 (FineWeb, SmolLM, Idefics 等)
-- **录取竞争**: bar 高但**国际生 friendly** — HF 招聘描述反复强调欢迎 underrepresented, 学校牌子无权重, **OSS 是硬通货**; 一个 contributions tab 全绿的二线学校 new grad > 清北无 OSS 的; 实际 hire rate 极低 (公司规模小, 全年 full-time hire 量估计 < 50)
-- **关键链接**:
-  - 官方 careers 页: [apply.workable.com/huggingface](https://apply.workable.com/huggingface/) (实际打开过, landing 页指向 Workable listing)
-  - Levels.fyi Paris SWE: [Hugging Face SWE Paris](https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area) (实际打开过, 2026-05-27 数据)
-  - HF Recruiter AMA (Emily Witko): [discuss.huggingface.co - AMA](https://discuss.huggingface.co/t/ama-with-emily-witko-hf-recruiter/18076)
-  - Glassdoor HF Paris salaries: [Glassdoor HF Paris](https://www.glassdoor.com/Salary/Hugging-Face-Paris-Salaries-EI_IE6487302.0,12_IL.13,18_IC2881970.htm)
-  - r/MachineLearning HF hiring 讨论: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/search/?q=hugging+face+hiring&restrict_sr=on)
+- **岗位名称**: 无 "Junior / Graduate" title, 统称 Engineer; 2026-10-10 EMEA 岗: Open-Source Machine Learning Engineer - EMEA Remote (2026-05-29 挂出, 未写年限)、Senior ML Engineer, Voice Agents - EMEA Remote (2026-09-02)、Senior Open-Source Python Engineer, ML Developer Tools - EMEA Remote (2026-09-21, 要求 5+ years Python); 另 US Remote ×2 + Wild Card (2024-10-17); 2026-09-26 时为 8 个 (Xet Storage SWE ×2 已下架) [来源 (实际打开过): https://apply.workable.com/api/v1/widget/accounts/huggingface]
+- **资格窗口**: 无毕业窗口 / 学位硬门槛; 核心是 "A public track record of open-source contributions ... that we can review on GitHub" + PyTorch + Transformers / Datasets / Accelerate 栈; 英语 (async 书面沟通) [来源 (Workable API 直读): https://apply.workable.com/j/81B46579FE]
+- **欧洲地点**: Paris office + EMEA Remote; JD 原文 "While we have office spaces in NYC and Paris, we're very distributed"
+- **项目结构**: 无 cohort / rotation; new grad 与资深候选人同一流程, 以 OSS 贡献定级
+- **非EU签证 (全职)**: 6 个 JD 均无 visa / sponsorship 字样 (2026-10-10); Paris 岗可走 FR Passeport Talent (2026 门槛 €39,582/年 + Master) [来源 (实际打开过): https://jobbatical.com/blog/france-talent-passport-salary-threshold] (旧版: €43,243/年, 2026-09); **HF 不在 IND recognised sponsor 登记册** [来源 (全表下载核对 2026-10-10): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], 也不在 UK sponsor 登记册 [来源 (全表下载核对 2026-10-09): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv] → HF 无法直接办 NL Kennismigrant / UK Skilled Worker; 推断: Remote EMEA 岗需本人在居住国已有工作权 (zoekjaar 期间可在 NL 工作, 结束后需 recognised sponsor); 旧版 "经 Deel / Remote.com 签约" 未找到公开出处
+- **薪资范围 (gross/年)**: Levels.fyi Greater Paris (2026-10-10): 中位 TC €81,646 (32 条), 平均 €81,859, 最高 €99,420, 无 junior 分级 [来源 (实际打开过): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/greater-paris-area] | 旧版 (2026-05-27): base ~€70.8K / total ~€79.1K / stock ~€10.2K (L3 ML Ops, 0 年 tenure); France 全境 €62.8K-€78.2K+ [来源 (搜索结果): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/locations/france]; MLE title €58.8K-€75.4K+ [来源 (搜索结果): https://www.levels.fyi/companies/hugging-face/salaries/software-engineer/title/machine-learning-engineer] | 股权: JD 原文 "All employees have company equity"
+- **申请窗口**: Rolling, 无截止日期; 2026-10-10 无 2027 实习 cohort / new grad 岗在架
+- **面试流程差异 vs 实习**: 与实习基本一致 (recruiter → take-home → review call → team fit), 全职 take-home 偏真实仓库 issue / 模型集成 PR; 不考 LeetCode; Research Engineer 岗会问近期 HF science 工作 (FineWeb, SmolLM 等) — 以上为旧版信息, 本轮未找到 2026 新面经
+- **录取竞争**: 名额极少 (EMEA 非 senior 工程岗仅 1 个); OSS 贡献是硬通货, 学校牌子权重低; 收购交割前不确定性高
+- **关键链接**: Workable https://apply.workable.com/huggingface/ (旧版实际打开过) · Workable API (实际打开过) · Levels.fyi Paris (实际打开过) · NVIDIA blog / SEC 8-K (实际打开过) · Recruiter AMA https://discuss.huggingface.co/t/ama-with-emily-witko-hf-recruiter/18076
 
 ---
 

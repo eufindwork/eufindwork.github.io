@@ -49,7 +49,7 @@
   - **Greater Amsterdam SWE range**: **€57.7K – €65.7K+** (Levels.fyi) [来源 (实际打开过): https://www.levels.fyi/companies/picnic/salaries/software-engineer/locations/greater-amsterdam-area]
   - **股权**: private (still pre-IPO, EQT / Hoogvliet 投资), equity 极少, 主要靠 base
   - 加 **25 天年假 + pension + free 周语言课程 + OpenUp 心理咨询 + 健身 + 健康午餐**
-- **Sponsor 政策 (FT)**: NL Kennismigrant. **Tech Academy base ≈ €54K = €4,500/月**, 刚好满足 < 30 HSM 阈值 (€4,357). UvA master grad reduced HSM (€2,801) 完全无障碍.
+- **Sponsor 政策 (FT)**: NL Kennismigrant. **Tech Academy base ≈ €54K = €4,500/月**, 刚好满足 < 30 HSM 阈值 (€4,357). UvA master grad reduced HSM (€3,122) 完全无障碍.
 - **申请窗口**: 2 个 intake/年 (March + September), 提前 4-6 个月开放
 - **流程差异 vs intern**:
   - Tech Academy: 5 stages (CV → Phone → Interviews → **Assessment Day** → Offer)
@@ -66,7 +66,7 @@
 - **已知 sponsorship 案例**:
   - workwithvisa.com 收录 Picnic + HSM sponsor + relocation 详情 [来源: https://workwithvisa.com/companies/picnic]
   - Picnic 官方 relocation 页 [来源 (实际打开过): https://jobs.picnic.app/en/relocation]: **flights for you + direct family + 1 month partner hotel + onboarding 期间住宿**
-- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: Tech Academy base 满足 + 海外招聘 + 居住 ≥150km 三条件可申
 
 ---
@@ -148,7 +148,7 @@
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
 - **Intern 可行性**: **零摩擦** — UvA 在读 + NL 学生签直接满足 graduation internship 要求 (NL 在读). 学生签 16h 学期 / 40h 假期 cover stage, Nuffic convention 走完, **公司无需办 work permit**
-- **FT 可行性**: **零摩擦** — 走 zoekjaar 后申 Tech Academy / Junior Java, base €54K 远超 reduced HSM €2,801, 也超标准 HSM €4,357. relocation 已 cover (但 UvA 本地学生不需要)
+- **FT 可行性**: **零摩擦** — 走 zoekjaar 后申 Tech Academy / Junior Java, base €54K 远超 reduced HSM €3,122, 也超标准 HSM €4,357. relocation 已 cover (但 UvA 本地学生不需要)
 - **预计摩擦**: **零** (两个路径都顺)
 - **UvA 优势**:
   - Picnic HQ 在 Hoofddorp, 离 UvA 校区 ~20 km, 约 30-40 min 公交 / 单车不便, 但 Picnic 有 Amsterdam Centraal 班车

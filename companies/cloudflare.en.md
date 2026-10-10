@@ -2,7 +2,8 @@
 
 > **Language**: [中文](cloudflare.md) | English
 >
-> Updated: 2026-06-01
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — the 'London GBM only, no Skilled Worker' and 'no NL office' claims in the header and §2/§6/§7/§8 (the 2026-10-09 UK register shows a Skilled Worker licence for Cloudflare Limited, and Cloudflare Netherlands B.V. is on the IND register); the official Lisbon intern stipend is €2,450/month, not €2,800-3,500.
 > One-liner: CDN / edge / zero-trust giant, 2026 announced "1,111 interns" epic intern plan (spring/summer/fall + 12 weeks paid), London + Lisbon are two main European hubs. **Key trap**: UK Cloudflare Limited **only holds GBM Senior/Specialist Worker license** (£48,500 + 12 months overseas work experience), **not Skilled Worker** — grad / intern cannot go directly. **Lisbon via Portugal Tech Visa (IAPMEI accredited)** is actually simplest, optimal path for NL student visa users.
 
 ---
@@ -45,26 +46,20 @@
 
 ## NG (New Grad / Junior Full-time) Path
 
-- **Role naming**:
-  - "Software Engineer L1" / "Systems Engineer L1" — all hubs
-  - "Engineer, New Grad" — periodic posting
-  - Lisbon: "Software Engineer L1, Lisbon"
-- **Standalone cohort program**: No explicit grad scheme; new hire follows standard onboarding bootcamp (2 weeks)
-- **Starting salary (base + bonus + RSU)**:
-  - **London L1 SWE base**: £62-75K [Source (verified opened): https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/london-metro-area]
-  - **London L2 median TC**: £88,122 (P50)
-  - **London L3 median TC**: £107,914
-  - **London full range**: £62K-£230K (L1 → L6)
-  - **Lisbon L1**: €45-55K base, TC ~€55-70K (incl. RSU)
-  - **Lisbon senior (L5)**: clear €100K TC [eurotoptech 2026 data]
-- **Sponsor policy (FT)**:
-  - **UK (London)**:
-    - Cloudflare Limited holds **GBM Senior/Specialist Worker** A-rated license, **not** Skilled Worker [Source (verified opened): https://sponsorlist.co.uk/visa-sponsorship/cloudflare-limited/]
-    - GBM requires: salary ≥ **£48,500** (or going rate, take higher), **12 months+ overseas Cloudflare work experience** (unless salary >£73,900)
-    - **Result**: New grad **nearly cannot directly** get UK Cloudflare offer + visa — must first work at Cloudflare US / other office for 12 months, then internal transfer to London
-  - **Lisbon**: Portugal Tech Visa, IAPMEI accredited, 1-3 months processing; also enjoys IFICI 20% flat tax 10 years [eurotoptech verified opened]
-- **Application window**: Rolling, 10-2 month intensive
-- **Process difference vs intern**: Adds one round system design + cross-team with staff/principal eng, total 5 rounds
+> Checked: 2026-10-10 (live WebSearch + WebFetch + Greenhouse API) | Information richness: ⭐⭐⭐⭐ (basis: full scan of 424 Greenhouse jobs + official blog + UK / IND sponsor registers + Levels.fyi direct read; missing: 2025-26 European new-grad interview reports)
+> **2027 intake status**: **No programme (no standalone new-grad programme)** — no new grad / junior role on Greenhouse on 2026-10-10; the only early-career entry is **Software Engineer Intern (2027)** (London + Lisbon, posted 2026-10-05, rolling until filled) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs/8245197]; official blog (2026-10-05): >750 early-career interns across 48 teams in 2026 (goal 1,111), "many of this year's interns are coming back to Cloudflare full-time", no separate new-grad programme mentioned [Source (verified opened): https://blog.cloudflare.com/one-year-later-1111-interns/]
+> **2026 news**: 2026-05-08 announced ~1,100 job cuts (~20%), affecting all teams and geographies, quota-carrying sales roles exempt; the CEO said hiring continues and expects more employees in 2027 than at any point in 2026 [Source (verified opened): https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/]
+
+- **Role naming**: no role titled "New Grad"; European engineering roles mostly ask 3+ years (e.g. Security Rules / Network Automation / MCP Portals); a generic "Software Engineer" role (Lisbon / London) states no years [Source (fetched via curl): https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true]; main path to full-time = intern return offer (same blog)
+- **Eligibility**: interns must be "Currently pursuing a degree" and not be taking classes during the internship (full-time 40h/week, 3-5 days in office) — graduates can no longer use the intern route; full-time L1 has no published eligibility window
+- **European locations**: Greenhouse 2026-10: London 78 roles / Lisbon 43 / Amsterdam 7 (incl. 2 senior engineering roles) / Munich 7 / Paris 5 (same API)
+- **Programme structure**: intern 12-14 weeks, two 2027 terms: Winter/Spring (January - May 2027) / Summer (May - September 2027) (same Lisbon posting); no new-grad cohort programme
+- **Non-EU visa (full-time)**: **Correction**: the UK register (2026-10-09 edition) shows Cloudflare Limited holds both **Skilled Worker** and GBM Senior or Specialist Worker (A rating) [Source (verified opened): https://sponsorlist.co.uk/visa-sponsorship/cloudflare-limited/ , https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers] (previous: "GBM only, no Skilled Worker", 2026-06); Skilled Worker threshold £41,700, new entrant £33,400 (under 26, etc.) [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job , https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less]; a licence ≠ guaranteed new-grad sponsorship, and postings carry no visa statement; **NL**: Cloudflare Netherlands B.V. (KvK 82497060) is on the IND recognised-sponsor register [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], but Amsterdam currently lists only senior / sales roles; **Lisbon**: "Cloudflare Lisbon" is listed as an IAPMEI-accredited Tech Visa employer, processing 1–3 months, IFICI 20% flat tax for 10 years (article 2026-04-30) [Source (verified opened): https://www.eurotoptech.com/blog/visa-sponsorship-portugal-software-engineers-2026]
+- **Starting pay (TC, gross/yr)**: Greater London L1 **£57.9K = £50.8K base + £7.1K stock + £0 bonus**, L2 £84.7K (£72.8K base), L3 £120K, median £128K (2026-10) [Source (verified opened): https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/london-metro-area] (previous: L1 base £62-75K, L2 £88,122, L3 £107,914); Portugal L1 **€44.2K = €39.8K base + €4.4K stock**, L2 €57.3K, L3 €74.9K, median €65K (2026-10) [Source (verified opened): https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/portugal] (previous: Lisbon L1 base €45-55K); RSU 4 years (25% first year, then quarterly) (same Levels.fyi pages)
+- **Application window**: no fixed new-grad window; 2027 intern rolling from 2026-10-05 (London posting) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs/8245211]; last intern cycle opened on a rolling basis from 2025-10-15 (previous record)
+- **Process difference vs intern**: previous record: full-time adds a system design round + cross-team round, about 5 rounds (see §3); new 2025-26 reports: no public data (none found this round)
+- **Competition**: still hiring interns (>750) after the 2026 layoff; full-time entry-level headcount: no public data
+- **Key links**: Lisbon / London intern postings, 1111 one-year blog, Levels.fyi London / Portugal (all verified opened, above); official jobs page: https://www.cloudflare.com/careers/jobs/ (previous link, not re-opened this round)
 
 ---
 

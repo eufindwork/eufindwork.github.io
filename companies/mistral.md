@@ -2,6 +2,9 @@
 
 > **Language**: 中文 | [English](mistral.en.md)
 >
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头的估值 / 人数说明 (2026-09 Series D €3B, 估值 €21B).
+>
 > 法国本土头牌大模型公司, 估值约 60-140 亿欧元 (2024-2025), 团队 ~100 人迅速扩张至 200+. 招聘门槛极高, 通常需要 NeurIPS/ICML 级别论文或顶会一作; Master 实习生需来自 "Tier 1" 工程师学院.
 
 ---
@@ -22,44 +25,20 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐ (Mistral 2026 公开数据扩张明显 — Levels.fyi L2 Paris 数据出来了 + jobsbyculture 详细分级 + 164 active reqs; 但应届独立 "Graduate" 命名 req 仍少, 主要靠 PhD/Master 实习 + CIFRE 转正)
-> 区别于实习: 全职 entry-level (0-2 年经验); Mistral **2026 已扩张到 1,000+ 员工** (远超 2025 100-200 规模) [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]; 招聘 senior-skewed 但 L1/L2 入口已公开
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch; Ashby / IND / UK 登记册为全表下载核对) | 信息丰富度: ⭐⭐⭐⭐ (依据: Ashby 213 个在招岗位逐条解析 + Levels.fyi Paris 分级 + 官方融资 / 新闻)
+> **2027 Intake 状态**: **No programme (筹建中)** — 无命名 graduate cohort, 全年 rolling; 2026-10-09 新挂 "Talent Acquisition Specialist, Early Careers - EMEA" (Paris), JD 原文: 负责 "design, build, and run our global early careers strategy — spanning internships, graduate hiring, and campus recruitment", "build early careers programs from the ground up" → 推断: 2027 起可能出现结构化 intern / graduate 招聘 [来源 (实际打开过): https://jobs.ashbyhq.com/mistral.ai/72a2da95-0844-4b5a-8656-7d73360c788d] [来源 (Ashby 公开 API 直读): https://api.ashbyhq.com/posting-api/job-board/mistral.ai]
+> **2026 H2 动态**: 2026-09-08 Series D €3B, 估值 €21B (Samsung / EQT Scaleup Europe / PSG Equity 联合领投), 用途含 "expand its international footprint" [来源 (实际打开过): https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/]; 2026-09-28 开设 Munich hub; 2026-10-06 发布 Mistral Large 4 [来源 (实际打开过): https://mistral.ai/news/]
 
-- **常见岗位名**: Software Engineer (L1 Entry / L2 / L3 Lead)、ML Research Engineer、Research Scientist、Applied AI Engineer、Forward Deployed ML Engineer; 招聘页很少挂 "Graduate" 标签 — 偏好 1-2 年大模型经验 / PhD 在读 / 应届 PhD
-- **欧洲地点**: 主基地 **Paris (9 区)** — 占大多数员工 [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]; 增长 **London + San Francisco**; Junior / 应届岗几乎默认 Paris onsite
-- **是否有独立 Graduate Programme**: **No** — 没有命名 cohort, 但有两条 entry pathway:
-  - **CIFRE (法国博士企业联合培养) → Full-time Research Engineer**: Mistral 在 AI Scientist Internship JD 中**明确写支持 CIFRE 续期** [来源 (实际打开过): https://www.indexventures.com/startup-jobs/mistral/ai-scientist-paris-internship-phd/ via 搜索]; 是 PhD 学生主入口
-  - **Master 实习 → 全职 Software Engineer L1/L2**: Applied AI / Forward Deployed Engineer 实习是 Master / M2 直接通道
-- **非EU签证 (全职)**:
-  - **France Passeport Talent (Salarié Qualifié)**: 月薪 ≥ 2x SMIC (~€3,494/月 gross), Mistral Software Engineer L1 起薪 €70-90k 远超阈值 [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]
-  - **EU Blue Card (France)**: 2026 阈值 ~€54-55k/年, Mistral L1 边缘达标 / L2+ 安全达标
-  - **APS (Autorisation Provisoire de Séjour)**: M2 法国毕业 12 + 24 个月找工作, 中国 / 印度 candidate 主路径
-  - jobsbyculture 文章未明确写 sponsor 政策, 但 Mistral 海外招聘明显 → 实际 sponsor (尤其顶会 ML candidate)
-- **薪资范围 (Levels.fyi 2026-05-28 + jobsbyculture 数据, Greater Paris Area)**:
-  - **L1 (Software Engineer, Entry / Junior)**: base €70K-€90K, +BSPCE equity, TC €90K-€130K [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]
-  - **L2 (Software Engineer)**: TC 中位 ~€78.6K, Levels.fyi USD 数据 base $85.5K + stock $5.7K = TC $91.2K (~€85K) [来源 (实际打开过): https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area]; jobsbyculture mid-level €90K-€120K base + equity → TC €130K-€180K
-  - **L3 (Lead Software Engineer)**: TC 中位 ~€134K (Levels.fyi $156K), jobsbyculture senior €120K-€165K base + €180K-€250K+ TC
-  - **Research Scientist (Mid / Staff)**: TC ~$490K (mid) / $700K-$950K (staff) [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]
-  - **股权结构**: **BSPCE** (法国 startup 期权) — 4 年 vest + 1 年 cliff + **12.8% flat tax** (vs CA 40-50%); illiquid 直到 IPO / acquisition
-  - 与法国本土 (Criteo / Doctolib) 相比 Mistral 全职 base 高 30-50%, 加上 equity 上行空间巨大
-- **申请窗口**: **Rolling 全年滚动**, 无固定截止日期; **2026-05 active 164 reqs (大幅扩张)** across research / engineering / infrastructure, 主要 Paris [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026]; 没有 cohort batch. **2026-09-26 复核**: 官网 careers 页招聘系统已从 Lever 迁移至 Ashby (jobs.ashbyhq.com/mistral.ai) [来源 (实际打开过): https://mistral.ai/careers]; 旧 Lever 页面仍可打开, 当前在招实习为 AI Scientist Internship (PhD) — Paris、AI Scientist Internship (PhD) — Palo Alto、Applied AI Engineer, Use-case (Internship) — Paris, 均为 rolling, 未标注具体截止日期 [来源 (实际打开过): https://jobs.lever.co/mistral]
-- **面试流程差异 vs 实习**:
-  - 实习 5-6 轮 (HR → Team Lead → LLM Quiz → Coding → System Design → Fit), 全职 **同样 5-6 轮每轮深度上升**
-  - **从零实现 attention 仍是高频考点**, 全职加 multi-GPU 训练 / inference optim / distributed training
-  - System Design: 全职会问 inference serving (vLLM-style)、KV cache management、batch scheduling、multi-tenant serving
-  - Founder round 在全职流程出现频率更高
-- **录取竞争**: Mistral 公开 "hire only the best", Master 实习命中率 < 5%, 全职 entry-level L1 类似严苛; 国际生 friendliness 中等偏高 (1,000+ scale 后 sponsor 流程更熟练); 顶会一作论文 / 大型开源 PR 是入场券; vs Hugging Face / Criteo AI Lab 仍最难
-- **关键链接**:
-  - Mistral Careers: https://mistral.ai/careers
-  - **Ashby Mistral Jobs (2026-09-26 起官网主链接) [来源 (实际打开过): https://mistral.ai/careers]**: https://jobs.ashbyhq.com/mistral.ai
-  - Lever Mistral Jobs (旧链接, 2026-09-26 仍可打开, 3 个在招实习) [来源 (实际打开过): https://jobs.lever.co/mistral]: https://jobs.lever.co/mistral
-  - **Levels.fyi Mistral Paris (2026-05-28)**: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area
-  - Levels.fyi Mistral France 全 levels: https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/france
-  - **JobsByCulture Mistral Compensation 2026 (含 BSPCE / 分级)**: https://jobsbyculture.com/blog/mistral-compensation-2026
-  - Mistral AI Scientist PhD Internship (含 CIFRE 续期声明): https://www.indexventures.com/startup-jobs/mistral/ai-scientist-paris-internship-phd/
-  - Welcome to the Jungle Mistral: https://www.welcometothejungle.com/en/companies/mistral-ai/jobs
-  - startup.jobs Mistral active req: https://startup.jobs/company/mistral-ai
-  - Glassdoor Mistral AI Interviews: https://www.glassdoor.com/Interview/Mistral-AI-Interview-Questions-E9945031.htm
+- **岗位名称**: 无 "Graduate / New Grad / Junior" 工程 title. 2026-10-10 Ashby 共 213 个在招 (Paris 119 / London 10 / Munich 7 / Amsterdam 4 / Stockholm 3 / Madrid 2 / Zurich、Warsaw、Luxembourg 各 1); 未写年限的工程岗: Software Engineer, Backend (Paris)、Software Engineer, Frontend (Paris/London); 多数 Applied AI / FDE 岗要求 "2+ years" (含 2026-10-09 挂出的 Amsterdam FDE ML Engineer) [来源 (Ashby 公开 API 直读): https://api.ashbyhq.com/posting-api/job-board/mistral.ai]
+- **资格窗口**: 无统一毕业窗口; Software Engineer 岗写 "Degree in CS ... or equivalent practical experience"; 英语工作, 法语加分; PhD 主入口仍是 CIFRE (实习 JD 原文 "open to CIFRE programs as a continuation after the internship") [来源 (Ashby 公开 API 直读): https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b]
+- **欧洲地点**: Paris HQ 为主 (JD 要求每周 ≥3 天到岗); London / Munich (2026-09 新 hub) / Amsterdam 以 Applied AI + 销售岗为主
+- **项目结构**: 无 rotation / cohort, 直接入组, 入职月份按 offer 协商; 实际 junior 通道 = 6 个月实习 (Applied AI FDE / Applied Scientist, Paris) 转正, 或 PhD 走 CIFRE
+- **非EU签证 (全职)**: FR Passeport Talent (salarié qualifié) 2026 门槛 €39,582/年 + Master; FR Blue Card €59,373 (短缺岗 €47,498) [来源 (实际打开过): https://jobbatical.com/blog/france-talent-passport-salary-threshold] (旧版: 2x SMIC ~€3,494/月, Blue Card ~€54-55k, 2026-05); **Mistral AI NL B.V. (KvK 99923777) 在 IND recognised sponsor 登记册** → Amsterdam 岗可办 Kennismigrant, 从 NL 学生签 / zoekjaar 转入可行 [来源 (全表下载核对 2026-10-10): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; Mistral AI UK Limited 为 Skilled Worker A-rated sponsor [来源 (全表下载核对 2026-10-09): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; 所有 JD 福利含 "relocation support", 5 个 JD 明写 "Visa sponsorship" (均非工程岗); 法国院校毕业生的找工作居留不适用于 NL 毕业生
+- **薪资范围 (gross/年, Levels.fyi Greater Paris, 2026-10-10)**: 中位 TC €103,113 (22 条); L1 中位 TC €109,559 (base ~€103K + stock ~€6.8K, n=3, 样本中位 7 年经验 → 非应届样本); L2 €77.8K (n=5); L3 €127K (n=4); 最高 €133,020 [来源 (实际打开过): https://www.levels.fyi/companies/mistral-ai/salaries/software-engineer/locations/greater-paris-area] | 旧版 jobsbyculture (2026-05): L1 base €70K-€90K, TC €90K-€130K [来源 (实际打开过): https://jobsbyculture.com/blog/mistral-compensation-2026] | 股权 BSPCE: 4 年 vest + 1 年 cliff, 12.8% flat tax, IPO 前不可流通
+- **申请窗口**: Rolling, 无截止日期; 在招数 164 (2026-05, jobsbyculture) → 213 (2026-10-10, Ashby); ATS 已由 Lever 迁至 Ashby (2026-09-26 复核)
+- **面试流程差异 vs 实习**: Software Engineer, Frontend (Paris) JD 原文: Intro call 45 min → Live-coding 45 min → System Design 45 min → Tech Culture 30 min → Culture-fit 30 min → References [来源 (Ashby 公开 API 直读): https://jobs.ashbyhq.com/mistral.ai/c0d319b2-eeef-471f-b4b1-db1f6c56289c]; 2026-09 候选人 (SWE, research-engineering 方向) technical screen 考 model / expert parallelism、RMSNorm vs LayerNorm、diffusion、Adam/AdamW、RLHF vs DPO, 结果被拒 [来源 (实际打开过): https://prachub.com/interview-experiences/mistral-ai-software-engineer-interview-experience-ml-fundamentals-for-a-research-role]; 旧版要点仍适用: 从零手写 attention、LLM Quiz、推理 serving 系统设计
+- **录取竞争**: 极高; 工程岗多写 2+ 至 5+ 年经验, 应届直投命中率低; 顶会论文 / LLM 开源 PR 仍是主要信号
+- **关键链接**: Ashby 岗位板 https://jobs.ashbyhq.com/mistral.ai (2026-09-26 起官网主链接) · Levels.fyi Paris (实际打开过) · IND 登记册 (全表下载核对) · Lever 旧链接 https://jobs.lever.co/mistral (2026-09-26 仍可打开) · CIFRE 实习 JD https://www.indexventures.com/startup-jobs/mistral/ai-scientist-paris-internship-phd/ (旧版引用, 本轮未打开)
 
 ---
 

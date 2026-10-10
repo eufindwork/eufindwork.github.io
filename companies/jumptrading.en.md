@@ -2,7 +2,7 @@
 
 > **Language**: [中文](jumptrading.md) | English
 >
-> Last updated: 2026-05-28
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐⭐ (Levels.fyi London 2025 $14k/month intern + Chicago $20.8k/month + UK Skilled Worker sponsor verified + Amsterdam 2018 established + full-time SWE median $430K data + Quant Blueprint TC band detail)
 > One-line positioning: Top prop trading firm founded 1999 by Chicago Mercantile Exchange floor traders Bill DiSomma + Paul Gurinas, extreme low latency + FPGA + AI heavy bet (internal research arm Jump Crypto + Jump AI), small but elite globally (~1,300 headcount vs DRW 1,000+); London + Amsterdam are two main European bases (Amsterdam established 2018, leads European trading); intern stipend top-tier ($120/hr Chicago) = industry outlier
 
@@ -26,51 +26,24 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (London $14k/month intern + Chicago $20.8k/month + Quant Blueprint FT TC band explicit + UK sponsor verified + Amsterdam 2018 established + Conference Travel Grant funding academia)
+> Checked: 2026-10-10 (live WebSearch + WebFetch; Greenhouse API jumptrading direct read) | Information richness: ⭐⭐⭐⭐ (basis: official campus postings + IND / UK sponsor registers + Levels.fyi London + eFC 2026-09; missing official London / Amsterdam grad pay)
+> **2027 intake status**: **Open (rolling)** — Europe campus full-time roles posted from 2026-07-13 (Systems Engineer London evergreen since 2025-09-26), no deadline, start month not published [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs]
+> **2026 H2 news**: eFC 2026-09-29: Jump Trading International Limited (London) paid $1.07m (£809k) per head in 2025, up 55%, 336 staff (+36) [Source (verified opened): https://www.efinancialcareers.com/news/jump-trading-joins-the-1m-per-head-club-in-london-as-average-pay-rose-55]; headlines: Bloomberg 2026-07-16 prediction-markets team doubled, OpenAI 2026-10-06 scaling quant research with ChatGPT, CoinMarketCap 2026-10-01 "Jane Street and Jump Moving Away from Crypto" [Source (search result): https://news.google.com/rss/search?q=%22Jump+Trading%22+when:150d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **Common role names**:
-  - **Software Engineer Intern** (10 weeks Summer, Chicago / NY / London / Shanghai)
-  - **Quantitative Researcher Intern** (Math/Physics/CS PhD heavy)
-  - **FPGA Engineer Intern** (hardware extreme low latency)
-  - **Quantitative Trader / Quant Trader Intern** (industry bar extremely high)
-  - **AI Engineer** (Jump AI sub-unit)
-  - **Quantitative Market Risk Manager** (current full-time)
-- **European locations**: London (1 London Wall, 11th Floor, EC2Y 5EA) / Amsterdam (2018, leads European trading, "small startup feel") [Source (search result): https://www.glassdoor.com/Location/Jump-Trading-Amsterdam-Location-EI_IE251744.0,12_IL.13,22_IC3064478.htm; https://immigrationgpt.co.uk/company/jump-trading-international-limited]
-- **Whether there is a standalone Graduate Programme**: **Yes "Students & New Grads" entry**, via Internship cohort + FT new grad dual pipeline; not cohort-named programme but has dedicated page https://www.jumptrading.com/hr/students-new-grads
-- **Non-EU visa (full-time)**:
-  - **London**: UK Skilled Worker active sponsor (Home Office license since 2025-11-25, 2026-05-27 last verified) [Source (verified opened): https://immigrationgpt.co.uk/company/jump-trading-international-limited]; £41,700 2026 threshold, Jump London SWE base £150K+ → far exceeds
-  - **Amsterdam**: Kennismigrant; Amsterdam is European main office, sponsorship must apply
-- **Salary structure (quant-specific, key - INDUSTRY OUTLIER)**:
-  - **SWE Intern (Chicago Summer 2026)**: **$120.19/hr ≈ $20,833/month** + corporate housing + $20K sign-on (top prop firm first tier) [Source (verified opened): https://www.levels.fyi/internships/Jump-Trading/Software-Engineer-Intern/]
-  - **SWE Intern (London Summer 2025)**: **$80.77/hr ≈ $14,000/month (~£11k/month)** + corporate housing + company-provided transportation
-  - **SWE Intern (Shanghai Summer 2026)**: $86.54/hr ≈ $15,000/month (Chinese article citation frequency high)
-  - **SWE Intern (Chicago 2023 historical)**: $138.46/hr ≈ $24,000/month (historical peak, reflecting 2023 industry bubble)
-  - **Full-time SWE median $430K** (Levels.fyi all-level, 2026-05-28) — Quant Researcher / Quant Trader higher
-  - **Full-time FT TC bands (Quant Blueprint)**:
-    - **Quant Trader**: $325K-$430K total ($170K-$200K base)
-    - **Quant Researcher**: $275K-$375K total ($165K-$195K base)
-    - **Quant Developer**: $240K-$330K total ($155K-$180K base)
-    - [Source (verified opened): https://www.quantblueprint.com/companies/jump-trading]
-  - **London FT inference**: industry base £150-200K + bonus £80-150K = £230-350K total (Jump London slightly lower than Chicago by 10-15%, but still outlier)
-  - **Equity**: $0 RSU (pure prop, no IPO); all via bonus + sign-on
-- **Application windows**:
-  - **Internship**: 7-9 months open, 10-12 months peak (early apply key, intern volume small); Summer onboard June
-  - **Graduate FT**: rolling, industry mainly PhD direct hire + internship conversion mixed
-- **Interview process differences vs internship**:
-  - **OA**: HackerRank, LeetCode med-hard + probability + brain teaser
-  - **Tech multi-round**: C++ deep questions (memory model, undefined behavior, atomics), system design (low-latency architecture)
-  - **Quant Researcher**: Stats + Probability + Math heavy, expect PhD background
-  - **Final/Onsite**: Chicago HQ fly-in, multi-day
-- **Acceptance competition**: Bar extremely high, similar to HRT / Two Sigma; intern acceptance rate < 1% industry estimate; PhD preferred for Quant Researcher
-- **Key links**:
-  - Official careers (HTTP 403, direct fetch fails but accessible): https://www.jumptrading.com/careers
-  - Students & New Grads (HTTP 403): https://www.jumptrading.com/hr/students-new-grads
-  - Levels.fyi SWE Intern (verified opened, $120/hr Chicago / $80/hr London): https://www.levels.fyi/internships/Jump-Trading/Software-Engineer-Intern/
-  - Levels.fyi SWE median $430K (verified opened): https://www.levels.fyi/companies/jump-trading/salaries
-  - Quant Blueprint FT TC bands (verified opened): https://www.quantblueprint.com/companies/jump-trading
-  - UK Skilled Worker sponsor verified (verified opened): https://immigrationgpt.co.uk/company/jump-trading-international-limited
-  - Amsterdam 2018 established (search result): https://www.glassdoor.com/Location/Jump-Trading-Amsterdam-Location-EI_IE251744.0,12_IL.13,22_IC3064478.htm
-  - Conference Travel Grant (search result): https://www.jumptrading.com/conference-travel-grant
+- **Role names (Europe campus full-time, 6 roles)**: Campus Quantitative Researcher (Full-Time) (London; Amsterdam) | Campus Quantitative Trader (Full-Time) (London; Amsterdam) | Campus Systems Engineer (Full-Time) (London) + (Amsterdam) | Campus ML Research Engineer (Full-Time) (London) | Campus Crypto Researcher (Full-Time) (London) — **no campus SWE full-time role in Europe**; SWE hiring runs mainly through intern conversion ("primary way") [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/7975026]
+- **Eligibility**: "top undergraduate and graduate programs" (BSc / MSc / PhD share one role), no finance background needed; Systems Engineer needs a CS / CE / IS major + Linux + Python + networking [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/8050796] [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/8008306]
+- **European locations**: London (1 London Wall) + Amsterdam (QR / QT / Systems Engineer full-time) + Paris (QR M1/M2 intern only)
+- **Programme structure**: QR starts with a training program (in-house courses + trading simulation: trading / stats / R / Python / C++ / ML), then joins a trading team; QT includes mock trading + poker training
+- **Non-EU visa (full-time)**: ML Research Engineer posting states "We sponsor work visas for full-time positions" [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/7977132]; UK register (2026-10-09 CSV): Jump Trading International Limited — Skilled Worker A rating, threshold £41,700 [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers] [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; **NL: Jump Trading Europe B.V. (KvK 70927359) is on the IND recognised sponsor register (2026-10-05; confirmed by full-page curl grep, WebFetch summary was truncated)** → Amsterdam roles can use zoekjaar → reduced HSM (IND 2026 reduced criterion €3,122/month) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants] [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements]
+- **Pay (gross/year)**:
+  - SWE London (Levels.fyi, all levels, 2026-10): median TC £221K; highest £270,821 [Source (verified opened): https://www.levels.fyi/companies/jump-trading/salaries/software-engineer/locations/london-metro-area]
+  - US official: Campus Systems Engineer (Chicago) base $200,000-$250,000 + discretionary bonus [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/8008112]; London / Amsterdam campus postings show no pay
+  - eFC 2026-09-15 (insider, location not stated): some grad offers above $900k, average ~$750k [Source (verified opened): https://www.efinancialcareers.com/news/pay-for-electronic-trading-graduates-is-soaring-1m-at-hrt-850k-at-jane-street]
+  - Previous Quant Blueprint US bands kept (QT $325K-$430K / QR $275K-$375K / QD $240K-$330K total); previous London inference £230-350K unverified; no RSU
+- **Application window**: 2027 cycle opened 2026-07-13, rolling; SWE intern London accepts placement / non-summer internships
+- **Interview process**: HR screen → tech phone → onsite 4 rounds (3 technical + 1 technical/behavioral) (Glassdoor 2026 London report) [Source (search result): https://www.glassdoor.co.uk/Interview/Jump-Trading-Interview-E251744-RVW29310269.htm]; QR leans on stats / probability / coding
+- **Competition**: no official data; previous industry estimate intern < 1% kept
+- **Intern (secondary)**: Summer 2027 ~12 Europe campus intern roles Open; latest Levels.fyi London SWE intern data is Summer 2025 $80.77/hr + housing [Source (verified opened): https://www.levels.fyi/internships/Jump-Trading/Software-Engineer-Intern/]
 
 ---
 

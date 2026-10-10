@@ -2,7 +2,7 @@
 
 > **Language**: [中文](imc.md) | English
 >
-> Last updated: 2026-09-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐⭐ (official EU careers + Levels.fyi L1-L4 all levels + Glassdoor + 1point3acres + Tradermath + IMC official recruitment process page)
 > One-line positioning: Market maker founded in Amsterdam in 1989, same tier and same city as Optiver; global ~1,400 headcount, Amsterdam (HQ) + Chicago + Sydney + Mumbai; proprietary options + futures + ETF + crypto MM; "Graduate Traineeship" is one of the most systematized grad programs in European quant scene (Trading School 6 weeks + local traineeship 6-14 weeks)
 
@@ -24,55 +24,23 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (Levels.fyi L1 €139K / L2 €145K / L4 €159K direct read + official SWE Graduate / Trader / QR three-track naming + Glassdoor + Blind interview experiences + HackerRank OA measured format)
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information richness: ⭐⭐⭐⭐⭐ (basis: Greenhouse official jobs API + job pages / application form + official recruitment process + prep guides + Levels.fyi direct read + IND register)
+> **2027 intake status**: **Open (Rolling)** — 2027 graduate roles live since 2026-07-31, no published deadline; start February or August 2027 (Aarhus Graduate Trader August 2027 only) [Source (actually opened): https://boards-api.greenhouse.io/v1/boards/imc/jobs] [Source (actually opened): https://job-boards.eu.greenhouse.io/imc/jobs/4667814101]
+> 2026 H2: no layoff / freeze reports found; 2026-08-11 opened a New York Systematic Equities office [Source (actually opened): https://www.imc.com/eu/news]
 
-- **Common role names (key distinction)**:
-  - **Software Engineer Intern (2026)** / **Graduate Software Engineer / Software Engineering Graduate** — main SWE path
-  - **Trader Intern (2026) / Trader Graduate** — via IMC Trading School (6 weeks training + 6-14 weeks traineeship)
-  - **Quantitative Trader Intern** / **Quant Researcher Intern** — research / QR path
-  - **Machine Learning Intern (2026)** — Amsterdam separately open (2026-05 real-time open)
-  - **Hardware / FPGA Engineer** — Tech sub-direction, less than Optiver
-- **European locations**: Amsterdam (main EU HQ) / global also Chicago / Sydney / Mumbai
-- **Whether there is a standalone Graduate Programme**: **Yes** — **IMC Graduate Traineeship** is the most structured grad scheme in European quant scene:
-  - **2 intakes per year**: February (Feb) + August (Aug)
-  - **Trading School**: 6 weeks (concentrated at Amsterdam HQ + global cohort together)
-  - **Local traineeship**: 6-14 weeks (return to placement office), then formal conversion to FTE
-  - "dedicated schools for analysts, engineers, traders, and quants"
-- **Non-EU visa (full-time)**:
-  - **NL Kennismigrant 2026**: same as Optiver — <30 €4,357/month, ≥30 €5,942/month, master reduced €2,801/month — IMC L1 SWE base €100K+ all exceed [Source (user MEMORY): NL Kennismigrant 2026 thresholds]
-  - **30% ruling**: applicable (Amsterdam default application)
-  - **Intern visa**: same case-by-case path; IMC official "arranges travel and accommodation for onsite assessments. Relocation assistance is available" [Source (verified opened): https://www.imc.com/eu/careers/recruitment-process]
-- **Salary structure (quant-specific, required)**:
-  - **Intern (Amsterdam, 2026)**:
-    - 10 weeks, "highly competitive compensation package, fully-furnished corporate accommodation, catered meals" (official)
-    - Industry estimate monthly €4,000-5,500 + housing fully covered; same tier as Optiver / Flow Traders
-  - **Full-time New Grad (Graduate SWE, Amsterdam, L1)**:
-    - Levels.fyi 2026-05-28 direct read: **L1 total $162K ≈ €150K** (base $136K ≈ €126K + bonus $26.3K ≈ €24K + stock $0)
-    - L2 total $166K ≈ €154K (base $117K + bonus $49.3K — bonus ratio increases)
-    - L3 total $171K ≈ €158K (base $123K + bonus $48K)
-    - L4 cap €159K (median €145K)
-    - **No equity** — all cash compensation, same as Flow Traders (vs Optiver L3 has some stock)
-    - TechPays entry-level Netherlands: median €154K total package (5 data points) [Source (search result): https://techpays.com/europe/netherlands/imc-trading/entry-level]
-  - **Full-time New Grad (Trader, Amsterdam)**: limited public data, industry rumor base €70-90K + massive PnL bonus (Y1 total €120-250K, exceptional Y2-3 jumping to €400K+)
-- **Application windows**:
-  - **Software Engineer Intern 2026**: via https://www.imc.com/eu/careers/jobs/4563168101 — open, rolling
-  - **Graduate Software Engineer (2027, Amsterdam)**: open, for full-time start Feb or Aug 2027 [Source (actually opened): https://job-boards.eu.greenhouse.io/imc/jobs/4667814101]
-  - **Machine Learning Research Intern (Summer 2027, Amsterdam/Chicago/Sydney)**: open [Source (actually opened): https://www.imc.com/eu/careers/students-graduates]
-  - **Trader Intern 2026 EOI**: Expression of Interest rolling open
-- **Interview process differences vs internship**:
-  - **HackerRank OA**: 2 coding questions, 120 minutes, both hard, no camera (similar to Optiver but questions independent)
-  - 1-2 weeks feedback → video / HR / tech / Super Day
-  - **Trader track**: OA is "IMC numerical test" (similar to Optiver 80in8 but slightly less volume), followed by Trading Game
-  - Full-time + intern process basically identical, full-time adds one culture fit round
-- **Acceptance competition**: industry rumor OA pass rate <20%, full-process offer rate <3%; Blind / Glassdoor 2024-2026 posts numerous "OA difficulty higher than LeetCode hard"
-- **Key links**:
-  - Official EU careers (verified opened): https://www.imc.com/eu/careers
-  - Official EU recruitment process (verified opened): https://www.imc.com/eu/careers/recruitment-process
-  - Official EU internships (verified opened): https://www.imc.com/eu/careers/students-graduates/internships
-  - Official EU students + grad overview (search result): https://www.imc.com/eu/careers/students-graduates
-  - Software Engineer Intern 2026 (search result): https://www.imc.com/eu/careers/jobs/4563168101
-  - Trading Internship EU (search result): https://www.imc.com/eu/careers/students-graduates/internships/trading-internship
-  - Levels.fyi Amsterdam SWE (verified opened): https://www.levels.fyi/companies/imc/salaries/software-engineer/locations/greater-amsterdam-area
+- **Role names (Europe, 2026-10-10)**: Graduate Software Engineer (2027) (Amsterdam / Aarhus) · Graduate Trader (Amsterdam) · AAR - 2027 - Graduate Trader (Aarhus) · Graduate Quantitative Researcher (Amsterdam) · Graduate Hardware Engineer (Amsterdam) · Graduate Deep Learning Researcher - London · Graduate Quant Researcher - Digital Assets (Zug); also: Graduate Software Engineer (2026) still listed; C++ Software Engineer, Early Careers (Amsterdam) requires 2-3 years experience [Source (actually opened): https://www.imc.com/eu/careers/students-graduates]
+- **Eligibility**: SWE / Trader / QR: "ultimate year of study" (QR needs MSc / PhD), joining in 2027; SWE needs C++ or Java (interview in Java / C++ of choice); Trader programming optional; DL Researcher London: at least MSc (PhD preferred), graduating 2027
+- **European locations**: Amsterdam (HQ) / Aarhus (DK) / London / Zug (CH, Digital Assets) (previous: Amsterdam only, 2026-09)
+- **Programme structure**: Global Trainee Programme — SWE / Hardware 5 weeks, Trader / QR 6 weeks, alongside EU / US / APAC graduates, **includes mandatory training in the United States shortly after joining**, then back to the local office + mentor (previous: "Trading School 6 weeks centralised in Amsterdam + local traineeship 6-14 weeks", 2026-09) [Source (actually opened): https://job-boards.eu.greenhouse.io/imc/jobs/4667815101]
+- **Non-EU visa (full-time)**: IMC B.V. / IMC Trading B.V. / IMC Netherlands Services B.V. are on the IND recognised-sponsor register (updated 2026-10-05) [Source (actually opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; 2026 Kennismigrant thresholds: reduced €3,122/month, <30 €4,357/month, ≥30 €5,942/month (previous reduced: €2,801, 2026-09) [Source (actually opened): https://ind.nl/en/required-amounts-income-requirements]; official relocation: "we do all we can to assist you"; **key restriction**: the application form asks "Will you require immigration sponsorship now or in the future?", and the traineeship requires US travel (U.S. business visa) — Russian / Belarusian / Iranian / Ukrainian passport holders cannot proceed (dual nationals may contact CampusEU@imc.com) → moving from an NL student visa / zoekjaar is feasible, but confirm you can obtain a US business visa first
+- **30% ruling**: up to 30% tax-free, max 5 years; 2026 salary norm €48,013/year, under-30 with master's €36,497/year [Source (actually opened): https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility]
+- **Pay (gross/year)**:
+  - Graduate SWE Amsterdam L1 (0-3 yrs): TC €150K = base €115K + bonus €34.3K + stock €0; L2 €155K; L3 €149K; L4 €170K; median €149K, 216 data points (2026-10); all cash, no equity (previous L1: $162K ≈ €150K, 2026-05) [Source (actually opened): https://www.levels.fyi/companies/imc/salaries/software-engineer/locations/greater-amsterdam-area]; TechPays NL entry-level median €154K (previous) [Source (search result): https://techpays.com/europe/netherlands/imc-trading/entry-level]
+  - Trader / QR: no reliable public Amsterdam data; US anchor: Chicago graduate trader / researcher posted base $250,000, graduate SWE $200,000; tradermath cross-firm estimate for first-year Amsterdam traders base + bonus €150,000-€300,000 (2026-09) [Source (actually opened): https://www.tradermath.org/salaries/imc]
+- **Application window**: open since 2026-07-31, no deadline (rolling); unsuccessful applicants wait for the next season: SWE / QR / Hardware "Summer 2027", Trader "September 2027"
+- **Interview differences vs internship**: official 5 steps: application → (online) assessment ("vary depending on the role") → first-round interview(s) → final round (multiple stations) → offer, "feedback within a couple of days" [Source (actually opened): https://www.imc.com/eu/careers/recruitment-process]; prep guides: Tech covers DSA / memory & computer architecture / concurrency + behavioural throughout [Source (actually opened): https://cdn.sanity.io/files/l1io23s3/production/cf48d9c14a5315785738597ea3dda644331bac99.pdf]; Trading covers EV / probability / market making games / brainteasers + mental math [Source (actually opened): https://cdn.sanity.io/files/l1io23s3/production/386c4a31665862232d285b19f53378d0d04dcfec.pdf]; community reports (previous, not re-verified this round): HackerRank 2 questions 120 minutes
+- **Competition**: community estimate OA pass rate <20%, offer rate <3% (previous, unverified)
+- **Intern (secondary)**: 2027 Amsterdam internships (SWE / Trader / QT / Hardware) require penultimate-year students graduating 2028, start 2027-06-28 → not applicable to 2027 graduates
 
 ---
 
@@ -184,4 +152,4 @@
 - linkjob IMC HackerRank guide (search result): https://www.linkjob.ai/interview-questions/imc-hackerrank-questions/
 - amsterdamtradingjobs IMC salary guide 2026 (search result): https://www.amsterdamtradingjobs.com/blog/imc-trading-amsterdam-salary-guide-2026
 - Tradermath IMC Quant Trader Intern (search result): https://www.tradermath.org/firms/imc-trading/jobs/quantitative-trader-intern-2026-in-amsterdam-95f9e5
-- IND Kennismigrant 2026 thresholds (user MEMORY): NL <30 €4,357/month; ≥30 €5,942/month; reduced €2,801/month
+- IND Kennismigrant 2026 thresholds: NL <30 €4,357/month; ≥30 €5,942/month; reduced €3,122/month [Source (actually opened): https://ind.nl/en/required-amounts-income-requirements]

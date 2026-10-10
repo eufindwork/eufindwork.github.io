@@ -135,7 +135,7 @@ Source: Glassdoor Darktrace Cambridge interview reports [verified opened: https:
 
 ## 8. Specific Assessment for UvA Students (NL student visa) ⭐
 
-- **Core trade-off**: User already holds NL student visa, choosing UK means giving up zoekjaar (1-year post-graduation job search) + reduced HSM (€2,801/month) benefits, in exchange for UK Skilled Worker (£41,700 threshold)
+- **Core trade-off**: User already holds NL student visa, choosing UK means giving up zoekjaar (1-year post-graduation job search) + reduced HSM (€3,122/month) benefits, in exchange for UK Skilled Worker (£41,700 threshold)
 - **Intern feasibility**: **Very low**
   - CyberFirst explicitly excludes non-UK students
   - Regular 8-week intern doesn't open Tier 5 / SW sponsor (UK intern extremely rare case)

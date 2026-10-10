@@ -3,7 +3,8 @@
 > **Language**: 中文 | [English](helsing.en.md)
 >
 
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头 ⭐ 行的 €152K (以 New Grad 段 Munich median €153K、无 junior 数据为准).
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi Munich €152K 实抓 + Glassdoor SWE 面经 CSV exercise 实证 + 官方 careers relocation 描述 + Drone Field Eng visa-friendly 历史 JD; ⚠️ 国防属性, 部分岗位 nationality-restricted)
 > 一句话定位: 2021 年 Munich 起家的 AI 国防独角兽 (foundation model + RL + computer vision 用于战场感知 / 自主系统 / 无人机), 估值 $5B+, 服务德/英/法等北约国军, 招 SWE / ML Researcher / Field Engineer; **国防属性是国际生最大未知项 — 部分敏感岗 nationality-restricted, 申请前必须邮件确认**.
 
@@ -32,36 +33,22 @@
 
 ## New Grad / Junior 岗位
 
-> Helsing 没有 cohort 形式 grad program, 全公司走 IC 招聘; 国防属性意味着**部分岗位 nationality-restricted** (尤其涉及 classified 数据 / NATO STANAG / 武器系统的岗位); 中国籍国际生申请前**必须邮件直接问 HR**
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch; Greenhouse API / UK 登记册为全表下载核对) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 early-careers JD + 申请表字段 + Levels.fyi Munich + Series E 报道)
+> **2027 Intake 状态**: **Open (Rolling)** — 2026-09-15 挂出 "Software Engineer (Early Careers)" + "Junior Software Engineer" (Berlin / London / Munich), 走试点通道 BSA2A ("Bring Something Awesome to Apply"), 原文 "opening 20+ roles across our Deployed AI and Software Engineering teams"; 无截止日期, 未写入职月份 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/helsing/jobs/4972043101]
+> **2026 H2 动态**: 2026-07-13 Series E $1.8B, 估值 $18B (JPMorganChase / General Catalyst / Lightspeed / Iconiq 等) [来源 (实际打开过): https://siliconangle.com/2026/07/13/defense-technology-startup-helsing-raises-1-8b-18b-valuation/]; 2026-07-14 宣布首个 US 工厂 (West Virginia) [来源 (实际打开过): https://news.google.com/rss/search?q=Helsing+defence+AI&hl=en-GB&gl=GB&ceid=GB:en]; early-careers JD 原文 "Following our recent funding"
 
-- **常见岗位名**: **Software Engineer (Backend / Robotics / Embedded / Infrastructure)** / **AI Engineer** / **Foundation Model Researcher** / **RL Engineer** / **Computer Vision Engineer** / **Drone Field Engineer**
-- **欧洲地点**: Munich (主力 SWE + ML) / Berlin (SWE + Robotics) / Paris (ML + Defense partnership) / London (UK MoD partnership + SWE) / Stockholm (Saab partnership)
-- **是否有独立 Graduate Programme**: **No** — IC 直招, 无 rotation; SWE/AI Intern → 转正是主要 junior 通道
-- **非EU签证 (全职)**:
-  - **Munich / Berlin (DE EU Blue Card)**: 2026 阈值 IT 短缺职业 **€45,934/年**, Helsing Munich SWE entry €80K+ 充分符合 [来源: 2026 BAMF Blue Card 阈值]
-  - **Paris (FR Passeport Talent)**: 2 × SMIC ≈ €43,243/年, Helsing Paris 估算 €70K+ 符合
-  - **London (UK Skilled Worker)**: 2026 £41,700/年 (general) 或 £33,400 shortage; Helsing London SWE Median €163K (≈ £140K) 充分符合 — Median L4 base £163K 直接 Levels.fyi 直读
-  - **Stockholm (SE work permit / Blue Card)**: SE 80-100% median 路径或 EU Blue Card SEK 56,290/月
-  - **Sponsorship 实证**: Helsing careers 页 "relocation" 提到; Drone Field Eng 历史 JD 标 "Visa Sponsorship" 标签 [来源 (实际打开过, 已 inactive): https://jaabz.com/jobs/162773-drone-field-engineer] + Munich SWE / AI 全职岗位常规 Blue Card sponsor (Munich tech 招聘行情)
-  - **⚠️ 国防属性额外门槛**: 涉及 NATO classified material / 武器系统的岗位**强制要求 NATO 国 (DE/UK/FR/IT 等) 国籍**; UK MoD secret clearance 要求英国国籍 + 5 年 UK 居住; DE BMVg secret clearance 要求德国国籍. 非敏感 IC SWE 岗位 (基础设施 / DevOps / 部分 ML infra) **不需要 clearance** 可办 Blue Card
-- **薪资范围 (base, gross/年)**:
-  - **Munich SWE (median, Levels.fyi 2026-05)**: total **€152K**, range **€80.3K - €152K+**, 最高 **€214,961** [来源 (实际打开过): https://www.levels.fyi/companies/helsing/salaries/software-engineer/locations/munich-metro-region]
-  - **Germany 全国 SWE**: median **€152K**, range €80.3K-€152K+ [来源: https://www.levels.fyi/companies/helsing/salaries/software-engineer/locations/germany]
-  - **London SWE L4**: median total **$163K (≈ £125K / €145K)**, range **£69.8K - £122K+** [来源 (实际打开过): https://www.levels.fyi/companies/helsing/salaries/software-engineer]
-  - **股权 (private)**: $5B 估值的 Series C, RSU/option 比 FAANG 早期 leverage 大但流动性受限 (private 估值)
-- **申请窗口**: rolling year-round
-- **面试流程差异 vs 实习**:
-  - 全职 SWE: 5 轮 (recruiter + HM + 2 tech + culture + leadership)
-  - SWE Intern: 3-4 轮 (recruiter + HM + 1-2 tech + team fit)
-  - **CSV exercise** 是 Backend / SWE 全岗位标准题 (Glassdoor 2026-02 Berlin 面经直接证实)
-- **录取竞争 / 国际生 friendliness**:
-  - 简历海 (国防+独角兽双红利), Glassdoor SWE 面试通过率仅 20% positive [来源: Glassdoor]
-  - 国际生 (NATO 国国籍): 友好, Munich SWE 国际化率高
-  - **国际生 (中国籍)**: 风险中-高 — 基础设施 / 商业产品线 SWE 可申 (但要邮件确认), 涉密岗 完全 nationality-restricted
-- **关键链接**:
-  - Helsing Careers (官方主入口): https://helsing.ai/careers
-  - Helsing Jobs (实抓岗位列表): https://helsing.ai/jobs
-  - Levels.fyi Munich SWE (实际打开过): https://www.levels.fyi/companies/helsing/salaries/software-engineer/locations/munich-metro-region
+- **岗位名称**: Software Engineer (Early Careers) / Junior Software Engineer (同一 BSA2A 通道); Helsing – Formula Student Programme (Munich, 仅限 Formula Student 队员 / 校友, 可选 Working Student / Intern / Full-Time); 2026-10-10 全站 158 个在招 (Munich 67), AI & Engineering 41 个 [来源 (Greenhouse API 直读): https://boards-api.greenhouse.io/v1/boards/helsing/jobs]
+- **资格窗口**: JD 未写学位 / 毕业年限, 定位 "designed specifically for early-career engineers"; 英语; 要求 "write code independently, without relying on LLMs"; Python / Rust 加分
+- **欧洲地点**: Berlin / London / Munich (申请表 office 选项另含 Paris / Plymouth / Stockholm / Tallinn); 无 NL 办公室
+- **项目结构**: 非 rotation 式 grad programme, 直接进 Deployed AI 或 Software Engineering 团队; 规模 "20+ roles"; 入职月份未公开
+- **非EU签证 (全职)**: JD 无 visa sponsorship 字样, 福利写 relocation "up to €2,500 and 4 weeks temporary accommodation"; 申请表必答 "Do you hold the applicable right to work in the country where the role is located?" 及是否持有 security clearance [来源 (Greenhouse API 直读): https://boards-api.greenhouse.io/v1/boards/helsing/jobs/4972043101?questions=true]; **Helsing Limited 为 UK Skilled Worker A-rated sponsor** [来源 (全表下载核对 2026-10-09): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; UK 门槛 £41,700, new entrant (如申请时 <26 岁) £33,400 且 ≥70% going rate [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less]; 不在 IND 登记册, 无 NL 实体 → zoekjaar / Kennismigrant 路径不适用 [来源 (全表下载核对 2026-10-10): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; Paris: Passeport Talent €39,582 [来源 (实际打开过): https://jobbatical.com/blog/france-talent-passport-salary-threshold] (旧版: 2 × SMIC ≈ €43,243, 2026-05)
+- **DE Blue Card**: ⚠️ **待 web 验证**: 2026 阈值 €50,700 / 短缺职业 €45,934 本轮官方页未能打开 (make-it-in-germany 被拦截, BAMF 页未列金额), 沿用 repo 基线; 二次核实前勿用于薪资决策
+- **Clearance / 国籍**: 158 个 JD 中 26 个提 "security clearance"; 部分 Munich 系统工程岗要 German Ü2/Ü3, 2 个 PM 岗要 "valid work permit for Germany" + SÜ2; 1 个岗写 "German citizenship is an advantage; other European citizenship is also considered"; US 岗要求 US citizenship; early-careers JD 本身未要求 clearance [来源 (Greenhouse API 直读): https://boards-api.greenhouse.io/v1/boards/helsing/jobs] (旧版 "涉密岗强制 NATO 国籍" 的概括未见于岗位原文)
+- **薪资范围 (gross/年)**: Levels.fyi Munich (2026-10-10): 中位 TC €153,375 (25 条), 平均 €135,434, 最高 €194,774; median package 示例 L3 / 10 年经验 €176K (base €114K + stock €39.6K); **无 L1 / junior 数据**, JD 不公开薪资 [来源 (实际打开过): https://www.levels.fyi/companies/helsing/salaries/software-engineer/locations/munich-metro-region] (旧版 2026-05: 中位 €152K, 最高 €214,961); London L4 中位 $163K (2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/helsing/salaries/software-engineer]; 股权: 其他 JD 写 "Competitive salary and VSOP options", early-careers JD 仅写 "Competitive salary"
+- **申请窗口**: Rolling; BSA2A 先填 expression-of-interest 表 (无需先录视频), 合格者再收视频提交链接与 submission window
+- **面试流程差异 vs 实习**: BSA2A: EOI → ≤10 分钟录屏项目讲解 (Helsing 工程师人工评审) → 2 × 60 min 技术面 (BSA Deep Dive & Systems Design; Live Coding) → 30 min engineering leadership 终面 (mission alignment); 跳过 CV + recruiter screen, "reduces the overall interview cycle by two full stages"; 标准通道 (旧版): ~5 轮 + CSV exercise (Glassdoor 2026-02 Berlin) [来源 (旧版实际打开过): https://www.glassdoor.com/Interview/Helsing-Software-Engineer-Interview-Questions-EI_IE6763957.0,7_KO8,25.htm]
+- **录取竞争**: Glassdoor SWE 20% positive (旧版); 国防 mission fit 为硬筛选; 非 EU 国籍的主要不确定性在 clearance 资格与当地工作权
+- **关键链接**: Early-careers JD https://helsing.ai/jobs/4972043101 · Junior SWE https://helsing.ai/jobs/4976480101 (官方岗位页, 本轮 429 未打开) · Greenhouse API (直读) · Levels.fyi Munich (实际打开过) · UK sponsor 登记册 (全表下载核对)
 
 ---
 

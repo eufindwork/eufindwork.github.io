@@ -2,7 +2,7 @@
 
 > **Language**: [中文](apple.md) | English
 >
-> Updated: 2026-09-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (Munich data thickest, London/Cambridge ML data second)
 > One-liner: world's most valuable hardware + software + services company, three major European engineering centers (Munich Silicon, London Pay/Swift Server, Cambridge AIML)
 
@@ -24,45 +24,28 @@
 
 ## New Grad / Junior Positions
 
-> Information richness: ⭐⭐⭐⭐ (Levels.fyi ICT2 UK/Munich 2026-05 direct read data reliable, AIML Residency 2026 official site application live, Apple does not set structured graduate programme confirmed)
-> Difference vs internship: full-time entry-level **ICT2** (Apple's first IC level, internship also called ICT2 but salary scale different); permanent contract + 4-year RSU vest
+> Checked: 2026-10-10 (live WebFetch / curl; this round's WebSearch quota was exhausted) | Information richness: ⭐⭐⭐ (basis: Levels.fyi 2026-10 + Apple ML site + IND register; list of live EU entry-level postings could not be scraped)
+> **2027 intake status**: **No programme (teams hire on a rolling basis)**; the only cohort-style route is the **AIML Residency**: the 2026 application announcement was published 2025-11-07, the 2027 announcement page still returned 404 as of 2026-10-10 → **Upcoming (inferred around 2026-11)** [Source (curl live fetch 2026-10-10): https://machinelearning.apple.com/updates/aiml-residency-program-application-2026] [Source (curl live fetch 2026-10-10): https://machinelearning.apple.com/updates/aiml-residency-program-application-2027]
+> **2026 H2 news** (headlines only, articles not opened): late 2026-08 rare Bay Area layoffs (Vision Pro / Siri); first layoffs under new CEO John Ternus (reported 2026-09-20), 2026-09-29/30 reports of small layoffs + budget cuts with "more expected", plus fewer managers; 2026-10-09 acqui-hire of AI audio startup Huxe. All reports point to US teams [Source (search results): https://news.google.com/rss/search?q=Apple%20layoffs+when:120d&hl=en-US&gl=US&ceid=US:en]
+> ⚠️ **Pending web verification**: the list of live EU entry-level postings (jobs.apple.com scrape failed), the interview process and AIML Residency pay are carried over from the 2026-05 version and were not re-checked; do not use for pay / deadline decisions until re-verified.
 
-- **Common position names**: Software Engineer (ICT2 / ICT3) / Machine Learning Engineer / Silicon Engineer / **AIML Residency** (1-year limited program, similar to NG but cohort-based) / Apple Pay Engineer (London) / Swift Compiler Engineer (London)
-- **EU locations**: **Munich (Silicon + ML, largest European engineering base)** / London (Apple Pay / Swift Server) / **Cambridge UK (AIML / SaLT, extremely PhD-leaning)** / some Paris (services) / Cork IE (operations but has SWE roles)
-- **Independent Graduate Programme**: **Basically No** — Apple **globally has no structured graduate rotation** (sharp contrast with Microsoft/Amazon), full-time NG goes through same requisition as experienced engineers (differentiation only in ICT2 level). **Only exception**: **AIML Residency 2026** — **1-year cohort**, welcomes Master degree / Recent PhD / postdocs / SWE wanting to switch to ML / academia sabbatical; **2026 cohort applications already open**, European locations include **Cambridge UK + Zurich + some Germany** [Source (verified opened): https://machinelearning.apple.com/updates/aiml-residency-program-application-2026]
-- **Non-EU visa (full-time)**:
-  - UK: **Skilled Worker visa** — Apple UK Limited is registered sponsor; ICT2 base **£78K** far exceeds 2026 general threshold £41,700 + SOC 2134 going rate £49,400 [Source (verified opened): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; Apple is among UK big tech sponsors **slow to respond but high success rate**
-  - DE: **EU Blue Card** (2026 IT shortage threshold **€45,934.20**, standard €50,700, Munich ICT2 base ~€89K passes reduced threshold) [Source (verified opened): https://www.jobbatical.com/blog/germany-shortage-occupations-bottleneck-professions-eu-blue-card]; Munich Silicon team historically Apple Germany's largest sponsor channel
-  - IE: Cork has Critical Skills Permit, but Cork mainly ops/finance, few SDE roles
-  - Difference vs internship: NG is Apple's main sponsor channel, intern Apple almost never separately sponsors (requires existing EU student status)
-- **Salary range (base, gross/year, ICT2 entry-level, 2026-05-27 Levels.fyi direct read)**:
-  | City | Base | Stock (annual) | Bonus | Total Comp | Source |
-  |------|------|--------------|-------|----------|------|
-  | London / UK | **£78K** | **£21K** | **£5.1K** | **£104K** | [Levels.fyi UK ICT2 (verified opened)](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/united-kingdom) |
-  | Munich | **€89K (~$89K)** | **€18.6K** | **€5.5K** | **€113K (~$113K)** | [Levels.fyi Munich ICT2 (verified opened)](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/munich-metro-region) |
-  | Cambridge (UK) | £78K-£90K base (PhD AIML usually directly ICT3) | £21K-£56K | £5K-£10K | £104K (ICT2) / £184K (ICT3) | [Levels.fyi UK ICT3 (verified opened)](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/united-kingdom) |
-  | AIML Residency (Cambridge / Zurich / DE few) | ~$100K-$120K equivalent (1-year contract) | Roughly ICT2 + heavy RSU | - | - | [Apple AIML Residency 2026 (verified opened)](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) |
-  - **Key**: Apple **ICT2 → ICT3 jump big** (UK £104K → £184K), NG joining strong perf 1-2 years later promo is significant event. Apple does not publish sign-on bonus scale, but NG usually £10K-£25K (UK) / €10K-€20K (DE)
-  - **US benchmark comparison**: Apple ICT2 US median **$171.5K** [Source (search results): https://www.levels.fyi/companies/apple/salaries/software-engineer/levels/ict2], Europe ~60-65% of US
-  - **vs Google L3**: Apple UK ICT2 £78K base < Google L3 £116K base, **Google significantly higher**; but Apple holds AAPL stock, AAPL long-term growth may reverse
-- **Application window**: **Rolling, year-round open**. Apple does not open campus cohort, each hiring manager hires independently; Munich Silicon team in EU semiconductor graduation season (Jun-Sep) has more HC; London Apple Pay year-round. **AIML Residency 2026 application now open** (official site 2026 cohort live) [Source (verified opened): https://machinelearning.apple.com/updates/aiml-residency-program-application-2026]. **Return offer from intern → NG ICT2** is common path but **conversion rate lower than FAANG** (Apple leans headcount tight)
-- **Interview process differences vs internship**:
-  - Rounds: intern Final Day 4×45min → NG **Final Day 5-6 sessions** (60min each, adds architecture deep dive)
-  - System design: NG ICT2 has 1 round lite system design (component-level), ICT3+ only formal distributed; intern none
-  - Project deep dive: NG deeper than intern — candidates need to show 1-2 "production-quality" work (intern only needs academic project to be enough)
-  - Team-based hiring: same as internship, Apple **each team decides independently**, NG failure often due to team match not fitting (technical pass but no team wants)
-  - Apple culture confidentiality: NG signs NDA before joining, from day 1 cannot detail position content on LinkedIn — this is Apple specialty
-- **Acceptance competition**: Munich Silicon NG acceptance estimated 5-10% (relatively friendly, due to few EDA/Verilog professionals); London Apple Pay high difficulty (traditional SWE pool competition); Cambridge AIML NG nearly pure PhD channel. **International student friendliness**: ⭐⭐⭐ (Munich/London Skilled Worker / Blue Card standardized, but sponsor response slower than Google/Meta)
-- **Key links**:
-  - Official jobs UK: [https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR](https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR)
-  - Official jobs Germany: [https://jobs.apple.com/en-us/search?location=germany-DEU](https://jobs.apple.com/en-us/search?location=germany-DEU)
-  - Apple Machine Learning Research (verified opened): [https://machinelearning.apple.com/work-with-us](https://machinelearning.apple.com/work-with-us)
-  - Apple AIML Residency 2026 (verified opened): [https://machinelearning.apple.com/updates/aiml-residency-program-application-2026](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026)
-  - Levels.fyi Apple UK SWE (ICT2/ICT3) (verified opened): [https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/united-kingdom)
-  - Levels.fyi Apple Munich SWE (verified opened): [https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/munich-metro-region](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/munich-metro-region)
-  - Levels.fyi Apple ICT2 US benchmark (search results): [https://www.levels.fyi/companies/apple/salaries/software-engineer/levels/ict2](https://www.levels.fyi/companies/apple/salaries/software-engineer/levels/ict2)
-  - Indeed Apple London comprehensive: [https://uk.indeed.com/cmp/Apple/salaries/Intern/London-ENG](https://uk.indeed.com/cmp/Apple/salaries/Intern/London-ENG)
-  - Glassdoor AIML Resident interview: [https://www.glassdoor.com/Interview/Apple-AIML-Resident-Interview-Questions-EI_IE1138.0,5_KO6,19.htm](https://www.glassdoor.com/Interview/Apple-AIML-Resident-Interview-Questions-EI_IE1138.0,5_KO6,19.htm)
+- **Role names**: Software Engineer (ICT2 = "Junior Software Engineer" Entry Level as labelled on Levels.fyi / ICT3) / ML Engineer / Silicon Engineer (Munich) / **AIML Residency** (1-year cohort) / Apple Pay / Swift (London). Apple has no structured graduate rotation anywhere; NG candidates go through the same requisitions as experienced hires (previous finding)
+- **Eligibility window**: regular SWE roles are set per team, no common graduation window (no public data); AIML Residency: "a one-year program for graduates with advanced degrees" (MSc / PhD etc.) [Source (curl live fetch 2026-10-10): https://machinelearning.apple.com/updates/aiml-residency-program-application-2026]
+- **European locations**: Munich (Silicon + ML, largest engineering base in continental Europe) / London (Apple Pay / Swift) / Cambridge UK (AIML / SaLT, PhD-leaning) / Zürich (AIML) / Cork (mostly ops). 2026-09-26 check: no new NG roles seen in Munich (see §1)
+- **Programme structure**: no rotation; permanent contract + RSU 25%/yr × 4 years (Levels.fyi); AIML Residency is a 1-year programme
+- **Non-EU visa (full-time)**: **NL**: "Apple Benelux B.V." (KvK 30063224) / "Apple Retail Netherlands B.V." are on the IND recognised sponsor register (updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], but Apple has no engineering centre in NL (inferred) → zoekjaar + reduced HSM (€3,122/month, IND 2026) [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements] is of little use for Apple; a new UK / DE permit is needed. UK Skilled Worker: ICT2 base £58.7K > £41,700 / SOC 2134 £49,400 [Source (verified opened): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; DE Blue Card: Munich ICT2 base €77.1K > €50,700 [Source (verified opened): https://www.jobbatical.com/blog/germany-shortage-occupations-bottleneck-professions-eu-blue-card]. Internships are rarely sponsored on their own; NG is the main sponsorship channel (previous finding)
+- **Pay (Levels.fyi 2026-10-10, gross/year)**: BSc / MSc usually ICT2, PhD (especially Cambridge AIML) often straight to ICT3 (previous finding)
+  | Location | Level | Total | Base | Stock (/yr) | Bonus | Source |
+  |------|-------|-------|------|-------------|-------|------|
+  | UK | ICT2 | £79.6K | £58.7K | £17.5K | £3.4K | [curl live fetch](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/united-kingdom) |
+  | UK | ICT3 | £138K | £89.9K | £40.5K | £7.3K | same as above |
+  | Munich | ICT2 | €100K | €77.1K | €17K | €5.9K | [curl live fetch](https://www.levels.fyi/companies/apple/salaries/software-engineer/locations/munich-metro-region) |
+  | Munich | ICT3 | €140K | €88.7K | €45.5K | €5.8K | same as above |
+  - The previous 2026-05 figures (UK ICT2 base £78K / TC £104K, ICT3 TC £184K; Munich ICT2 base €89K / TC €113K) do not match this read and were replaced. AIML Residency ~$100K-$120K equivalent (2026-05 version, not re-checked). US ICT2 median $171.5K [Source (search results): https://www.levels.fyi/companies/apple/salaries/software-engineer/levels/ict2]
+- **Application window**: rolling, each hiring manager recruits separately, no campus cohort; AIML Residency last-cycle announcement 2025-11-07, deadline: no public data
+- **Interview process vs internship** (2026-05 version, not re-checked): NG Final Day 5-6 sessions × 60 min (incl. architecture deep dive); ICT2 has 1 lite system design round; team-based hiring, passing technically but finding no team match is common
+- **Competition**: Munich Silicon NG relatively accessible (few EDA / Verilog candidates), London Apple Pay hard, Cambridge AIML almost PhD-only (previous estimates, unsourced); 2026 H2 several small US layoff rounds + new CEO trimming management → 2027 headcount likely tight (inferred)
+- **Key links**: [jobs UK](https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR) · [jobs Germany](https://jobs.apple.com/en-us/search?location=germany-DEU) · [ML Work with us (curl live fetch)](https://machinelearning.apple.com/work-with-us) · [Glassdoor AIML Resident interviews](https://www.glassdoor.com/Interview/Apple-AIML-Resident-Interview-Questions-EI_IE1138.0,5_KO6,19.htm) · [Indeed Apple London](https://uk.indeed.com/cmp/Apple/salaries/Intern/London-ENG)
 
 ---
 

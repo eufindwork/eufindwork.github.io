@@ -2,7 +2,8 @@
 
 > **Language**: [中文](wolt.md) | English
 >
-> Updated: 2026-06-01
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'strong FT sponsorship' and 'entry €99K' in the header and §1/§8 (€99K is the Helsinki all-level median; full-time sponsorship is Conditional).
 > One-line positioning: Helsinki-born food / grocery delivery super-app, 2022 DoorDash $8.1B acquisition but kept HQ + brand, R&D still Helsinki-led; **Applied Science Internship 2026 and other cohorts running, but intern explicitly does not sponsor visa**, FT sponsor strong.
 
 ---
@@ -40,21 +41,27 @@
 
 ## NG (New Grad / Junior full-time) Path
 
-- **Role names**:
-  - "Software Engineer" / "Data Scientist" / "Applied Scientist" — multiple seniorities open
-  - Early careers landing [Source (verified opened): https://careers.wolt.com/en/teams/early-careers]
-- **Whether there's an independent cohort program**: ❌ No independent grad cohort, but has early-careers sub-page + intern→FT pipeline
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information density: ⭐⭐⭐ (basis: full Greenhouse job list + official JD pay ranges + Levels.fyi Helsinki; no new-grad-specific JDs / reports)
+> **2027 intake status**: **No programme** — no new grad / graduate programme; on 2026-10-10 none of the 221 open Greenhouse roles is Graduate / Intern / Junior SWE, tech roles are mostly Senior / Staff / EM [Source (Greenhouse API read directly, not WebFetch): https://boards-api.greenhouse.io/v1/boards/wolt/jobs]; main new-grad route = 6-month internship → permanent
+> **2026 news**: 2026-02-25 DoorDash announced Wolt exiting Japan / Uzbekistan and Deliveroo exiting Qatar / Singapore [Source (verified opened): https://ir.doordash.com/news/news-details/2026/DoorDash-to-Wind-Down-Deliveroo-and-Wolt-Operations-in-Four-Countries/default.aspx]; since 2026-09 new JDs hire for shared Wolt + Deliveroo + DoorDash platforms (e.g. MIRA team serves all three brands) [Source (verified opened): https://job-boards.greenhouse.io/wolt/jobs/8159098]; no 2026 H2 layoff / hiring-freeze reports found (limited search)
+
+- **Role names**: no dedicated grad role; closest open entry-ish tech roles: "Software Engineer" (Finland, MIRA team, posted 2026-09-04, requires "solid experience designing, building, and integrating quality software (microservices) at scale" — effectively mid-level) [Source (verified opened): https://job-boards.greenhouse.io/wolt/jobs/8159098]; "FullStack Engineer" (Tallinn) [Source (Greenhouse API read directly, not WebFetch): https://job-boards.greenhouse.io/wolt/jobs/8176407]
+- **Whether there's an independent cohort program**: ❌ No; the early-careers page lists only internships — Software Engineering (6 months, Helsinki, Frontend / Backend / Mobile), Applied Science (6 months), Data & Analytics (4-6 months), Product Management (4 months), all mentioning a possible permanent role [Source (verified opened): https://careers.wolt.com/en/teams/early-careers]
+- **Eligibility window**: no grad-specific criteria; full-time JDs require production experience → direct full-time applications from fresh BSc / MSc grads are hard (inferred); interns need MSc / final-semester BSc + existing right to work in Finland (see Intern Path)
+- **European locations**: Helsinki (HQ + main R&D) / Berlin / Stockholm / Tallinn / London (2026-10 tech-role spread); no NL locations among open roles
 - **Starting salary (base + bonus + equity)**:
-  - **Helsinki SWE median €99.9K total / year** (range €39.3K-€99.9K+) [Source (verified opened): https://www.levels.fyi/companies/wolt/salaries/software-engineer/locations/greater-helsinki]
-  - **Entry-level Helsinki ~€99,229 total** (Levels.fyi report)
-  - Highest reported €188,488 (senior)
-  - equity: DoorDash RSU (listed stock, good liquidity)
-- **Sponsor policy (FT)**:
-  - ✅ FT explicit sponsor: "if you're offered to stay with us on a permanent basis, we'll take care of your work visa"
-  - Finland Blue Card 2026 threshold: €3,937/month = €47,244/year, Wolt entry €99K far exceeds cover
-  - DoorDash integration mobility process more standardized
-- **Application window**: year-round rolling
-- **Process differences vs intern**: full-time 4-5 rounds, take-home + system design + team match
+  - **Official JDs (2026-09)**: Finland SWE **€5,400 - €8,000/month** [Source (verified opened): https://job-boards.greenhouse.io/wolt/jobs/8159098]; Tallinn FullStack **€5,010 — €6,262/month** [Source (Greenhouse API read directly, not WebFetch): https://job-boards.greenhouse.io/wolt/jobs/8176407]
+  - **Levels.fyi Greater Helsinki (2026-10)**: overall median **€99.2K**/year (168 data points); sample I4 (4 yrs experience) TC €114K = base €66.5K + stock €32.7K; range €40.1K-€99.2K+; **no entry-level breakdown on the page** [Source (verified opened): https://www.levels.fyi/companies/wolt/salaries/software-engineer/locations/greater-helsinki]
+  - (previous: "median €99.9K; Entry-level Helsinki ~€99,229", 2026-06 — that was the overall median, not entry level; corrected); equity = DoorDash RSU, 4-year vesting [Source (verified opened): https://www.levels.fyi/companies/wolt/salaries/software-engineer]
+- **Sponsor policy (FT)**: **Conditional** —
+  - intern → permanent explicitly sponsored: "if you're offered to stay with us on a permanent basis after the internship, they'll take care of your work visa if that's needed" [Source (opened 2026-06, not re-opened): https://careers.wolt.com/en/jobs/1/7552472]
+  - direct full-time applications: 2026-10 tech JDs mostly carry no visa clause; one Senior JD says "may not be able to support fully remote work or relocation" [Source (Greenhouse API read directly, not WebFetch): https://job-boards.greenhouse.io/wolt/jobs/8166702]
+  - **Finland 2026 threshold**: Specialist / EU Blue Card **€3,937/month** (from 2026-01-01; €3,827 in 2025) [Source (verified opened): https://vialtopartners.com/regional-alerts/finland-immigration-2026-income-requirements-updated-fees-and-brexit-permit-renewals]; JD floor €5,400/month is above the threshold
+  - **From NL student visa / zoekjaar**: a new Finnish Specialist / Blue Card permit is needed; NL zoekjaar / reduced Kennismigrant do not apply
+- **Application window**: full-time rolling; internships open at the start of each year ("application period starts at beginning of year") → 2027 cohort expected early 2027 (inferred) [Source (verified opened): https://careers.wolt.com/en/teams/early-careers]
+- **Process differences vs intern**: Glassdoor reports: Helsinki SWE (2025-08): HR → tech team → take-home → assignment review → final; SWE Intern Helsinki (2026-03): project-focused tech interview → team final, ~5 weeks; some candidates got a "debug interview" instead of a take-home; 3-4 weeks end to end [Source (search result): https://www.glassdoor.co.nz/Interview/Wolt-Interview-E1800227-RVW97192645.htm]
+- **Competition**: no grad-specific data; with no new-grad roles, the main route for fresh grads is intern conversion (inferred)
+- **Key links**: [Early careers (verified opened): https://careers.wolt.com/en/teams/early-careers] · [Greenhouse board (API read directly, not WebFetch): https://job-boards.greenhouse.io/wolt] · [Levels.fyi Helsinki (verified opened): https://www.levels.fyi/companies/wolt/salaries/software-engineer/locations/greater-helsinki]
 
 ---
 
@@ -128,7 +135,7 @@
 
 ## 8. For UvA Students (NL student visa) — Specific Assessment ⭐
 
-- **Core trade-off**: Already in NL holding student visa → choosing Wolt means **giving up NL zoekjaar (€2,801 reduced HSM)**, exchanging for Finland Blue Card / specialist permit
+- **Core trade-off**: Already in NL holding student visa → choosing Wolt means **giving up NL zoekjaar (€3,122 reduced HSM)**, exchanging for Finland Blue Card / specialist permit
 - **Intern feasibility**: ❌ **Zero** — Wolt explicitly does not sponsor intern + needs FI already having work visa; **skip intern, go directly to FT**
 - **FT feasibility**:
   - **Helsinki SWE entry → high** — Wolt €99K far exceeds Finland Blue Card €47,244 threshold; FT sponsor explicit + DoorDash mobility process

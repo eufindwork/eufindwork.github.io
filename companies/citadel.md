@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](citadel.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头及 §2/§5/§7 的 London TC £280K (现 median £318K)、'两个 UK 实体均持牌' (登记表仅列 Citadel Enterprise Europe Limited)、'London 是唯一欧洲办公室' (另有 Dublin / Paris / Zurich, Citadel Securities 2026-07 新开 Amsterdam).
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Wikipedia + 官方 careers (Citadel + Citadel Securities 两入口) + Levels.fyi London 直读 £280K median + Glassdoor + Citadel Engineering blog + Companies House 05462867 sponsor 确认)
 > 一句话定位: Ken Griffin 1990 创立的 hedge fund **Citadel LLC** + 2002 spinoff 的做市商 **Citadel Securities** (两家公司, 同 Griffin 控股); HQ 2022 从 Chicago 搬到 Miami; **London 是欧洲最大 office 且共同申请**; SWE London L3 median TC **£280K**; Skilled Worker sponsor 积极
 
@@ -24,48 +25,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London L3 直读 £280K + 6figr.com 新 grad TC $332k-$662k + 官方两 careers 入口 + 流程 4 步 8 周 + UK sponsor 确认)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch; citadel.com / citadelsecurities.com 对 WebFetch 返回 403, 岗位经 aggregator 详情页核实) | 信息丰富度: ⭐⭐⭐⭐ (依据: aggregator 岗位详情 + Levels.fyi London + UK / IND sponsor register + eFC 2026-09)
+> **2027 Intake 状态**: **Open (rolling)** — Europe "University Graduate" 岗 2026-07-19 上线, 无公开截止日, 入职月份未公开 [来源 (实际打开过): https://www.thewallstreetquants.com/quant-new-grad-role/citadel] [来源 (实际打开过): https://www.thewallstreetquants.com/quant-new-grad-role/citadel-securities]
+> **2026 H2 动态**: Citadel Securities 2026-07-22 开设 Amsterdam office (equity options; trading + technology + quant research; 全球第 15 个 office), 2027 grad 列表暂无 Amsterdam 岗 [来源 (实际打开过): https://www.eqs-news.com/news/corporate/citadel-securities-opens-amsterdam-office/69149dc4-9f7b-454f-94e1-8191a68a918e_en]; eFC 2026-09-23: Citadel (HF) London 2025 人均约 $1.2m, 新增以投资岗为主 [来源 (实际打开过): https://www.efinancialcareers.com/news/citadel-london-pay]
 
-- **常见岗位名 (区分关键)** — **Citadel + Citadel Securities 同时申请, 入口合并**:
-  - **Software Engineer** (Citadel + Citadel Securities 都开): 通用工程; Citadel HF 偏 platform/research infra, Citadel Securities MM 偏 low-latency trading
-  - **Quantitative Researcher**: 数学 / ML / PhD heavy; Citadel HF 主战场
-  - **Quantitative Developer**: 工程 + 直接对接 trader (kdb+ / pricing model 实现)
-  - **Quantitative Trader**: 非 SWE 路径; 多 PhD physics/math
-  - **FPGA Engineer**: Citadel Securities 低延迟; 比 HRT 招得少
-  - **Security Researcher / Cyber**: 独立 vertical [来源 (实际打开过): https://www.citadel.com/careers/details/software-engineer/]
-- **欧洲地点**: **London (唯一欧洲 office, 最大)**; 其他全球 Miami (HQ) / NY / Chicago / Sydney / Tokyo / HK / Paris
-- **是否有独立 Graduate Programme**:
-  - **Summer Associate** (intern, Summer NA): SWE / Quant Researcher / Quant Trader / Quant Developer 各 track; London 全开; **2026 cycle 申请通常 8-10 月 (前一年)**
-  - **Open House / Datathon / 自办 quant 比赛**: Citadel + Citadel Securities 共同主办的 datathon (奖金 $100K+) 是 networking 主战场
-  - **Full-Time New Grad**: rolling, fall recruiting 主战场; **Citadel + Citadel Securities 同一个 application 投, 内部 review 同时**
-  - **注意**: Citadel 没有像 GS/JPM 的 1-2 年轮岗 "Grad Scheme", 直接进 team
-- **非EU签证 (全职)**: **Citadel Enterprise Europe Limited / Citadel Securities (Europe) Limited 持 Skilled Worker license** (worksponsors.co.uk + huzzle-app 确认); FT base £150K+ 远超 2026 阈值 £41,700 + SOC 2136 going rate £55K; 提供 visa fee 报销 + 1-2 月临时住房 + £5-15K relocation [来源 (搜索结果): https://worksponsors.co.uk/company/citadel-enterprise-europe-limited]
-- **薪资结构 (London, gross/年)**:
-  - **Intern (Summer Associate, London)**: 业内估 £6-8k/周 + housing + travel; 美国 Summer Associate Levels.fyi 报 $120-150/hr ($4,800-$6,000/周) + housing
-  - **全职 New Grad SWE (London L3, Levels.fyi 直读)**: TC **£280K median** = $373K USD; base $234K + bonus $139K + stock $0; **range £149K - £281K (median to high)**, max £388K (高分位) [来源 (实际打开过): https://www.levels.fyi/companies/citadel/salaries/software-engineer/locations/london-metro-area]
-  - **US 新 grad (Citadel + Citadel Securities)**: TC **$400K-$700K Year 1** = base $175-225K + sign-on $100-200K + perf bonus $100-300K (6figr.com / Levels.fyi 直读) [来源 (搜索结果): https://6figr.com/us/salary/citadel--new-grad--cy]
-  - **Quant Researcher new grad**: TC 显著高于 SWE, $400K-$1M+ (PhD 议价)
-  - **Bonus 主导**: base 占 TC ~40-60%; **无 RSU** (Citadel 私人公司; "stock" 字段是 phantom equity / discretionary bonus 形式)
-- **申请窗口**:
-  - **Summer 2027 Intern**: ~2026-07/08 开 (典型), 申请截止通常 10-11 月 (rolling); 2026 cycle 多数已截止
-  - **Full-Time New Grad**: rolling, fall recruiting (Sep-Dec) 主战场
-- **面试流程差异 vs 实习**:
-  - **Citadel + Citadel Securities 同时 review** (官方说 "two firms at once")
-  - 4 步流程, 平均 **8 周** application → offer (efinancialcareers 报 28 天均值, Citadel Securities 更快)
-  - **HackerRank OA** (3-5 LC medium-hard)
-  - 1-2 tech 电面 (45-60 min, C++/Python 任选)
-  - Hiring manager 配 team (team match)
-  - **多 team interested 时**, 走多轮 onsite (4-6 轮) [来源 (实际打开过): https://www.citadel.com/careers/career-perspectives/our-engineering-interview-process/]
-- **录取竞争**: Glassdoor 报 28 天均值 (远快于 HRT 4-8 周); 难度 3.6/5; Datathon top 10 直接面试加速 (绕过 OA)
-- **关键链接**:
-  - Citadel 官方 careers (实际打开过): https://www.citadel.com/careers/
-  - Citadel Securities 官方 (实际打开过): https://www.citadelsecurities.com/careers/
-  - Citadel SWE 详情 (实际打开过): https://www.citadel.com/careers/details/software-engineer/
-  - Engineering Interview Process (实际打开过, 4 步 + 8 周): https://www.citadel.com/careers/career-perspectives/our-engineering-interview-process/
-  - Levels.fyi London SWE (实际打开过, L3 median £280K): https://www.levels.fyi/companies/citadel/salaries/software-engineer/locations/london-metro-area
-  - Levels.fyi 全公司 SWE (实际打开过): https://www.levels.fyi/companies/citadel/salaries/software-engineer
-  - Wikipedia Citadel Securities (实际打开过, 1,800 人 / 20% 美股): https://en.wikipedia.org/wiki/Citadel_Securities
-  - 6figr new grad (搜索结果, $332k-$662k Yr1): https://6figr.com/us/salary/citadel--new-grad--cy
+- **岗位名称 (Europe 2027, 8 个)**: Citadel — Software Engineer – University Graduate (London) / Quantitative Research Analyst – University Graduate (London; Zurich) / Quantitative Researcher – PhD Graduate (Dublin; London; Zurich) / Power & Renewables Trader – FlexPower – University Graduate (Hamburg; FlexPower 2025 年底被 Citadel 收购) [来源 (实际打开过): https://www.thewallstreetquants.com/jobs/trader-power-renewables-trader-flexpower-university-graduate-at-citadel-0399bf7f-1a53-46f6-8588-bfbb77f3a892]; Citadel Securities — Software Engineer – University Graduate (Europe) (London) / Quantitative Trader – University Graduate (London) / Quantitative Research Analyst – University Graduate (Europe) (Dublin; London; Paris; Zurich) / Quantitative Researcher – PhD Graduate (Europe) (London; Paris; Zurich)
+- **资格窗口**: SWE: CS / CE 或相关 BSc / MSc / PhD 均投 "University Graduate" 岗; QR 另设 PhD 岗; 无 rotation 式 grad scheme, 直接进 team; 一份申请两家同时 review (旧版信息保留)
+- **欧洲地点**: London (主) + Dublin / Paris / Zurich (QR / QRA) + Hamburg (FlexPower) + Amsterdam (Citadel Securities, 2026-07 新开) (旧版: "London 唯一欧洲 office", 2026-05)
+- **非EU签证 (全职)**: UK register (2026-10-09 CSV) 列 Citadel Enterprise Europe Limited (Skilled Worker + GBM, A rating), **未见 "Citadel Securities (Europe) Limited" 条目** (旧版: 两实体均持 license, 2026-05) [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; 门槛 £41,700 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; NL: Citadel Securities Netherlands Services B.V. (KvK 99181207) 在 IND recognised sponsor register (2026-10-05) → 若 Amsterdam 开 grad 岗, zoekjaar → reduced HSM 可行 (IND 2026 reduced criterion €3,122/月) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants] [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]
+- **薪资 (gross/年)**:
+  - SWE London (Levels.fyi, 全 level 汇总, 2026-10): median TC £318K; "Software Engineer" 档 £290K = base £189K + bonus £97K + stock £4.4K; 区间 £158K-£446K+ (旧版: £280K median, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/citadel/salaries/software-engineer/locations/london-metro-area]
+  - ⚠️ **待 web 验证**: Prosple 列表 SWE grad London base GBP 110,000-150,000 (WebFetch 403, 未能打开) [来源 (搜索结果): https://uk.prosple.com/graduate-employers/citadel-uk/jobs-internships/software-engineer-full-time-graduate-0]
+  - US 官方 job ads (tradermath 2026-09-28): Citadel QRA grad base $235,000-$300,000 (Yr1 约 $386,000), Citadel Securities grad engineer base $235,000-$300,000 [来源 (实际打开过): https://www.tradermath.org/salaries/citadel]; aggregator US Yr1 TC $400K-$700K (base $175K-$225K + sign-on $100K-$200K + bonus $100K-$300K) [来源 (实际打开过): https://www.techinterview.org/companies/citadel-securities/]; QR / QT London 无公开数据; 无 RSU, bonus 主导
+- **申请窗口**: 2027 cycle 岗位 2026-07-19 上线, rolling; simplify (2026-07-22 版, US 口径): 2026-08 初开, 约 70% offer 在 10 月中前签, 门户开到 12 月; 12 个月后可重申 [来源 (实际打开过): https://simplify.jobs/blog/citadel-new-grad-job-2027]
+- **面试流程**: HackerRank / CodeSignal OA (约 2 周内) → 1-2 recruiter / tech screen → Superday 4-7 轮, 全程 4-8 周; Citadel Securities 加概率 / trading game; C++ 侧重低延迟 (cache / TLB / kernel bypass / NUMA / C++26) [来源 (实际打开过): https://www.efinancialcareers.com/news/citadel-securities-c-plus-plus-job-skills]
+- **工作强度**: techinterview (2026-07): SWE 约 "9-to-7", 比 FAANG 忙, trading 岗更长, office-first; 旧版 "60-70 hr/week" 无出处, 仅作参考
+- **Intern (次要)**: Summer 2027 London 状态 citadel.com 403 未直证; US 口径 2026-08 初开 (simplify, 同上)
+- **关键链接**: Citadel SWE grad 官方 (WebFetch 403, 链接取自 aggregator): https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/ | Citadel Securities SWE grad (同上): https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/ | aggregator 详情 (实际打开过): https://www.thewallstreetquants.com/jobs/software-engineer-university-graduate-europe-at-citadel-securities-1e112a7b-291a-49bb-a280-5caaa3b7ab66
 
 ---
 

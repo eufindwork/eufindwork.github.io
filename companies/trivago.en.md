@@ -128,7 +128,7 @@
 
 ## 8. For UvA Students (NL Student Visa) — Specific Assessment ⭐
 
-- **Core trade-off**: Already on NL student visa → choosing Trivago means **giving up NL zoekjaar (€2,801 reduced HSM)**, switching to DE Blue Card / Skilled Worker
+- **Core trade-off**: Already on NL student visa → choosing Trivago means **giving up NL zoekjaar (€3,122 reduced HSM)**, switching to DE Blue Card / Skilled Worker
 - **Intern feasibility**: ❌ **Low** — Working Student mode requires DE enrollment; full intern rare (sponsor not explicit)
 - **FT feasibility**:
   - **Düsseldorf Junior SWE → medium-high** — sponsor explicit + full relocation; **but starting salary €50K just covers DE Blue Card shortage €45,934, needs negotiation**

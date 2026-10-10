@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](cradle.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (Silicon Canals 公开 NL Highly Skilled Migrant 实证 + Ashby 全岗位实抓 + Built In 历史 intern JD 直引 + 已抓到 Cradle 公开 "Zurich/US 需自办 work auth" 重要风险点)
 > 一句话定位: 2021 年 Amsterdam + Zurich 双总部的 AI 蛋白质设计公司 (生成式 ML + wet lab), 70 人 10+ 国籍, **NL 总部走 Highly Skilled Migrant 国际生友好**; **但 Zurich 实习 / US 全职明确要求候选人自办 work permit — 关键踩坑**.
 
@@ -34,34 +34,27 @@
 
 ## New Grad / Junior 岗位
 
-> Cradle 是 deep tech startup, 招聘以**资深 IC + PhD 背景**为主, "Junior" 走标准 SWE Backend Python 岗 + 偶发 SWE/ML Intern (上一波 PhD-only); **NL 全职走 Highly Skilled Migrant 国际生友好**, **但 Zurich/US 明确要求候选人自办 work permit**
+> 核查日期: 2026-10-10 (实时 Ashby API + WebFetch) | 信息丰富度: ⭐⭐⭐ (依据: Ashby 全岗位实抓 + IND 登记册直查 + 官方 blog / PR; 无任何公开薪资数据)
+> **2027 Intake 状态**: **No programme** — 无 graduate programme / cohort; 2026-10-10 Ashby 在招 9 岗, **0 个 SWE / ML / intern / junior** (全为 sales / scientist / finance / EA) [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/cradlebio]
+> 2026 动态: 无新融资 (最近一轮 Series B US$73M, IVP 领投, 2024) [来源 (实际打开过): https://en.wikipedia.org/wiki/Cradle_(company)]; 2025-12-16 PR: headcount 翻倍 + 扩展美国业务 [来源 (实际打开过): https://www.prnewswire.com/news-releases/cradle-ai-powered-protein-engineering-platform-serving-six-of-top-25-pharma-leaders-302643154.html]; JD 自述 "just under 100 people", 办公室 Amsterdam / Boston / Zurich; 2026-10-01 宣布 Hansa Biopharma 合作 [来源 (实际打开过): https://www.cradle.bio/blog]
 
-- **常见岗位名**:
-  - **Backend Software Engineer, Python** (全职, Zurich / Amsterdam 双 site)
-  - **Software Engineering / Machine Learning Intern** (历史 6 个月, PhD-only, Zurich)
-  - **Scientist, Large Libraries** (ML 偏 wet-lab + 模型微调)
-- **欧洲地点**: Amsterdam (主力, ML team + lab) / Zürich (创始团队 + 部分 SWE)
-- **是否有独立 Graduate Programme**: **No** — 没有 cohort 结构, **Cradle Academy** 是对外免费教育平台 (生物 ML 培训) 不是内部 grad program
+- **岗位名称**: 无 new grad 专岗. 2026 年出现过的工程岗 (现均已下架, Index Ventures 页 2026-10-10 打开为 404): Scientific Software Engineer (Amsterdam, 2026-02-25 发布) · Backend Software Engineer, Python (Amsterdam / Zürich, 2026-04-14) · Frontend Software Engineer (Zürich, 2026-08-11) [来源 (搜索结果): https://www.indexventures.com/startup-jobs/cradle/frontend-software-engineer/]
+- **资格窗口**: 最近的 ML 工程岗 "Software Engineer in Machine Learning" (Zürich) 要求 "3+ years of experience", 2025-12-12 下架 [来源 (实际打开过): https://builtin.com/job/software-engineer-machine-learning-f-m/7079965]; 历史 SWE/ML Intern 仅限在读 PhD [来源 (实际打开过): https://builtin.com/job/software-engineering-machine-learning-intern-f-m/6352947] → 0–2 年经验的 BSc/MSc 基本无对口岗 (推断)
+- **欧洲地点**: Amsterdam (HQ + wet lab) / Zürich; Boston 为美国办公室
+- **项目结构**: 无 rotation / cohort; Cradle Academy 是对外教育平台, 不是内部 grad 项目
 - **非EU签证 (全职)**:
-  - **Amsterdam (NL Highly Skilled Migrant / Kennismigrant)**: Cradle 是 IND Recognised Sponsor (Silicon Canals 实证: 创始人 Jelle Prins 公开 "These programs remove the uncertainty and bureaucratic barriers that could otherwise prevent exceptional candidates from joining our team") [来源 (实际打开过): https://siliconcanals.com/cradle-dutch-visa-international-talent-amsterdam/]
-  - **2026 IND 门槛**: < 30 岁 **€4,357/月 gross (≈ €52.3K/年 excl. holiday)**, ≥30 岁 €5,942/月 gross (€71.3K/年); Cradle Backend SWE 估算 base €70-90K 完全符合
-  - **Zürich (CH)**: ⚠️ **不在 NL Kennismigrant 范围, Cradle 公开承认 "For roles in Zurich and in the USA, we currently can only consider candidates who have, or are able to independently obtain, a local work authorisation"** [来源 (实际打开过, Built In 2025 SWE/ML Intern JD): https://builtin.com/job/software-engineering-machine-learning-intern-f-m/6352947] — 即 Zurich/US 不办 visa, 只看 CH B/C permit / EU 国籍 / US work auth
-  - **CH 路径 (若拿到 Zurich offer)**: Quota-restricted 非欧人才许可 (年度 quota), 公司必须证明 EU 找不到人; 同等条件优先 EU/EFTA → 中国籍 Zurich SWE 极难, 通常通过 ETH/EPFL 在读 + 学校协助 transition
-- **薪资范围 (base, gross/年)** — ⚠️ **Cradle 在 Levels.fyi/Glassdoor 无独立 SWE salary 公开数据**, 以下基于 Amsterdam/Zurich AI startup 同业基准推断:
-  - **Amsterdam Backend SWE (Junior)**: 估 €65K – €85K base (NL Kennismigrant <30 起跳门槛 €52.3K, Cradle 估算实际 €70K+)
-  - **Amsterdam Backend SWE (Mid 3-5 yr)**: 估 €85K – €110K
-  - **Zürich Backend SWE**: 估 CHF 110K – CHF 140K (Zurich tech salary 行情 1.4-1.6x Amsterdam)
-  - **股权**: Series A+ startup, option 池常规 0.1-0.5% (junior) — 上行 leverage 中等
-- **申请窗口**: rolling; SWE/ML Intern 历史 cohort 春季/夏季各 1 波
-- **面试流程差异 vs 实习**:
-  - 全职 SWE Backend: 4-5 轮 (recruiter + HM + tech 2-3 + culture)
-  - PhD Intern: 1 轮 recruiter screen + 1 轮 research/topic alignment + 1-2 轮技术深挖
-  - **特殊**: Cradle 官方声明 "only makes job offers after having met candidates in person at their office in Zurich or Amsterdam" → 即 final 必须 onsite, 远程 onboard 不可
-- **录取竞争 / 国际生 friendliness**: Amsterdam 极友好 (公开走 Kennismigrant), Zurich 极不友好 (明文不办); 整体 deep tech, 非生物背景 SWE 也可应聘 (公司明确招 "great code" 即可) 但 ML/Scientist 岗强需求 PhD
+  - **Amsterdam**: "Cradle Bio B.V." (KvK 84219092) 在 IND recognised sponsor 登记册 (登记册更新 2026-10-05) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; 2026 Kennismigrant 门槛 €5,942 (≥30 岁) / €4,357 (<30 岁) / **€3,122 reduced (NL 毕业 / zoekjaar 后)** 每月 gross 不含 8% holiday [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements] → 从 NL 学生签 / zoekjaar 转入 Amsterdam 岗可行, 门槛低
+  - **Zürich / US**: 公司原文 "can only consider candidates who have, or are able to independently obtain, a local work authorisation" (2025 JD; 2026-10 在招 JD 未再出现此句) [来源 (实际打开过): https://builtin.com/job/software-engineering-machine-learning-intern-f-m/6352947] → 非EU 应届不要投 Zürich 岗
+- **薪资范围 (gross/年)**:
+  - ⚠️ **待 web 验证**: Levels.fyi Cradle 页 2026-10-10 无任何数据 [来源 (实际打开过): https://www.levels.fyi/companies/cradle/salaries], JD 只写 "very competitive salary, a generous equity stake"; 以下为同业推断 (旧版保留), 二次核实前勿用于薪资决策.
+  - Amsterdam junior SWE 估 €65K–€85K base; Zürich SWE 估 CHF 110K–140K; option 估 0.1–0.5% (junior)
+- **申请窗口**: rolling, 无固定 cycle; 2027 无任何公告; 工程岗约每季度零星开 1 个 (2026 共见 3 个, 推断)
+- **面试流程差异 vs 实习**: 在招 JD 原文 "we only make job offers after having met you in person at our office in Zurich or Amsterdam" → final 必须到场 [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/cradlebio]; 全职 SWE 4–5 轮 (recruiter + HM + tech 2–3 + culture) 为旧版信息, 本次未重核
+- **录取竞争**: 工程 headcount 小且偏资深 / PhD → 对 new grad 机会稀少; Amsterdam 签证摩擦低, Zürich 高
 - **关键链接**:
-  - Cradle Careers (实际打开过): https://www.cradle.bio/careers
-  - Jobs Ashby (实际打开过): https://jobs.ashbyhq.com/cradlebio/
-  - Silicon Canals 报道 (实际打开过): https://siliconcanals.com/cradle-dutch-visa-international-talent-amsterdam/
+  - Careers (实际打开过, JS 渲染, 仅显示 "Loading open roles…"): https://www.cradle.bio/careers
+  - Ashby 职位板: https://jobs.ashbyhq.com/cradlebio/
+  - Ashby API (实际打开过): https://api.ashbyhq.com/posting-api/job-board/cradlebio
 
 ---
 

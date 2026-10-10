@@ -2,6 +2,7 @@
 
 > **Language**: [中文](deshaw.md) | English
 >
+> Updated: 2026-10-10
 
 > NYC-headquartered top-tier multi-strat HF, quant + discretionary dual-track. London site is smaller (~150 across 2 UK legal entities) but bar is extremely high; UK entity FY 2025 per-capita compensation ~£801k ($1.08m). Hiring extremely selective, process rigorous.
 
@@ -23,35 +24,23 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐
+> Checked: 2026-10-10 (live WebFetch + direct read of official careers page data; WebSearch quota ran out mid-task) | Information richness: ⭐⭐⭐ (basis: official London job list + official NYC base; no public London pay data points, no grad programme)
+> **2027 intake status**: **No programme (Rolling)** — on 2026-10-10, 6 of the 101 live official roles are in London and none is a London new-grad SWE / Quant role; the generic Software Developer / Quantitative Analyst roles are listed for New York only [Source (official page read via curl): https://www.deshaw.com/careers]. The only London full-time tech role open to juniors = Quant Systems: Systems Developer (London) [Source (verified opened): https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295]
+> 2026 H2 news: none found (latest items on the official news page are from 2025) [Source (official page read via curl): https://www.deshaw.com/news]; context (H1): 2026-01-06 eFC reported profits across the two UK entities fell 57% year on year [Source (verified opened): https://www.efinancialcareers.com/news/de-shaw-london-pay]
 
-- **Common role names (London-active)**:
-  - **Quant Systems: Systems Developer (London)** — high-performance engineering, quant infrastructure
-  - **Senior Virtualization and Storage Engineer (London)**
-  - **Systems: Senior Linux Infrastructure Engineer (London)**
-  - **Trader/Analyst Intern (London) — Summer 2026** (10 weeks, June-August)
-  - **D.E. Shaw Investment Management (DESIM) Intern (London) — Summer 2026**
-  - **Investor Relations Intern (London) — Summer 2026**
-- **European locations**: London (only)
-- **Independent Graduate Programme**: **No rotational programme**, but has targeted Summer Internship Pipeline. Quant Analyst Internship (NYC focus) occasionally accepts London-based candidates. London currently more senior + lateral hire.
-- **Non-EU visa (full-time)**: UK Skilled Worker 2026 £41,700 / SOC 2134 ~£49,400. D.E. Shaw London base far exceeds (historical PM/Analyst ~£800k+ all-in), sponsorship has no base issue at all. UK entity is A-rated sponsor.
-- **Salary structure**:
-  - **Intern**: NYC SWE intern $144.23/hr (Levels.fyi) = ~$25k/month PhD-level; London estimated ~£8-12k/month (official not London-specific) [Source (verified opened): https://www.levels.fyi/internships/D-E-Shaw/Software-Engineer-Intern/]
-  - **Full-time New Grad / Software Developer**:
-    - NYC base: $275k base + Year 1 guaranteed bonus + sign-on + relo (official listing) — London typically scaled at 70%, base ~£140-180k + bonus [Source (search result): https://www.deshaw.com/careers/software-developer-2646]
-    - London Quant Systems Developer FT estimate: base £120-160k + 30-100% bonus
-    - UK entity FY 2025 per-capita compensation £801k ($1.08m), but this is pulled up by PM + senior (78-person sample) [Source (search result): https://www.efinancialcareers.com/news/de-shaw-london-pay]
-- **Application window**: Summer 2026 intern already closed (official page statement); Summer 2027 intern form already open for notify list. **Official suggests: apply by end of prior calendar year**.
-- **Interview process differences vs internship**: Intern 4-5 rounds (OA + 2-3 tech + ref check); FT similar but more emphasis on production experience + writing/code sample may be required.
-- **Selection competition**: Math/probability depth interview is the killer; accept rate < 1% (community estimate).
-- **Key links**:
-  - [D.E. Shaw Careers](https://www.deshaw.com/careers)
-  - [Software Developer (NYC base info)](https://www.deshaw.com/careers/software-developer-2646)
-  - [Quant Systems: Systems Developer (London)](https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295)
-  - [Campus Recruiting / Internships](https://campus.deshaw.com/internships)
-  - [Trader/Analyst Intern London Summer 2026](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2026-5465)
-  - [Interviewing Guide (PDF)](https://www.deshaw.com/assets/articles/D_E_Shaw_Group_Interviewing_Guide.pdf)
-  - [Quant Blueprint guide](https://www.quantblueprint.com/companies/de-shaw-group)
+- **Role names (London, 2026-10)**: Quant Systems: Systems Developer (London) · Senior Virtualization and Storage Engineer (London) · Systems: Senior Linux Infrastructure Engineer (London) · Legal Analyst and Contract Negotiator (London) + student roles Systems Engineering Intern (London) - Summer 2027 · Systems Administrator Industry Placement Year (London). No rotational graduate programme
+- **Eligibility**: Systems Developer (London) asks for a CS or related technical degree, or comparable experience of up to 5 years, Python / Golang / Rust etc. → new grads can apply (same 5295 page); NYC Quantitative Analyst targets "top students" across fields, with separate BSc/MSc and PhD bands [Source (verified opened): https://www.deshaw.com/careers/quantitative-analyst-2636]
+- **European locations**: London only
+- **Programme structure**: no cohort / rotations, you join a team directly; start month agreed per offer (no public data)
+- **Non-EU visa (full-time)**: "D. E. Shaw & Co. (U.K.), Ltd." (London) is on the UK sponsor register, 2026-10-09 edition: Worker (A rating), Skilled Worker + GBM [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers; CSV downloaded via curl and checked]. Thresholds: general £41,700 / SOC 2134 going rate £54,700 (previous: ~£49,400) [Source (verified opened): https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes]. Official job pages say nothing about visas. Inferred: NL zoekjaar does not apply (London is the only EU site)
+- **Pay (base + bonus, no equity)**:
+  - NYC official (2026-10): Quantitative Analyst base $275,000 (BSc / MSc) / $300,000 (PhD), plus a Y1 guaranteed year-end bonus + sign-on + relocation (same 2636 page); Software Developer base $275,000 [Source (official page read via curl): https://www.deshaw.com/careers/software-developer-2646]
+  - London: Levels.fyi data still locked ("need 4 more ... submissions", 2026-10-10) [Source (verified opened): https://www.levels.fyi/companies/the-d-e-shaw-group/salaries/software-engineer/locations/london-metro-area]; UK entity FY to 2025-03: 78 staff, average £801k ($1.08m) per head, pulled up by PMs / seniors, not representative of new grads [Source (verified opened): https://www.efinancialcareers.com/news/de-shaw-london-pay]
+  - ⚠️ **Pending web verification**: London new-grad base ~£140-180k + bonus (NYC base × ~70%) and Quant Systems Developer base £120-160k + 30-100% bonus are older estimates with no public data points; do not use for pay decisions before re-checking
+- **Application window**: full-time is rolling with no public deadline; official internship guidance: selection completes "early in the first quarter", apply by the end of the previous calendar year [Source (verified opened): https://campus.deshaw.com/internships]. Inferred: London new grads come mainly from intern conversion + occasional lateral junior roles
+- **Interview process vs internship**: official: application review → phone interview → virtual interviews → reference conversations → offer; writing / code samples or a case study depending on the role [Source (verified opened): https://www.deshaw.com/careers/interviewing]; the official page states no AI-tool policy, while the 2027 London Systems Engineering Intern role asks for the ability to "effectively use AI-assisted development tools" [Source (official page read via curl): https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925]. No new 2025-26 interview reports opened this round, see §3 / §4
+- **Competition**: community estimate accept rate < 1% (previous, unverified); inferred: very few London junior seats per year, PhDs / intern conversions have the edge
+- **Key links**: [Careers](https://www.deshaw.com/careers) · [Quant Systems Developer London](https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295) (verified opened) · [Campus Internships](https://campus.deshaw.com/internships) (verified opened) · [Interviewing](https://www.deshaw.com/careers/interviewing) (verified opened)
 
 ---
 

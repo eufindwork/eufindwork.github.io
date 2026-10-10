@@ -44,7 +44,7 @@
   - Software Engineer (median Greater Amsterdam): **€56.2K** [来源 (实际打开过): https://www.levels.fyi/companies/bunq/salaries/software-engineer/locations/greater-amsterdam-area]
   - Bunq global SWE range: **€38.7K – €55.9K+** (Levels.fyi 全球范围)
   - **股权**: private company (CEO Ali Niknam 持大部分), equity allocation 不透明
-- **Sponsor 政策 (FT)**: NL Kennismigrant. 2026 阈值 < 30 €4,357/月 ≈ €52.3K/年. **Bunq entry €39K 严重低于标准 HSM 门槛**, 必须走 **reduced HSM for recent NL master grads (€2,801/月 ≈ €33.6K)** 才能合规. 这是申请 Bunq 的关键风险.
+- **Sponsor 政策 (FT)**: NL Kennismigrant. 2026 阈值 < 30 €4,357/月 ≈ €52.3K/年. **Bunq entry €39K 严重低于标准 HSM 门槛**, 必须走 **reduced HSM for recent NL master grads (€3,122/月 ≈ €33.6K)** 才能合规. 这是申请 Bunq 的关键风险.
 - **申请窗口**: 全年 rolling
 - **流程差异 vs intern**: N/A (intern 几乎不存在)
 
@@ -59,8 +59,8 @@
 - **已知 sponsorship 案例**:
   - Bunq Together (官方 community) 自称 "primary choice for new skilled migrants to NL" [来源: https://careers.bunq.com/]
   - Dwayne Gefferie LinkedIn: NL fintechs Adyen / Mollie / **bunq** sponsor [来源 (实际打开过): https://www.linkedin.com/posts/dwaynegefferie_why-dutch-fintechs-adyen-mollie-and-bunq-activity-7185920215904309248-s52u]
-- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
-- **关键风险**: Entry-level base €39K = €3,250/月, **不到标准 HSM <30 阈值 (€4,357)**. UvA master 毕业用 reduced €2,801/月 OK, 但若直接从中国 fresh apply 未走 zoekjaar 路径, **可能无法 sponsor**
+- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
+- **关键风险**: Entry-level base €39K = €3,250/月, **不到标准 HSM <30 阈值 (€4,357)**. UvA master 毕业用 reduced €3,122/月 OK, 但若直接从中国 fresh apply 未走 zoekjaar 路径, **可能无法 sponsor**
 
 ---
 
@@ -134,7 +134,7 @@
 
 - **Intern 可行性**: **低** — 无公开 intern 通道, 即使能拿到 stage offer, 文化风险大. 学生签技术上可 cover (16h 学期 / 40h 假期), Nuffic 走完即可, 无需公司额外 visa 办理
 - **FT 可行性**: **中** — 走 zoekjaar 后申请 FT, 但有 **2 大风险**:
-  1. Entry-level base €39K 卡在 HSM 门槛边缘, **必须确认 offer 是 reduced HSM 资格 (€2,801/月)** 或谈到 base ≥ €4,357
+  1. Entry-level base €39K 卡在 HSM 门槛边缘, **必须确认 offer 是 reduced HSM 资格 (€3,122/月)** 或谈到 base ≥ €4,357
   2. Glassdoor 文化评分极低, 建议 entry-level 慎入
 - **预计摩擦**: 
   - Intern: 高 (无通道 + 文化风险)

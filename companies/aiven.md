@@ -115,7 +115,7 @@
 
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
-- **核心 trade-off**: 已在 NL 持学生签 → 选 Aiven 意味着 **放弃 NL zoekjaar (€2,801 reduced HSM)**, 换 DE Blue Card (Berlin) 或 Finland Blue Card (Helsinki)
+- **核心 trade-off**: 已在 NL 持学生签 → 选 Aiven 意味着 **放弃 NL zoekjaar (€3,122 reduced HSM)**, 换 DE Blue Card (Berlin) 或 Finland Blue Card (Helsinki)
 - **Intern 可行性**: ❌ **几乎不可行** — 无正式 intern program, thesis worker 默认要求当地工签, 跨欧 intern 不 sponsor
 - **FT 可行性**:
   - **Berlin SRE/Backend → 高** — DE Blue Card 短缺职业 €45,934, JD 明文 guaranteed; Aiven SRE 起薪应 cover

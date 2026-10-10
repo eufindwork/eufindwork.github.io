@@ -3,7 +3,7 @@
 > **Language**: [中文](flowtraders.md) | English
 >
 
-> Update: 2026-05-28
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (Levels.fyi Amsterdam median €129K direct read + Glassdoor Graduate SWE €157K median + 4 official Graduate Programs + Tradermath process + WSO + Trading Interview mental math 75-in-10 verified)
 > One-line positioning: ETF Market Maker founded 2004 in Amsterdam (one of global ETF MM leaders), publicly listed (FLOW.AS), HQ Amsterdam, global Singapore + NYC + HK + Cluj-Napoca; engineering more systems-engineering than Optiver/IMC (not extreme low-latency HFT), but trader process's "75 questions/10 min mental math + group trading simulation" is ETF MM unique signature
 
@@ -26,56 +26,22 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (4 clearly named Graduate Programs + Levels.fyi all-level + Glassdoor 12 data points Graduate SWE + Trading Interview process verified + but intern stipend no precise public number)
+> Checked: 2026-10-10 (live WebFetch + full Greenhouse API download; WebSearch quota exhausted) | Information richness: ⭐⭐⭐⭐ (basis: official graduates page + Greenhouse JDs + IND register + Q2 2026 results read directly; no first-hand Amsterdam grad pay data)
+> **2027 intake status**: **Rolling** (Graduate Trader, four intakes a year) / **Open** (PhD Graduate QR, posted 2026-10-09) / Graduate Software Development: **no live JD**; plus **Flow Quant Trading Days 2026** (Amsterdam, 7-8 Dec 2026, 15 students, only "graduating in 2026 or 2027 from a BSc/MSc STEM degree in the Netherlands", deadline November 13th, can lead directly to a full-time Graduate Trader offer) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs]
+> 2026 H2 news: 2026-07-30 Q2 2026 results: 1H26 net profit €91.2m; 2026 fixed-opex guidance €235-245m ("technology investments, talent additions"); CEO: "attracting experienced talent with a focus on technology and AI"; "over 600 professionals" worldwide (previous: ~750-900 staff); 3Q26 trading update scheduled for 2026-10-29 [Source (verified opened): https://www.flowtraders.com/media/wt3kym5w/flow-traders-2q26-results-press-release-vf.pdf]; 2026-07-28 picked CoreWeave to train foundation models for AI-driven quant trading [Source (verified opened, Google News RSS headlines): https://news.google.com/rss/search?q=%22Flow+Traders%22+when:120d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **Common role names (key distinctions)**:
-  - **Graduate Software Engineer** / **Graduate Software Engineer - C++** — 1-year training program
-  - **Graduate Trader** — 3-month Trading training
-  - **Graduate Quantitative Research** — 2-month QR training
-  - **Graduate Trading Operations Engineering** — 3-month training + project, DevOps + trading infra (Flow Traders unique, between SWE and trader)
-  - **Trading Intern** — Amsterdam + NY dual location
-  - **Software Engineer Intern**
-- **European locations**: Amsterdam (main, EU HQ) / Romania Cluj-Napoca (tech secondary, lower salary) / other global Singapore / NY / HK
-- **Independent Graduate Programme**: **Yes (4 parallel programs)** — this is where Flow Traders is more granular than Optiver/IMC:
-  - **Graduate Software Development (1-year training, C++ or Java team)** — longest program
-  - **Graduate Trading (3 months)** — 4 intakes / year, rolling hiring; "Graduate Trader position is open all year round"
-  - **Graduate QR (2 months)** — collaborates with senior QR + Trader
-  - **Graduate Trading Operations Engineering (3 months)** — DevOps + infra oriented
-- **Non-EU visa (full-time)**:
-  - **NL Kennismigrant 2026**: same as Optiver/IMC — <30 €4,357/month, ≥30 €5,942/month, master reduced €2,801/month — Flow Traders Graduate SWE base €110-130K far exceeds [Source (user MEMORY)]
-  - **30% ruling**: applicable
-  - **Important difference**: official clearly states "Flow Traders is open to providing visa sponsorship to international candidates (and their partner/children)" — **but intern doesn't get it**: "We do not provide visa sponsorship for our interns" [Source (verified opened): https://www.flowtraders.com/careers]
-- **Salary structure (quant-specific, must fill)**:
-  - **Intern (Amsterdam, 2026)**:
-    - 8 weeks, July 1, 2026 start, housing provided
-    - **Exact stipend not officially public**, industry estimate €3,500-5,000/month + apartment
-    - Comparison: NY Trading Intern Summer 2026 prorated base **$150K** (annualized, ~$12.5K/month) [Source (search result): https://www.builtinnyc.com/job/trading-intern-summer-2026/6880940]
-    - Successful completion can directly convert to FTE Graduate Trader
-  - **Full-time New Grad (Graduate SWE, Amsterdam)**:
-    - **Glassdoor 2025 data (12 data points)**: average **€156,893/year** (€132K-€189K range), hourly €64-91 [Source (search result): https://www.glassdoor.com/Salary/Flow-Traders-Graduate-Software-Engineer-Netherlands-Salaries-EJI_IE258344.0,12_KO13,39_IL.40,51_IN178.htm]
-    - **Levels.fyi Greater Amsterdam (median, across levels)**: total **€129K** = base €116K + bonus €34.7K + stock €0 (median L4, 7 yoe — i.e., Graduate entry data limited) [Source (verified opened): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer/locations/greater-amsterdam-area]
-    - Flow Traders global SWE Levels.fyi across location: $68.8K-$129K, **lower than Optiver / IMC** (Optiver L3 €185K vs Flow Traders Graduate €129-157K)
-    - **No equity** (though listed company, grad bonus all cash; senior only gets RSU)
-  - **Full-time New Grad (Trader, Amsterdam)**: Glassdoor etc. shows Y1 base €60-80K + PnL bonus, Y1 total €100-180K (slightly lower than Optiver/IMC but entry threshold also slightly lower)
-- **Application window**:
-  - **Graduate Trader**: "open all year round...rolling basis. **4 intakes per year**" (around Jan, Apr, Jul, Oct)
-  - **Graduate Software Development**: apply 1 year in advance; "no deadline for submitting applications", **2026 summer start already open** [Source (verified opened): https://www.flowtraders.com/careers/graduates/]
-  - **Trading Intern Summer 2026**: already open (greenhouse) [Source (search result): https://job-boards.greenhouse.io/flowtraders/jobs/7166435]
-- **Interview process differences vs internship**:
-  - **Mental math test**: 75 questions / 10 minutes (vs Optiver 80 in 8, vs IMC own version) — 30 easy + 30 hard (decimals) + 15 multiple choice
-  - **Zetamac benchmark**: industry recommends 50+ as entry, 55-65+ competitive
-  - **Group trading simulation**: Flow Traders unique — candidates trade with each other (vs Optiver 1v1 MM game)
-  - **ETF brainteaser**: 1 simple math + spot opportunity question
-  - Full-time vs intern process almost same, full-time has 1 extra culture fit round
-- **Selection competition**: OA pass rate reportedly <25% (slightly friendlier than Optiver/IMC); overall offer rate <3%
-- **Key links**:
-  - Official careers (verified opened): https://www.flowtraders.com/careers
-  - Official Graduate Programs (verified opened): https://www.flowtraders.com/careers/graduates/
-  - Official Job Search (search result): https://www.flowtraders.com/careers/job-search/
-  - Trading Intern Summer 2026 (search result): https://job-boards.greenhouse.io/flowtraders/jobs/7166435
-  - Graduate Trader current role (search result): https://www.flowtraders.com/careers/job-description/7507482
-  - Levels.fyi Amsterdam (verified opened, median €129K): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer/locations/greater-amsterdam-area
-  - Levels.fyi Global SWE (search result): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer
+- **Role names**: Graduate Trading Program (3-month training) · Graduate Quantitative Research (2 months) · Graduate Trading Operations Engineering (3 months = 2-month training + 1-month graduation project) · Graduate Software Development (1 year, C++ or Java) [Source (verified opened): https://www.flowtraders.com/careers/graduates/]
+- **Live roles (Amsterdam, 2026-10-10)**: Graduate Trader https://job-boards.greenhouse.io/flowtraders/jobs/7507482 · PhD Graduate Quantitative Researcher https://job-boards.greenhouse.io/flowtraders/jobs/8266897 · Flow Quant Trading Days 2026 https://job-boards.greenhouse.io/flowtraders/jobs/8173418; near-junior: Trading Tools Software Engineer ("previous working experience in professional software development", no years stated) https://job-boards.greenhouse.io/flowtraders/jobs/8203713; other Amsterdam tech roles mostly 5+ / 7+ years
+- **Eligibility window**: Graduate Trader "Only penultimate and final year students are eligible"; PhD QR requires a PhD; Trading Days limited to 2026 / 2027 BSc/MSc STEM graduates of NL universities
+- **European locations**: Amsterdam (EU HQ, where the grad programmes run); London has only senior / manager roles
+- **Programme structure**: Trader: 3-month Amsterdam training → desk placement, "four intakes for this program per year"; SWE: 1-year programme, applications open "a year before the start date", no deadline (closes when filled)
+- **Non-EU visa (full-time)**: official "We are open to providing visa sponsorship to international candidates (and their partner/ children). We do not provide visa sponsorship for our interns." (full-time yes, interns no — unchanged) (same graduates source); IND register 2026-10-05 version lists **Flow Traders B.V.** (KvK 33223268) + **Flow Traders Amsterdam Services B.V.** (KvK 98525085) [Source (verified opened; full table downloaded and grepped): https://ind.nl/en/public-register-recognised-sponsors/public-register-work] → moving from NL student visa / zoekjaar to Kennismigrant is feasible; reduced criterion €3,122, <30 €4,357, ≥30 €5,942 [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements]; UK: Flow Traders UK Services Ltd is an A-rated Skilled Worker sponsor [Source (verified opened; CSV downloaded and grepped): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]
+- **Pay (gross/yr)**: Levels.fyi Amsterdam SWE median **€125K** (= base €110K + bonus €15K + stock €0; that entry is L4, 10 YoE, 2026-07 offer); NL 14 entries average €121,189, highest €155,473; **no entry-level breakdown** (previous: median €129K = base €116K + bonus €34.7K, L4 7 YoE, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/flow-traders/salaries/software-engineer/locations/greater-amsterdam-area]; US reference: NY Graduate Quantitative Trader (Fall 2027 start) base $175,000 + discretionary variable https://job-boards.greenhouse.io/flowtraders/jobs/8094581; Amsterdam JDs only say "competitive salary, annual discretionary profit share"
+- ⚠️ **Pending web verification** (Amsterdam grad pay, previous Glassdoor search results, not re-checked this round; do not use for pay decisions): Graduate SWE NL average €156,893 https://www.glassdoor.com/Salary/Flow-Traders-Graduate-Software-Engineer-Netherlands-Salaries-EJI_IE258344.0,12_KO13,39_IL.40,51_IN178.htm; Graduate Trader Y1 base €60-80K + PnL bonus, Y1 total €100-180K
+- **Application window**: Trader rolling all year; Trading Days deadline November 13th (2026); PhD QR posted 2026-10-09; Graduate SWE has no live JD (last cycle opened a year ahead); no Amsterdam Summer 2027 Trading Intern JD yet (HK Trading Intern is open, graduating Aug 2027 – Dec 2028)
+- **Interview process vs internship**: ⚠️ **Pending web verification**: the previous version (search results: Tradermath / WSO) recorded mental math 75 questions / 10 minutes → recruiter → trader interview → case → assessment day (incl. group trading simulation); not re-checked this round
+- **Competition**: Trading Days takes only 15 students; Amsterdam currently has 3 grad-track postings (inferred: concentrated intake)
+- **Key links**: graduates page (verified opened): https://www.flowtraders.com/careers/graduates/ · careers FAQ (verified opened): https://www.flowtraders.com/careers · Greenhouse API (verified opened, see above) · Levels.fyi Amsterdam (verified opened, see above)
 
 ---
 
@@ -190,4 +156,4 @@
 - Trading Interview Graduate Trader (search result): https://www.tradinginterview.com/?post_type=ti_job&p=10263277536
 - TechPays Flow Traders NL (search result): https://techpays.com/europe/netherlands/flow-traders
 - TechPays Flow Traders Amsterdam (search result): https://techpays.com/europe/netherlands/flow-traders/amsterdam/eng_generic
-- IND Kennismigrant 2026 thresholds (user MEMORY): NL <30 €4,357/month; ≥30 €5,942/month; reduced €2,801/month
+- IND Kennismigrant 2026 thresholds: NL <30 €4,357/month; ≥30 €5,942/month; reduced €3,122/month [Source (actually opened): https://ind.nl/en/required-amounts-income-requirements]

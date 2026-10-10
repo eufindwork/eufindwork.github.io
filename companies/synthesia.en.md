@@ -2,7 +2,8 @@
 
 > **Language**: [中文](synthesia.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — FirstStage / Greenhouse in §1/§6/§8 (now Ashby) and 'junior roles are frequently open' (no junior roles as of 2026-10).
 > One-line positioning: UK AI video generation unicorn (Series E, ~$4B valuation 2026), CEO Victor Riparbelli; London HQ-led, 80% of London staff are immigrants (CEO's exact words). **UK Skilled Worker A-rating + 16 CoS quota issued** [Source (verified opened): https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/], is the most sponsor-credible mid-sized generative-video company in London (~900 staff). **⚠️ Key limitation: company publicly states mainly sponsoring those already in UK / EU, no from-scratch relocation**.
 
 ---
@@ -20,28 +21,22 @@
 
 ## New Grad / Junior Roles
 
-> Synthesia does not have a named Graduate Programme, but SWE entry-level / Junior roles are frequently open, going through the same pipeline as seniors. Is one of the few companies in European generative video that can give sponsorship.
+> Checked: 2026-10-10 (live WebSearch + WebFetch + full Ashby API parse) | Info richness: ⭐⭐⭐ (basis: all 46 open JDs searched + Levels.fyi London + UK/NL sponsor registers; missing entry-level pay samples and 2026 new-grad interview reports)
+> **2027 Intake status**: **No programme (Rolling)** — no graduate scheme; on 2026-10-10, 0 of 46 open Ashby roles are Intern / Graduate / Junior, and the 17 engineering/research roles are almost all Senior / Staff / Principal [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/synthesia ]
+> **2026 news**: 2026-01-26 Series E $200M at a $4B valuation (led by GV) + employee secondary [Source (verified opened): https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work ]; 2026-09-18 opened a new NYC US headquarters, 250+ US employees, plans 60+ more US hires by end of 2026 [Source (verified opened): https://www.unite.ai/synthesia-opens-50-000-square-foot-us-headquarters-in-new-york/ ]; no layoff reports found
 
-- **Common role names**: Software Engineer, Software Engineer II, ML Engineer, Research Engineer
-- **European locations**: all London (HQ-only in Europe, NY is commercial)
-- **Independent Graduate Programme**: **No** — no cohort grad programme, fresh grads go through the same SWE pipeline
-- **Non-EU visa (full-time)**:
-  - **UK Skilled Worker**: Synthesia Limited **A-rating sponsor**, 16 CoS issued [Source (verified opened): https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/]
-  - 2026 threshold £41,700, Synthesia SWE base £74K-£107K (Levels.fyi) safely meets [Source (verified opened): https://www.levels.fyi/companies/synthesia/salaries/software-engineer]
-  - **⚠️ Key limitation**: multi-channel + community feedback says Synthesia **prioritizes sponsoring those already in UK / EU (student-to-work-visa transitions), does not do from-scratch overseas relocation**. Overseas fresh grad direct applications have extremely low hit rate — recommend coming to UK for MSc + Graduate Route bridge first
-- **Salary range (Levels.fyi 2026)**:
-  - **SWE London Median TC**: **£98,226** / **£109K** (slightly different samples); range £78.1K - £109K (P25-P75) [Source (verified opened): https://www.levels.fyi/companies/synthesia/salaries/software-engineer/locations/london-metro-area]
-  - **SWE UK Median**: £110,976; highest £200,840 [Source: https://www.levels.fyi/companies/synthesia/salaries/software-engineer]
-  - **Fresh grad/Junior SWE**: estimated base £65K-£85K + sign-on + equity → TC £85K-£110K
-  - **Equity**: Series E private ($4B valuation), illiquid until IPO / acquisition; tender offer history exists
+- **Role names**: no junior roles open; even one of the lowest-bar roles, ML Engineer - Roleplay Sessions, asks for "At least seven (7) years of experience"; Research Scientist roles require top-venue publications (previous: "SWE entry-level / Junior roles frequently open", 2026-05 — none seen this round)
+- **Eligibility**: no public entry-level bar / no grad window
+- **European locations**: London HQ; JDs list hubs London / Amsterdam / Zurich / Munich / Copenhagen + "remote in Europe" (previous: all London, 2026-05)
+- **Programme structure**: no cohort
+- **Non-EU visa (full-time)**: UK — Synthesia Limited Skilled Worker A rating, added 2025-11-25, still listed 2026-10-09 [Source (verified opened): https://immigrationgpt.co.uk/company/Synthesia-Limited ]; "Total COS issued: 16" (no year given) [Source (verified opened): https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/ ]; 2026 threshold £41,700; remote-in-Europe JDs say "subject to compliance and right to work checks" → remote roles assume existing right to work
+  - **NL**: the IND recognised-sponsor register (2026-10-05 version) lists "Synthesia B.V." (KvK 82292132) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work ]; OpenCorporates: Active, Grote Bickersstraat 74, Amsterdam [Source (verified opened): https://opencorporates.com/companies/nl/82292132 ] → inferred to be the entity of Synthesia's Amsterdam hub (the privacy policy only names Synthesia Limited / ApS, so not directly confirmed [Source (verified opened): https://www.synthesia.io/legal/privacy-policy ]); if correct, Amsterdam roles could use zoekjaar → Kennismigrant
+  - The previous "prefers sponsoring people already in UK/EU" point is community feedback, not re-checked this round
+- **Pay (TC, gross/yr)**: Levels.fyi London SWE (updated 2026-10-10): median £137,909 (shown as £138K), average £131,602, highest £174,982, range £81.1K - £138K+; 24 SWE submissions company-wide, no 0-2 YOE samples; 4-year vest, 25% in year 1 [Source (verified opened): https://www.levels.fyi/companies/synthesia/salaries/software-engineer/locations/london-metro-area ] (previous: median £98,226, range £78.1K - £109K, 2026-05); entry level: no public data (previous estimate of £65K-£85K base had no source, removed)
 - **Application window**: Rolling
-- **Interview process differences vs senior**: fresh grad process shorter (recruiter → tech → take-home → HM, 3-4 rounds); senior adds design review + leadership
-- **Admission competition / International student friendliness**:
-  - Overall friendly (80% London employees being immigrants is real data)
-  - But **overseas fresh grads at relative disadvantage** — sponsor prefers UK enrolled / EU transfers; overseas applications should email recruiter to confirm first
-- **Key links**:
-  - Careers: https://www.synthesia.io/careers
-  - Sponsor verification: https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/
+- **Interview process**: ⚠️ **Pending web verification** (Glassdoor 403, no 2026 H2 reports): recruiter (asks visa status directly) → HM → technical exercise (video pipeline design) → director (mid+); ~26 days on average (2026-05 data)
+- **Competition**: 900+ employees; careers page CEO quote "roughly 80% of our staff in our London HQ are immigrants" [Source (verified opened): https://www.synthesia.io/careers ]; no junior roles → new-grad chances depend on occasional openings (inferred)
+- **Key links**: Ashby openings https://jobs.ashbyhq.com/synthesia (JS-rendered; data read via the API above) · Careers https://www.synthesia.io/careers (verified opened)
 
 ---
 

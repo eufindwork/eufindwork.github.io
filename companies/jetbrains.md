@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](jetbrains.en.md)
 >
-> 更新时间: 2026-06-01
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (官网项目库 + Levels.fyi 2026-06 直读 + Glassdoor 面经 + JetBrains 官方博客 + 2026 Summer/Fall cycle 公开 admissions 页; 缺中文社区面经)
 > 一句话定位: 捷克起家 / 总部 Prague 的开发者工具公司, IntelliJ IDEA / PyCharm / Kotlin 等 IDE 与编程语言的母公司, 全部实习均为有偿, 走"先选 project + 提交 test task → mentor 面试"的非标准流程
 >
@@ -46,37 +46,26 @@ JetBrains 实习项目"office, hybrid, fully remote 均可, 但必须在公司�
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐ (JetBrains 没有独立 "Graduate Programme" 品牌, Junior 岗位以普通全职 SWE 名义混在 Greenhouse 列表中; Greenhouse 抓取显示当前 **106 个开放岗位** (2026-06-01 抓取, 比 2026-05 的 122 略降但仍健康) **只有 1 个 "Junior" 标签岗** (Junior Email Marketing Specialist, 非 SWE), 全部 SWE 按 Software Developer / Senior 池子混排, 公开薪资数据只有 L2 一档)
-> 区别于实习: 全职 entry-level 走标准 SWE 招聘流程, 不再受 3/6 个月 cycle 限制, 同时**完全提供 visa + relocation** (与实习"不办签证"形成完全反转)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse API; WebSearch 配额用尽, 新闻只查了官方博客) | 信息丰富度: ⭐⭐⭐ (依据: Greenhouse 实时岗位 + Levels.fyi 三城 2026-10-10 重读 + 官方招聘流程 / relocation 博客 + IND 登记册)
+> **2027 Intake 状态**: **No programme (rolling)** — 无 cohort 式 graduate programme, 全职按单岗位 rolling 招聘; 2026-10-10 Greenhouse 共 **59** 个在招 (2026-06-01 为 106), **0 个 Junior / Graduate 标题岗位** [来源 (实际打开过): https://job-boards.eu.greenhouse.io/jetbrains]
+> 2026 H2 动态: 官方博客 2026-06~10 无 layoff / hiring freeze 公告, 主要是 AI 产品发布 (JetBrains Air 2026-09-22, AI for Teams 2026-07-07) [来源 (实际打开过): https://blog.jetbrains.com/blog/]; 在招数 106 → 59 是本轮观测, 是否代表招聘放缓属推断
 
-- **常见岗位名**: Software Developer / Kotlin Engineer / IDE Engineer (按团队和产品命名); **没有** "Graduate" / "New Grad Programme" 这种结构化品牌 — 2026-06-01 Greenhouse 抓取确认 (**106 open roles**, 1 个 "Junior Email Marketing Specialist", 0 个 Junior SWE tag, 其余全 mid-to-senior + 偶尔 Principal/Founding/Lead); JetBrains 把毕业生与有 1-2 年经验 SWE 混在同一 Software Developer 池子里, 直接按 mentor 推荐 + test task 分流 [来源 (实际打开过): https://job-boards.eu.greenhouse.io/jetbrains, 抓取 2026-06-01]
-- **欧洲地点**: 与实习一致 — Prague (CZ, 最大), Amsterdam (NL, Datalore / DataGrip / Kotlin Notebook), Munich + Berlin (DE), Warsaw (PL), Limassol (CY), Yerevan (AM), Belgrade (RS), London (UK 部分岗位), **+ Madrid (ES, 2026 Q1 新开)**。Greenhouse 2026-06-01 抓取 4 大城市分布: **Munich 18 / Berlin 17 / Prague 17 / Amsterdam 16** (前 4 名平均分配) [来源 (实际打开过): https://job-boards.eu.greenhouse.io/jetbrains]
-- **是否有独立 Graduate Programme**: **No (确认)**。JetBrains 不办 cohort-based grad scheme; 唯二的"结构化早期路径"是 (1) 实习转正 (AI4SE TU Delft 路径有公开转 FTE 案例, 见 intern 部分) (2) Kotlin Ecosystem Mentorship Program (与 maintainer 结对 → 拿 referral, https://blog.jetbrains.com/kotlin/2026/05/kotlin-ecosystem-mentorship-program/)。注: 官方实习页明确接收 "recent (max 1 year) graduates", **Summer/Fall 2026 cycle 申请截止 2026-03-16, 面试至 2026-04-17, 结果 2026-04-22** (该 cycle 已结束) — 这是应届生 0-1 年内的实际入口 [来源 (实际打开过): https://internship.jetbrains.com/admissions/114]
-- **非EU签证 (全职)**: 与实习"不办签证"完全反转 — **全职提供完整 work permit + 居留 + 1 个月临时住房 + 机票 + 行李运输 (含宠物); 整体 relocation 周期 2-4 个月; 历史 1 年内 90+ 员工 + 家属被 relocation, 多数评为 smooth / very smooth** [来源: https://blog.jetbrains.com/life-at-jetbrains/2026/05/relocating-with-jetbrains-visa-support-relocation-process-and-what-to-expect/]。荷兰走 Kennismigrant (2026 < 30 岁门槛 €4,357/月 gross, JetBrains Amsterdam L2 base 100% 符合), 德国走 EU Blue Card, 捷克走 Employee Card, 亚美尼亚 / 塞浦路斯案例最多 (JetBrains 在当地是绝对主雇主)。注: MyVisaJobs 数据显示 JetBrains 在 FY2025 前三季度**没有提交任何 H-1B / Green Card 申请** — 意味着美国岗位走的是 L-1 / O-1 路径或不办, 但欧洲是主战场 [来源: https://www.myvisajobs.com/Visa-Sponsor/Jetbrains/285324.htm]
-- **薪资范围 (base, gross/年) — Levels.fyi 2026-06-08 直读最新**:
-  - **Germany (Munich)**: L2 entry-level **$73.7K base + $1.2K bonus + $0 stock = $74.9K total ≈ €69K** (Munich Metro Region); L3 跳至 $129K, L4 $128K, L5 $148K; 全 level median **$108K** (Levels.fyi 2026-06-08, EUR 区间 €64.6K-€128K+) [来源 (实际打开过): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/munich-metro-region]
-  - **Prague (CZ)**: L2 entry-level **$78.8K base + $1.3K bonus + $0 stock = $80.1K total ≈ CZK 1.68M ≈ €74K** (Levels.fyi 2026-06-09); L3-L5 数据点不足显示; 全公司 Prague median 仅 CZK 1.37M [来源 (实际打开过): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/prague-metropolitan-area]
-  - **Amsterdam**: L2 entry-level **$104K base + $2.8K bonus + $0 stock = $107K total ≈ €99K** (Levels.fyi 2026-06-08, 显著高于 Munich/Prague 同级); 全 level €92.4K-€132K 区间, median **€118K**; **Amsterdam L2 base 是欧洲 3 城最高, 远超 Kennismigrant 门槛 €52.3K, 30% ruling 也轻松达标 (€46,107)** [来源 (实际打开过): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/greater-amsterdam-area]
-  - **Warsaw / Yerevan / Limassol / Madrid**: Levels.fyi 数据点不足, 无 2026 公开数据可直接引用; Madrid 是 2026 新办公室, 至少 6 个月内不会有公开 comp 数据
-  - **股权**: $0 across all levels and all locations (Levels.fyi 全 city 确认 stock $0) — JetBrains 是私人 holding 公司, 无公开股票, RSU 不适用
-- **申请窗口**: rolling, 在 https://job-boards.eu.greenhouse.io/jetbrains 持续开放; **没有秋季 batch 截止日**。如果是应届生 (毕业 ≤1 年), 优先走 internship.jetbrains.com 实习入口 (下一轮窗口待官方公布), 再 pipeline 到全职
-- **面试流程差异 vs 实习**: 全职面试**比实习更重** (Glassdoor 难度 3/5, 正面率 46% — 比实习的 2.93/5 + 83% 正面均下降):
-  - Test task 仍是核心, 但取消"3 个月项目限定" — 直接配 target team
-  - **新增技术口试 (90 min)** + **系统设计 (90 min)** + **7-day take-home** (Glassdoor Senior SWE 流程, Junior 通常砍 1 轮 system design)
-  - Behavioral 比例下降, 技术深度比例上升
-  - 候选人评价"thoughtful, structured, respectful of your experience" [来源: https://www.glassdoor.com/Interview/JetBrains-Interview-Questions-E222299.htm]
-- **录取竞争**: 没有公开 application volume 数据。Glassdoor Software Developer 评分 3.9/5 (63 reviews, 略低于公司平均 4.2), 薪酬满意度 4.4/5 (高于公司平均) — 即"工程师对薪酬满意, 对成长 / 内部流程评价中等"; 国际生最佳路径是 open source 贡献 (kotlin/intellij-community repo) + AI4SE 实习转正 [来源: https://www.glassdoor.com/Reviews/JetBrains-Software-Developer-Reviews-EI_IE222299.0,9_KO10,28.htm]
-- **关键链接**:
-  - 官方 career 入口 (实际打开过): https://www.jetbrains.com/careers/
-  - Greenhouse 全职岗位板 (实际打开过 2026-06-01, 106 open, 0 Junior SWE): https://job-boards.eu.greenhouse.io/jetbrains
-  - Germany 子页 (Munich/Berlin 平均分配, 实际打开过): https://www.jetbrains.com/careers/locations/germany/
-  - Summer/Fall 2026 cycle admissions (实际打开过, 截止 2026-03-16, 40 项目): https://internship.jetbrains.com/admissions/114
-  - Levels.fyi JetBrains Munich (实际打开过 2026-06-08, L2 €69K, median $108K): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/munich-metro-region
-  - Levels.fyi JetBrains Prague (实际打开过 2026-06-09, L2 CZK 1.68M total): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/prague-metropolitan-area
-  - Levels.fyi JetBrains Amsterdam (实际打开过 2026-06-08, L2 €99K, median €118K — 欧洲最高): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/greater-amsterdam-area
-  - Relocation 政策博客 2026-05 (实际打开过, 90+ 案例 / 2-4 月周期): https://blog.jetbrains.com/life-at-jetbrains/2026/05/relocating-with-jetbrains-visa-support-relocation-process-and-what-to-expect/
-  - Kotlin Ecosystem Mentorship 2026 (实际打开过, 转正捷径): https://blog.jetbrains.com/kotlin/2026/05/kotlin-ecosystem-mentorship-program/
-  - Glassdoor 全公司面试 (实际打开过, 46% positive / 难度 3/5): https://www.glassdoor.com/Interview/JetBrains-Interview-Questions-E222299.htm
+- **岗位名称**: 没有 "Graduate / New Grad" 品牌。2026-10-10 非 senior 技术岗: QA Automation Engineer ×3、QA Engineer ×2、Release Engineer、Software Developer Java/Node.JS (Web Development Team)、Customer Success Engineer 等, 均未注明接收应届; 唯一学生岗: Campus Ambassador (Universities in Europe, Remote) [来源 (实际打开过): https://job-boards.eu.greenhouse.io/jetbrains]
+- **资格窗口**: 全职按各岗 JD, 无统一毕业年限; 应届入口仍是实习: "students and recent (1 year max) graduates of EU universities" + UK / Serbia / Armenia, 学生签可申 (Internship Projects Fall 2026) [来源 (实际打开过): https://internship.jetbrains.com/admissions/115]
+- **欧洲地点**: Prague / Berlin / Warsaw / Limassol / Munich / Amsterdam / Madrid / Belgrade / Paphos / Yerevan / London; 2026-10-10 按城市计 (多城岗位重复计): Prague 41 / Berlin 37 / Warsaw 37 / Limassol 36 / Munich 35 / Amsterdam 34 / Madrid 33 (旧版 2026-06-01: Munich 18 / Berlin 17 / Prague 17 / Amsterdam 16)
+- **项目结构**: 无 rotation / cohort。早期路径: (1) 实习转正; (2) Kotlin Ecosystem Mentorship (https://blog.jetbrains.com/kotlin/2026/05/kotlin-ecosystem-mentorship-program/)
+- **非EU签证 (全职)**: 全职提供 relocation (物品运输 + 首月临时住宿 + 机票), 全程 2-4 个月, "Last year, over 90 colleagues" 随公司搬迁; 博客未列具体国家和签证类型 [来源 (实际打开过): https://blog.jetbrains.com/life-at-jetbrains/2026/05/relocating-with-jetbrains-visa-support-relocation-process-and-what-to-expect/]
+  - NL: **JetBrains N.V. (KvK 56460279)** 在 IND recognised sponsor 登记册 (2026-10-05 版) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work] → 从 NL 学生签 / zoekjaar 转 Kennismigrant 可行 (推断)
+  - IND 2026 门槛 (月薪, 不含 holiday allowance): reduced (zoekjaar 期间 / 毕业 3 年内) €3,122, <30 岁 €4,357, ≥30 岁 €5,942 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]; Amsterdam L2 base 远超三档。DE Blue Card / CZ Employee Card 路径为推断, 官方未写明
+- **薪资 (Levels.fyi, gross/年, 三城 stock 均为 0)**:
+  - **Amsterdam L2 (Entry)**: **€100K total = €96.8K base + €3.5K bonus**; L3 €113K / L4 €130K / L5 €135K; median €127K (2026-10-10 读) [来源 (实际打开过): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/greater-amsterdam-area]; 旧版 2026-06-08: L2 $104K base + $2.8K bonus = $107K ≈ €99K, median €118K
+  - **Munich L2**: **€65.4K total = €64.4K base + €1K bonus**; L3 €111K / L4 €113K / L5 €149K; median €111K (2026-10-10) [来源 (实际打开过): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/munich-metro-region]; 旧版 2026-06-08: L2 $74.9K total ≈ €69K
+  - **Prague L2**: **CZK 1.7M total (CZK 1.68M base + CZK 26.9K bonus)**; L3+ 无数据; median CZK 1,395,993 (2026-10-10) [来源 (实际打开过): https://www.levels.fyi/companies/jetbrains/salaries/software-engineer/locations/prague-metropolitan-area]; 旧版 2026-06-09: L2 $80.1K total ≈ €74K
+  - Warsaw / Yerevan / Limassol / Madrid: 无公开数据。BSc/MSc 0-2 年应届推断落 L2 (Levels.fyi 标 "Entry Level")
+- **申请窗口**: 全职 rolling, 无秋招截止。实习官方: "We open applications twice a year" [来源 (实际打开过): https://www.jetbrains.com/careers/internships/]; 最近两轮: Summer/Fall 2026 截止 2026-03-16, 面试至 2026-04-17, 结果 2026-04-22, 40 个项目 [来源 (实际打开过, 2026-06): https://internship.jetbrains.com/admissions/114]; Internship Projects Fall 2026 截止 2026-05-08, 面试至 2026-05-30, 结果 2026-06-12, 27 个项目 (admissions/115); 2026-10-10 未见 Winter 2026/27 或 2027 新 admission (admissions/116 只收波兰高校 accounting 实习)
+- **面试流程 (官方 2026-07)**: CV review → recruiter call → team interview (含小型 live technical exercise) → take-home task → task review (会讨论是否 / 如何使用 AI 工具) → references → offer [来源 (实际打开过): https://blog.jetbrains.com/life-at-jetbrains/2026/07/jetbrains-engineering-hiring/]; 实习则是 选项目 + test task → mentor 面试。Glassdoor 全职难度 3/5、46% positive (2026-06 记录; 2026-10-10 Glassdoor 返回 403, 未复核)
+- **录取竞争**: 无 application volume 数据; junior 标题岗为 0, 应届直申全职等于与 1-2 年经验者同池 (推断); 实习转正 + OSS 贡献 (kotlin / intellij-community) 仍是主路径
+- **关键链接**: Greenhouse 岗位板 (实际打开过): https://job-boards.eu.greenhouse.io/jetbrains · 招聘流程 (实际打开过): https://blog.jetbrains.com/life-at-jetbrains/2026/07/jetbrains-engineering-hiring/ · 实习 admissions (实际打开过): https://internship.jetbrains.com/admissions/115 · Glassdoor 面经 (403): https://www.glassdoor.com/Interview/JetBrains-Interview-Questions-E222299.htm
 
 ---
 

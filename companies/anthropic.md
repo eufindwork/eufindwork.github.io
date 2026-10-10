@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](anthropic.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 一句话定位: Claude 系列 LLM + Constitutional AI / AI Safety 厂商, 2026 已成为 OpenAI 在欧洲最直接的竞争者; London King's Cross 是欧洲研究 + 工程主基地, Zurich 同样是研究 hub, Paris/Munich (2025-11 新开) 偏 commercial / policy.
 
 ---
@@ -22,33 +22,20 @@
 
 ## New Grad / Junior 岗位
 
-> 由于 Anthropic 没有 intern / 没有命名 Graduate Programme, "new grad" 主要走与 senior 一致的 MTS / SWE / Research Engineer 流程, 只是 leveling 落在 L3-L4 (entry). 命中门槛: 顶校 CS PhD 或 Top BS+论文+开源.
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Greenhouse API) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 posting 直读 London/Paris 薪资带 + Fellows 官方 JD; Levels.fyi London 样本不足)
+> **2027 Intake 状态**: **No programme** — 无 intern ("We don't currently offer internships", 2026-10-10 复核) [来源 (实际打开过): https://www.anthropic.com/careers]; Greenhouse 645 个 posting 中 0 个 new grad / junior / intern title [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/anthropic/jobs]. 最接近的入口 = **Anthropic Fellows Program 2027-01 cohort (Open)**: AI Safety & Security 方向 "apply here by October 18" (= 2026-10-18), ML Systems & RL / Economics & Policy 方向 rolling [来源 (实际打开过): https://job-boards.greenhouse.io/anthropic/jobs/5183044008]
+> **2026 H2 动态**: IPO 进程 — 2026-06-01 向 SEC 提交 draft registration statement (Series H $65B, 估值 $965B) [来源 (实际打开过): https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/]; 2026-09-03 报道 (援引 The Information) 招股书 Labor Day 后公开、目标 9 月底 / 10 月初上市 [来源 (实际打开过): https://finance.yahoo.com/markets/stocks/articles/anthropic-reportedly-planning-unveil-ipo-151235633.html]; 后续报道称推迟至 11 月中期选举后 [来源 (搜索结果): https://www.useluminix.com/reports/company-overviews/what-do-we-know-about-the-anthropic-ipo]. 未见裁员 / hiring freeze 报道 (搜索非穷尽)
 
-- **常见岗位名**: Software Engineer (Product / Infra / Security), Research Engineer, Member of Technical Staff, Forward Deployed Engineer
-- **欧洲地点**: London 为主 (research + product + infra), Dublin 次之, Zurich 偏研究, Paris/Munich 偏 commercial
-- **是否有独立 Graduate Programme**: **No**. 官方明说 "We don't currently offer internships" [来源 (实际打开过): https://www.anthropic.com/careers]. 也没有命名 Graduate Programme — 应届与 senior 走同一 pipeline, leveling 决定 base/equity
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker**: Anthropic Limited 持牌 sponsor (Home Office register on file) [来源 (实际打开过): https://immigrationgpt.co.uk/company/Anthropic-Limited]; 全职 SWE base 远超 2026 £41,700 阈值
-  - 官方 FAQ: "Yes. We sponsor visas and green cards for eligible roles." [来源 (实际打开过): https://www.anthropic.com/careers]
-  - **Ireland CSEP** (Dublin): salary 阈值 €38k (Critical Skills), Anthropic Dublin offers 大幅超过
-  - **DE Blue Card** (Munich): 2026 阈值 €45,934 短缺职业 / €58,400 普通; Anthropic L3+ 安全达标
-  - **FR Passeport Talent** (Paris): 2 × SMIC (~€41,930/年 2026), Anthropic L3+ 远超
-- **薪资范围 (Levels.fyi + worktugal 2026)**:
-  - **London Research Engineer**: 公开数字 up to **£630,000** TC 高位 [来源 (实际打开过): https://blog.worktugal.com/anthropic-hiring-europe-2026/]; 注意此为高位非中位
-  - **6figr "New Grad" (Anthropic 全球)**: **$290K-$441K** TC [来源 (实际打开过): https://6figr.com/us/salary/anthropic--new-grad--cy]; London 同岗扣除汇率/地区折扣后估 £150K-£280K
-  - **Levels.fyi Anthropic SWE 全球中位**: $563K-$785K (Senior+), entry-level $290K+ [来源 (实际打开过): https://www.levels.fyi/companies/anthropic/salaries/software-engineer]
-  - **股权**: PPU (Profit Participation Units) — 私募估值 $61B+ (2025-Q1) → $183B+ (2026 报道); 流动性靠 tender offer (近年频率较高)
-- **申请窗口**: 全年 rolling; 2026 H2 Europe 扩张峰值 (London K-Cross + Munich/Paris 新办公室)
-- **面试流程差异 vs senior**: New grad 流程相同, 但 take-home / coding 占比更高, system design 较浅; "values" 轮一致
-- **录取竞争 / 国际生 friendliness**:
-  - 极高 — Anthropic 公开偏好 "曾在 frontier lab 工作" 的 senior, new grad 命中率估 < 2%
-  - 但官方明说 "about half our technical staff had no prior ML experience" [来源 (实际打开过): https://www.anthropic.com/careers] → 不强求 ML 背景, 看 reasoning + 工程深度
-  - **AI 在面试中严格禁用 (除非明说允许)** [来源 (实际打开过): https://igotanoffer.com/en/advice/anthropic-interview-process]
-- **关键链接**:
-  - Careers: https://www.anthropic.com/careers
-  - Greenhouse 全 reqs: https://job-boards.greenhouse.io/anthropic
-  - London 欧洲扩张报道: https://blog.worktugal.com/anthropic-hiring-europe-2026/
-  - Paris/Munich 新办公室官宣: https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence
+- **岗位名称**: 无 new grad 专属 title, 应届投常规 req: Research Engineer (London: RL / Pretraining / Pretraining Scaling / RL Scaling Science; Zurich: Post-Training / Cybersecurity RL), Software Engineer, FDE, Applied AI Engineer. 2026-10-10 共 75 个 posting 含欧洲地点 (按地点: London 46 / Munich 10 / Dublin 8 / Paris 6 / Zurich 3 / Milan 2 / Madrid 1), 全部为 experienced 岗 (Greenhouse API curl 全量解析)
+- **资格窗口**: 全职 "Bachelor's degree or an equivalent combination of education, training, and/or experience"; 年限: London FDE "4+ years", Applied AI Engineer "6+ years", Munich/Paris FDE "8+ years"; Research Engineer 写 "Years of experience required will correlate with the internal job level" (无硬性年限 = 应届最现实窗口) [来源 (实际打开过): https://job-boards.greenhouse.io/anthropic/jobs/5115935008]. 语言: Munich/Paris FDE 要求 "Native German/French speaker", Applied AI Engineer 要求 native/fluent 德语/法语; London/Zurich 研究岗无语言要求. Fellows: "regardless of previous experience", Python 流利, 全职 4 个月
+- **欧洲地点**: London (研究 + 工程主基地; Fellows workspace 在 London / Berkeley), Zurich (研究), Dublin (infra / GTM / ops), Munich + Paris (Applied AI / GTM), 新出现 Milan / Madrid (GTM)
+- **项目结构**: 全职无 cohort / rotation, 按 req rolling. Fellows = 4 个月全职研究 (可延期), Anthropic 导师 + 算力, 目标公开论文 (早期 cohort >80% 出论文); 往期 25-50% fellow 获全职 offer, 无保证
+- **非EU签证 (全职)**: 官方 "We sponsor visas and green cards for eligible roles" + JD "we aren't able to successfully sponsor visas for every role and every candidate" [来源 (实际打开过): https://job-boards.greenhouse.io/anthropic/jobs/5423029008]. **UK**: Anthropic Limited 在官方 register = Worker (A rating), Skilled Worker + Global Business Mobility [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers — 2026-10-09 版 CSV 下载检索]; 门槛 £41,700 (特定情形 £33,400) [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]. **IE CSEP**: €40,904 (12 个月内取得学历 €36,848) [来源 (实际打开过): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/] (旧版: €38k, 2026-05). **FR**: Passeport Talent salarié qualifié €39,582 仅限在法国取得的 master → 非法国学位走 EU Blue Card France €59,373 [来源 (实际打开过): https://www.service-public.gouv.fr/particuliers/vosdroits/F16922] (旧版: ~€41,930, 2026-05). **DE Blue Card**: €50,700 / 短缺职业 €45,934 (⚠️ 待 web 验证: 官方页 Radware 拦截 / 404, 取 repo 基准值; 旧版: €58,400, 2026-05). **NL 学生签 / zoekjaar**: 无 NL 办公室 → zoekjaar / reduced Kennismigrant 不适用, 需在目标国新办签证; **Fellows 明确不 sponsor**, 须已有 UK/US/Canada 工作许可且身处该国 → 仅持 NL 学生签者基本无法参加 (推断)
+- **薪资范围 (官方 posting "Annual Salary" = base, gross/年, 2026-10)**: London Research Engineer (RL / Pretraining) £260,000–£630,000, RL Velocity £370,000–£630,000; London FDE (4+ yrs) / Applied AI Engineer (6+ yrs) £225,000–£255,000; Paris Applied AI Engineer €220,000–€235,000; Munich / Zurich 不公开 [来源 (实际打开过): https://job-boards.greenhouse.io/anthropic/jobs/5115935008] (旧版: "up to £630,000 TC" — 实为 base 上限, 2026-05). **Levels.fyi**: 全球 (美国为主) entry "Software Engineer" TC $367K (base $250K + stock $117K), 中位 $883K; 股权为 stock grants, 4 年 vesting (首年 25%, 之后每月 2.08%) [来源 (实际打开过): https://www.levels.fyi/companies/anthropic/salaries/software-engineer] (旧版: entry $290K+, 股权写 PPU, 2026-05); London 样本不足未解锁, 最高单条 £470,900 [来源 (实际打开过): https://www.levels.fyi/companies/anthropic/salaries/software-engineer/locations/london-metro-area]; 6figr "New Grad" $290K-$441K (2026-05) [来源 (实际打开过): https://6figr.com/us/salary/anthropic--new-grad--cy]. **Fellows**: 每周 3,850 USD / 2,310 GBP / 4,300 CAD + 算力 ~$15k/月. 定级: 无公开 ladder, BSc/MSc/PhD 应届均落最低 band (推断)
+- **申请窗口**: 全职全年 rolling; Fellows "multiple cohorts of Fellows each year", 2027-01 cohort: AI Safety & Security 截止 2026-10-18, 其余方向 rolling
+- **面试流程**: 与 senior 同 pipeline: recruiter call → take-home / CodeSignal 类 OA (实战, 非 LeetCode 模板) → 2-3 轮 technical → panel + values 轮 → reference, 4-6 周 [来源 (实际打开过): https://igotanoffer.com/en/advice/anthropic-interview-process] (2026-05 核查); live 面试禁用 AI 工具 (除非明说允许). Fellows: application + reference check → technical assessments + interviews → research discussion. 本轮未找到 2026 H2 欧洲 new grad 面经 (WebSearch 配额用尽)
+- **录取竞争**: 极高 — 欧洲 posting 全为 experienced 岗; "About half our technical staff had no prior ML experience; about half have PhDs" [来源 (实际打开过): https://www.anthropic.com/careers]; 无经验者最现实路径 = Fellows (须自备 UK/US/CA 工作许可)
+- **关键链接**: Careers https://www.anthropic.com/careers (实际打开过) · Fellows JD https://job-boards.greenhouse.io/anthropic/jobs/5183044008 (实际打开过) · Greenhouse 全部岗位 https://job-boards.greenhouse.io/anthropic · Paris/Munich 官宣 https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence (2026-05 打开过)
 
 ---
 

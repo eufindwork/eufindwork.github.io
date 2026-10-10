@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](sig.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §2 的 CSEP €38K (2026: €40,904, 近 12 个月毕业 €36,848).
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi Dublin SWE €101K-€162K 直读 + Glassdoor Trader Dublin 数据 + 官方 careers.sig.com 2026 Graduate 多职位 + Tradermath / Quant Blueprint 流程 + WSO + eFinancialCareers UK 数据)
 > 一句话定位: 1987 年 Bala Cynwyd (Philadelphia) 起家的私人 quant MM, 全球前 5 options MM, 欧洲总部 Dublin (~1,000 人), 另有 London + Amsterdam (小); 招聘文化以 **poker + decision theory** 闻名 ("交易员先学打 poker"), 不像 Optiver/IMC 重 mental math, 更重 expected value + game theory; Y1 grad TC 业内顶尖 ($275K-$375K 报道)
 
@@ -25,68 +26,28 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (careers.sig.com 2026 Quantitative Trader Graduate / Quant Systematic Trader Graduate / Software Developer Graduate / EU intern openings 实时开放 + Levels.fyi Dublin SWE €101K-€162K + Glassdoor Quant Trader Dublin €131K / 业内 grad TC $275-375K)
+> 核查日期: 2026-10-10 (实时 WebFetch + careers.sig.com posting JSON-LD 直读) | 信息丰富度: ⭐⭐⭐⭐ (依据: 2027 grad posting 全量扫描 + Levels.fyi Dublin 直读 + enterprise.gov.ie CSEP 门槛; trader / QR 薪资仍无一手数据)
+> **2027 Intake 状态**: **Open (rolling)** — Dublin 8 个 + London 5 个 "Graduate: 2027" posting 在招; 官方: "We hire for our quantitative trading graduate programme on a rolling basis ... apply early"; QT grad 2026-07-15 发布, June 2027 入职 [来源 (实际打开过): https://careers.sig.com/global-susquehanna/jobs/10840?lang=en-us]
+> 2026 H2 动态: 未发现 SIG layoff / hiring freeze 报道; 2027 cycle 技术 grad 新增 Quantitative Strategy Developer / Trading Systems Engineer 两条轨 (Dublin + London, 2026-08-21 发布); Amsterdam 无 grad / intern posting
 
-- **常见岗位名 (区分关键)**:
-  - **Quantitative Trader - Graduate: 2026 (Dublin)** — 主 quant trader 轨, careers.sig.com Job ID 9550
-  - **Quantitative Systematic Trader - Graduate: 2026 (Dublin)** — systematic 子轨 (algorithmic), Job ID 9551
-  - **Software Developer Graduate: 2026 (Dublin)** — SWE 轨, Job ID 9726
-  - **Quantitative Strategist** — research / pricing model
-  - **2026 Summer Internship (Dublin) Software Development** — Job ID 9405 (EOI)
-  - SIG 不用 "Engineer", 用 "Developer" (Trinity College Dublin SCSS 内推合作)
-- **欧洲地点**: **Dublin (主, EU HQ)** / London (二线, options + ETF) / Amsterdam (小, 后开)
-- **是否有独立 Graduate Programme**: **Yes** — **SIG Education** (内部品牌)
-  - Dublin trader cohort 通常 8 月入职, 6-12 周 SIG University (poker + decision theory + market making + trading game)
-  - SWE / Dev cohort 与 trader 同期, 部分共享 SIG University 文化课
-  - Cohort 规模 Dublin ~30-50 人 / year (不公开精确数字)
-- **非EU签证 (爱尔兰 vs 荷兰):**
-  - **Critical Skills Employment Permit (CSEP) 2026**: 是 SIG Dublin 全职默认路径 — ICT professionals / professional engineers 在 Critical Skills 列表, 处理费 €1,000, 雇主代办 [来源 (搜索结果): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]
-  - CSEP 持有 2 年后可申请 Stamp 4 (永居路径), 比 Kennismigrant 更宽松
-  - **薪资门槛 2026**: CSEP 一般 €38,000/年起 (Critical Skills 列表内), 否则 €64,000/年; SIG grad base €70-100K **全部超线**
-  - **General Employment Permit (GEP)**: 若 CSEP 不适用走 GEP, 门槛 €34,000/年
-  - **Internship Employment Permit**: SIG Dublin intern 通常通过此渠道, 必须是 critical skills 相关 + 必须是学业 requirement
-  - **税务**: 爱尔兰个人所得税 20% (€42K 内) / 40% (以上); 比 NL 30% ruling 略差 (NL <30 不到 30% 边际)
-- **薪资结构 (量化特有, 必填)**:
-  - **Intern (Dublin, 2026)**:
-    - Software Development Summer 2026 (Dublin office) 已开放 EOI [来源 (搜索结果): https://careers-sig.icims.com/jobs/9405/expression-of-interest---software-development-%E2%80%93-2026-summer-internship-(dublin-office)/job]
-    - 业内估月 €4,000-5,500 + housing
-    - Trinity College Dublin (TCD SCSS) 是主要本地 sourcing pipeline [来源 (搜索结果): https://www.tcd.ie/scss/courses/undergraduate/internships-for-students/internship-roles/sig-susquehanna-international-group/]
-  - **全职 New Grad (Quant Trader, Dublin, 2026)**:
-    - 业内汇总: Y1 total $275K-$375K (base $100K-$150K + sign-on + discretionary bonus)
-    - Glassdoor Trader Dublin: avg $204K ($153K-$285K) — 但样本含 senior
-    - Glassdoor Quantitative Trader Ireland (3 数据点 job posting): avg €131K (€115K-€148K) — 这可能是 base only
-    - eFinancialCareers UK SIG: $686K-$1.1M per head (但含 trader 全 level + 长期 vesting bonus)
-    - 综合: **Dublin grad Trader Y1 base €70-100K + sign-on €15-30K + discretionary bonus €30-100K → 总包 €120-230K Y1, Y2-3 优秀者 €300K+**
-  - **全职 New Grad (SWE / Developer, Dublin)**:
-    - Levels.fyi Dublin SWE: range **€101K-€162K** (Software Engineer to Technical Lead), median €101K (即入门估 €100K total)
-    - Levels.fyi Ireland 整体 €93K-€167K
-    - Associate Software Engineer (entry): $151K total ≈ €140K
-    - **No stock** (私人公司), 全 cash + bonus
-  - **Sign-on bonus**: $15-30K 是 SIG Dublin grad 标配
-- **申请窗口**:
-  - **Quantitative Trader Graduate 2026 Dublin**: 开放中 (careers.sig.com Job 9550, 但 icims 链接 404 — 可能已截止 H1 2026 cohort)
-  - **Quant Systematic Trader Graduate 2026 Dublin**: Job 9551 开放
-  - **Software Developer Graduate 2026 Dublin**: Job 9726 开放
-  - **Software Development Intern 2026 (Dublin)**: Job 9405 EOI 开放
-  - 一般 **秋季 (Sep-Dec)** 是申请高峰, August 入职是主 cohort
-- **面试流程差异 vs 实习**:
-  - **SIG Quantitative Evaluation (SQE)**: 20 分钟 OA, **logic + brain teaser** (线性方程组, expected value, grid path-finding) — vs Optiver 80in8 / Flow Traders 75-in-10 — **SIG 是 quant 圈最学术化的 OA**
-  - HR 电面: 45 min vibe check + 3 道概率 / EV 题
-  - Trader Interview (60 min): probability-based math, expected value, market making game (cards / dice / coins), brain teaser
-  - **48h Take-Home Project**: 分析一段 trade sequence, 任何语言写策略 — SIG 独有
-  - Final Onsite: trader + HR "good cop bad cop", heavy EV 题 + MM game with estimated fair value
-  - **总流程 2-3 个月 (5 轮)** — 业内最长流程之一, 比 Optiver / IMC 慢
-- **录取竞争**: 极高, Dublin cohort 通常 30-50 人 vs 数千 application; Trader 轨更难 (要求 IMO / Putnam / poker 经历)
-- **关键链接**:
-  - 官方 careers (实际打开过, 但子页详细信息有限): https://careers.sig.com/
-  - Quant Trader Graduate 2026 Dublin (搜索结果): https://careers.sig.com/job/9550/Quantitative-Trader-Graduate-2026
-  - Quant Systematic Trader Graduate 2026 Dublin (搜索结果): https://careers.sig.com/job/9551/Quantitative-Systematic-Trader-Graduate-2026
-  - Software Developer Graduate 2026 Dublin (搜索结果): https://careers.sig.com/job/9726/Software-Developer-Graduate-2026
-  - EU Intern Openings (搜索结果): https://careers.sig.com/eu-intern-openings
-  - Europe Student + Recent Grad Jobs (搜索结果): https://careers.sig.com/europe-campus
-  - Quantitative Trading + Strategy Jobs (搜索结果): https://careers.sig.com/quantitative-trading-strategy/jobs
-  - Levels.fyi Dublin SWE (搜索结果): https://www.levels.fyi/companies/susquehanna-international-group/salaries/software-engineer/locations/greater-dublin-area
-  - Levels.fyi Ireland SWE (搜索结果): https://www.levels.fyi/companies/susquehanna-international-group/salaries/software-engineer/locations/ireland
+- **岗位名称 (2027; 链接 = careers.sig.com/global-susquehanna/jobs/<ID>)**:
+  - Dublin: Quantitative Trader - Graduate (10840) / Quantitative Systematic Trader - Graduate (10842) / Quantitative Researcher - Graduate (10844) / Software Developer Graduate: September 2027 (11337) / Quantitative Strategy Developer Graduate (11343) / Trading Systems Engineer Graduate (11346) / Site Reliability Engineer Graduate (11429) / Trading Operations Analyst Graduate (11442, 2026-10-07 发布)
+  - London: Quantitative Trader (11031) / Quantitative Systematic Trader (11032) / Quantitative Researcher (11033) / Quantitative Strategy Developer (11344) / Trading Systems Engineer (11347), 均为 Graduate: 2027 [来源 (实际打开过): https://careers.sig.com/global-susquehanna/jobs/11031?lang=en-us]
+  - (旧版 2026 cycle: Job 9550 / 9551 / 9726, 2026-05)
+- **资格窗口**: QT = "soon-to-be or recently graduated", 不限专业, 不需金融背景; QST / QR = 研究型 master's / PhD / post-doc (QR posting 正文写 "June 2026", 推断为笔误); Software Developer = 2027 毕业 STEM BSc/MSc (C# / C++ / Python); QSD / TSE = "Class of 2027" 最后一年 BSc/MSc (QSD: Python + 编译语言; TSE: C++ / C / Rust) [来源 (实际打开过): https://www.kadoa.com/quant/job/sig-v2-trading-systems-engineer-graduate-2027-dublin-496a36d5]
+- **欧洲地点**: Dublin (EU HQ, 岗位最多) / London (5 条 grad 轨) / Amsterdam: 2026-10-10 无 entry-level posting
+- **项目结构**: QT / QST / QR June 2027 入职 → 课堂教育 (options / ETF / game theory / 每周 poker 课 / mock trading) + 前几个月即上 desk 管风险; QSD / TSE August 2027 入职 + "multiweek education program", 外地入职者提供住宿; Software Developer / SRE September 2027 入职 + senior mentor [来源 (实际打开过): https://careers.sig.com/global-susquehanna/jobs/11337?lang=en-us]
+- **非EU签证 (全职)**: posting 均无 sponsorship 表述. **IE CSEP** (官方, 2026-10 页面): Critical Skills 列表职位 €40,904; 申请前 12 个月内取得学位 €36,848; 其它职位 €68,911; 费用 €1,000; 到期后可直接申请 Stamp 4 [来源 (实际打开过): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/] (旧版: €38,000 / €64,000, 2026-05; 新门槛自 2026-03-01 生效 [来源 (搜索结果): https://vialtopartners.com/regional-alerts/ireland-immigration-changes-to-employment-permit-salary-thresholds-from-1-march-2026])
+  - **UK**: Susquehanna Dublin Limited - UK Branch / Susquehanna International Securities Limited - UK Branch / Susquehanna UK Limited 均为 A-rated Skilled Worker sponsor (2026-10-09 register); Skilled Worker 门槛 £41,700 [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]
+  - **NL 学生签 / zoekjaar**: 无 NL grad 岗, 不能直接沿用; Dublin 需雇主申请 CSEP, London 需 Skilled Worker CoS (推断 grad 薪资远超两地门槛)
+- **薪资 (gross/年, 私有公司无 equity)**:
+  - SWE Dublin (Levels.fyi, 2026-10-10): Associate SWE (entry) 无数据; Software Engineer level TC €106K = base €98.1K + bonus €7.5K (n=11, 平均 4 YOE → 应届推断低于此值); Senior €168K; Technical Lead €205K; 全 level median €147K [来源 (实际打开过): https://www.levels.fyi/companies/susquehanna-international-group/salaries/software-engineer/locations/greater-dublin-area] (旧版: €101K-€162K, median €101K, 2026-05)
+  - ⚠️ **待 web 验证**: Trader / QR grad 无官方或 Levels.fyi Dublin 数据 (posting 仅写 "highly competitive"); 旧版 (2026-05) 业内估: Dublin grad Trader Y1 base €70-100K + sign-on €15-30K + bonus €30-100K; Glassdoor Quantitative Trader Ireland avg €131K; 二次核实前勿用于薪资决策
+  - 参考: Susquehanna Dublin Limited UK branch 2024 账目人均 salaries and wages $686K (128 → 162 人, 含全 level) [来源 (搜索结果): https://www.efinancialcareers.com/news/susquehanna-pay-uk-sig]
+- **申请窗口**: QT / QST / QR grad 2026-07-15 发布; QSD / TSE / Software Developer 2026-08-21; SRE 2026-09-07; 全部 rolling. JSON-LD validThrough: QT 2027-03-01 / QR 2027-04-30 / QST 2027-06-20 (系统字段, 非官方截止日; 推断越早投越好)
+- **面试流程**: SRE grad 官方: Apply → Technical Screen → Recruiter Interview → Technical Interview(s) → Final Interview → Offer (posting 正文); QSD / TSE: coding + mathematics + system design + behavioural [来源 (实际打开过): https://www.kadoa.com/quant/job/sig-v2-quantitative-strategy-developer-graduate-2027-dublin-35df8b06]; QT (Dublin, 2025-11 面经 + 汇总): 1h 在线 maths / probability 测试 → HR phone → trader video (betting / market-making 概率题) → data analysis take-home → final [来源 (搜索结果): https://static.glassdoor.com.hk/Interview/Susquehanna-International-Group-Interview-E24446-RVW104664176.htm]; grad 与 intern 流程同构
+- **录取竞争**: 极高; 无公开 cohort 人数 (旧版估 Dublin 30-50 人/年, 未核实)
+- **关键链接**: SRE grad (含面试流程, 实际打开过): https://careers.sig.com/global-susquehanna/jobs/11429?lang=en-us · Europe campus 页 (实际打开过, JS 渲染无岗位列表): https://careers.sig.com/europe-campus · 其余 posting 为 2026-10-10 curl 直读 JSON-LD (datePosted / validThrough / 正文), 未逐一 WebFetch
 
 ---
 

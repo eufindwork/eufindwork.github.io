@@ -2,6 +2,8 @@
 
 > **Language**: [中文](mangroup.md) | English
 >
+> Updated: 2026-10-10
+>
 > One of the UK's oldest quant HFs, London HQ. AHL is the systematic sub-unit (founded 1987, has ties to the Oxford-Man Institute), GLG is the discretionary sub-brand. Multiple rotational Grad Programmes + 12-week Internship, process more standardized than US HFs.
 
 ---
@@ -22,38 +24,24 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (Grad Programme structure is very clear)
+> Checked: 2026-10-10 (live WebFetch + direct read of the public Greenhouse API; WebSearch quota ran out mid-task) | Information richness: ⭐⭐⭐⭐ (basis: official programme page + 2027 internship postings + Levels.fyi London; no official grad pay, 2027 grad intake not yet posted)
+> **2027 intake status**: **Upcoming (not yet posted)** — on 2026-10-10 none of the 56 live Greenhouse jobs is a 2027 graduate programme [Source (ATS API read via curl): https://boards-api.greenhouse.io/v1/boards/mangroup/jobs?content=true]; the official page still shows "Applications Open: Autumn 2025" for Technology Foundation (not updated) [Source (verified opened): https://www.man.com/graduate-programmes]
+> 2026 H2 news: 2026-07-28 half-year results — record AUM $253.6bn, net inflows $7.1bn, no layoffs / hiring freeze mentioned [Source (verified opened): https://www.man.com/news-centre/trading-statement-30-june-2026]; context (H1): 2026-02-11 partnership with Anthropic to embed Claude in research / operations workflows, no headcount figures [Source (verified opened): https://www.man.com/news-centre/man-group-anthropic-partnership]
 
-- **Common role names**:
-  - **AHL Quant Talent Programme** — 18 months / 3 x 6-month rotations, systematic investment strategy research (Quant Research)
-  - **AHL IDI Graduate Programme** — Investment & Data Implementation
-  - **Technology Foundation Programme** — Software / Platform Engineer 2 years (C#/.NET or Python/C++/Java dual track) + 3-month bootcamp
-  - **Central Trading Graduate Programme** — Execution + quant trading
-  - **Solutions / Accountancy & Tax / Operations Graduate Programmes** — non-engineering tracks
-  - Direct senior roles: Quant Developer - AHL, Senior Quantitative Researcher - Macro, Software Engineer
-- **European locations**: London (main); Sofia (Bulgaria) has Python/Java Engineering team
-- **Independent Graduate Programme**: **Yes** — 7 rotational programmes covering tech + research + operations [Source (verified opened): https://www.man.com/graduate-programmes]
-- **Non-EU visa (full-time)**: UK Skilled Worker 2026 £41,700 / SOC 2134 ~£49,400. AHL Quant Dev grad £75k+ well above threshold. Man Group is A-rated sponsor licence holder, historically stable in sponsoring international students.
-- **Salary structure**:
-  - **Intern (12-week summer placement)**: ~£4-5k/month estimate (not officially disclosed, lower than G-Research)
-  - **Full-time New Grad**:
-    - Junior **Quant Developer (AHL)**: ~£78k median (Glassdoor), range £65-97k base + 10-30% bonus [Source (verified opened): https://www.glassdoor.co.uk/Salary/Man-Group-Junior-Quant-Developer-London-Salaries-EJI_IE234069.0,9_KO10,32_IL.33,39_IM1035.htm]
-    - AHL Quant Developer FT (mid): base ~£100-136k, range £69-188k+ all-in (Levels.fyi/Glassdoor) [Source (verified opened): https://www.levels.fyi/companies/man-group/salaries/software-engineer/title/quantitative-developer]
-    - Technology Foundation Programme Y1 base: limited public data, estimate £55-70k base + bonus
-    - AHL Quant Research grad (PhD): base £100-130k + meaningful bonus
-- **Application window**:
-  - **Technology Foundation Programme**: Autumn 2025 open, deadline **2026-02-27** [Source (search result): https://www.brightnetwork.co.uk/graduate-jobs/man-group/software-engineer-c-net-2026-technology-graduate-programme]
-  - Other grad programmes: Autumn 2026 open (for 2027 starts)
-  - Intern: 12 weeks, penultimate year, rolling but autumn close
-- **Interview process differences vs internship**: Grad programme 4 fixed stages (CV → 2h homework + 30min video → 2h15min 3-engineer technical interview → 45min manager final); Direct senior hire process is shorter.
-- **Acceptance competition**: Tech Foundation per community ~3-5% accept; AHL Quant Talent top PhD pool more competitive
-- **Key links**:
-  - [Man Group Careers](https://www.man.com/careers)
-  - [Graduate Programmes overview](https://www.man.com/graduate-programmes)
-  - [Students and Graduates](https://www.man.com/students-and-graduates)
-  - [Greenhouse official board](https://job-boards.eu.greenhouse.io/mangroup)
-  - [AHL Quant Talent (Bright Network)](https://www.brightnetwork.co.uk/graduate-jobs/man-group/ahl-quant-research-graduate-programme)
-  - [Levels.fyi Quant Dev salary](https://www.levels.fyi/companies/man-group/salaries/software-engineer/title/quantitative-developer)
+- **Role names** (7 official grad programmes): AHL IDI (2 years, 4×6-month rotations, aiming at Junior Analyst) · AHL Quant Talent (3×6-month rotations, quant research) · Central Trading (4×6-month rotations) · Technology Foundation (Platform Engineer / SWE Python-C++-Java / SWE C#-.NET, 6-month rotations, max 2 years) · Accountancy & Tax · Operations · Solutions [Source (verified opened): https://www.man.com/graduate-programmes]
+- **Eligibility**: Central Trading takes Bachelor's to PhD (Maths / CS / Engineering / Physics); Technology's 2026 cycle asked for a CS / Engineering / Maths / Physics degree, or recent graduates, or 1-2 years of relevant experience [Source (verified opened): https://builtindublin.ie/job/technology-graduate-programme-c-net-python-java-c-platform/7305985]; no language requirement seen (English working environment)
+- **European locations**: London (main) + Sofia (Technology; the 2026 cycle had a Sofia Platform Engineer grad listing, "Application window: Throughout 2026", removed 2026-03-26) [Source (verified opened): https://builtin.com/job/technology-graduate-programme-software-engineer-c/7822465]; Pfäffikon (CH) has business roles only
+- **Programme structure**: Technology starts with a 3-month bootcamp, then rotations (2026 cycle listing), with early permanent placement possible; start month / cohort size not public
+- **Non-EU visa (full-time)**: "Man Group Services Limited" (London) is on the UK sponsor register, 2026-10-09 edition: Worker (A rating), Skilled Worker + GBM [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers; CSV downloaded via curl and checked]. Thresholds: general £41,700 / SOC 2134 going rate £54,700 (previous: ~£49,400) [Source (verified opened): https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes]. The 2027 internship form asks "Do you require a visa..." with no written sponsorship policy [Source (verified opened): https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101]. Inferred: no NL office, so zoekjaar does not apply; Sofia (BG, EU) non-EU work-permit rules not checked this round
+- **Pay (base + bonus, no equity)**:
+  - Levels.fyi London SWE (2026-10, no level split): median TC £128K; UK percentiles (n=15): TC p10 £82.9K / p25 £111K, base p10 £67.8K / p25 £85.4K / p50 £94.3K; inferred: entry level sits around p10-p25 [Source (verified opened): https://www.levels.fyi/companies/man-group/salaries/software-engineer/locations/london-metro-area]
+  - Quant Developer UK (Levels.fyi, 2026-10): median £152K (n=9; only visible point L3 / 4 YOE: base £116K + bonus £35.4K), not entry level (previous: £100-136k median, 2026-06) [Source (verified opened): https://www.levels.fyi/companies/man-group/salaries/software-engineer/title/quantitative-developer]
+  - Junior Quant Developer (AHL) London: ~£78k median, base £65-97k + 10-30% bonus (previous data 2026-06; Glassdoor returned 403 this round, not re-checked) [Source (verified opened): https://www.glassdoor.co.uk/Salary/Man-Group-Junior-Quant-Developer-London-Salaries-EJI_IE234069.0,9_KO10,32_IL.33,39_IM1035.htm]
+  - ⚠️ **Pending web verification**: Technology Foundation Y1 base £55-70k + bonus and AHL Quant Research grad (PhD) base £100-130k are older estimates with no public source; do not use for pay decisions before re-checking
+- **Application window**: last cycle — 2026 Technology Graduate Programme deadline 2026-02-27 [Source (search result): https://www.brightnetwork.co.uk/graduate-jobs/man-group/software-engineer-c-net-2026-technology-graduate-programme]; an aggregator listing was already removed on 2025-10-07 → inferred the last cycle opened by 2025-09/10. 2027: not posted, inferred 2026 Q4 - 2027 Q1. Side door: the 2027 Summer Technology Internship (2026-09-16 to 2026-10-30) can lead to a full-time Technology Foundation offer [Source (verified opened): https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101]
+- **Interview process vs internship**: official grad 4 stages: CV → Online Test → Technical Interview → Final Interview [Source (verified opened): https://www.man.com/graduate-programmes]; the 2026 Sofia listing added a Test Review Interview; previous London description: 2h homework + 30 min video → 2h15 three-engineer technical panel → 45 min manager final. The 2027 tech internship is shorter: ≤1h homework → 1h technical interview → 30 min final
+- **Competition**: community estimate ~3-5% for Tech Foundation (previous, unverified); AHL Quant Talent draws mainly on a PhD pool, tougher
+- **Key links**: [Graduate Programmes](https://www.man.com/graduate-programmes) (verified opened) · [Greenhouse board](https://job-boards.eu.greenhouse.io/mangroup) · [2027 Technology Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) (verified opened) · [Levels.fyi London SWE](https://www.levels.fyi/companies/man-group/salaries/software-engineer/locations/london-metro-area) (verified opened)
 
 ---
 

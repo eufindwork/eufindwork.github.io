@@ -128,7 +128,7 @@
 
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
-- **核心 trade-off**: 已在 NL 持学生签 → 选 Trivago 意味着 **放弃 NL zoekjaar (€2,801 reduced HSM)**, 换 DE Blue Card / Skilled Worker
+- **核心 trade-off**: 已在 NL 持学生签 → 选 Trivago 意味着 **放弃 NL zoekjaar (€3,122 reduced HSM)**, 换 DE Blue Card / Skilled Worker
 - **Intern 可行性**: ❌ **低** — Working Student 模式要 DE 学籍; 全 intern 罕见 (sponsor 不明文)
 - **FT 可行性**:
   - **Düsseldorf Junior SWE → 中-高** — sponsor 明文 + 整套 relocation; **但起薪 €50K 刚 cover DE Blue Card 短缺 €45,934, 需 negotiate**

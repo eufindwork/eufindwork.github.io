@@ -2,7 +2,7 @@
 
 > **Language**: [中文](cradle.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (Silicon Canals public NL Highly Skilled Migrant verification + Ashby full-role live extraction + Built In historical intern JD direct quote + verified Cradle public "Zurich/US must self-arrange work auth" critical risk)
 > One-liner: 2021-founded AI protein design company with dual HQs in Amsterdam + Zurich (generative ML + wet lab), 70 people 10+ nationalities, **NL HQ uses Highly Skilled Migrant, international student friendly**; **but Zurich internship / US full-time explicitly requires candidates to self-arrange work permit — critical pitfall**.
 
@@ -34,34 +34,27 @@
 
 ## New Grad / Junior Roles
 
-> Cradle is a deep tech startup, hiring focuses on **senior IC + PhD background**, "Junior" goes through standard SWE Backend Python role + occasional SWE/ML Intern (last wave PhD-only); **NL full-time uses Highly Skilled Migrant, international student friendly**, **but Zurich/US explicitly requires candidates to self-arrange work permit**
+> Checked: 2026-10-10 (live Ashby API + WebFetch) | Information richness: ⭐⭐⭐ (basis: full Ashby role pull + direct IND register lookup + official blog / PR; no public pay data at all)
+> **2027 intake status**: **No programme** — no graduate programme / cohort; on 2026-10-10 Ashby lists 9 open roles, **0 SWE / ML / intern / junior** (all sales / scientist / finance / EA) [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/cradlebio]
+> 2026 news: no new funding (latest round Series B US$73M, led by IVP, 2024) [Source (verified opened): https://en.wikipedia.org/wiki/Cradle_(company)]; 2025-12-16 PR: headcount doubled + US operations expanded [Source (verified opened): https://www.prnewswire.com/news-releases/cradle-ai-powered-protein-engineering-platform-serving-six-of-top-25-pharma-leaders-302643154.html]; JDs describe "just under 100 people", offices in Amsterdam / Boston / Zurich; 2026-10-01 Hansa Biopharma partnership announced [Source (verified opened): https://www.cradle.bio/blog]
 
-- **Common role names**:
-  - **Backend Software Engineer, Python** (full-time, Zurich / Amsterdam dual site)
-  - **Software Engineering / Machine Learning Intern** (historical 6 months, PhD-only, Zurich)
-  - **Scientist, Large Libraries** (ML leans wet-lab + model fine-tuning)
-- **European locations**: Amsterdam (main, ML team + lab) / Zürich (founding team + some SWE)
-- **Independent Graduate Programme**: **No** — no cohort structure, **Cradle Academy** is a public free education platform (biology ML training) not an internal grad program
+- **Role names**: no dedicated new grad role. Engineering roles seen during 2026 (all now closed; Index Ventures pages return 404 on 2026-10-10): Scientific Software Engineer (Amsterdam, posted 2026-02-25) · Backend Software Engineer, Python (Amsterdam / Zürich, 2026-04-14) · Frontend Software Engineer (Zürich, 2026-08-11) [Source (search result): https://www.indexventures.com/startup-jobs/cradle/frontend-software-engineer/]
+- **Eligibility window**: the latest ML engineering role "Software Engineer in Machine Learning" (Zürich) required "3+ years of experience" and was removed 2025-12-12 [Source (verified opened): https://builtin.com/job/software-engineer-machine-learning-f-m/7079965]; the historical SWE/ML Intern was for enrolled PhD students only [Source (verified opened): https://builtin.com/job/software-engineering-machine-learning-intern-f-m/6352947] → practically no matching role for BSc/MSc with 0–2 years (inferred)
+- **European locations**: Amsterdam (HQ + wet lab) / Zürich; Boston is the US office
+- **Programme structure**: no rotation / cohort; Cradle Academy is a public education platform, not an internal grad programme
 - **Non-EU visa (full-time)**:
-  - **Amsterdam (NL Highly Skilled Migrant / Kennismigrant)**: Cradle is IND Recognised Sponsor (Silicon Canals verified: founder Jelle Prins public quote "These programs remove the uncertainty and bureaucratic barriers that could otherwise prevent exceptional candidates from joining our team") [Source (verified opened): https://siliconcanals.com/cradle-dutch-visa-international-talent-amsterdam/]
-  - **2026 IND threshold**: < 30 years old **€4,357/month gross (≈ €52.3K/year excl. holiday)**, ≥30 €5,942/month gross (€71.3K/year); Cradle Backend SWE est. base €70-90K fully meets
-  - **Zürich (CH)**: ⚠️ **Not in NL Kennismigrant scope, Cradle publicly admits "For roles in Zurich and in the USA, we currently can only consider candidates who have, or are able to independently obtain, a local work authorisation"** [Source (verified opened, Built In 2025 SWE/ML Intern JD): https://builtin.com/job/software-engineering-machine-learning-intern-f-m/6352947] — i.e. Zurich/US no visa, only CH B/C permit / EU nationality / US work auth
-  - **CH path (if you get Zurich offer)**: Quota-restricted non-European talent permit (annual quota), company must prove EU candidate not available; same conditions prioritize EU/EFTA → Chinese-passport Zurich SWE extremely hard, usually via ETH/EPFL studies + school-assisted transition
-- **Salary range (base, gross/year)** — ⚠️ **Cradle has no independent SWE salary public data on Levels.fyi/Glassdoor**, below based on Amsterdam/Zurich AI startup industry benchmarks:
-  - **Amsterdam Backend SWE (Junior)**: est. €65K – €85K base (NL Kennismigrant <30 floor €52.3K, Cradle est. actual €70K+)
-  - **Amsterdam Backend SWE (Mid 3-5 yr)**: est. €85K – €110K
-  - **Zürich Backend SWE**: est. CHF 110K – CHF 140K (Zurich tech salary market 1.4-1.6x Amsterdam)
-  - **Equity**: Series A+ startup, option pool standard 0.1-0.5% (junior) — upside leverage medium
-- **Application window**: rolling; SWE/ML Intern historically had 1 wave each spring/summer
-- **Interview process differences vs internship**:
-  - Full-time SWE Backend: 4-5 rounds (recruiter + HM + tech 2-3 + culture)
-  - PhD Intern: 1 round recruiter screen + 1 round research/topic alignment + 1-2 round technical deep dive
-  - **Special**: Cradle officially states "only makes job offers after having met candidates in person at their office in Zurich or Amsterdam" → i.e. final must be onsite, remote onboard not allowed
-- **Hiring competition / international student friendliness**: Amsterdam extremely friendly (publicly uses Kennismigrant), Zurich extremely unfriendly (explicitly not sponsoring); overall deep tech, non-biology SWE can apply (company clearly hires for "great code") but ML/Scientist roles strongly require PhD
+  - **Amsterdam**: "Cradle Bio B.V." (KvK 84219092) is on the IND recognised sponsor register (register updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; 2026 Kennismigrant thresholds €5,942 (≥30) / €4,357 (<30) / **€3,122 reduced (NL graduate / after zoekjaar)** per month gross excl. 8% holiday allowance [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements] → moving from an NL student visa / zoekjaar into an Amsterdam role is feasible with a low threshold
+  - **Zürich / US**: company wording "can only consider candidates who have, or are able to independently obtain, a local work authorisation" (2025 JD; not repeated in the JDs open in 2026-10) [Source (verified opened): https://builtin.com/job/software-engineering-machine-learning-intern-f-m/6352947] → non-EU new grads should not target Zürich roles
+- **Pay range (gross/year)**:
+  - ⚠️ **Pending web verification**: the Levels.fyi Cradle page has no data on 2026-10-10 [Source (verified opened): https://www.levels.fyi/companies/cradle/salaries], JDs only say "very competitive salary, a generous equity stake"; figures below are peer-based inference (kept from the previous version), do not use for pay decisions before re-checking.
+  - Amsterdam junior SWE est. €65K–€85K base; Zürich SWE est. CHF 110K–140K; options est. 0.1–0.5% (junior)
+- **Application window**: rolling, no fixed cycle; nothing announced for 2027; roughly one engineering opening per quarter (3 seen in 2026, inferred)
+- **Interview differences vs internship**: open JDs state "we only make job offers after having met you in person at our office in Zurich or Amsterdam" → the final step is in person [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/cradlebio]; full-time SWE 4–5 rounds (recruiter + HM + tech 2–3 + culture) is from the previous version, not re-checked
+- **Competition**: small, senior / PhD-heavy engineering headcount → few openings for new grads; Amsterdam has low visa friction, Zürich high
 - **Key links**:
-  - Cradle Careers (verified opened): https://www.cradle.bio/careers
-  - Jobs Ashby (verified opened): https://jobs.ashbyhq.com/cradlebio/
-  - Silicon Canals report (verified opened): https://siliconcanals.com/cradle-dutch-visa-international-talent-amsterdam/
+  - Careers (verified opened, JS-rendered, shows only "Loading open roles…"): https://www.cradle.bio/careers
+  - Ashby job board: https://jobs.ashbyhq.com/cradlebio/
+  - Ashby API (verified opened): https://api.ashbyhq.com/posting-api/job-board/cradlebio
 
 ---
 

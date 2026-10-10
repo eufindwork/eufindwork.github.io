@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](amazon.en.md)
 >
-> 更新时间: 2026-05-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (中高, Levels.fyi/Glassdoor/LeetCode/Medium 数据点充足; LP 与 OA 流程信息特别详尽)
 > 覆盖城市: Berlin / London / Luxembourg / Dublin / Madrid (并附 Cambridge UK / Edinburgh / Manchester / Munich / Paris 旁证)
 > 覆盖岗位: SDE Intern, Applied Scientist Intern, AWS Intern
@@ -44,51 +44,29 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi L4 2026-05 直读数据齐全 UK/DE/IE/LU, Pathways 项目从官网证实, 2026 application live)
-> 区别于实习: 全职 entry-level **SDE I (L4)**, 永久合同 + 4 年 RSU backloaded vest (5/15/40/40)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + amazon.jobs 官方 search API) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 JD 直读 + Levels.fyi 5 国 2026-10 直读; EU 新毕业面经仅 1 条 2025 报告)
+> **2027 Intake 状态**: **Upcoming (推断)** — 截至 2026-10-10 未见 "Software Development Engineer – 2027" 新毕业 JD; 在招的是 2026 版 (rolling, 无截止日)。上一 cycle 的 2026 版最早发布于 2025-10-16 (Berlin [3110381](https://www.amazon.jobs/en/jobs/3110381)) / 2025-10-31 (Iași [3119226](https://www.amazon.jobs/en/jobs/3119226)) → 推断 2027 版约 2026-10~11 上线 [来源 (官方 API 实时查询 2026-10-10): https://www.amazon.jobs/en/search.json?normalized_country_code%5B%5D=DEU&base_query=2027&result_limit=100&sort=recent]
+> **2026 H2 动态**: Stores 部门裁员 <1,000 人 (US / India / UK; customer service / selling partner services; 报道日期 2026-10-08); 此前 2025-10 (~14,000) + 2026-01 (~16,000) 两轮企业岗裁员 [来源 (实际打开过): https://techresearchonline.com/news/amazon-october-layoffs-stores-ai-workforce-restructuring]
 
-- **常见岗位名**: **Software Development Engineer I (SDE I, L4)** / Graduate Software Development Engineer / AWS Graduate / Applied Scientist I (Master/PhD) / **Pathways Operations Manager** (MBA, 非工程岗但流程相近)
-- **欧洲地点**: London / Cambridge UK / Manchester / Edinburgh / **Dublin (AWS 核心)** / **Berlin** / Munich / **Luxembourg** / Madrid / Paris — 与实习城市基本一致。**Dublin AWS 是欧洲最大 NG SDE HC 池** (因 AWS EMEA HQ),Luxembourg / Madrid HC 较小但竞争也小
-- **是否有独立 Graduate Programme**: **部分有** —
-  - **Amazon Pathways (Europe)**: 3 年 career accelerator + leadership development; 要求 **Master / MBA / Doctorate + 3 年专业经验 (不含实习)**; 在 **Czech Republic / France / Germany / Italy / Poland / Spain / UK** 都开放, 大部分国家要求当地语言 **CEFR B2** [来源 (实际打开过): https://amazon.jobs/content/en/career-programs/pathways/europe]。2026 MBA Pathways Ops Manager Internship Job ID 3108447 已上线, rolling review [来源 (搜索结果): https://amazon.jobs/en/jobs/3108447/2026-mba-pathways-operations-manager-internship-nationwide-opportunities]
-  - **SDE I (L4) "Graduate" Hiring**: 走标准 university recruiting,不是结构化 rotation,直接进 team。**Graduate SDE** 是招聘 tag 而非独立项目
-  - **Apprenticeships (Czech/Slovakia/UK 部分)**: 2-3 月开放, 针对未读完本科 / 转行 candidates
-- **非EU签证 (全职)**:
-  - UK: **Skilled Worker visa** — Amazon UK 是 top 5 sponsor; SDE I £79.9K base 通过 2026 general threshold £41,700 + SOC 2134 going rate £49,400 [来源 (实际打开过): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]
-  - DE: **EU Blue Card** (2026 IT shortage threshold **€45,934.20**, standard €50,700, Amazon Berlin L4 €82.1K base 完全 cover) [来源 (实际打开过): https://www.jobbatical.com/blog/germany-shortage-occupations-bottleneck-professions-eu-blue-card]
-  - IE: **Critical Skills Employment Permit** (SDE 在 IE shortage list,2 年后申永居),Amazon Dublin 历史 sponsor 案例最多
-  - LU: Luxembourg Work Permit + EU Blue Card,**Amazon LU 国际生最友好** (整个 office 60%+ 非 LU 本地, 工作语言全英)
-  - 与实习区别: NG 报销 visa + 国际搬家 (机票 + 30 天酒店 + relocation lump sum $5K-$15K),intern 通常只报销 visa + 短期住宿
-- **薪资范围 (base, gross/年, L4 entry-level, 2026-05-28 Levels.fyi 直读)**:
-  | 城市 | Base | Stock (annual, backloaded) | Bonus / Sign-on | Total median | 来源 |
-  |------|------|---------------------------|-----------------|--------------|------|
-  | London | **£79.9K** | £16K avg | £10.4K | **£106K total median** | [Levels.fyi UK L4 (实际打开过)](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom) |
-  | Dublin | **€94.6K** | €18.7K avg | €3.6K | **€117K total median** | [Levels.fyi IE L4 (实际打开过)](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland) |
-  | Berlin/Germany | **€82.1K** | €12.4K avg | €6.4K | **€101K total median** | [Levels.fyi DE L4 (实际打开过)](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany) |
-  | Luxembourg | **€84.1K (~$84K)** | €13.3K avg | €3.6K | **€100.9K total median (~$101K)** | [Levels.fyi LU SDE I (实际打开过)](https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-i/locations/luxembourg) |
-  | Madrid | €40K-€50K base | €8K-€10K | €5K-€10K Y1 | **€55K-€68K** | TechPays + 1point3acres (Levels.fyi 数据点稀) |
-  - **关键: Amazon RSU 4 年 backloaded** (5/15/40/40), Y1 + Y2 sign-on 用 cash bonus 补足前 2 年缺口, **Y3 起 jump up**。比较 offer 时务必看 4 年总包不只看 Y1
-  - **范围扩展**: Luxembourg SDE I 范围 **€73.8K - €102K** [来源 (搜索结果): https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-i/locations/luxembourg]; UK L4 - L7 整体 £79.7K - £249K
-- **申请窗口**: **Rolling, 全年开放**。秋招主峰 9-11 月 (英美 grad 季), 春招 2-4 月。返校招与实习捆绑 (return offer 是稳路径, intern 强 perf 几乎自动 NG offer)。Luxembourg / Dublin 全年滚动招 AWS SDE I。**Pathways MBA** 2026 cycle 已 live (job ID 3108447, rolling review), 但 deadline 由 demand 决定
-- **面试流程差异 vs 实习**:
-  - 轮数: 实习 2-3 轮 → NG **4-5 轮 onsite** (3-4 coding/system + 1 Bar Raiser)
-  - LP 比例: 实习每条 LP 1 个故事够 → NG 每条 LP **2-3 个故事**, Bar Raiser 单独评审
-  - System design: NG **强制 1 轮 LLD** (Low-Level Design / OOD), L4 不要求分布式 system design 但要求 OOP + class diagram
-  - Coding 难度: intern LC Easy-Medium → NG LC Medium-Hard (常出 LRU/Trie/Graph)
-  - Bar Raiser: NG 必有, 一票否决, intern 偶有
-- **录取竞争**: 中等偏激烈。Amazon 是 FAANG 中 NG HC 最大的, Dublin / Luxembourg / Berlin 全年都在招, **比 Google/Meta 友好得多**。Bar Raiser 文化让 weak hire 出局率高 (估算 final pass 25-35%)。**国际生 friendly**: Amazon EU 是全 Tier 1 中对 sponsor 最积极的 (尤其 LU/IE/DE Blue Card)
-- **关键链接**:
-  - 官方 University Grads: [https://www.amazon.jobs/content/en/career-programs/university/grads](https://www.amazon.jobs/content/en/career-programs/university/grads)
-  - 官方 Pathways Europe (实际打开过): [https://amazon.jobs/content/en/career-programs/pathways/europe](https://amazon.jobs/content/en/career-programs/pathways/europe)
-  - 官方 Pathways (MBA/PhD/Military): [https://www.amazon.jobs/content/en/career-programs/pathways](https://www.amazon.jobs/content/en/career-programs/pathways)
-  - 2026 MBA Pathways Ops Internship Job 3108447 (搜索结果): [https://amazon.jobs/en/jobs/3108447/2026-mba-pathways-operations-manager-internship-nationwide-opportunities](https://amazon.jobs/en/jobs/3108447/2026-mba-pathways-operations-manager-internship-nationwide-opportunities)
-  - Levels.fyi Amazon L4 UK (实际打开过): [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom)
-  - Levels.fyi Amazon L4 IE (实际打开过): [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland)
-  - Levels.fyi Amazon L4 DE (实际打开过): [https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany)
-  - Levels.fyi Amazon SDE I LU (实际打开过): [https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-i/locations/luxembourg](https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-i/locations/luxembourg)
-  - Abhishek Garain Amazon Luxembourg NG SWE 面经: [https://medium.com/@abhi211199/my-interview-experience-with-amazon-luxembourg-as-a-new-grad-software-engineer-cc0a661d53c7](https://medium.com/@abhi211199/my-interview-experience-with-amazon-luxembourg-as-a-new-grad-software-engineer-cc0a661d53c7)
-  - JoinTaro Amazon SDE I Madrid: [https://www.jointaro.com/interviews/companies/amazon/experiences/software-development-engineer-i-madrid-april-1-2025-accepted-offer-positive-11978547/](https://www.jointaro.com/interviews/companies/amazon/experiences/software-development-engineer-i-madrid-april-1-2025-accepted-offer-positive-11978547/)
-  - LeetCode Amazon Berlin SDE NG: [https://leetcode.com/discuss/post/2317325/Amazon-or-SDE(New-Grad)-or-Berlin-or-July-2022-or-Offer/](https://leetcode.com/discuss/post/2317325/Amazon-or-SDE(New-Grad)-or-Berlin-or-July-2022-or-Offer/)
+- **岗位名称**: **Software Development Engineer – 2026** (L4 / SDE I 新毕业 requisition; 2027 版待发布) / SDE – Embedded Development (Berlin / Dresden / Madrid, 同类毕业窗) / Applied Scientist I (MSc/PhD) / **Pathways Operations Manager** (MBA, 非工程)。"Graduate SDE" 是 requisition 标签, 不是 rotation 项目
+- **资格窗口**: Bachelor 及以上 (CS / CE / Data Science / IS / 相关 STEM); "Expected graduation between October 2025 - September 2026, OR graduated within the last 24 months"; ≥1 门通用语言 (Java / Python / C++ / C# / Go / Rust / TypeScript); JD 未写语言要求 [来源 (实际打开过): https://www.amazon.jobs/en/jobs/10408763]
+- **欧洲地点 (2026-10-10 在招的 2026 版 NG JD)**: UK London / Cambridge / Swansea / Edinburgh (10408763) · Dublin ([10449992](https://www.amazon.jobs/en/jobs/10449992)) · Berlin (10477396, 3110381) · Paris-Clichy (10503765) · Madrid (3175845, Embedded 10537470) · Asti IT (10476343) · Iași (3119226) · Embedded Dresden / Berlin (10512477, 10492651, 10492700) · Cambridge UK Devices (10511802)。**NL / Luxembourg 未见 NG SDE JD** (LU 仅见 3+ 年经验 SDE) [来源 (官方 API 实时查询 2026-10-10)]
+- **Pathways (非典型 NG)**: "2027 MBA / Masters Leadership Accelerator: Pathways Operations Manager Germany" — 3 年项目, MBA 或同等 Master + **3+ 年**专业/军队经验 + **德语 B2**, 2027 多个入职日期 [来源 (实际打开过): https://www.amazon.jobs/en/jobs/10516536]; ES / IT / FR 2027 Pathways internship 于 2026-09-30 发布 (同样 3+ 年经验 + 当地语言 B2)。Europe 总页 [来源 (实际打开过, 2026-05): https://amazon.jobs/content/en/career-programs/pathways/europe]
+- **项目结构**: 无 rotation, 直接进 team; 永久合同 + RSU 4 年 backloaded (5/15/40/40); 入职月份按 offer 协商 (JD 未写)
+- **非EU签证 (全职)**: JD 无 sponsor 声明 (10408763)。UK Skilled Worker: L4 base £60.3K > general threshold £41,700 / SOC 2134 going rate £49,400 [来源 (实际打开过): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; DE Blue Card: L4 base €71.9K > €50,700 (shortage €45,934.20) [来源 (实际打开过): https://www.jobbatical.com/blog/germany-shortage-occupations-bottleneck-professions-eu-blue-card]; IE CSEP / LU work permit 同旧版。**NL**: 7 个 Amazon 实体在 IND recognised sponsor 名单 (含 "Amazon EU SARL, Dutch Branch" / "Amazon Development Center (Netherlands) B.V." / "Amazon Web Services EMEA SARL, Dutch Branch"; 名单更新于 2026-10-05) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], 但当前无 NL NG SDE 岗 → 从 NL 学生签 / zoekjaar 留 NL 的路径窄; 去 UK/DE/IE/LU 需新 permit, reduced HSM 门槛 €3,122/月 (IND 2026) 只对 NL 雇主有用 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]
+- **薪资 (Levels.fyi 2026-10-10 直读, 年 gross)**: BSc / MSc 新毕业均进 L4 (推断)
+  | 地点 | Level | Total | Base | Stock (/yr) | Bonus | 来源 |
+  |------|-------|-------|------|-------------|-------|------|
+  | UK | L4 SDE I | £80K | £60.3K | £11.9K | £7.8K | [实际打开过](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/united-kingdom) |
+  | Ireland | L4 SDE I | €98.3K | €82K | €10K | €6.3K | [实际打开过](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/ireland) |
+  | Germany | L4 SDE I | €86.6K | €71.9K | €8.9K | €5.7K | [实际打开过](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/germany) |
+  | Luxembourg | SDE I (avg) | €89,284 | €74,318 | €12,330 | €2,636 | [实际打开过](https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-i/locations/luxembourg) |
+  | Spain | L4 SDE I | €59.8K | €47.3K | €8.6K | €4K | [实际打开过](https://www.levels.fyi/companies/amazon/salaries/software-engineer/locations/spain) |
+  - LU SDE I 范围 €76.6K–€103K+ (旧版: €73.8K - €102K, 2026-05)。旧版 2026-05 表 (UK base £79.9K / total £106K; IE €94.6K / €117K; DE €82.1K / €101K; LU €84.1K / €100.9K; Madrid €55K-€68K 无 URL) 与本次直读不符, 以 2026-10 为准
+- **申请窗口**: Rolling, JD 无截止日; 2026 版 NG JD 自 2025-10-16 起陆续发布, 2026-05-01 (London) / 2026-06-16 (Dublin) / 2026-08-17 (Clichy) 仍在新发 → 2027 届建议 2026-10 起盯 amazon.jobs "Software Development Engineer – 2027" (推断)
+- **面试流程差异 vs 实习**: OA (coding + work style) → 部分有 technical screen → final loop; JoinTaro Dublin Graduate SWE (2025-08, no offer) 为 3 场 (behavioral / DSA / 技术+行为) [来源 (实际打开过): https://www.jointaro.com/interviews/companies/amazon/experiences/graduate-software-engineer-dublin-dublin-august-11-2025-no-offer-negative-b211c8b0/]; Glassdoor 片段称 loop 4-5 场 × 45-60 min [来源 (搜索结果): https://www.glassdoor.co.uk/Interview/Amazon-Interview-E6036-RVW103084514.htm]。旧版结论: NG 每条 LP 需 2-3 个故事, 常含 1 轮 LLD/OOD + Bar Raiser (一票否决)。其他面经: [Luxembourg](https://medium.com/@abhi211199/my-interview-experience-with-amazon-luxembourg-as-a-new-grad-software-engineer-cc0a661d53c7) · [Madrid 2025](https://www.jointaro.com/interviews/companies/amazon/experiences/software-development-engineer-i-madrid-april-1-2025-accepted-offer-positive-11978547/) · [Berlin 2022](https://leetcode.com/discuss/post/2317325/Amazon-or-SDE(New-Grad)-or-Berlin-or-July-2022-or-Offer/)
+- **录取竞争**: 中等偏激烈; Tier 1 中 NG HC 最大之一, Bar Raiser 淘汰率高 (旧版估算 final pass 25-35%, 无来源); 2025-10 / 2026-01 大裁员后 2026 版 NG JD 仍在持续发布 (见上)
+- **关键链接**: [University Grads](https://www.amazon.jobs/content/en/career-programs/university/grads) · [Pathways](https://www.amazon.jobs/content/en/career-programs/pathways) · [London NG JD 10408763 (实际打开过)](https://www.amazon.jobs/en/jobs/10408763) · [2026 MBA Pathways US 3108447 (搜索结果)](https://amazon.jobs/en/jobs/3108447/2026-mba-pathways-operations-manager-internship-nationwide-opportunities) · 薪资页见上表
 
 ---
 

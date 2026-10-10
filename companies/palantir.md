@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](palantir.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 一句话定位: Foundry / Gotham / AIP 平台公司, 政府 + 商业双线. **FDSE (Forward Deployed Software Engineer)** 是 Palantir 标志性岗位, 既写代码又跟客户. UK Government FDSE 是 London 招聘大头. 对国际学生 friendliness 中等偏高, UK Skilled Worker license 完整, **有正式 Launch (Spring insight) + Accelerate (intern) + New Grad 三条 student pipeline**, 在 frontier 范围内 student-friendly.
 
 ---
@@ -21,38 +21,29 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**: Software Engineer (Backend / Frontend), Forward Deployed Software Engineer (FDSE), Forward Deployed Engineer (FDE), New Grad SWE, FDSE New Grad UK Government [来源 (实际打开过): https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a]
-- **欧洲地点**: London 数量最多 (UK Gov + Commercial); Munich (EU 工程 + 国防), Paris (法国国防)
-- **是否有独立 Graduate Programme**:
-  - **Yes — 三条 student pipeline 全开**:
-    - **Launch Program (Spring Insight)** — 4 天 in-person London, 4 月; 完成后 expedited intern interview [来源 (实际打开过): https://www.palantir.com/careers/students/launch/]
-    - **Accelerate Internship** — 12 周 Summer [来源 (实际打开过): https://www.palantir.com/careers/students/accelerate/]
-    - **New Grad SWE / FDSE** — 直接全职, lever 上常开 req [来源 (实际打开过): https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a]
+> 核查日期: 2026-10-10 (实时 Lever API + WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: Lever 全量 309 岗实抓 + gov.uk sponsor 登记册 + Levels.fyi London 直读; 缺 London 应届专属薪资样本)
+> **2027 Intake 状态**: **Rolling (Open)** — London 6 个 New Grad req 在招; FDSE New Grad 要求 "Must be graduating in 2027 or before"; 无截止日期, 无固定入职月 [来源 (实际打开过): https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0]
+> 2026 H2: Q2 2026 营收同比 +93% 并上调全年指引 (2026-08-03) [来源 (搜索结果): https://www.nasdaq.com/press-release/palantir-reports-q2-2026-us-comm-revenue-growth-149-y-y-and-revenue-growth-93-y-y]; Karp 称商业增长靠 "miniscule and shrinking" 的 sales 团队 (Business Insider, 2026-08-04) [来源 (搜索结果): https://www.msn.com/en-us/money/general/alex-karp-rings-the-alarm-for-salespeople-saying-palantir-s-teams-crushed-earnings-with-a-miniscule-and-shrinking-head-count/ar-AA29mJcX]; 未见 layoff / 冻结招聘报道
+
+- **岗位名称 (London, 2026-10-10 在招)** [来源 (curl 实抓 Lever API, 2026-10-10): https://api.lever.co/v0/postings/palantir?mode=json]:
+  - Software Engineer, New Grad (实际打开过): https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e · Software Engineer, New Grad - Infrastructure: https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b
+  - Forward Deployed Software Engineer, New Grad - Commercial (实际打开过): https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 · FDSE, New Grad - UK Government: https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a
+  - Forward Deployed Infrastructure Engineer, New Grad - UK Government (2026-08-31 新开, 实际打开过): https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6 · Product Designer, New Grad: https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7
+- **资格窗口**: FDSE New Grad 要 "Engineering degree" + "Must be graduating in 2027 or before"; SWE New Grad JD 无毕业年份 / 经验上限; Product Designer 要 "Must be planning on graduating in 2027"; London 岗无外语要求. Levels.fyi 只有单一 "Software Engineer" level → BSc / MSc 入职同一 title (推断)
+- **欧洲地点**: New Grad req 全在 London; 欧陆 0 个 new grad req — Munich FDSE 要 "Fluency in German" + clearance, Oslo 要 Norwegian, Madrid FDSE 要 "1+ years of relevant, post-college work experience" + Spanish
+- **项目结构**: 无 rotation, 直接入组; FDSE "Expect 25–50% travel"; offer 须 "within two weeks of receiving your written offer" 答复; Hybrid. Launch (London 1 周 insight, 面向 2027 届 BSc/MSc) 2026-10-10 Lever 上未见 2027 期 [来源 (实际打开过): https://www.jorb.ai/firms/palantir]; UK Meritocracy Fellowship 面向 A-level 毕业生 (不得已有本科学位), 与硕士无关 [来源 (搜索结果): https://www.simplyhired.co.uk/job/5s_bCEZsx8cejmUpSwfyTYltSDAYcvYS7EXob_bl1DaeXjbKhpsjFw]
 - **非EU签证 (全职)**:
-  - **UK Skilled Worker**: Palantir Technologies UK Limited 持牌 sponsor [来源 (实际打开过): https://huntukvisasponsors.com/company/palantir-technologies-uk-limited-k7ialkr8ud7o]; Juno 评 8.0/10 [来源 (实际打开过): https://juno.careers/does-palantir-uk-sponsor-visas]
-  - 2026 阈值 £41,700, Palantir SWE base £85K+ 远超
-  - **DE Blue Card** (Munich): 2026 阈值 €45,934 (shortage occupation), Palantir Munich SWE 远超
-  - **FR Passeport Talent** (Paris): 2 × SMIC, Palantir Paris 达标
-  - GradSignal 报道: UK Palantir 应届 £65K-£85K base, **完全可发 Skilled Worker** [来源 (实际打开过): https://gradsignal.co.uk/blog/uk-tech-companies-visa-sponsorship-graduates-2026]
-- **薪资范围 (Levels.fyi UK 2026)**:
-  - **SWE UK 全级别**: £94.5K - £220K, median £107,102 [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/palantir/salaries/software-engineer/locations/united-kingdom]
-  - **SWE London median TC**: £136,124 [来源 (实际打开过): https://www.levels.fyi/companies/palantir/salaries/software-engineer/levels/software-engineer/locations/london-metro-area]
-  - **FDSE UK (Glassdoor 148 samples)**: £50,702 (P25) - £145,238 (P75)
-  - **UK 综合 (Levels.fyi 平均)**: base £133,833 + stock $44,670 + bonus $1,560 → TC ~$180K
-  - **应届 / Launch → Intern → New Grad**: base £65K-£85K base [来源 (实际打开过): https://gradsignal.co.uk/blog/uk-tech-companies-visa-sponsorship-graduates-2026]
-  - **股权**: PLTR public stock RSU (4 年 vest + cliff), 流动性满分; refresh 每年评估
-- **申请窗口**:
-  - **Launch (Spring Insight)**: 前年 Q3-Q4 投, 4 月活动 (April 14-17, 2026 prior year reference)
-  - **Accelerate Intern**: rolling, 越早越好 (秋季前满 slot)
-  - **New Grad / FDSE**: rolling
-- **面试流程差异 vs 全职**: Intern 流程稍短 (recruiter + 30 min HackerRank + decomp learning); 全职 + decomp / re-engineering / system design / HM final
-- **录取竞争 / 国际生 friendliness**: Juno 8.0/10 sponsor 信用; **国际学生友好度在 frontier 中最高之一**; FDSE 60 天平均流程, 整体 28 天 [来源 (实际打开过): https://www.glassdoor.com/Interview/Palantir-Technologies-FDSE-Intern-Interview-Questions-EI_IE236375.0,21_KO22,33.htm]
-- **关键链接**:
-  - Careers: https://www.palantir.com/careers/
-  - Students & Early Talent: https://www.palantir.com/careers/students-and-early-talent/
-  - Launch: https://www.palantir.com/careers/students/launch/
-  - Accelerate: https://www.palantir.com/careers/students/accelerate/
-  - FDSE New Grad UK Gov: https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a
+  - UK: "Palantir Technologies UK Limited" 与 "Palantir UK Limited" 均为 Worker (A rating), Skilled Worker + GBM Senior or Specialist Worker (登记册 2026-10-09 版, CSV 下载 grep 核查) [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; 2026 Skilled Worker 门槛 £41,700, 应届 base 远超
+  - **UK Government 岗限制**: FD Infrastructure Engineer New Grad 写明 "Sole British National" + "Active or eligible for DV UK security clearance" → 非英籍不可投; FDSE New Grad - UK Government 要 "Security clearance or the ability to obtain a clearance" → 非英籍风险高 (推断). 非EU 应届应投 SWE New Grad / Infrastructure / FDSE Commercial
+  - NL zoekjaar 对 UK 无作用, 需新办 Skilled Worker (公司可发 CoS)
+- **薪资范围 (gross/年)**:
+  - Levels.fyi London SWE (单一 level, 样本典型 4–5 年经验): median TC £150K = base £112K + stock £36.1K + bonus £1.2K; 区间 £98.1K–£202K+; 2026-10-10 [来源 (实际打开过): https://www.levels.fyi/companies/palantir/salaries/software-engineer/locations/london-metro-area] (旧版: London median TC £136,124; UK £94.5K–£220K, median £107,102, 2026-05)
+  - 应届 base £65,000–£85,000 (GradSignal, 2026-10-10 重核) [来源 (实际打开过): https://gradsignal.co.uk/blog/uk-tech-companies-visa-sponsorship-graduates-2026]
+  - RSU: 4 年 (首年 25%, 之后每月 2.08%) 或 5 年 vest [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/palantir/salaries/software-engineer/locations/united-kingdom]
+- **申请窗口**: rolling, 无截止; SWE New Grad / FDSE UK Gov req 自 2021-07-01 常青 (Lever createdAt), 最新 New Grad req 开于 2026-08-31; 建议 10–12 月投 (推断)
+- **面试流程**: recruiter 30 min → technical screen (60 min Karat/CodePair 或 90 min HackerRank) → onsite 3–4 轮 (Decomposition / Learning / Re-engineering / Coding / System Design) → HM 30–60 min; 首次接触到 offer 约 3–4 周; 行为题嵌入每轮 15–20 min (Prepfully 2026-09-29 更新) [来源 (实际打开过): https://prepfully.com/interview-guides/palantir-software-engineer]; 实习流程更短 (旧版)
+- **录取竞争**: Glassdoor 2026-10-10 返回 403, 未重核; 招聘集中 London, 新开 UK Gov req 加国籍限制 → 非EU 可投面收窄到 4 个 req
+- **关键链接**: Students 页 (实际打开过, JS 渲染无正文): https://www.palantir.com/careers/students/ · Lever 职位板: https://jobs.lever.co/palantir
 
 ---
 

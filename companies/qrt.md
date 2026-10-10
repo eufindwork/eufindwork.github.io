@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](qrt.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (官方 careers + Levels.fyi London/Paris 双数据点 + efinancialcareers 多篇 + WSO + Substack 深度分析; 仍有 Paris 入门级 stock/bonus 细分缺口)
 > 一句话定位: 2018 年从 Credit Suisse Quantitative & Systematic Asset Management 部门 management buyout 出来的 systematic hedge fund, 总部 London 但 Paris 是第二大办公室, 大量招 École Polytechnique / ENS / CentraleSupélec 校友; 8 年从 100 人扩到 2026 ~2,000 人, AUM ~$20-25B, 旗舰基金 2024 年回报 30%+
 
@@ -26,45 +26,24 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi Paris L3 €112K 总包 + London Quant Researcher £118K 实数 + Built In London 2026 internship 落实 + 5-6 轮面试流程明确; 缺 stock 细分 — 因 QRT 是私有公司无 RSU, 全靠 deferred bonus)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse API) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 2027 EMEA postings + Levels.fyi London/Paris/QR 三页实数 + UK sponsor 名册; 缺 grad 官方薪资)
+> **2027 Intake 状态**: **Open (rolling)** — 2027 EMEA postings 2026-09-08 上线, 无截止日 ("reviewed on a rolling basis"), 2027 年入职; 直招 grad 仅 Infrastructure / FPGA "Graduate or Internship" 岗 + QR&T "some permanent opportunities", 其余以 final-year internship 转 FT 为主 [来源 (实际打开过): https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002]
+> 2026 H2: 新闻标题 — eFinancialCareers 2026-09-17 "QRT has been hiring heavily, paying less"; QRT 扩租 London n2 大楼 (2026-09-23) [来源 (搜索结果): https://www.bloomberg.com/news/articles/2026-09-23/qrt-expands-london-office-as-hedge-funds-compete-for-prime-space]; 2026-07-01 eFC 报 QRT 建 "lab" [来源 (搜索结果): https://news.google.com/rss/search?q=Qube+Research+Technologies+when:120d]
 
-- **常见岗位名**:
-  - **Quantitative Researcher** (Paris/London 主力, ML/Stats 重)
-  - **Quantitative Trader** (systematic strategy build + monitor)
-  - **Software Engineer** (Trading Tech / 系统/低延迟)
-  - **Research Engineer** (Quant + SWE 混合)
-  - **Quantitative Developer** (Paris 专门有 students/new grads 板块)
-- **欧洲地点**: London (HQ, 最多) / Paris (Quant Dev + Quant Research 重镇, 法语非必须) / 此外 Zurich / Dubai / Hong Kong / Singapore
-- **是否有独立 Graduate Programme**: **半结构化**。没有传统 "Graduate Scheme" 品牌, 但 (1) 官网 Paris 有专门 "Students and New Graduates" 入口 (2) 2026 Early Access Internship Programme 5-6 个月, 应届前一年 / penultimate / 最后一年 + Master/PhD; (3) 申请通用邮箱 `campus@qube-rt.com` [来源 (实际打开过): https://www.qube-rt.com/careers; https://openquant.co/job/2026-early-access-internship-research-qube-research-and-technologies/2756]
-- **非EU签证 (全职)**:
-  - **London**: 提供 Skilled Worker visa sponsorship (£41,700 2026 通用门槛, QRT London Quant Researcher £112K base 远超线)
-  - **Paris**: Passeport Talent Salarié Qualifié, 2026 门槛 €39,582 gross/年 (= €2,707/月, 即 1.5 SMIC), QRT Paris SWE L3 base ~$119K (~€110K) 远超线 [来源 (实际打开过): https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]
-  - QRT 是法国系基金, 官方对非欧学生 (尤其 Polytechnique / ENS 国际生) 办 Passeport Talent 相对熟练
-- **薪资结构 (量化特有, 关键)**:
-  - **Intern (Paris/London)**: QRT 不公开 intern stipend, 但 efinancialcareers 把 QRT 列为 "elite niche quant internship", 业内 benchmark 实习 €4-6k/月 (London £5-7k/月) — 没有 Jump Trading 那么 outlier, 但远超欧洲 SWE 平均
-  - **全职 New Grad (London Quant Researcher)**: median **£118K total / £112K base / £6K bonus / £0 stock** (Levels.fyi L1, 2026-05-28 最新) — 注意 bonus 数字低是因为 deferred comp [来源 (实际打开过): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/data-scientist/title/quantitative-researcher]
-  - **全职 SWE London**: median £135K total / 全 level £90K-£135K+ 区间 [来源 (实际打开过): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer]
-  - **全职 SWE Paris (L3)**: $119K base + $11.9K stock + $0 bonus = **$131K total (~€121K)**, 全 level €82.6K-€112K+ 区间 [来源 (实际打开过): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer/locations/greater-paris-area]
-  - **股权**: $0 RSU (QRT 是私有公司, 不 IPO), 但全公司有 **deferred compensation plan** — 40%+ 员工参与, top performer 报告 75% bonus deferred 3 年投入 QRT-managed funds (2024 年回报 30%+ → 反而是好事但锁仓); 中下游员工 profit share 报告低至 3% — 即 base 透明, bonus 不可预测 [来源 (实际打开过): https://builtin.com/company/qube-research-technologies/faq/compensation-benefits]
-- **申请窗口**:
-  - 2026 Internship cycle 已开放 (5-6 个月 program); 通用邮箱 campus@qube-rt.com
-  - 全职 rolling, careers 页面经常显示 "no matching jobs" — 反映 QRT 用 hidden / 内推 pipeline 多, 不是真的没岗位
-- **面试流程差异 vs 实习**:
-  - 5-6 轮 (前几轮 online, 末轮 onsite)
-  - **OA**: 2 道 LeetCode easy/medium
-  - **Round 1**: behavioral/technical, Python 题 + 团队介绍
-  - **Final**: medium/hard LeetCode + Python 数据结构深问
-  - Quant Researcher 路径加重 ML/Stats/概率题; SWE 路径 LeetCode + 系统题
-  - SWE 难度反而最低 (Glassdoor 用户评价)
-- **录取竞争**: efinancialcareers 报 "weird experience" — 部分候选人反映 final round 拖很久 + 个别员工被低评 profit share; 整体竞争层级 = Citadel < QRT ≈ Two Sigma (相对友好但仍高 bar) [来源 (实际打开过): https://www.wallstreetoasis.com/forum/hedge-fund/qrt-weird-experience]
-- **关键链接**:
-  - 官网 careers (实际打开过, 截至 2026-05-28 显示 "no matching jobs"): https://www.qube-rt.com/careers
-  - Paris 新毕业生子页 (实际打开过): https://www.qube-rt.com/careers/technology/quantitative-development/paris/students-and-new-graduates/
-  - Levels.fyi QRT Paris SWE (实际打开过, L3 €121K total): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer/locations/greater-paris-area
-  - Levels.fyi QRT London Quant Researcher (实际打开过, L1 £118K): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/data-scientist/title/quantitative-researcher
-  - 2026 Early Access Internship (实际打开过, 5-6 月 program): https://openquant.co/job/2026-early-access-internship-research-qube-research-and-technologies/2756
-  - efinancialcareers 薪酬争议 (搜索结果, deferred 75%): https://www.efinancialcareers.com/news/qube-qrt-pay
-  - topQuantUnis QRT profile (实际打开过): https://topquantunis.com/firms/a6c8f9c4-5d9e-4768-8ea2-290954f3f3d0
+- **岗位名称 (2027 EMEA)**: "2027 - Internship, Software Engineering and Quantitative Development" (SWE: London / Wrocław / Zurich; QD: London / Paris / Wrocław / Dubai / Aarhus / **Amsterdam**) [来源 (实际打开过): https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002]; "2027 - Internship, Quantitative Research and Trading" (Aarhus / Budapest / Dubai / Geneva / London / Paris / Zurich); "2027 – Graduate or Internship, Infrastructure Engineer" (London / Paris) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs/8773447002]; "2027 – Internship or Graduate, FPGA Engineering" (London / Paris / New York); "Quantitative Researcher – PhD & Postdoc Opportunities" (London / Paris / Zurich, rolling)
+- **资格窗口**: penultimate / final-year BSc/MSc (QR&T 含 PhD); SWE/QD 要求 "on track for a 2:1 or above"; PhD 岗限 final-year PhD / postdoc; 英语流利, 法语非必须
+- **欧洲地点**: London (HQ) / Paris / Zurich / Geneva / Wrocław / Aarhus / Budapest / Amsterdam / Dubai; Amsterdam 现有 5 个社招岗 (均 5+ 年级别) [来源 (ATS API 直读, curl): https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs?content=true]
+- **项目结构**: SWE/QD 实习 3–6 个月或 12 个月 placement (12 个月仅 SWE); QR&T 4–6 个月; 申请表问 "availability for a full-time role immediately post-internship" → final-year 实习即 FT 通道; "Strong performance during the internship may lead to consideration for a full-time graduate role"
+- **非EU签证 (全职)**: UK sponsor 名册 (2026-10-09 版) 列 Qube Research & Technologies Limited — Worker (A rating), Skilled Worker [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; Paris Passeport Talent salarié qualifié €2,707/月 = €32,484/年 (1.5 SMIC, 2026) (旧版: €39,582/年, 2026-05) [来源 (实际打开过): https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]; **NL**: IND recognised sponsor 名册 (2026-10-05 版, 全文检索) 未见 QRT 实体 → Amsterdam FT 走 reduced Kennismigrant 未确认 [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; Amsterdam QD 实习在 NL 学生身份下可行 (推断)
+- **薪资 (Levels.fyi, 2026-10-10)**:
+  - SWE London: median £126K total (72 条); 0 YOE Level 1 卡片 total £168K / base £101K / stock £25.2K / bonus £0 (分项与总额不符, 以 median 为准) (旧版: median £135K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer]
+  - SWE Paris: median €114K; L1 0 YOE 卡片 total €131K / base €85.1K / bonus €29.3K (旧版: L3 $131K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/software-engineer/locations/greater-paris-area]
+  - QR London: median £162K = £102K base + £60.1K bonus, L1, 典型 2 YOE (25 条) (旧版: L1 £118K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/qube-research-and-technologies/salaries/data-scientist/title/quantitative-researcher]
+  - Deferred 设计: 无股权; eFC 2025-02-26 引内部人士称 senior 级 bonus 仅 25% 现金、75% 分 3 年递延; UK 526 人 2023 年人均 £597k [来源 (实际打开过): https://www.efinancialcareers.com/news/qube-qrt-pay]
+- **申请窗口**: 2027 cycle 2026-09-08 开放 rolling, "applying early is recommended"; 官网 careers 页仍显示 "no matching jobs", 实际岗位在 Greenhouse [来源 (实际打开过): https://www.qube-rt.com/careers]
+- **面试流程**: Apply (rolling) → Technical Assessment (coding challenge) → assessment centre on-site 或 Microsoft Teams interviews; QR 鼓励参加 Data Challenge (challengedata.ens.fr), 表现好可被直接联系
+- **录取竞争**: 社区报告 final round 反馈慢 (见 §4); 无官方录取率
+- **关键链接**: Greenhouse 全部岗位 (实际打开过) https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002 · campus 邮箱 campus@qube-rt.com
 
 ---
 

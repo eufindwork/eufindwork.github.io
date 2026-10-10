@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](optiver.en.md)
 >
-> 更新时间: 2026-09-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 careers + Levels.fyi 全 level + 1point3acres 2026 SWE/QR OA 实战 + WSO + Glassdoor + Optiver 官方面试 Tips)
 > 一句话定位: 1986 年阿姆斯特丹起家的全球老牌 market maker, 自营 options / ETF MM, 总部 Amsterdam (>1,000 人), 全球 Sydney + Chicago + Austin + London + Shanghai + Taipei; quant 圈"50 道 mental math 8 分钟"的发明者, 每年 EU 校招 SWE + Quant Researcher + Quant Trader 三轨
 
@@ -24,50 +24,24 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi L3 €185K total 数字直读 + 官方 Graduate SWE / FPGA 岗位实时开放 + 1point3acres 80in8 + ZapN 二轮实测)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch) | 信息丰富度: ⭐⭐⭐⭐⭐ (依据: Greenhouse 官方岗位 API + 职位页 + 官方 campus FAQ + Levels.fyi 直读 + IND / UK 注册表)
+> **2027 Intake 状态**: **Open (Rolling)** — 2027 graduate 岗 2026-08-17 上线, 职位页无截止日 (被邀请后 7 天内完成 OA); 入职 2027 (Equity Analyst 写明 August 2027); trader 入口 Career Kickstarter - Trading 2027 截止 2026-12-06 17:00 CET [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/optiverus/jobs] [来源 (实际打开过): https://optiver.com/working-at-optiver/career-opportunities/8859789002/]
+> 2026 H2: 未见 layoff / freeze; 2026-08-18 宣布控股 Leiden 电力 / 天然气交易商 Northpool; 2026-10-05 进入 autocallable ETF 做市 [来源 (实际打开过): https://optiver.com/news/]
 
-- **常见岗位名 (区分关键)**:
-  - **Graduate Software Engineer** (主, C++ 方向) — Trading Systems / Low-latency Infra
-  - **Graduate FPGA Engineer** / **Junior FPGA Engineer** — Tech 部门 (2026-05 Amsterdam 实时开放)
-  - **Quantitative Researcher (QR)** — research / pricing model
-  - **Quantitative Trader** — 真 trader 角色, 不在 SWE 路径, 走单独 trading 招聘 + 自己的 Trading Bootcamp
-  - **Trading Tech Engineer** — 介于 SWE 和 trader 之间, support trader 现场
-- **欧洲地点**: Amsterdam (主, EU HQ) / London (二线, options + ETF) / 北美 Chicago + Austin / APAC Sydney + Shanghai + Taipei
-- **是否有独立 Graduate Programme**: **Yes** — **Optiver Graduate Programme** 含 3 轨 (Tech / Trading / Research), Tech 轨 6-12 周 onboarding bootcamp + rotating team placement, cohort 规模 EU ~30-50 人 (不公开精确数字)
-- **非EU签证 (全职)**:
-  - **NL Kennismigrant (HSM) 2026**: <30 €4,357/月 (€52,284/年 gross), ≥30 €5,942/月 (€71,304/年 gross), 硕士 reduced €2,801/月 (€33,612/年) — Optiver Graduate SWE base €100K+ 远超所有门槛, **100% 自动符合**
-  - **30% ruling**: 适用, 前 5 年最多 30% 免税 (2024-01 法改: 5 年内逐档下调到 30%/20%/10%, 仍是最强 EU 财务优势之一)
-  - **Visa 实际**: Optiver 官方"sponsors HSM (Highly Skilled Migrant/Kennismigrant) visas for software engineers working on low-latency trading systems, infrastructure, and FPGA development" — IND 流程 2 周, 已为 H-1B 失败者主流欧洲安置路径 [来源 (实际打开过): https://nextleveljobs.eu/blog/visa-sponsorship/nl]
-  - **Intern 签证**: case-by-case, "is able to support visa sponsorship on a case by case basis, which is discussed during the interview process" — 不是默认 yes
-- **薪资结构 (量化特有, 必填)**:
-  - **Intern (SWE, Amsterdam)**:
-    - Levels.fyi 2025 Amsterdam **$126.14/hour ≈ €115/小时, 10 周 ≈ €46K stipend equivalent** (远高于 Big Tech 实习); 业内常说月薪 €5,000-6,000 量级
-    - **Housing 全包** (中心区豪华公寓), **机票全包**, 通勤补贴, 早晚餐 + 健身房, BSN / bank account 办理协助
-    - 类比: Chicago Summer 2026 intern $175/hour + $10K sign-on; Amsterdam 略低于美国但日均工时更短
-  - **全职 New Grad (Amsterdam Graduate SWE, L3)**:
-    - Levels.fyi 2026-05-28 直读: **L3 total €185K** = base $118K (≈€109K) + bonus $91.5K (≈€85K) + stock $6K (RSU 罕见, 4 年 vest)
-    - L4 total **€217K** (base ≈€81K + bonus ≈€120K), L5 **€313K** (base ≈€81K + bonus ≈€255K) — **bonus 占比极高 (50-80%)** 是 Optiver 的招牌
-    - 6figr.com 数据: 全球 Optiver SWE $300K-$686K 区间 (含资深 + 美国 office)
-    - Sign-on: $10K-$15K (intern conversion 路径常见)
-  - **全职 New Grad (Trading 轨, Amsterdam)**: 公开数据少, Glassdoor 显示 entry trader €70-100K base + 巨型 discretionary bonus (Y1 总包传闻 €150-300K, 与 desk PnL 直接挂钩)
-- **申请窗口**:
-  - **Graduate SWE / FPGA**: 2026-27 cycle 滚动开放 (rolling), 欧洲专属 deadline 偏向 Oct-Dec 年末
-  - **Internship 2027 cohort**: Amsterdam 官方 internships 页面 (2026-09-26 核实) 目前列出 **FPGA Internship (2027 Start)** 与 **Quantitative Research Internship (2027 Start)**, 均为 2027 届实习; 页面未列出 SWE Internship 或具体 deadline 日期 [来源 (实际打开过): https://optiver.com/working-at-optiver/internships/]
-  - **2026-09 Amsterdam careers 板** (2026-09-26 核实): 未见 Graduate/Junior/2027 Internship 岗位挂出, 仅显示 experienced-level 岗 (Data Engineer - Trading, RF Systems Engineer 等); Graduate/Internship 岗位似经独立 internships 页面单独发布, 而非主 career-opportunities 列表 [来源 (实际打开过): https://optiver.com/working-at-optiver/career-opportunities/]
-- **面试流程差异 vs 实习**:
-  - **Optiver mental math (80in8 → 当前 50 题 / 8 分钟)** — quant 圈最著名筛选 — 必写: 80 道四则运算 (整数 + 分数 + 小数), 8 分钟, 每对 +1 错 -2, 不可跳 / 不可改, 及格 ~55, 竞争力 70+; **2026 SWE / Quant 申请均强制此轮**
-  - SWE 加 2 道 HackerRank 编程 (2h, 1 OOP design + 1 算法) + Coderpad 技术面 (circular buffer 实现队列、LRU 变种、exchange system 设计)
-  - QR 走 HackerRank 编程 + 后续 sequence / probability 重头戏
-  - Trader 走 mental math + market making game + brain teaser
-  - 全职多一轮 Onsite "Super Day" (Amsterdam HQ, 飞过去 2 天, 含 trader + tech + culture)
-- **录取竞争**: 极高 — 1point3acres 2026 batch 大量"80in8 直接刷掉"反馈; SWE OA 通过率内估 <15%; 全程 offer rate <2% (业界口径)
-- **关键链接**:
-  - 官方 careers 板 (实际打开过): https://optiver.com/working-at-optiver/career-opportunities/
-  - 官方 internships (实际打开过, 全球 location 列表): https://optiver.com/working-at-optiver/internships/
-  - Levels.fyi Optiver Amsterdam SWE (实际打开过, L3-L5 直读): https://www.levels.fyi/companies/optiver/salaries/software-engineer/locations/greater-amsterdam-area
-  - Levels.fyi 全球 (实际打开过): https://www.levels.fyi/companies/optiver/salaries/software-engineer
-  - Optiver 官方 SWE Interview Tips (搜索结果): https://optiver.com/working-at-optiver/career-hub/optiver-interview-tips-for-software-engineers/
-  - Optiver EU campus Q&A (搜索结果): https://optiver.com/working-at-optiver/career-hub/optiver-eu-campus-recruiting-qa/
+- **岗位名称 (Europe, 2026-10-10)**: Graduate Software Engineer (Amsterdam 8561858002 / London 8561859002); Graduate Quantitative Researcher (2027 Start) (Amsterdam / London); Graduate FPGA Engineer (2027 Start) (Amsterdam); Graduate Equity Analyst (2027 Start) (Amsterdam); **Graduate Trader 无独立 posting** — 走 Career Kickstarter - Trading 2027 (2027-03 两期各 5 天, 表现好直接发 Graduate Trader offer); Career Kickstarter - Tech (2027-05, 截止 2027-02-07) / Women in Tech 2027 (截止 2027-01-10) → 可直接拿 Graduate SWE offer
+- **资格窗口**: Graduate SWE / FPGA: BSc / MSc / PhD, 毕业于 2024-08 至 2027-08, 最多 3 年工作经验, 英文 CV [来源 (实际打开过): https://optiver.com/working-at-optiver/career-opportunities/8561858002/]; Kickstarter Trading: BSc / MSc, 2025-05 至 2028-05 毕业于欧洲大学, 人在 NL / UK / Europe; 全球 re-apply 冷却期 8 个月
+- **欧洲地点**: Amsterdam (HQ) / London
+- **项目结构**: 入职统一 Global (Optiver) Academy (trading theory + tech stack) + 专属 mentor; 25 天年假 (第 2 年起 30 天); cohort 规模未公开 (旧版: EU ~30-50, 未核实)
+- **非EU签证 (全职)**: 职位页: "Competitive relocation packages and visa sponsorship where necessary for expats"; campus FAQ (2026-06): "visa sponsorship on a case-by-case basis" [来源 (实际打开过): https://optiver.com/working-at-optiver/career-hub/optiver-eu-campus-recruiting-qa/]; Optiver Services B.V. + Optiver Holding B.V. 在 IND recognised sponsor 名单 (2026-10-05 更新) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; 2026 Kennismigrant 门槛: reduced (zoekjaar 期间 / 毕业 3 年内) €3,122/月, <30 €4,357/月, ≥30 €5,942/月 (旧版 reduced: €2,801, 2026-09) [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements] → 从 NL 学生签 / zoekjaar 转入可行; London: Optiver UK Limited 持 Skilled Worker A-rating license (注册表 2026-10-09 版) [来源 (实际打开过): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]
+- **30% ruling**: 最多 30% 免税, 最长 5 年; 2026 salary norm €48,013/年, <30 岁硕士 €36,497/年 (旧版: "30%/20%/10% 逐档下调", 2026-09 — 官方页未提及) [来源 (实际打开过): https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility]
+- **薪资 (gross/年)**:
+  - Graduate SWE Amsterdam (L3, Levels.fyi 标 1-2 年): TC €206K = base €106K + bonus €100K + stock €0; L4 €184K; L5 €317K; median €203K, 140 数据点 (2026-10) (旧版 L3: €185K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/optiver/salaries/software-engineer/locations/greater-amsterdam-area]
+  - US 锚点: Chicago Graduate SWE posted base $200,000 (tradermath, 2026-09) [来源 (实际打开过): https://www.tradermath.org/salaries/optiver]
+  - Graduate Trader / QR Amsterdam: 无可靠公开数据 (Levels.fyi Optiver Trader 样本不足, 2026-10) [来源 (实际打开过): https://www.levels.fyi/companies/optiver/salaries/trader]; tradermath 跨公司估计 Amsterdam 一年级 trader base + bonus €150,000-€300,000 [来源 (实际打开过): https://www.tradermath.org/salaries/imc]
+- **申请窗口**: FAQ 预告 2027 campus 岗 "around the end of August 2026" 开放, 实际 2026-08-17 上线; 无 deadline, 宜尽早 (推断: 招满即关)
+- **面试流程差异 vs 实习**: 官方: 投递后邀请 online assessments (7 天内完成), 7 个工作日内联系; 技术面重 "how you think" (OOP / DSA / system design) [来源 (实际打开过): https://optiver.com/working-at-optiver/career-hub/optiver-interview-tips-for-software-engineers/]; Kickstarter Trading = OA (2026-12-06 前) → technical interview (12-1 月) → 5 天项目 → offer; 社区报告 (旧版 1point3acres 搜索结果, 本次未重新核实): numerical test 80in8 + HackerRank 编程 + ZapN → Coderpad 技术面 → final
+- **录取竞争**: 极高; 社区估计 SWE OA 通过率 <15% (旧版, 未核实)
+- **Intern (次要)**: 2027 Amsterdam / London intern (SWE / QT / QR / FPGA, 10 周) 均要求 2028 毕业的 penultimate-year 学生 → 2027 毕业生不适用 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/optiverus/jobs]
 
 ---
 
@@ -183,4 +157,4 @@
 - TechPays Optiver intern level (搜索结果): https://techpays.com/europe/netherlands/optiver/intern-level
 - 6figr Optiver SWE 全球 (搜索结果): https://6figr.com/us/salary/optiver--software-engineer
 - nextleveljobs.eu NL visa sponsorship (实际打开过, 提到 Optiver Kennismigrant): https://nextleveljobs.eu/blog/visa-sponsorship/nl
-- IND Kennismigrant 2026 thresholds (用户 MEMORY): NL <30 €4,357/月; ≥30 €5,942/月; reduced €2,801/月
+- IND Kennismigrant 2026 thresholds: NL <30 €4,357/月; ≥30 €5,942/月; reduced €3,122/月 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]

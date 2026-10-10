@@ -3,7 +3,7 @@
 > **Language**: [中文](drw.md) | English
 >
 
-> Update: 2026-05-28
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐⭐ (Levels.fyi London + Chicago all-level actual numbers + intern $175K base / $96.13/hr public + Cumberland crypto subunit independent + 10-week process + complete 4-stage hiring documented + Amsterdam Cumberland active)
 > One-line positioning: prop trading firm founded 1992 by Don Wilson at Chicago Mercantile Exchange (firm name = DRW is founder's initials), ~1,000+ globally, business covers traditional finance + crypto (subunit **Cumberland DRW** since 2014 is one of the largest crypto OTC market makers globally), London (43+ roles) is European main battleground + Amsterdam is Cumberland European bridgehead
 
@@ -26,46 +26,20 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (Levels.fyi London L2 $216K + Chicago L2 $203K + intern $96.13/hr / $175K base / $25K sign-on + $15K completion / 4-stage process documented + Cumberland Amsterdam active crypto MO role)
+> Checked: 2026-10-10 (live WebFetch + full Greenhouse API download; WebSearch quota exhausted) | Information richness: ⭐⭐⭐⭐ (basis: official JD graduation windows + Levels.fyi London L2 + UK / IND sponsor registers read directly; no 2025-26 grad interview reports)
+> **2027 intake status**: **Open (rolling)** — London **Software Developer** (graduating Dec 2026 – Aug 2027, BSc/MSc/PhD, posted 2026-08-19) + London **Quantitative Trading Analyst** (graduating Dec 2026 – Jun 2027, start Summer 2027, posted 2026-08-07); no published deadline [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/drweng/jobs]
+> 2026 H2 news: 2026-08-04 eFinancialCareers "DRW raised pay to £340k per head in London after hiring"; 2026-08-11 QumulusAI GPU (Blackwell B300) capacity agreement with DRW; (H1) 2026-06-16 head of North American gas & power left after trading losses; no layoff / hiring-freeze reports found [Source (verified opened, Google News RSS headlines): https://news.google.com/rss/search?q=%22DRW%22+trading+firm+when:120d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **Common role names**:
-  - **Software Developer Intern** (10-week Summer, Chicago + London, historical Singapore)
-  - **Quantitative Trading Analyst Intern** ($175-200K base annualized)
-  - **Trading Intern** (undergrad senior year, goes through trader pipeline)
-  - **Quant Strategist** (Junior FT, between trader + dev)
-  - **Software Engineer** (Junior FT, considerable portion of Technology 77 open)
-  - **Crypto Middle Office Engineer** / **Crypto Relationship Manager** (Cumberland subunit, London/Amsterdam active)
-- **European locations**: London (43+ open 2026-05, main battleground) / Amsterdam (Cumberland crypto, currently has e-Crypto Relationship Manager + Crypto Middle Office Engineer roles) [Source (search result): https://www.drw.com/work-at-drw/listings; https://builtinlondon.uk/job/crypto-middle-office-engineer/3540658]
-- **Independent Graduate Programme**: **Yes - DRW Internship Cohort** (10-week summer + structured orientation + housing); full-time Junior goes through "Graduates" entry https://www.drw.com/work-at-drw/graduates [Source (verified opened): https://www.drw.com/work-at-drw/interns]
-- **Non-EU visa (full-time)**:
-  - **London**: Skilled Worker £41,700 (2026); DRW London L2 SWE base ~£148K → far exceeds compliance
-  - **Amsterdam**: Kennismigrant 2026 = €5,688/month (30+ years) or €4,171/month (<30 years) base threshold; Cumberland Amsterdam role base industry €70-90K → compliant
-  - DRW has sponsorship license in both UK and NL (actually inferable from multiple LinkedIn job postings marking "visa sponsorship available")
-- **Salary structure (quant-specific, key)**:
-  - **SWE Intern (Chicago, Summer 2026)**: **$96.13/hr ≈ $16,663/month** + corporate housing + relocation + **$25K sign-on + $15K completion bonus** (i.e., 10 weeks ≈ $41,663 stipend + $40K bonus = ~$80K total) [Source (verified opened): https://www.levels.fyi/internships/DRW/Software-Engineer-Intern/]
-  - **SWE Intern (London, historical 2023)**: $61.90/hr ≈ £4.2k/month (industry 2026 likely risen to £6-7k/month)
-  - **Quant Trading Analyst Intern**: $175-200K base annualized (i.e., 10 weeks ≈ $33-38K stipend) [Source (search result): https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981]
-  - **Full-time New Grad SWE London (L2)**: **$216K total = $148K base + $67.1K bonus + $0 stock = £162K** (Levels.fyi 2026-05) [Source (verified opened): https://www.levels.fyi/companies/drw/salaries/software-engineer/locations/london-metro-area]
-  - **Full-time New Grad SWE Chicago (L2)**: $203K total = $168K base + $4.4K stock/yr + $29.9K bonus
-  - **Equity**: $0 RSU most levels (DRW private, no IPO); London all levels stock = $0; Chicago only L2 shows minor $4.4K stock
-- **Application window**:
-  - **Internship**: open Aug-Oct, applications due Oct-Dec (rolling but early applying significantly advantageous); Summer start June
-  - **Graduate FT**: rolling, often intern first then convert
-- **Interview process differences vs internship**:
-  - **Internship (official documented 4-stage)**: (1) Online application (2) Technical challenge (timed at-home) (3) Zoom interview (tech + behavioral) (4) **2-day final visit** (in-person, multiple tech + multiple interviewers)
-  - **Full-time**: similar process but deeper, system design + team fit ratio rises; LeetCode + brain teaser + probability heavy
-- **Selection competition**: Chicago intern is top-tier prop firm second tier (below Jump/Citadel/Jane Street), but stipend close to top-tier; London Quant Strategist path harder than SWE
-- **Key links**:
-  - Official careers (verified opened): https://www.drw.com/work-at-drw/listings
-  - DRW Internship 4-stage documented (verified opened): https://www.drw.com/work-at-drw/interns
-  - Graduates entry (search result): https://www.drw.com/work-at-drw/graduates
-  - Levels.fyi London L2 $216K (verified opened): https://www.levels.fyi/companies/drw/salaries/software-engineer/locations/london-metro-area
-  - Levels.fyi US L2-L5 (verified opened): https://www.levels.fyi/companies/drw/salaries/software-engineer
-  - Levels.fyi SWE Intern $96.13/hr (verified opened): https://www.levels.fyi/internships/DRW/Software-Engineer-Intern/
-  - Quant Trading Analyst Intern $175-200K base (search result): https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981
-  - Software Developer Intern $175K base (search result): https://www.drw.com/work-at-drw/listings/software-developer-intern-3157977
-  - Cumberland subunit entry (search result): https://www.drw.com/cumberland; https://www.cumberland.io/careers
-  - Crypto Middle Office Engineer (London, Built In, search result): https://builtinlondon.uk/job/crypto-middle-office-engineer/3540658
+- **Role names (Europe, 2026-10-10)**: entry tier — Software Developer (London) https://job-boards.greenhouse.io/drweng/jobs/8007851 · Quantitative Trading Analyst (London) https://job-boards.greenhouse.io/drweng/jobs/7957241 · Associate Trader (Amsterdam, bachelor's+, no years stated, inferred open to grads) https://job-boards.greenhouse.io/drweng/jobs/8127674 · Software Engineer (Commodities Data Team, London, bachelor's/master's + Python, no years stated) https://job-boards.greenhouse.io/drweng/jobs/8124601; 1-2-year tier — Quantitative Trading Analyst (London, "1–2 years") https://job-boards.greenhouse.io/drweng/jobs/7929846 · Data Analyst (London, "1-2 years") https://job-boards.greenhouse.io/drweng/jobs/8191531; Leadership Rotation Network Analyst (London) explicitly requires "Work authorisation in the United Kingdom without the need for sponsorship" → not open to anyone needing sponsorship https://job-boards.greenhouse.io/drweng/jobs/7957747
+- **Eligibility window**: SWE graduating Dec 2026 – Aug 2027; QTA graduating Dec 2026 – Jun 2027; BSc / MSc / PhD all accepted; English
+- **European locations**: London (main) + Amsterdam (DRW Europe Derivatives B.V.; none of the 6 current Amsterdam roles is Cumberland-labelled) (previous: Amsterdam mainly Cumberland crypto roles, 2026-05)
+- **Programme structure**: no separate grad scheme; new hires "attend a robust training program" (SWE JD); no rotation
+- **Non-EU visa (full-time)**: UK register 2026-10-09 version: **DRW Investments (UK) Ltd** — Worker A rating, Skilled Worker + GBM Senior or Specialist Worker [Source (verified opened; CSV downloaded and grepped): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; IND register 2026-10-05 version: **DRW Europe Derivatives B.V.** (KvK 72007443) is a recognised sponsor [Source (verified opened; full table downloaded and grepped): https://ind.nl/en/public-register-recognised-sponsors/public-register-work] → Amsterdam roles can use Kennismigrant; reduced criterion after NL graduation / zoekjaar €3,122 (<30 €4,357; ≥30 €5,942) [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements] (previous: €4,171 / €5,688, 2026-05); SWE / QTA JDs say nothing about sponsorship
+- **Pay (base / bonus / equity / TC, gross/yr)**: London SWE L2 (entry, 5 data points, avg 0.8 YoE): TC £161K = base £111K + bonus £50.2K + stock £0 (= $216K, same as previous); L3 £136K; London median £173K (L2, 0 YoE, 2025-08 offer) (read 2026-10-10) [Source (verified opened): https://www.levels.fyi/companies/drw/salaries/software-engineer/locations/london-metro-area]; UK JDs show no pay; US reference (pay transparency): Chicago new-grad Software Developer base $225,000 (graduating Dec 2026 – Jun 2027) https://job-boards.greenhouse.io/drweng/jobs/7980165 · Chicago/NYC new-grad Quantitative Researcher base $250,000-$300,000 https://job-boards.greenhouse.io/drweng/jobs/8030406
+- **Application window**: 2027 cycle posted from 2026-07-13 (interns) / 2026-08-07 (QTA) / 2026-08-19 (SWE), rolling, no deadline (apply early — inferred)
+- **Interview process vs internship**: official grad page, 4 steps: (1) résumé reviewed on a rolling basis (2) technical challenge (probability + logic / coding) (3) phone interview (4) two-day final (day 1 technical challenge + day 2 full day of interviews) — same process as interns [Source (verified opened): https://www.drw.com/work-at-drw/graduates]
+- **Competition**: 176 open roles on the board on 2026-10-10, but only ~6 in Europe at the 0-2-year tier (inferred: few seats, concentrated in London SWE / QTA)
+- **Key links**: grad page (verified opened): https://www.drw.com/work-at-drw/graduates · Greenhouse API (verified opened, see above) · Levels.fyi London (verified opened, see above)
 
 ---
 

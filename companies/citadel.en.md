@@ -2,7 +2,8 @@
 
 > **Language**: [中文](citadel.md) | English
 >
-> Updated: 2026-05-28
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — London TC £280K in the header and §2/§5/§7 (median now £318K), 'both UK entities are licensed' (the register lists only Citadel Enterprise Europe Limited), and 'London is the only European office' (there are also Dublin / Paris / Zurich, and Citadel Securities opened Amsterdam in 2026-07).
 > Information density: ⭐⭐⭐⭐⭐ (Wikipedia + official careers (Citadel + Citadel Securities two entries) + Levels.fyi London direct read £280K median + Glassdoor + Citadel Engineering blog + Companies House 05462867 sponsor confirmed)
 > One-liner: Hedge fund **Citadel LLC** founded by Ken Griffin in 1990 + market maker **Citadel Securities** spun off in 2002 (two companies, both Griffin-controlled); HQ moved from Chicago to Miami in 2022; **London is the largest European office and joint application**; SWE London L3 median TC **£280K**; Skilled Worker sponsor active
 
@@ -24,48 +25,23 @@
 
 ## New Grad / Junior Roles
 
-> Information density: ⭐⭐⭐⭐⭐ (Levels.fyi London L3 direct read £280K + 6figr.com new grad TC $332k-$662k + official two careers entries + process 4-step 8 weeks + UK sponsor confirmed)
+> Checked: 2026-10-10 (live WebSearch + WebFetch; citadel.com / citadelsecurities.com return 403 to WebFetch, roles verified via aggregator detail pages) | Information density: ⭐⭐⭐⭐ (basis: aggregator role details + Levels.fyi London + UK / IND sponsor registers + eFC 2026-09)
+> **2027 intake status**: **Open (rolling)** — Europe "University Graduate" roles live since 2026-07-19, no public deadline, start month not published [Source (verified opened): https://www.thewallstreetquants.com/quant-new-grad-role/citadel] [Source (verified opened): https://www.thewallstreetquants.com/quant-new-grad-role/citadel-securities]
+> **2026 H2 news**: Citadel Securities opened an Amsterdam office on 2026-07-22 (equity options; trading + technology + quant research; 15th office globally); no Amsterdam role in the 2027 grad list yet [Source (verified opened): https://www.eqs-news.com/news/corporate/citadel-securities-opens-amsterdam-office/69149dc4-9f7b-454f-94e1-8191a68a918e_en]; eFC 2026-09-23: Citadel (HF) London paid ~$1.2m per head in 2025, growth mainly investment staff [Source (verified opened): https://www.efinancialcareers.com/news/citadel-london-pay]
 
-- **Common role names (key distinctions)** — **Citadel + Citadel Securities simultaneous application, entry merged**:
-  - **Software Engineer** (Citadel + Citadel Securities both open): general engineering; Citadel HF leans platform/research infra, Citadel Securities MM leans low-latency trading
-  - **Quantitative Researcher**: math / ML / PhD heavy; Citadel HF main battleground
-  - **Quantitative Developer**: engineering + direct interface with trader (kdb+ / pricing model implementation)
-  - **Quantitative Trader**: non-SWE path; many PhD physics/math
-  - **FPGA Engineer**: Citadel Securities low-latency; less hiring than HRT
-  - **Security Researcher / Cyber**: standalone vertical [Source (verified opened): https://www.citadel.com/careers/details/software-engineer/]
-- **European location**: **London (only European office, largest)**; rest worldwide Miami (HQ) / NY / Chicago / Sydney / Tokyo / HK / Paris
-- **Standalone Graduate Programme**:
-  - **Summer Associate** (intern, Summer NA): SWE / Quant Researcher / Quant Trader / Quant Developer various tracks; London all open; **2026 cycle applications usually 8-10 month (previous year)**
-  - **Open House / Datathon / self-hosted quant competition**: Citadel + Citadel Securities jointly hosted datathon (prize $100K+) is main networking battleground
-  - **Full-Time New Grad**: rolling, fall recruiting main battleground; **Citadel + Citadel Securities one application, internal review simultaneous**
-  - **Note**: Citadel doesn't have GS/JPM's 1-2 year rotational "Grad Scheme", direct team placement
-- **Non-EU visa (full-time)**: **Citadel Enterprise Europe Limited / Citadel Securities (Europe) Limited holds Skilled Worker license** (worksponsors.co.uk + huzzle-app confirmed); FT base £150K+ far exceeds 2026 threshold £41,700 + SOC 2136 going rate £55K; provides visa fee reimbursement + 1-2 month temporary housing + £5-15K relocation [Source (search result): https://worksponsors.co.uk/company/citadel-enterprise-europe-limited]
-- **Salary structure (London, gross/year)**:
-  - **Intern (Summer Associate, London)**: industry estimate £6-8k/week + housing + travel; US Summer Associate Levels.fyi reports $120-150/hr ($4,800-$6,000/week) + housing
-  - **Full-time New Grad SWE (London L3, Levels.fyi direct read)**: TC **£280K median** = $373K USD; base $234K + bonus $139K + stock $0; **range £149K - £281K (median to high)**, max £388K (high percentile) [Source (verified opened): https://www.levels.fyi/companies/citadel/salaries/software-engineer/locations/london-metro-area]
-  - **US new grad (Citadel + Citadel Securities)**: TC **$400K-$700K Year 1** = base $175-225K + sign-on $100-200K + perf bonus $100-300K (6figr.com / Levels.fyi direct read) [Source (search result): https://6figr.com/us/salary/citadel--new-grad--cy]
-  - **Quant Researcher new grad**: TC significantly higher than SWE, $400K-$1M+ (PhD negotiable)
-  - **Bonus dominant**: base accounts for ~40-60% of TC; **no RSU** (Citadel private company; "stock" field is phantom equity / discretionary bonus form)
-- **Application window**:
-  - **Summer 2027 Intern**: ~2026-07/08 open (typical), application closes usually 10-11 month (rolling); 2026 cycle most already closed
-  - **Full-Time New Grad**: rolling, fall recruiting (Sep-Dec) main battleground
-- **Interview process difference vs intern**:
-  - **Citadel + Citadel Securities simultaneous review** (official says "two firms at once")
-  - 4-step process, average **8 weeks** application → offer (efinancialcareers reports 28-day mean, Citadel Securities faster)
-  - **HackerRank OA** (3-5 LC medium-hard)
-  - 1-2 tech phone screens (45-60 min, C++/Python choice)
-  - Hiring manager team match (team match)
-  - **When multiple teams interested**, multi-round onsite (4-6 rounds) [Source (verified opened): https://www.citadel.com/careers/career-perspectives/our-engineering-interview-process/]
-- **Acceptance competition**: Glassdoor reports 28-day mean (much faster than HRT 4-8 weeks); difficulty 3.6/5; Datathon top 10 direct interview accelerated (bypass OA)
-- **Key links**:
-  - Citadel official careers (verified opened): https://www.citadel.com/careers/
-  - Citadel Securities official (verified opened): https://www.citadelsecurities.com/careers/
-  - Citadel SWE details (verified opened): https://www.citadel.com/careers/details/software-engineer/
-  - Engineering Interview Process (verified opened, 4-step + 8 weeks): https://www.citadel.com/careers/career-perspectives/our-engineering-interview-process/
-  - Levels.fyi London SWE (verified opened, L3 median £280K): https://www.levels.fyi/companies/citadel/salaries/software-engineer/locations/london-metro-area
-  - Levels.fyi company-wide SWE (verified opened): https://www.levels.fyi/companies/citadel/salaries/software-engineer
-  - Wikipedia Citadel Securities (verified opened, 1,800 people / 20% US stock): https://en.wikipedia.org/wiki/Citadel_Securities
-  - 6figr new grad (search result, $332k-$662k Yr1): https://6figr.com/us/salary/citadel--new-grad--cy
+- **Role names (Europe 2027, 8 roles)**: Citadel — Software Engineer – University Graduate (London) / Quantitative Research Analyst – University Graduate (London; Zurich) / Quantitative Researcher – PhD Graduate (Dublin; London; Zurich) / Power & Renewables Trader – FlexPower – University Graduate (Hamburg; FlexPower acquired by Citadel in late 2025) [Source (verified opened): https://www.thewallstreetquants.com/jobs/trader-power-renewables-trader-flexpower-university-graduate-at-citadel-0399bf7f-1a53-46f6-8588-bfbb77f3a892]; Citadel Securities — Software Engineer – University Graduate (Europe) (London) / Quantitative Trader – University Graduate (London) / Quantitative Research Analyst – University Graduate (Europe) (Dublin; London; Paris; Zurich) / Quantitative Researcher – PhD Graduate (Europe) (London; Paris; Zurich)
+- **Eligibility**: SWE: BSc / MSc / PhD in CS / CE or related all apply to the "University Graduate" role; QR has separate PhD roles; no rotational grad scheme, direct team placement; one application is reviewed by both firms (kept from previous version)
+- **European locations**: London (main) + Dublin / Paris / Zurich (QR / QRA) + Hamburg (FlexPower) + Amsterdam (Citadel Securities, opened 2026-07) (previous: "London is the only European office", 2026-05)
+- **Non-EU visa (full-time)**: UK register (2026-10-09 CSV) lists Citadel Enterprise Europe Limited (Skilled Worker + GBM, A rating); **no "Citadel Securities (Europe) Limited" entry found** (previous: both entities licensed, 2026-05) [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; threshold £41,700 [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; NL: Citadel Securities Netherlands Services B.V. (KvK 99181207) is on the IND recognised sponsor register (2026-10-05) → if Amsterdam opens grad roles, zoekjaar → reduced HSM is feasible (IND 2026 reduced criterion €3,122/month) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants] [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements]
+- **Pay (gross/year)**:
+  - SWE London (Levels.fyi, all levels pooled, 2026-10): median TC £318K; "Software Engineer" level £290K = base £189K + bonus £97K + stock £4.4K; range £158K-£446K+ (previous: £280K median, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/citadel/salaries/software-engineer/locations/london-metro-area]
+  - ⚠️ **Pending web verification**: Prosple listing shows SWE grad London base GBP 110,000-150,000 (WebFetch 403, not opened) [Source (search result): https://uk.prosple.com/graduate-employers/citadel-uk/jobs-internships/software-engineer-full-time-graduate-0]
+  - US official job ads (tradermath 2026-09-28): Citadel QRA grad base $235,000-$300,000 (Yr1 ~$386,000), Citadel Securities grad engineer base $235,000-$300,000 [Source (verified opened): https://www.tradermath.org/salaries/citadel]; aggregator US Yr1 TC $400K-$700K (base $175K-$225K + sign-on $100K-$200K + bonus $100K-$300K) [Source (verified opened): https://www.techinterview.org/companies/citadel-securities/]; QR / QT London: no public data; no RSU, bonus-driven
+- **Application window**: 2027 cycle roles live since 2026-07-19, rolling; simplify (2026-07-22 version, US view): opens early 2026-08, ~70% of offers signed by mid-October, portal open until December; reapply after 12 months [Source (verified opened): https://simplify.jobs/blog/citadel-new-grad-job-2027]
+- **Interview process**: HackerRank / CodeSignal OA (within ~2 weeks) → 1-2 recruiter / tech screens → Superday of 4-7 rounds, 4-8 weeks overall; Citadel Securities adds probability / trading game; C++ focus on low latency (cache / TLB / kernel bypass / NUMA / C++26) [Source (verified opened): https://www.efinancialcareers.com/news/citadel-securities-c-plus-plus-job-skills]
+- **Workload**: techinterview (2026-07): SWE roughly "9-to-7", busier than FAANG, trading roles longer, office-first; previous "60-70 hr/week" had no source, treat as indicative only
+- **Intern (secondary)**: Summer 2027 London status not verified directly (citadel.com 403); US view opens early 2026-08 (simplify, as above)
+- **Key links**: Citadel SWE grad official (WebFetch 403, link taken from aggregator): https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/ | Citadel Securities SWE grad (same): https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/ | aggregator detail (verified opened): https://www.thewallstreetquants.com/jobs/software-engineer-university-graduate-europe-at-citadel-securities-1e112a7b-291a-49bb-a280-5caaa3b7ab66
 
 ---
 

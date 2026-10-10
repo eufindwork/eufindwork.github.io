@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](millennium.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > 全球最大的 multi-manager / pod-based HF, AUM ~$73bn. London 是 Millennium International 主体 (欧亚分部, 800+ 员工). pod-based 意味着每个 PM 自带团队, 招聘高度去中心化 — 各 pod 招聘节奏 / 流程 / 薪酬独立, **没有统一 Grad Programme**.
 
 ---
@@ -22,36 +24,21 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐ (pod-by-pod 不透明)
+> 核查日期: 2026-10-10 (实时 WebFetch + ATS API) | 信息丰富度: ⭐⭐⭐ (依据: 官方 students 页 + Eightfold 职位全量 + Levels.fyi UK 实数; pod 级 FT 薪资仍不透明)
+> **2027 Intake 状态**: **No programme (直招 FT grad)** — 官方: "It is our goal to hire our analyst class from our internship program"; 2027 Internship Program 2026-08-03 开放, rolling 录满即止, 每人最多 2 份申请 [来源 (实际打开过): https://www.mlp.com/careers/students/]
+> 2026 H2: Hedgeweek 2026-10-02 — London 人均薪酬 £671k (2025) vs £717k (2024), 投资岗 -31 / 支持岗 +52 [来源 (实际打开过): https://hedgeweek.com/news/millennium-average-london-pay-falls-again-as-non-investment-headcount-grows]; 另据新闻标题: 创纪录 $20bn 募资 (2026-07-29) / 与 Anthropic 合作 AI risk analyst (2026-08-06) / 计划 Athens 办公室 (2026-09-09) [来源 (搜索结果): https://news.google.com/rss/search?q=Millennium+Management+hedge+fund+when:120d]
 
-- **常见岗位名 (London-active)**:
-  - **Quantitative Developer** (pod-embedded, 多个 pod 独立招)
-  - **Senior Platform Engineer** (central IT Infrastructure)
-  - **Corporate Technology Support Engineer** (Equity IT)
-  - **Quant Modeling Intern** (Summer cohort, 有限)
-  - **Summer Quantitative Finance Internship** (~24-hr Jupyter take-home)
-  - Cubist (Point72 quant sub-unit) 是 **sibling 对比** — 类似 pod-based 但 Cubist 是 Point72 内部 systematic 部门, 不是独立 firm. Cubist KEPL elite team intern $25k/月 (NYC, USD).
-- **欧洲地点**: London (主); 部分 corp / IT 在其他 EU
-- **是否有独立 Graduate Programme**: **没有统一 cohort programme** — 每个 pod 或 central tech team 单独招. 与 G-Research / Man Group 形成鲜明对比.
-- **非EU签证 (全职)**: UK Skilled Worker £41,700 / SOC 2134 ~£49,400. Quant Dev base 通常 £100k+ 远超阈值. Sponsor licence A 级.
-- **薪资结构 (pod-dependent, 高方差)**:
-  - **Intern**: Summer Quant Modeling intern London estimate £6-10k/月 (官方未公开, 1point3acres 报告 24-hr Jupyter project + 普通 corporate housing)
-  - **全职 Quant Developer (London)**:
-    - Junior: base £100-140k + bonus 30-100% (pod-dependent)
-    - 中级到 senior: total £200-400k+ 常见
-    - 个别 senior Quant Dev 报告 ~£300k+ all-in 稳定数年 [来源 (搜索结果): https://www.wallstreetoasis.com/forum/hedge-fund/quant-developer-in-a-pod-career-advice]
-    - Levels.fyi Lead SWE $500k 顶档
-  - **Quant Researcher / PM**: $2m+ 不少, 但绝大多数 < $300-400k all-in [来源 (搜索结果): https://youngandcalculated.substack.com/p/the-detailed-and-honest-reality-of]
-- **申请窗口**: pod-by-pod rolling; Summer intern 通常 9-11 月开放; central Platform / IT 全年滚动招.
-- **面试流程差异 vs 实习**: pod 面试 ad-hoc 由 PM 决定, intern OA 标准化 (90 秒/题 sequences / combinatorics); FT 更深入 (stochastic calculus, C++).
-- **录取竞争**: 入职容易 < 顶级 firm (HRT/Jane Street), 但 pod 1-2 年内 P&L 不达标可能 被解散.
-- **关键链接**:
-  - [Millennium Careers](https://www.mlp.com/careers/)
-  - [career.mlp.com (实际 portal)](https://career.mlp.com/careers)
-  - [Quant Blueprint Millennium guide](https://www.quantblueprint.com/interview-question-companies/millennium)
-  - [Quantt Millennium International page](https://www.quantt.co.uk/quant-firms/millennium-international)
-  - [Levels.fyi Millennium](https://www.levels.fyi/companies/millennium/salaries)
-  - [WSO Quant Dev London 薪酬](https://www.wallstreetoasis.com/company/millennium/compensation/quantitative-developer)
+- **岗位名称**: 无 "Graduate" FT 岗 — 2026-10-10 campus 站 45 个职位全是实习 (2027 + off-cycle), 主站 214 个职位中欧洲岗普遍要求 3+/5+ 年 (如 Junior Business Analyst London 要 2-5 年 sell-side) [来源 (ATS API 直读, curl): https://mlp.eightfold.ai/careers?domain=mlp.com&microsite=campus-site]
+- **资格窗口**: FT analyst 来自实习转正; 2027 QD/QR Intern London 要求 "Graduating between December 2027 and July 2028" (BSc/MSc), QR 要求 2:1 以上 [来源 (ATS API 直读, curl): https://mlp.eightfold.ai/careers/job/755957819517]
+- **欧洲地点 (2027 实习)**: London (QR / QD / Applied AI Engineer / Technology Collaboration / Trading Services / Market Risk 等 14 类), Dublin (Applied AI / QR / Finance), Paris (QR), Zug (QR); 无 NL 岗
+- **项目结构**: London QR 实习 2027-06 起 11 周; Paris QR 2027-03 起 6 个月; Zug QR 2027-06 起 11 周; 转正后进 pod / central tech, 无 cohort rotation
+- **非EU签证 (全职)**: UK sponsor 名册 (2026-10-09 版) 列有 Millennium Capital Management Limited 与 Millennium Europe Limited — Worker (A rating), Skilled Worker [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; 阈值 £41,700; 无 NL office → NL zoekjaar / reduced Kennismigrant 不适用, 需重新办 UK visa (Tier B)
+- **薪资 (Levels.fyi, 2026-10-10)**: UK SWE Entry £146K total = £116K base + £1.1K stock + £29.3K bonus; UK median £158K [来源 (实际打开过): https://www.levels.fyi/companies/millennium/salaries/software-engineer/locations/united-kingdom]; US Entry $224K ($177K base + $46.7K bonus) [来源 (实际打开过): https://www.levels.fyi/companies/millennium/salaries/software-engineer]
+  > ⚠️ **待 web 验证**: pod Quant Dev junior "base £100-140k + bonus 30-100%" 为旧版社区估计 (无可溯源出处), 二次核实前勿用于薪资决策.
+- **申请窗口**: 2026 cycle 2026-08-03 开放 rolling; 2027 investment internship 2026-06 已满额 (~30 人) [来源 (实际打开过): https://www.hedgeweek.com/millenniums-2027-investment-internship-programme-at-capacity/]
+- **面试流程**: 官方 Screening → Assessments (技术 / 非技术) → technical + behavioral interviews [来源 (实际打开过): https://www.mlp.com/careers/students/]; 社区报告 OA 90 秒/题 + 24-hr Jupyter take-home (见 §3-4)
+- **录取竞争**: 实习 "thousands of applicants", 录取率极低 (Hedgeweek 2026-06-05); FT 社招岗按 pod 招, 不面向应届
+- **关键链接**: 官方 students 页 (实际打开过) https://www.mlp.com/careers/students/ · careers 首页 (实际打开过) https://www.mlp.com/careers/ · Levels.fyi UK (实际打开过) 见上
 
 ---
 

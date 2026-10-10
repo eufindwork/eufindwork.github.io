@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](salesforce.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐
 > 一句话定位: Einstein + Agentforce AI 平台 + CRM 巨头, **Dublin Salesforce Tower 是 EMEA largest campus** (双 LEED Platinum), 是 Ireland CSEP Trusted Partner, 给应届最知名的是 **Commercial Graduate Solution Engineering Path** (Dublin) + **Summer 2026 SWE Intern** (Dublin).
 
@@ -19,32 +19,21 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**:
-  - **Commercial Graduate Solution Engineering Path** (Dublin, 按语言市场分: UKI / Italian / Benelux / Swedish / German / French 等) — solution engineering 与 sales engineering 轮岗
-  - **Commercial Graduate Rotation Program** (Dublin, UK & Ireland Market) — 2025/2026 grad, **解决方案工程 (月 2–4) + sales (月 5–7) 轮岗**
-  - **Commercial Graduate Sales Path** (Dublin, German Market, August start) — pure sales
-  - **Software Engineer New Grad** — Dublin 偶发, US Indianapolis / Bellevue / SF 主力
-- **欧洲地点**: Dublin (graduate programme 主战场), London (eng + commercial)
-- **是否有独立 Graduate Programme**: **Yes, 多个独立命名** — Commercial Graduate Rotation Program 是最系统化的 EMEA grad pipeline
-- **非EU签证 (全职)**: **Ireland CSEP Trusted Partner** (2–4 周优先处理 — 与 Google / Meta / Stripe / Microsoft / Amazon / Apple / Datadog / HubSpot / LinkedIn 并列) [来源 (实际打开过): https://www.eurotoptech.com/blog/visa-sponsorship-ireland-software-engineers-2026]; UK Skilled Worker £41,700 持牌
-- **薪资范围 (Levels.fyi Dublin SWE)**:
-  - **MTS** (entry SWE): total **€116,165 median** (base €80,976 + RSU €18,478 + bonus €7,534)
-  - **Senior MTS**: total **$155,955** (~€143k)
-  - 整体范围: **€99.9k → €197k** (MTS → Lead MTS), median €126k
-  - [来源 (实际打开过): https://www.levels.fyi/companies/salesforce/salaries/software-engineer/locations/greater-dublin-area]
-  - **Commercial Graduate base** 一般 €38k–€45k + commission + relocation (sales path 远低于 SWE)
-- **申请窗口**: Graduate Rotation 9–12 月主开, August start (rolling); SWE Summer Intern 已开 2026
-- **面试流程差异 vs 实习**: Graduate 程式化 (3–4 轮 + assessment day); SWE intern 4 轮 (含 coding + system design)
-- **录取竞争 / 国际生 friendliness**: ⭐⭐⭐⭐⭐ — Trusted Partner + 本身 EMEA HQ 招聘量大 (Dublin Tower 数千人)
-- **关键链接**:
-  - [Careers in Ireland Salesforce (实际打开过): https://www.salesforce.com/company/careers/locations/emea/ireland/]
-  - [Commercial Graduate Rotation Program UK&I (Dublin) (实际打开过): https://careers.salesforce.com/en/jobs/jr289537/commercial-graduate-rotation-program-uk-ireland-markets/]
-  - [Summer 2026 Intern Software Engineering Dublin: https://careers.salesforce.com/en/jobs/jr326900/summer-2026-intern-software-engineering/]
-  - [Commercial Graduate SE Path Italian Market: https://careers.salesforce.com/en/jobs/jr327551/commercial-graduate-solution-engineering-path-italian-market/]
-  - [Commercial Graduate SE Path Benelux: https://careers.salesforce.com/en/jobs/jr325485/commercial-graduate-solution-engineering-path-benelux-market/]
-  - [Commercial Graduate SE Path Swedish: https://careers.salesforce.com/en/jobs/jr325490/commercial-graduate-solution-engineering-path-swedish-market/]
-  - [Commercial Graduate Sales German: https://careers.salesforce.com/en/jobs/jr326577/commercial-graduate-sales-path-german-market-august-start/]
-  - [Levels.fyi Salesforce Dublin SWE: https://www.levels.fyi/companies/salesforce/salaries/software-engineer/locations/greater-dublin-area]
+> 核查日期: 2026-10-10 (Workday API + WebFetch; "原文直读" = curl 读取官方 API / 原文, 非 WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: 在招 JD 直读 + Levels.fyi + 爱尔兰官方 permit 页)
+> **2027 Intake 状态**: **Open** — Dublin EMEA Commercial Graduate Program 新一批 ~17 个 req 于 2026-10-06 至 2026-10-09 发布 (Sales Path / Solution Engineering Path / Rotation, 每个 req 一个语言市场), **Start Date: February 2027**, 12 个月 fixed-term, 要求 "2025 or 2026 graduate (minimum bachelor's degree)" [来源 (实际打开过): https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1]
+> **2026 H2 动态**: 新设 **AI Builder, Emerging Talent** ("first-of-its-kind AI Builder New Grad cohort", 嵌入客户团队交付 Agentforce, 出差 25-50%), Munich (German + English) / Dublin (Finnish) [来源 (实际打开过): https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/job/Germany---Munich/AI-Builder--Emerging-Talent---EMEA-Central-Market_JR360059]; Q2 FY27 (2026-08-26) 营收 $11.3B +11%, Agentforce ARR >$1.5B [来源 (原文直读): https://www.sec.gov/Archives/edgar/data/1108524/000110852426000187/crm-q2fy27xexhibit991.htm]; 10-Q: H1 restructuring 费用 $174M (主要 severance), "do not expect to incur significant additional charges ... in the near term" [来源 (原文直读): https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm]
+
+- **岗位名称**: EMEA Commercial Graduate Program (Sales Path / Solution Engineering Path / Rotation; 市场: English, German, French, Spanish, Italian, Hebrew, BNL Dutch, Danish, Norwegian, Swedish, Arabic, Eastern Europe); AI Builder, Emerging Talent; Associate Solution Engineer (French speaking, Dublin)。**SWE new grad = "Software Engineering AMTS (College Grad)", 仅美国 7 城, JD 写 "Must be located in North America"** [来源 (原文直读): https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1] → 欧洲无 SWE new grad 结构化入口
+- **资格窗口**: Commercial Grad: 2025 / 2026 毕业, 本科起; SE Path 限 CS / CE / IT / SE / Data / IS 等背景; 语言按市场 (BNL: "fluent in English and Dutch (essential)"); 2027 毕业者赶不上 Feb 2027 cohort (推断需等下一批)。AI Builder: CS 背景 + LLM / prompt engineering + React / TypeScript / GraphQL / Python, 语言按市场
+- **欧洲地点**: Dublin (Commercial Grad 全部 req), Munich (AI Builder); 2026-10-10 Workday 检索未见 London / Paris / Amsterdam grad req
+- **项目结构**: 月 1 academy → 月 2-4 / 5-7 SE↔Sales 轮岗 (60% 实战 / 40% 学习) → "promotion window opens from month 7 onwards" → Associate Solution Engineer / Sales; 提供 relocation budget
+- **非EU签证 (全职)**: Ireland CSEP: €40,904 (CSOL 职业 + 相关学位), 资格取得 12 个月内 €36,848; 非禁列职业 €68,911 [来源 (实际打开过): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]; Salesforce = CSEP Trusted Partner (旧版, 2026-05) [来源 (实际打开过): https://www.eurotoptech.com/blog/visa-sponsorship-ireland-software-engineers-2026]。NL: SFDC Netherlands B.V. (KvK 30211409, 推断为 Salesforce 荷兰实体) 在 IND recognised sponsor 名单 (2026-10-05 版) [来源 (原文直读): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], 但本轮无 NL grad req; 从 NL zoekjaar 转 Dublin 需重新申请 IE permit
+- ⚠️ **待 web 验证**: Sales / SE graduate 岗是否算 CSOL 职业、base 是否达 €40,904 均未核实; 若不达, 需走 General Employment Permit — 二次核实前勿用于 visa 决策
+- **薪资范围 (Levels.fyi Dublin, 2026-10-10)**: MTS €113K (base €83.4K + stock €21K + bonus €8.3K); Senior MTS €136K; Lead MTS €195K; AMTS 无数据 [来源 (实际打开过): https://www.levels.fyi/companies/salesforce/salaries/software-engineer/locations/greater-dublin-area] (旧版: MTS €116,165, 2026-05)。Commercial Grad / AI Builder: JD 不写薪资, 无公开数据 (旧版 "base €38k–€45k + commission" 为业内估算)
+- **申请窗口**: 本批 Dublin req 2026-10-06 起发布, 无截止日 (rolling, 推断招满即关); AMTS (US) 同期 "Posted 5 Days Ago"
+- **面试流程差异 vs 实习**: ⚠️ **待 web 验证**: 旧版 "online application + SJT → recruiter → HM → Assessment Day (group case + 5-min presentation)" 本轮未找到 2025-26 面经核实
+- **录取竞争**: 每个 req 绑定一个语言市场, 母语级语言是硬门槛; 公开录取率无数据
+- **关键链接**: [Workday 职位搜索 (原文直读): https://salesforce.wd12.myworkdayjobs.com/External_Career_Site] · [Levels.fyi Dublin SWE (实际打开过): https://www.levels.fyi/companies/salesforce/salaries/software-engineer/locations/greater-dublin-area]
 
 ---
 

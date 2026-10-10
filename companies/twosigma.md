@@ -2,6 +2,9 @@
 
 > **Language**: 中文 | [English](twosigma.en.md)
 >
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §5 中 L2/L3 标 '£' 的数字实为 USD (约 £182.6K / £241.3K); SOC 2134 going rate 现为 £54,700, 非 ~£49,400.
+>
 > NYC 总部的 systematic / ML-driven HF, London 是欧洲二号站. 自称"科技公司 + HF", 工程师占比 ~2/3. 全 cash 薪酬 (无 stock), bonus 是 firm-wide P&L 分配, dispersion 比 pod-shop 小.
 
 ---
@@ -22,32 +25,24 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐
+> 核查日期: 2026-10-10 (实时 WebFetch + 官方 careers 页 / Levels.fyi 页面数据直读; WebSearch 配额中途用尽) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 London campus 岗 + Levels.fyi L1 London + gov.uk sponsor 注册表 / going rate)
+> **2027 Intake 状态**: **Open (Rolling)** — "Software Engineering Full-Time Campus Hire - London" 在招, 未写截止日期, 入职前 2-3 个月才匹配 team [来源 (实际打开过): https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020]
+> 2026 H2 动态: 未发现 (官方 news 页最新条目为 2024-08-28 "Two Sigma Announces Leadership Changes") [来源 (实际打开过): https://www.twosigma.com/news-and-culture/]
 
-- **常见岗位名**:
-  - **Software Engineering Internship — London** (10-12 周, 通常 6-8 月)
-  - **Quantitative Researcher Intern** (London + NYC)
-  - **Modeling Engineer** (Quant Dev 等价物 — 桥接 researcher 和 production)
-  - **Quantitative Researcher / Quantitative Trader — Two Sigma Securities UK** (FT, 包括 MMIA / Market Making & Intraday Alpha team) [来源 (实际打开过): https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635]
-- **欧洲地点**: London (唯一 EU SWE / Quant 站点)
-- **是否有独立 Graduate Programme**: **没有 rotational programme**, 但有定向的 SWE Intern + FT new grad pipeline (与 NYC 共用 framework, 入职后直接进 team)
-- **非EU签证 (全职)**: UK Skilled Worker 2026 base 阈值 £41,700 / SOC 2134 going rate ~£49,400. Two Sigma London base 远超阈值, 历史上稳定 sponsor visa
-- **薪资结构 (cash-only, 无 RSU/equity)**:
-  - **Intern**: SWE intern Levels.fyi 显示 ~$95/hr (NYC), London 对应折算 ~£6-8k/月; corporate housing + $5k relocation 是标配 [来源 (实际打开过): https://www.levels.fyi/internships/Two-Sigma/Software-Engineer-Intern/]
-  - **全职 New Grad (London)**:
-    - **SWE L1**: base ~£105k, total ~£146-167k+ (median L1 package £146k, 无 stock) [来源 (实际打开过): https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area]
-    - **Quant Researcher new grad**: base £125k + sign-on/Y1 guarantee £30-60k + Y1 bonus £40-100k = **Total Y1 £195-285k** (London) [来源 (实际打开过): https://www.quantt.co.uk/resources/two-sigma-salary]
-    - London pay 比 NYC 同岗位低 30-35% 名义值
-- **申请窗口**: SWE intern 通常 8-9 月 (NYC) / 秋季开放 London 岗位 (rolling), 11-1 月密集面试. Quant Research intern 早, 9-10 月.
-- **面试流程差异 vs 实习**: 实习走 OA (HackerRank) → 1-2 phone → 1 半天 onsite/virtual; FT new grad 多 1-2 轮 leadership / culture fit.
-- **录取竞争**: 申请量数万级别, accept rate 估 ~2-5% (源自 Quant Blueprint guide) [来源 (实际打开过): https://www.quantblueprint.com/guides/how-to-get-a-job-at-two-sigma]
-- **关键链接**:
-  - [Two Sigma Careers](https://www.twosigma.com/careers/)
-  - [London Job Search](https://careers.twosigma.com/careers/SearchJobs/london)
-  - [Internships page](https://www.twosigma.com/careers/internships/)
-  - [Interviewing for SWE](https://www.twosigma.com/careers/interviewing-at-two-sigma/interviewing-for-software-engineering/)
-  - [Levels.fyi London L1](https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area)
-  - [Quantt London salary guide](https://www.quantt.co.uk/resources/two-sigma-salary)
+- **岗位名称**: London 唯一 early-careers 岗 = SWE Full-Time Campus Hire - London; QR / AI Research Scientist / Data Scientist 的 Campus Full-Time 以及全部 2027 Summer 实习 (SWE / QR / AI RS / TSS Hardware) 均在 NYC / Houston [来源 (实际打开过): https://careers.twosigma.com/careers/InternshipsAndEarlyCareers]. 无 rotational graduate programme; Modeling Engineer / London QR 走 experienced hire
+- **资格窗口**: Bachelor's / Master's / PhD (technical 或 quantitative 专业), Java / C / C++ / Python 等; 岗位页未写毕业时间窗或工作年限上限 (同上 14020 页)
+- **欧洲地点**: 仅 London (NL / 其他 EU 国家无办公室)
+- **项目结构**: 先以 general SWE 录用, 入职前 2-3 个月匹配 team; 无 rotation, 无公开 cohort 规模
+- **非EU签证 (全职)**: "Two Sigma International Limited" (London) 在 UK sponsor 注册表 2026-10-09 版中: Worker (A rating), Skilled Worker + GBM [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers; CSV 经 curl 下载核对]. 2026 门槛 general £41,700 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; SOC 2134 going rate £54,700 (旧版: ~£49,400) [来源 (实际打开过): https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes] → L1 base 远超. 推断: NL zoekjaar / reduced Kennismigrant 对此岗无用 (UK 需新 CoS; Graduate Route 只给 UK 学位)
+- **薪资 (cash-only, 无 equity)**:
+  - SWE L1 London (Levels.fyi, 2026-10): 平均 TC £145,468 = base £107,866 + bonus £37,602; n=4, 平均 YOE 0.25, 近 12 个月无新提交 [来源 (实际打开过): https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area]
+  - 注: Levels.fyi 原值为 USD, 页面按 0.749 换算 GBP; 本页 §5 中 L2 "£163k / £244k" 与 L3 "£175k / £147k / £322k" 实为 USD 原值, 换算后约 L2 TC £182.6K (n=2) / L3 TC £241.3K (n=4) [来源 (curl 直读页面数据): https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/locations/london-metro-area]
+  - QR new grad London (行业估算, 2026-05): base £125,000 + sign-on / Y1 guarantee £30-60k + Y1 bonus £40-100k = Y1 £195-285k [来源 (实际打开过): https://www.quantt.co.uk/resources/two-sigma-salary]
+  - NYC 参照 (官方 pay 披露, 2026-10): SWE Campus base $225,000 [来源 (官方页 curl 直读): https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014]; QR Campus base $300,000 (旧版 Prosple: $200-220K) [来源 (官方页 curl 直读): https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946]
+- **申请窗口**: London SWE campus = rolling, 未写截止; 2027 Summer 实习已开但仅 NYC. 上一 cycle 无 London open/close 公告; 推断: 秋季尽早投, 名额先到先得
+- **面试流程 (官方 SWE)**: 最多 3 轮 — 第一阶段 3×60 min 技术面 (DS / algorithms / OOD, shared codepair, C / C++ / Java / Python), 第二阶段再加 ~60 min 面 (经验 + 兴趣); 原文 "Use of ChatGPT or any other AI tool is strictly prohibited", 被认为使用即可 DQ [来源 (实际打开过): https://www.twosigma.com/interviewing-for-software-engineering/] (旧 URL .../careers/interviewing-at-two-sigma/... 已 404). 本轮未能打开新的 2025-26 FT 面经 (1point3acres / Glassdoor 均 403), 见 §4
+- **录取竞争**: accept rate 估 ~2-5% (Quant Blueprint, 旧版数据) [来源 (实际打开过): https://www.quantblueprint.com/guides/how-to-get-a-job-at-two-sigma]; 推断: London 只有 1 个 campus SWE 入口, 名额远少于 NYC
+- **关键链接**: [London SWE Campus](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020) (实际打开过) · [Early Careers 列表](https://careers.twosigma.com/careers/InternshipsAndEarlyCareers) (实际打开过) · [Interviewing for SWE](https://www.twosigma.com/interviewing-for-software-engineering/) (实际打开过) · [Levels.fyi L1 London](https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area) (实际打开过)
 
 ---
 

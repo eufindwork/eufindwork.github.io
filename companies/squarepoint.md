@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](squarepoint.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi UK Quant Dev £85.5K-£129K 实数 + 多源 OA 流程 + Paris/London 双站点 + 全球 13 office 列表; 缺 intern 公开 stipend)
 > 一句话定位: 系统化中等体量 (~700 人) global multi-strategy quant hedge fund, AUM ~$100B, 创始团队从 BNP Paribas 出来, **法国系基因强** (Paris 是核心 office 之一); 标准 Quant Dev + Quant Researcher 双 ladder, 工程师以 Python + KDB+/q + C++ 为主, Glassdoor 难度比 QRT 高 (3.21/5)
 
@@ -25,42 +25,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi UK QD £85.5K-£129K + WSO Paris/London intern + Glassdoor 流程; 国别 visa 路径 + KDB+/q 加分都有明数据)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse API) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 early-careers 页 + Greenhouse 93 个在招岗位全量 + Levels.fyi UK SWE/QD 分级实数 + UK sponsor 名册; 缺欧洲 QR 薪资)
+> **2027 Intake 状态**: **Rolling** — 常年 (evergreen) grad / junior 岗位 2026-10-10 在招, 无截止日; "Graduate Quant Developer" 2026-05-12 上线, 2026-09-09 更新 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/squarepointcapital/jobs/7918610]
+> 2026 H2: 新闻标题 — eFinancialCareers 2026-07-29 "Squarepoint is still ramping up its commodities trading business"; 2026-09-29 新挂 "Campus Recruitment Specialist" (London / Paris / New York) [来源 (搜索结果): https://news.google.com/rss/search?q=Squarepoint+Capital+when:120d]
 
-- **常见岗位名**:
-  - **Quantitative Developer** (核心, Python/KDB+; London + Paris + Madrid 大量)
-  - **Quantitative Researcher** (ML/Stats, signal alpha; Junior QR 也开放 — 如 "Junior Quant Researcher - ML Alpha Research")
-  - **Software Developer - Internal Compute Frameworks / Data Pipelines** (Python infra)
-  - **Software Engineer Intern / Quantitative Developer Intern / Quantitative Researcher Intern** (3 个独立 intern 序列)
-- **欧洲地点**: London (主力) / Paris (法国系强 + grandes écoles 校友) / Madrid (Quant Dev 也多) / Zug + Geneva (QR)
-- **是否有独立 Graduate Programme**: **无 cohort 品牌**, 但有明确 "Early Careers" / "Internship" 入口; SWE/QD 实习与 grad 走同 pipeline + 自研 Python 平台培训 [来源 (搜索结果): https://www.squarepoint-capital.com/open-opportunities]
-- **非EU签证 (全职)**:
-  - **London**: Skilled Worker visa £41,700 (2026); Squarepoint UK QD £85.5K-£129K 直接合规 [来源: https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer]
-  - **Paris**: Passeport Talent Salarié Qualifié €39,582/年 (2026); Squarepoint Paris QD base 业内 €70-90k → 合规 [来源: https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]
-- **薪资结构 (量化特有, 关键)**:
-  - **Intern (SWE)**: Levels.fyi 显示 **$28.85/hr** (~$5K/月, 偏低 — 因为这是 historical/global 平均) [来源 (实际打开过): https://www.levels.fyi/internships/Squarepoint-Capital/Software-Engineer-Intern/]
-  - **Intern (Paris QD/QR)**: WSO 用户报告 €3-4k/月 (gratification 远超法定 €659), 含 Medical 但无 retirement
-  - **Intern (London QD/QR)**: WSO 用户报告 £5-7k/月, 含 Medical/Dental + 401(k)
-  - **全职 New Grad QD (London)**: Junior SWE £85.5K → mid-level £129K+ 区间 (Levels.fyi UK Quant Dev), median 全 level £100K+ [来源 (搜索结果): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer]
-  - **全职 New Grad QD (Paris)**: 业内推断 €70-90K base + €10-30K bonus (Paris 整体比 London 低 15-25%, 但 net income 因税制不一定差)
-  - **股权**: $0 RSU (私有公司); bonus + 部分公司 deferred plan
-- **申请窗口**:
-  - 实习 rolling, 2026 Summer Internship 早 6 个月就开 (即 2025-09 ~ 2025-12 高峰)
-  - 全职 rolling, 在 https://www.squarepoint-capital.com/open-opportunities 直接看
-- **面试流程差异 vs 实习**:
-  - OA + 5-6 轮 (实习 4-5 轮)
-  - OA 全 Python: data structures + probability + stats
-  - QD 重 algo / system design lite + KDB+/q 加分; QR 重 stats / regression / time series / signal design
-- **录取竞争**: Glassdoor 39.8% positive (比 QRT 47.7% 严), 难度 3.21/5; Python Developer 路径平均 1 天流程最快, 全 title 平均 31 天 [来源 (搜索结果): https://www.glassdoor.com/Interview/Squarepoint-Capital-Interview-Questions-E1442647.htm]
-- **关键链接**:
-  - 官网 careers (实际打开过): https://www.squarepoint-capital.com/open-opportunities
-  - Levels.fyi UK Quant Dev (搜索结果, £85.5K-£129K): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer
-  - SWE Intern Levels.fyi (实际打开过, $28.85/hr): https://www.levels.fyi/internships/Squarepoint-Capital/Software-Engineer-Intern/
-  - Glassdoor (搜索结果, 39.8% positive): https://www.glassdoor.com/Interview/Squarepoint-Capital-Interview-Questions-E1442647.htm
-  - WSO London Quant Dev interview (搜索结果): https://www.wallstreetoasis.com/company/squarepoint-capital/interview/quant-dev
-  - WSO Paris intern comp (搜索结果): https://www.wallstreetoasis.com/company/squarepoint-capital/compensation/quant-developer-intern-0
-  - everythingquant Squarepoint Grad QD Python (实际打开过): https://everythingquant.com/forum/post/squarepoint-capital-graduate-quant-developer-interview-python/
-  - Junior Quant Researcher ML Alpha (搜索结果): https://www.squarepoint-capital.com/open-opportunities?id=6069464
+- **岗位名称 (欧洲可投)**: Graduate Quant Developer (London / Montreal / Singapore); Graduate Software Developer (London / Montreal / Singapore / Warsaw; Python / C++ / Front-End 三 track); Trading Infrastructure Specialist – Graduate Programme (London 等, 18 个月 rotation); Graduate Trading Applications Specialist (London 等); Junior Quant Researcher (London / Paris / Zug / Geneva 等); Junior QR – ML Alpha Research (要求 master's 或以上); Junior Quant Developer 与 Junior Software Developer (Python / C++ / KDB+/q / Front-end, "Up to 4 years experience"); Junior Discretionary Trader (London 等) [来源 (ATS API 直读, curl): https://boards-api.greenhouse.io/v1/boards/squarepointcapital/jobs?content=true]
+- **资格窗口**: 官方 "Whether you have just graduated or have a few years of experience" [来源 (实际打开过): https://www.squarepoint-capital.com/early-careers]; Grad QD 要求量化学位 + Python / C++ / KDB+/q 之一 + 能用 AI 工具; 每人只投 1 个岗位 ("Please only apply to the one job")
+- **欧洲地点**: London (主力) / Paris / Madrid / Zug / Geneva / Warsaw; 无 NL office
+- **项目结构**: 除 Trading Infrastructure 18 个月 rotation (含 DevOps / Systems 1 周轮岗) 外, 均为直接进组, 无统一 cohort
+- **非EU签证 (全职)**: UK sponsor 名册 (2026-10-09 版) 列 Squarepoint Capital LLP — Worker (A rating), Skilled Worker [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; 阈值 £41,700, Junior base 远超; Paris Passeport Talent €32,484/年 (旧版: €39,582/年, 2026-05) [来源 (实际打开过): https://www.testciviquefrance.fr/articles/passeport-talent-salarie-qualifie-2026-salaire-conditions-procedure]; postings 无 sponsorship 表态; NL zoekjaar / reduced Kennismigrant 不适用 (无 NL 实体)
+- **薪资 (Levels.fyi UK, 2026-10-10)**:
+  - SWE: Junior £78.7K total = £65.5K base + £13.3K bonus; SWE £128K; UK median £114K (139 条) [来源 (实际打开过): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer]
+  - Quant Dev: Junior £85.3K = £67.1K base + £3.1K stock + £15.1K bonus; 上一级 £131K; UK median £136K (17 条) (旧版: £85.5K-£129K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/squarepoint-capital/salaries/software-engineer/title/quantitative-developer]
+  - Quant Researcher: 仅 US 数据 (NYC median $210K), 欧洲无公开数据 [来源 (实际打开过): https://www.levels.fyi/companies/squarepoint-capital/salaries/data-scientist/title/quantitative-researcher]; NY posting 披露 Junior QR 最低 base $150,000 / Graduate Software Developer $100,000 (仅限 NY)
+- **申请窗口**: rolling; 2026 cycle 无固定 open/close 日期 (Graduate Software Developer 自 2024-06-14 常年挂出, 2026-10-06 更新)
+- **面试流程差异 vs 实习**: 官方页仅列流程标题, 无细节; 社区报告 HackerRank Python OA + 4-5 轮 (见 §3-4), 平均 31 天
+- **录取竞争**: Glassdoor 39.8% positive / 难度 3.21 (旧版数据, 搜索结果)
+- **关键链接**: early-careers (实际打开过) https://www.squarepoint-capital.com/early-careers · 在招岗位 https://www.squarepoint-capital.com/open-opportunities
 
 ---
 

@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](cohere.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > Cohere 是加拿大企业级 LLM 公司,创始人 Aidan Gomez 是 Transformer 论文作者之一。**伦敦是欧洲核心办公室之一**,主要承担研究 + 企业销售。2024-2025 公司营收三倍增长,完成 Paris office 扩张 (40 人)。**ML/AI Intern 面试 bar 极高,Research Intern 需 PhD 在读 + 顶会论文**;非 PhD 候选人也可能通过 Engineering Intern 入口,但仍需扎实 ML 工程经验。
 
 ## 1. 公司速览
@@ -19,39 +21,20 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi London SWE 2026-05-27 实测有具体 L3 MTS 数据点; Glassdoor UK MTS 数据样本较少, US 数据丰富, **London 中位 £172K total / base ~£135K**)
-> 区别于实习: 全职 entry-level (0-2 年经验) — Cohere 以 "Member of Technical Staff" (MTS) 为主轴, 内部按 L3/L4/L5 分级但 title 不区分
+> 核查日期: 2026-10-10 (实时 WebFetch + Ashby API; 本 session WebSearch 配额已用尽) | 信息丰富度: ⭐⭐⭐⭐ (依据: Levels.fyi London 2026-10-10 直读 57 条样本 + 官方 newsroom + Ashby 全量 posting)
+> **2027 Intake 状态**: **No programme (new grad); Cohere Labs Scholars = Upcoming** — 无 new grad / junior title, 新人走 MTS 通道; Scholars Program 当前 closed: "We are currently evolving the Research Scholars program. Applications are expected to open in Fall 2026" (2026-10-10 尚未开放) [来源 (实际打开过): https://cohere.com/research/scholars-program]
+> **2026 H2 动态**: 2026-09-16 与 Aleph Alpha 签 definitive business combination agreement — Berlin + Toronto 双总部, Heidelberg 保留为研究中心, 合并后 >1,000 人, 待监管批准、预计年内完成 [来源 (实际打开过): https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement]; 2026-10-05 PwC 合作、2026-08-06 University of Waterloo 人才合作 (加拿大) [来源 (实际打开过): https://cohere.com/newsroom]; (H1 背景) 2026-06-15 London 新办公室 100 New Oxford Street, 14,000+ sq ft, 最多 100 人, 扩 AI engineering / applied ML / infrastructure / customer deployment [来源 (实际打开过): https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth]
 
-- **常见岗位名**: Member of Technical Staff (Research / Engineering), Machine Learning Engineer, Software Engineer, Research Engineer; **无 "Junior" / "New Grad" 显式 title** — 新人按 L3 MTS 入职, 与有经验候选人共用同一 title
-- **欧洲地点**: London (核心研究 + 工程 hub, 与实习一致) + Paris (40 人新办公室, 2024 扩张, 偏研究 + 企业销售支持); 极少 fully remote 欧洲岗
-- **是否有独立 Graduate Programme**: **No** — Cohere ~400 人, 不跑 cohort grad pipeline; 一切走 MTS 通道, 与 OpenAI / Anthropic 模式一致 (paper + 代码 > 学历标签)
-- **非EU签证 (全职)**:
-  - **London**: Cohere UK Ltd 是 **Skilled Worker 持牌 sponsor** (Home Office register 已确认 [来源 (搜索结果): https://immigrationgpt.co.uk/company/Cohere-UK-Ltd]); 对非英国 new grad 可发 CoS
-  - **关键更新**: UK Skilled Worker 最低 base 2025-07-22 起从 £38,700 **上调至 £41,700** (2026 仍有效) [来源 (搜索结果): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; 另有 New Entrant 折扣线 £33,400; Cohere London L3 base ~£135K 远超达标
-  - **Paris**: Passeport Talent (salarié qualifié) 可走, base 需 ≥ €43,243 (2026 SMIC × 1.8), Cohere Paris MTS base 估计 €90K+ 完全达标
-  - 与实习 (Student Visa / carte de séjour étudiant) 路径完全不同, **全职更稳定**
-- **薪资范围 (base, gross/年)**:
-  - **London MTS L3 median 2026-05-27 实测**: **base ~£135K ($176K USD) / total £172K ($230K USD) / stock ~£42K ($54.1K) / bonus 0** — Levels.fyi L3 median (median 4 年经验, 2 年 tenure, 略偏高于纯 new grad) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/cohere/salaries/software-engineer/locations/london-metro-area]
-  - **London SWE 区间**: £82.3K-£171K+ (Levels.fyi 2026-05 区间) → **纯 new grad L3 估计落在 £100-130K base**
-  - **Glassdoor UK MTS average**: £44K base (样本极小, 偏向报告偏差, 与 Levels.fyi 严重不符 — 以 Levels 为准) [来源 (搜索结果, WebFetch 403): https://www.glassdoor.co.uk/Salary/Cohere-Member-Of-Technical-Staff-Salaries-E6413613_D_KO7,32.htm]
-  - **US MTS average**: $240K base (Glassdoor US, 25-75 分位 $190K-$308K) — 欧洲 London 打 0.7-0.75 折大致符合 Levels.fyi 数据
-  - **Paris MTS L3** (估计, 无 Levels 数据): €90-115K base + equity (高于 Mistral L3 €70-80K, 与 OpenAI Paris 持平)
-  - **CEO Aidan Gomez 公开承诺 "extremely high salaries"** — 与 Anthropic/OpenAI 同档已被 Levels.fyi 验证
-- **申请窗口**: rolling — 全年开放, Ashby 招聘页持续更新 [来源 (搜索结果): https://cohere.com/careers]; **paper deadline 时段 (ICML / NeurIPS) 后会集中放 Research MTS** 岗
-- **面试流程差异 vs 实习**:
-  - 多一轮: **Paper Bar 显著加重** (Research MTS 必有 1-2 轮 paper deep dive, 实习偶尔才有)
-  - **System Design 必考** (实习只有 ML Intern 才考): ChatGPT 类 serving / training pipeline / multi-tenant inference
-  - Coding bar 与实习同 (Colab + ML 实现题), 但**总轮次多 1-2 轮** (5-7 轮 vs 实习 4-5 轮)
-  - OSS / paper 中至少一项**硬要求** — Cohere For AI (C4AI) 团队尤其看重 Aya / multilingual NLP 贡献
-- **录取竞争**: 极高 — Pass rate 估计 5-10% (vs 实习 20-30%); 与 OpenAI / Anthropic / DeepMind 抢同一批人; **国际生 OK** 但需要 paper 或 OSS 硬通货, 学校牌子是加分项但非决定
-- **关键链接**:
-  - 官方 careers 页: [cohere.com/careers](https://cohere.com/careers)
-  - Levels.fyi Cohere London SWE: [levels.fyi Cohere London](https://www.levels.fyi/en-gb/companies/cohere/salaries/software-engineer/locations/london-metro-area) (实际打开过, 2026-05-27 数据)
-  - Cohere UK Ltd Skilled Worker 状态: [immigrationgpt.co.uk](https://immigrationgpt.co.uk/company/Cohere-UK-Ltd)
-  - UK Skilled Worker 2026 £41,700 门槛: [Jobbatical](https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide)
-  - Cohere Paris expansion: [Sifted - Aidan Gomez interview](https://sifted.eu/articles/aidan-gomez-cohere-interview)
-  - Blind Cohere 讨论: [teamblind.com/Cohere](https://www.teamblind.com/company/Cohere/posts/cohere-interview)
-  - Cohere Labs (研究 vs 工程区分): [cohere.com/research](https://cohere.com/research)
+- **岗位名称**: Member of Technical Staff (Modeling / Post-Training / Pre-Training Data / Multilingual / Agent Code / RL Environments / Training Infra 等), Software Engineer, Integrations, Forward Deployed Engineer (Europe / UK Public Sector / France); 2026-10-10 Ashby 119 个 posting, 46 个含欧洲地点 (London 30 / Paris 16 / "Europe" 13 / UK 11 / Berlin 5 / Munich 3 / Brussels 2 等), 0 个 new grad / junior title (Ashby API curl 全量解析: https://api.ashbyhq.com/posting-api/job-board/cohere)
+- **资格窗口**: MTS JD 多数不写年限 (MTS Multilingual 要求 PhD 或同等经验); 公共部门岗需 UK security clearance 或法国国籍 (France TPM / CSM); 部分 UK sales 岗写 "Existing right to work in the UK"; 语言: France 公共部门岗要求法语, 工程岗英语即可
+- **欧洲地点**: London (研究 + 工程核心, 2026-06 新办公室), Paris, Berlin (posting 列为 key office; Aleph Alpha 合并后为双总部之一), Munich / Frankfurt / Brussels / Edinburgh (FDE 多地点 posting), Heidelberg (研究中心, 待合并完成)
+- **项目结构**: 无 cohort / rotation, 新人按 L3 MTS 入职、与资深者同 title (Levels.fyi London 最低公开级别 = L3 "Member of Technical Staff"); Scholars Program = remote-first 全职带薪研究项目 (无需搬迁, 不要求发表经历), 时长 / stipend 页面未写
+- **非EU签证 (全职)**: **UK**: Cohere UK Ltd 在官方 register = Worker (A rating), Skilled Worker [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers — 2026-10-09 版 CSV 下载检索] (旧版仅搜索结果); 门槛 £41,700 (特定情形 £33,400) [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]. **FR**: Passeport Talent salarié qualifié €39,582 仅限在法国取得的 master → 非法国学位走 EU Blue Card €59,373 [来源 (实际打开过): https://www.service-public.gouv.fr/particuliers/vosdroits/F16922] (旧版: "≥ €43,243", 2026-05). **DE (Berlin)**: Blue Card €50,700 / 短缺职业 €45,934 (⚠️ 待 web 验证: 官方页 Radware 拦截 / 404, 取 repo 基准值). Scholars FAQ "Will Cohere Labs sponsor work permits?" → 回答为 remote-first、"no requirement to relocate" (未明确承诺 sponsor). **NL 学生签 / zoekjaar**: 无 NL 办公室, zoekjaar 不适用; Scholars remote-first → 可能可在 NL 远程参与 (推断, 需确认雇佣形式)
+- **薪资范围 (gross/年)**: **Levels.fyi London SWE (2026-10-10, 57 条)**: 中位 £177K (精确 £176,929), 均值 £183,886, 最高 £261,527, 区间 £82,900 – £177,000+; L3 MTS 行: total £236K / base £152K / stock £25.3K / bonus £0 (样本 5 年经验; 各列为 Levels.fyi 显示值, 不一定相加) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/cohere/salaries/software-engineer/locations/london-metro-area] (旧版: L3 base ~£135K / total £172K, 2026-05-27). 官方 posting 只公开 Canada / US 区间: MTS (Multilingual 等) base CA$295K – CA$535K (Toronto/Montreal) / CA$250K – CA$460K (Canada) / $205K – $380K (US CA/NY/WA); SWE Integrations CA$215K – CA$270K / $180K – $225K; 无 GBP / EUR 区间. Paris MTS 无 Levels 数据 (旧版估 €90-115K, 未验证)
+- **申请窗口**: 全职 rolling; Scholars 预计 Fall 2026 开放 (截至 2026-10-10 未开); Winter 2027 实习 (SWE / ML / Research) 2026-05 已发布, 2026-10-10 仍在招, 含 London/UK/Europe [来源 (实际打开过): https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254]
+- **面试流程差异 vs 实习**: MTS 比实习多 1-2 轮 (5-7 轮 vs 4-5 轮): Research MTS 加 1-2 轮 paper deep dive, system design 必考 (serving / training pipeline / multi-tenant inference); coding 同实习 (Colab + ML 实现题) (2026-05 整理, 本轮未找到新面经)
+- **录取竞争**: 极高, pass rate 估 5-10% (推断); paper 或 OSS 至少一项近乎硬通货; 公共部门岗 (clearance / 国籍) 对非EU 不可行
+- **关键链接**: Careers https://cohere.com/careers (实际打开过) · Scholars https://cohere.com/research/scholars-program (实际打开过) · Levels.fyi London (见上) · Aleph Alpha 合并 https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement (实际打开过)
 
 ## 2. 实习岗位与方向
 

@@ -2,7 +2,7 @@
 
 > **Language**: [中文](optiver.md) | English
 >
-> Last updated: 2026-09-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐⭐ (official careers + Levels.fyi all levels + 1point3acres 2026 SWE/QR OA real cases + WSO + Glassdoor + Optiver official interview tips)
 > One-liner positioning: established global market maker founded in Amsterdam 1986, proprietary options / ETF MM, HQ in Amsterdam (>1,000 people), global Sydney + Chicago + Austin + London + Shanghai + Taipei; quant community originator of "50 mental math questions in 8 minutes", annual EU campus hiring for SWE + Quant Researcher + Quant Trader three tracks
 
@@ -24,50 +24,24 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐⭐ (Levels.fyi L3 €185K total direct read + official Graduate SWE / FPGA roles live + 1point3acres 80in8 + ZapN second round tested)
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information richness: ⭐⭐⭐⭐⭐ (basis: Greenhouse official jobs API + job pages + official campus FAQ + Levels.fyi direct read + IND / UK registers)
+> **2027 intake status**: **Open (Rolling)** — 2027 graduate roles live since 2026-08-17, no deadline on the job pages (OA must be completed within 7 days of invitation); start in 2027 (Equity Analyst states August 2027); trader entry route Career Kickstarter - Trading 2027 closes 2026-12-06 17:00 CET [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/optiverus/jobs] [Source (verified opened): https://optiver.com/working-at-optiver/career-opportunities/8859789002/]
+> 2026 H2: no layoffs / freeze found; 2026-08-18 announced majority stake in Leiden power / gas trader Northpool; 2026-10-05 started market making in autocallable ETFs [Source (verified opened): https://optiver.com/news/]
 
-- **Common role names (key distinctions)**:
-  - **Graduate Software Engineer** (primary, C++ direction) — Trading Systems / Low-latency Infra
-  - **Graduate FPGA Engineer** / **Junior FPGA Engineer** — Tech department (2026-05 Amsterdam live)
-  - **Quantitative Researcher (QR)** — research / pricing model
-  - **Quantitative Trader** — true trader role, not in SWE path, separate trading hiring + own Trading Bootcamp
-  - **Trading Tech Engineer** — between SWE and trader, supports trader on floor
-- **European locations**: Amsterdam (primary, EU HQ) / London (secondary, options + ETF) / North America Chicago + Austin / APAC Sydney + Shanghai + Taipei
-- **Whether there is a standalone Graduate Programme**: **Yes** — **Optiver Graduate Programme** includes 3 tracks (Tech / Trading / Research), Tech track 6-12 weeks onboarding bootcamp + rotating team placement, cohort size EU ~30-50 people (exact number not public)
-- **Non-EU visa (full-time)**:
-  - **NL Kennismigrant (HSM) 2026**: <30 €4,357/month (€52,284/year gross), ≥30 €5,942/month (€71,304/year gross), Masters reduced €2,801/month (€33,612/year) — Optiver Graduate SWE base €100K+ far exceeds all thresholds, **100% automatic compliance**
-  - **30% ruling**: applicable, up to 30% tax-free for first 5 years (2024-01 law change: phased down to 30%/20%/10% within 5 years, still one of strongest EU financial advantages)
-  - **Visa in practice**: Optiver official statement "sponsors HSM (Highly Skilled Migrant/Kennismigrant) visas for software engineers working on low-latency trading systems, infrastructure, and FPGA development" — IND process 2 weeks, has become mainstream European landing path for H-1B rejections [Source (verified opened): https://nextleveljobs.eu/blog/visa-sponsorship/nl]
-  - **Intern visa**: case-by-case, "is able to support visa sponsorship on a case by case basis, which is discussed during the interview process" — not default yes
-- **Salary structure (quant-specific, required)**:
-  - **Intern (SWE, Amsterdam)**:
-    - Levels.fyi 2025 Amsterdam **$126.14/hour ≈ €115/hour, 10 weeks ≈ €46K stipend equivalent** (far above Big Tech internships); industry typically says monthly €5,000-6,000 range
-    - **Housing fully covered** (luxury apartment central area), **flights fully covered**, commuter allowance, breakfast/dinner + gym, BSN / bank account setup support
-    - Analogy: Chicago Summer 2026 intern $175/hour + $10K sign-on; Amsterdam slightly lower than US but shorter daily hours
-  - **Full-time New Grad (Amsterdam Graduate SWE, L3)**:
-    - Levels.fyi 2026-05-28 direct read: **L3 total €185K** = base $118K (≈€109K) + bonus $91.5K (≈€85K) + stock $6K (RSU rare, 4 year vest)
-    - L4 total **€217K** (base ≈€81K + bonus ≈€120K), L5 **€313K** (base ≈€81K + bonus ≈€255K) — **bonus extremely high proportion (50-80%)** is Optiver's hallmark
-    - 6figr.com data: globally Optiver SWE $300K-$686K range (incl. senior + US offices)
-    - Sign-on: $10K-$15K (intern conversion path common)
-  - **Full-time New Grad (Trading track, Amsterdam)**: public data sparse, Glassdoor shows entry trader €70-100K base + huge discretionary bonus (Y1 total rumored €150-300K, directly tied to desk PnL)
-- **Application window**:
-  - **Graduate SWE / FPGA**: 2026-27 cycle rolling open, European-specific deadline leans late Oct-Dec
-  - **Internship 2027 cohort**: Amsterdam official internships page (verified 2026-09-26) currently lists **FPGA Internship (2027 Start)** and **Quantitative Research Internship (2027 Start)**, both for the 2027 cohort; page does not list a SWE Internship or specific deadline dates [Source (verified opened): https://optiver.com/working-at-optiver/internships/]
-  - **2026-09 Amsterdam careers board** (verified 2026-09-26): no Graduate/Junior/2027 Internship roles listed, only experienced-level roles shown (Data Engineer - Trading, RF Systems Engineer, etc.); Graduate/Internship roles appear to be posted via the separate internships page rather than the main career-opportunities listing [Source (verified opened): https://optiver.com/working-at-optiver/career-opportunities/]
-- **Interview process differences vs internship**:
-  - **Optiver mental math (80in8 → currently 50 questions / 8 minutes)** — quant community's most famous filter — must write: 80 four-arithmetic problems (integers + fractions + decimals), 8 minutes, each correct +1 wrong -2, no skipping / no changes, passing ~55, competitive 70+; **2026 SWE / Quant applications all enforce this round**
-  - SWE adds 2 HackerRank coding problems (2h, 1 OOP design + 1 algorithm) + Coderpad technical interview (circular buffer queue implementation, LRU variant, exchange system design)
-  - QR goes HackerRank coding + later sequence / probability heavyweights
-  - Trader goes mental math + market making game + brain teaser
-  - Full-time adds Onsite "Super Day" (Amsterdam HQ, 2-day fly-in, including trader + tech + culture)
-- **Admission competition**: extremely high — 1point3acres 2026 batch many "80in8 immediately rejected" reports; SWE OA pass rate internally estimated <15%; total offer rate <2% (industry estimate)
-- **Key links**:
-  - Official careers board (verified opened): https://optiver.com/working-at-optiver/career-opportunities/
-  - Official internships (verified opened, global locations): https://optiver.com/working-at-optiver/internships/
-  - Levels.fyi Optiver Amsterdam SWE (verified opened, L3-L5 direct read): https://www.levels.fyi/companies/optiver/salaries/software-engineer/locations/greater-amsterdam-area
-  - Levels.fyi global (verified opened): https://www.levels.fyi/companies/optiver/salaries/software-engineer
-  - Optiver official SWE Interview Tips (search result): https://optiver.com/working-at-optiver/career-hub/optiver-interview-tips-for-software-engineers/
-  - Optiver EU campus Q&A (search result): https://optiver.com/working-at-optiver/career-hub/optiver-eu-campus-recruiting-qa/
+- **Role names (Europe, 2026-10-10)**: Graduate Software Engineer (Amsterdam 8561858002 / London 8561859002); Graduate Quantitative Researcher (2027 Start) (Amsterdam / London); Graduate FPGA Engineer (2027 Start) (Amsterdam); Graduate Equity Analyst (2027 Start) (Amsterdam); **no standalone Graduate Trader posting** — route is Career Kickstarter - Trading 2027 (two 5-day sessions in 2027-03; strong performers get a direct Graduate Trader offer); Career Kickstarter - Tech (2027-05, deadline 2027-02-07) / Women in Tech 2027 (deadline 2027-01-10) → possible direct Graduate SWE offer
+- **Eligibility**: Graduate SWE / FPGA: BSc / MSc / PhD, graduating 2024-08 to 2027-08, max 3 years work experience, CV in English [Source (verified opened): https://optiver.com/working-at-optiver/career-opportunities/8561858002/]; Kickstarter Trading: BSc / MSc graduating from a European university 2025-05 to 2028-05, currently in NL / UK / Europe; global 8-month re-apply cool-off
+- **European locations**: Amsterdam (HQ) / London
+- **Programme structure**: all hires start with Global (Optiver) Academy (trading theory + tech stack) + dedicated mentor; 25 vacation days (30 from year 2); cohort size not public (previous: EU ~30-50, unverified)
+- **Non-EU visa (full-time)**: job pages: "Competitive relocation packages and visa sponsorship where necessary for expats"; campus FAQ (2026-06): "visa sponsorship on a case-by-case basis" [Source (verified opened): https://optiver.com/working-at-optiver/career-hub/optiver-eu-campus-recruiting-qa/]; Optiver Services B.V. + Optiver Holding B.V. are on the IND recognised-sponsor register (updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; 2026 Kennismigrant thresholds: reduced (during zoekjaar / within 3 years of graduation) €3,122/month, <30 €4,357/month, ≥30 €5,942/month (previous reduced: €2,801, 2026-09) [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements] → moving from an NL student visa / zoekjaar is feasible; London: Optiver UK Limited holds a Skilled Worker A-rated licence (register 2026-10-09 edition) [Source (verified opened): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]
+- **30% ruling**: up to 30% tax-free, max 5 years; 2026 salary norm €48,013/year, under-30 with master's €36,497/year (previous: "30%/20%/10% phase-down", 2026-09 — not mentioned on the official page) [Source (verified opened): https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility]
+- **Pay (gross/year)**:
+  - Graduate SWE Amsterdam (L3, Levels.fyi labels 1-2 yrs): TC €206K = base €106K + bonus €100K + stock €0; L4 €184K; L5 €317K; median €203K, 140 data points (2026-10) (previous L3: €185K, 2026-05) [Source (verified opened): https://www.levels.fyi/companies/optiver/salaries/software-engineer/locations/greater-amsterdam-area]
+  - US anchor: Chicago Graduate SWE posted base $200,000 (tradermath, 2026-09) [Source (verified opened): https://www.tradermath.org/salaries/optiver]
+  - Graduate Trader / QR Amsterdam: no reliable public data (Levels.fyi Optiver Trader has too few submissions, 2026-10) [Source (verified opened): https://www.levels.fyi/companies/optiver/salaries/trader]; tradermath cross-firm estimate for first-year Amsterdam traders base + bonus €150,000-€300,000 [Source (verified opened): https://www.tradermath.org/salaries/imc]
+- **Application window**: FAQ said 2027 campus roles would open "around the end of August 2026", actually live 2026-08-17; no deadline, apply early (inferred: closes when filled)
+- **Interview differences vs internship**: official: invited online assessments (complete within 7 days), contact within 7 working days; technical interviews focus on "how you think" (OOP / DSA / system design) [Source (verified opened): https://optiver.com/working-at-optiver/career-hub/optiver-interview-tips-for-software-engineers/]; Kickstarter Trading = OA (by 2026-12-06) → technical interview (Dec-Jan) → 5-day programme → offer; community reports (previous 1point3acres search results, not re-verified this round): numerical test 80in8 + HackerRank coding + ZapN → Coderpad technical interview → final
+- **Competition**: extremely high; community estimate SWE OA pass rate <15% (previous, unverified)
+- **Intern (secondary)**: 2027 Amsterdam / London internships (SWE / QT / QR / FPGA, 10 weeks) all require penultimate-year students graduating in 2028 → not applicable to 2027 graduates [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/optiverus/jobs]
 
 ---
 
@@ -183,4 +157,4 @@
 - TechPays Optiver intern level (search result): https://techpays.com/europe/netherlands/optiver/intern-level
 - 6figr Optiver SWE global (search result): https://6figr.com/us/salary/optiver--software-engineer
 - nextleveljobs.eu NL visa sponsorship (verified opened, mentions Optiver Kennismigrant): https://nextleveljobs.eu/blog/visa-sponsorship/nl
-- IND Kennismigrant 2026 thresholds (user MEMORY): NL <30 €4,357/month; ≥30 €5,942/month; reduced €2,801/month
+- IND Kennismigrant 2026 thresholds: NL <30 €4,357/month; ≥30 €5,942/month; reduced €3,122/month [Source (actually opened): https://ind.nl/en/required-amounts-income-requirements]

@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](lovable.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §1 提到的 'People Operations Intern' 已不在招.
 > 信息丰富度: ⭐⭐⭐ (HN 创始人原话 visa+relocation 实证 + Levels.fyi Stockholm SEK 数据 + careers 实抓 81 roles; 暂无 1point3acres / Glassdoor 完整面经)
 > 一句话定位: 2024 年成立、Stockholm 总部的"AI software engineer in your browser"——把自然语言 prompt 转 full-stack web app 的 AI code agent 公司, ~125 人, 增速极快, **创始人 HN 公开"sponsor visas + 1-year visit OK"** 是少见的明确国际生通道.
 
@@ -28,28 +29,26 @@
 
 ## New Grad / Junior 岗位
 
-> Lovable 没有 cohort-based Grad Program, **Junior / 新毕业** 走标准 Engineering job 招聘 — 但创始人在 HN 公开"sponsor visas + relocation packages, even for 1-year visits"是 EU 同类 AI 初创里最明确的国际生承诺
+> 核查日期: 2026-10-10 (实时 WebFetch + Ashby API) | 信息丰富度: ⭐⭐⭐ (依据: careers 81 岗 + Ashby JD 全量解析 + HN 2026-10 招聘帖原话 + Levels.fyi Stockholm 直读 + Migrationsverket; 无 entry-level 薪资, Glassdoor 403)
+> **2027 Intake 状态**: **No programme** — 无 grad / junior / intern 岗; careers 页 81 个岗位 (Engineering 31 / Product 15 / Marketing 12 / Finance & BizOps 9 / Revenue 8 / Design 7 / People 3 / EPD 2) [来源 (实际打开过): https://lovable.dev/careers]; 工程 JD 要求 5+ 至 12+ 年经验 [来源 (Ashby API 直接解析): https://api.ashbyhq.com/posting-api/job-board/lovable]
+> **2026 新动态**: 2026-08-12 Series C $400M (€343M) @ $13.3B, Menlo Ventures + Scaleup Europe Fund (EQT) 领投; Stockholm 仍为主 hub, 扩 London / Boston / SF / NYC [来源 (实际打开过): https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/]; Dealroom: 计划 2026 年底约 450 人 (约 +50%), revenue run-rate 目标 ~$600M [来源 (实际打开过): https://dealroom.co/news/144597-lovable-raises-400m-at-13-3b-valuation-eyes-600m-revenue-run-rate]
 
-- **常见岗位名**: **Full-Stack Engineer** / **ML Engineer** / **Backend Engineer** / **Frontend Engineer** / **Infrastructure Engineer** (全部 in-person Stockholm 优先)
-- **欧洲地点**: 以 **Stockholm 为主**, London 少量 remote-ish 岗位
-- **是否有独立 Graduate Programme**: **No** — 没有结构化 grad cohort, 也无 rotation; 走"raw IC hire"路径
+- **岗位名称**: 无 new grad / junior 专属岗; 2026-10-10 工程岗为 IC 或 Staff/Principal (如 Software Engineer, Product (Integration Platform) 要求 5+ 年; Forward Deployed Engineer 8+ 年) (同上 Ashby 来源)
+- **资格窗口**: JD 无学位门槛, 但工程岗最低 5+ 年经验 → 新毕业生实际不在目标范围 (推断); 工作语言英语
+- **欧洲地点**: Ashby 2026-10-10: Stockholm 51 / London 17 (另 NYC 6, Boston 3, SF 2, São Paulo 1, Remote 1); 多数 Stockholm 工程岗 "on-site, 5-days-a-week"
+- **项目结构**: 无 cohort / rotation / 固定入职月; 全年 rolling
 - **非EU签证 (全职)**:
-  - **Sweden Work Permit (Migrationsverket)**: 2026 起 SE 要求月薪不低于 SE 全国中位数的 **80%** (约 **SEK 28,480/月 ≈ €2,500/月**, 即 **SEK 341.7K/年 ≈ €30K/年 gross**), Lovable Stockholm SWE entry-level base SEK 642K 远超 — 100% 符合
-  - 注: SE 已酝酿提至 **100% median (SEK 35,600/月)**, 立法 2025-2026 进行中, 申请前需重新核对最新阈值
-  - **EU Blue Card SE 路径**: Sweden 同样接受 EU Blue Card (2026 SE 阈值 ~ SEK 56,290/月 gross), Lovable SWE 薪资满足
-  - **HN 原话承诺 (CTO @cviktore 2025-08)**: > "We sponsor visas and have very generous relocation packages (even if you just want to come for a year)." [来源 (实际打开过): https://news.ycombinator.com/item?id=44761620]
-- **薪资范围 (base + total, gross/年)**:
-  - **Stockholm SWE total**: **SEK 642K – SEK 879K+** (≈ €56K – €77K), median SEK 641,941 ≈ €56K [来源 (实际打开过): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm]
-  - **Sweden 全国 SWE total**: SEK 649K – SEK 889K+ ≈ €57K – €78K [来源: https://www.levels.fyi/companies/lovable/salaries/software-engineer]
-  - **股权**: 早期 startup, RSU/option 池较大但 strike price 未公开; founded 2024 估值飞涨 — option 上行 leverage 高但风险也高
-  - **对比**: 远低于 FAANG Stockholm (Amazon Stockholm SWE SEK 648K – 1.71M+), 但符合北欧 startup 行情; Spotify Stockholm L4 ~SEK 850K-1.0M total 更高一档
-- **申请窗口**: rolling
-- **面试流程差异 vs 实习**: 全职走完整流程 (recruiter + HM + 2-3 tech + work sample + founder); 实习目前几乎没开, intern 只见 ops/PX 岗
-- **录取竞争 / 国际生 friendliness**: 极高竞争 (AI codegen 红海, 25 wave 简历海); 但**国际生 friendliness 明确高** — 创始人级别公开 sponsor + 1-year experiment 路径, 在 EU 同类初创里第一档
-- **关键链接**:
-  - Lovable Careers (实际打开过): https://lovable.dev/careers
-  - HN Aug 2025 hiring post (实际打开过, 创始人 sponsor visa 原话): https://news.ycombinator.com/item?id=44761620
-  - Levels.fyi Stockholm SWE (实际打开过): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm
+  - **HN "Who is hiring? (October 2026)"** (2026-10-02, vikeri): "we sponsor visas and have very generous relocation packages", Stockholm / London in-person [来源 (实际打开过): https://news.ycombinator.com/item?id=49930260]; 2025-08 帖同样承诺 (含 "even if you just want to come for a year") [来源 (实际打开过): https://news.ycombinator.com/item?id=44761620]
+  - careers 页只写 relocation support ("Moving countries is a big deal. We help make it a little less so."); 81 份 JD 均无 "visa" 字样
+  - **SE work permit**: 2026-06-16 起月薪须 ≥ SEK 34,470 (median SEK 38,300 的 90%) [来源 (实际打开过): https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html] (旧版: 80% median 约 SEK 28,480/月, 2026-05, 已过时); Lovable SWE 薪资远超
+  - **NL**: Lovable 不在 IND 名册 (无 NL 实体) → zoekjaar / Kennismigrant 无直接用处, 需搬到 SE 走 SE work permit [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]
+- **薪资范围 (gross/年, Levels.fyi Greater Stockholm 2026-10-10 直读; 样本少, 非 entry)**:
+  - median SEK 965K, range SEK 792K–SEK 965K+; median 包 = base SEK 761K + stock SEK 203K (12 YOE) [来源 (实际打开过): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm]
+  - 旧版 (2026-05): range SEK 642K – SEK 879K+, median SEK 641,941; **entry-level 无公开数据**; Stockholm JD 不披露薪资 (仅 US JD 披露, 如 Boston Analytics Engineer $141.5K – $192K + equity)
+- **申请窗口**: rolling; 2027 无公告; 无上一轮 grad cycle
+- **面试流程**: 2026-06 核查: 短申请表 → recruiter intro call → ~30 min technical interview, 重 practical building [来源 (实际打开过, 2026-06): https://www.glassdoor.com/Interview/Lovable-Interview-Questions-E1912696.htm]; 本次 Glassdoor 403 未能复核; 无 OA
+- **录取竞争**: 极高 (decacorn + 以资深岗为主); 推断新毕业生仅在有突出 AI agent / full-stack 作品时有机会, 可走 HN / X (@cviktore) 直联
+- **关键链接**: Careers (实际打开过): https://lovable.dev/careers · HN 2026-10 (实际打开过): https://news.ycombinator.com/item?id=49930260 · Levels.fyi Stockholm (实际打开过): https://www.levels.fyi/companies/lovable/salaries/software-engineer/locations/greater-stockholm
 
 ---
 

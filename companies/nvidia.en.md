@@ -2,7 +2,7 @@
 
 > **Language**: [中文](nvidia.md) | English
 >
-> Last updated: 2026-09-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (Munich/Helsinki role list + Munich SWE process confirmed; PhD Research intern data thinner)
 > One-liner positioning: The "pick-and-shovel" champion of the AI era, with three European engineering centers focused on Autonomous Driving / System Software / DL Compiler / Networking Research
 
@@ -30,45 +30,29 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Munich IC2/IC3 + Germany overall + UK IC3/IC4 2026-05 Levels.fyi direct-read data complete, Helsinki IC2 data points still sparse; EU has no structured NCG cohort, NCG is just a tag)
-> Difference vs internship: full-time entry-level **IC1 / IC2**, permanent contract + 4-year RSU front-loaded vest (40/30/20/10, completely opposite to Amazon's backloaded — Nvidia is much friendlier)
+> Checked: 2026-10-10 (live WebFetch + jobs.nvidia.com API) | Information richness: ⭐⭐⭐⭐ (basis: full official API job list + Levels.fyi 2026-10 direct read; very few European NCG samples)
+> **2027 intake status**: **Rolling / no structured European programme** — only 1 NCG-titled role open in Europe: Formal Verification Engineer - New College Graduate (Budapest, JR2008771, posted 2026-02-09, still open) [Source (verified opened): https://jobs.nvidia.com/api/pcsx/position_details?position_id=893392259212&domain=nvidia.com&hl=en]; "New College Grad 2027" reqs so far appear only in the US (from 2026-09-28) and China (from 2026-08-21) [Source (read via curl): https://jobs.nvidia.com/api/pcsx/search?domain=nvidia.com&query=new%20college%20grad&location=Hungary&start=0]
+> 2026 H2 news: on 2026-09-02 NVIDIA signed an agreement to acquire Hugging Face (~$11.9B, closing expected H1 2027) [Source (verified opened): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm]; search results show no NVIDIA layoff / hiring freeze
 
-- **Common role names**: **New College Graduate (NCG) Software Engineer** / NCG ASIC Design Engineer / NCG Deep Learning Engineer / System Software Engineer / Compiler Engineer / Architect (IC2)
-- **European locations**: **Munich (AV/DRIVE + GPU primary)** / Helsinki (System SW + DL Compiler) / **Cambridge UK (NVIDIA Research + Mellanox networking)** / some Linköping SE / Berlin (Mellanox networking small team) / Sofia BG (has GPU verification)
-- **Whether there is a standalone Graduate Programme**: **No (no structured cohort)** — Nvidia uses **NCG (New College Graduate)** tag to mark entry-level requisitions, but **no rotation, no cohort training, no graduate manager**. NCG joins a team directly, onboarding determined by hiring manager individually. EU has no equivalent of Amazon Pathways / Microsoft Aspire. NCG program covers high-performance computing / graphics / edge computing / networking / autonomous machines and other directions, including non-engineering roles (sales, PM) [Source (verified opened): https://www.nvidia.com/en-eu/about-nvidia/careers/university-recruiting-new/]
-- **Non-EU visa (full-time)**:
-  - DE: **EU Blue Card** (2026 IT shortage threshold **€45,934.20**, standard €50,700, Munich IC2 base ~€81K far exceeds reduced threshold) [Source (verified opened): https://www.jobbatical.com/blog/germany-shortage-occupations-bottleneck-professions-eu-blue-card]; Nvidia DE is not in top Blue Card sponsors (smaller volume than SAP/Siemens), but NCG sponsor cases are stable — especially AV team
-  - FI: **Residence permit for an employee (TTOL)** or **EU Blue Card FI** (2026 monthly salary threshold **€3,937 gross**, i.e. €47,244/year, IC2 €70K+ passes) [Source (search result): https://info.jobzpeak.com/finland-eu-blue-card-2026/]; **Helsinki is the most international-NCG-friendly** — Aalto / Helsinki Uni grads consistently join Nvidia, smooth permit transition
-  - UK: **Skilled Worker visa** — Nvidia UK Ltd is a sponsor, Cambridge NCG mostly goes through Research / Networking; 2026 SOC 2134 going rate ~£49,400, IC2 base £75K+ passes [Source (verified opened): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]
-  - Difference vs internship: NG is Nvidia EU's main sponsor entry, intern is rarely sponsored alone (requires EU enrollment)
-- **Salary range (base, gross/year, IC2 entry-level, 2026-05-27 Levels.fyi direct read)**:
-  | City | Base | Stock (annual, 40/30/20/10 vest) | Bonus | Total Y1 (incl. RSU 40%) | Source |
-  |------|------|----------------------------------|-------|---------------------|------|
-  | Munich (IC2) | **€81K (~$92.1K)** | **€36K avg (~$40.6K)** | €0 | **€114K-€133K total (~$133K median)** | [Levels.fyi Nvidia Munich (verified opened)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region) |
-  | Germany overall | €104K base IC2 median | €40K+ | low | **€104K - €678K (IC2-IC7)** | [Levels.fyi Nvidia Germany (search result)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany) |
-  | Helsinki | €70-85K base (estimate, Levels.fyi data points < 5) | €25K-€35K (NVDA holdings) | low | **€100K-€115K** | Glassdoor + Mellanox historical data |
-  | Cambridge UK (IC3 data points abundant, IC2 data sparse) | £95.9K base (IC3) | £47.2K RSU (IC3) | £2.1K | **£145K Y1 (IC3)** | [Levels.fyi Nvidia UK (verified opened)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom) |
-  - **Key: Nvidia RSU front-loaded vest (40/30/20/10)** + sustained stock price increase → actual Y1 cash value **far above Amazon/Microsoft NCG**; after 2023-2025 5x stock rise, IC2 Munich actual 4-year package can reach €600K-€800K equivalent (Blind data)
-  - **vs Google L3 Munich**: Nvidia IC2 ~€133K total ≈ Google L3 €131K total (close); but Nvidia RSU front-loaded vest + stock dividend → actual take-home usually **exceeds** Google L3
-  - **US NCG benchmark**: $140K-$180K base + $190K-$240K Y1 total [Source (search result): https://www.lockedinai.com/blog/get-hired-nvidia-2026-entry-level-blueprint], Europe approx. 60-70% of US
-- **Application window**: **Rolling, year-round open**. **Research / DL intern → NCG** is the stable path (especially Cambridge Research, almost only converted via intern). Fall recruiting (Sep-Nov) Munich AV team large batch, sync with German EE/CS graduation season. Helsinki Tegra team rolls all year (HC small but stable). **2026 NCG hiring live** (Workday + University Recruiting portal) [Source (verified opened): https://www.nvidia.com/en-eu/about-nvidia/careers/university-recruiting-new/]
-- **Interview process differences vs internship**:
-  - Rounds: intern HM + 2 tech → NCG **HM + 3-4 tech + final talk** (5-6 60min sessions)
-  - System / Architecture: NCG **mandatory 1 round computer architecture** (cache, pipelining, virtual memory deep dive), intern lite version
-  - CUDA / GPU programming: NCG asks deeper than intern — kernel optimization, memory hierarchy, warp scheduling (especially AV / DL Compiler team)
-  - C++ template / modern C++ (17/20): NCG must test concept depth, intern only asks basics
-  - Bar Raiser-style mechanism: none (Nvidia has no Amazon-style Bar Raiser, entirely decided by hiring manager)
-- **Admission competition**: Munich AV team medium difficulty (Autonomous Driving specialized talent pool is small, actually easier than Google/Meta NCG); Cambridge Research NCG extremely competitive (almost PhD only); Helsinki friendliest (HC small but applicants also few). **International student friendliness**: ⭐⭐⭐⭐ (Helsinki friendliest, Munich/Cambridge medium; Nvidia EU overall sponsor attitude is much more positive at NG level than internship level)
-- **Key links**:
-  - Official University Recruiting EU (verified opened): [https://www.nvidia.com/en-eu/about-nvidia/careers/university-recruiting-new/](https://www.nvidia.com/en-eu/about-nvidia/careers/university-recruiting-new/)
-  - Official University Recruiting US: [https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
-  - Official Careers (use NCG / location filter): [https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
-  - Levels.fyi Nvidia Munich SWE (verified opened): [https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region)
-  - Levels.fyi Nvidia Germany SWE (search result): [https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany)
-  - Levels.fyi Nvidia UK SWE (verified opened): [https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom)
-  - JoinTaro Nvidia Munich SWE 2024 (intern, process reference for NCG): [https://www.jointaro.com/interviews/companies/nvidia/experiences/software-engineer-intern-munich-bavaria-march-1-2024-accepted-offer-positive-ef3cf632/](https://www.jointaro.com/interviews/companies/nvidia/experiences/software-engineer-intern-munich-bavaria-march-1-2024-accepted-offer-positive-ef3cf632/)
-  - 4dayweek Nvidia process: [https://4dayweek.io/interview-process/nvidia-interview](https://4dayweek.io/interview-process/nvidia-interview)
-  - LockedInAI - Nvidia 2026 Entry-Level Blueprint (search result): [https://www.lockedinai.com/blog/get-hired-nvidia-2026-entry-level-blueprint](https://www.lockedinai.com/blog/get-hired-nvidia-2026-entry-level-blueprint)
+- **Role names**: NCG is only a req tag (no cohort / rotation); the only current European NCG role = Formal Verification Engineer - NCG (Budapest, full time, Hardware/Verification); the other European entry route is a 2027 internship → return offer
+- **Eligibility**: the Budapest posting says "BS/MS/Ph.D. or equivalent experience in CS/CE/EE/Mathematics"; no published graduation window / experience cap; English-speaking
+- **European locations (full API pull, 2026-10-10)**: 134 open roles in Europe — 97 Senior+/Manager, 12 intern/student, 1 NCG; no NCG roles in Munich / Cambridge / Zurich / Bristol; Helsinki has only 4 roles (none entry-level); Amsterdam 7 (none entry-level) [Source (read via curl): https://jobs.nvidia.com/api/pcsx/search?domain=nvidia.com&query=&location=Germany&start=0]
+- **Programme structure**: the official EU page lists Intern (≥12 weeks, year-round) / Ignite / MBA / New College Grad, with no European dates or 2027 timeline [Source (verified opened): https://www.nvidia.com/en-eu/about-nvidia/careers/university-recruiting-new/]
+- **Non-EU visa (full-time)**: DE Blue Card 2026 shortage €45,934.20 / standard €50,700 [Source (verified opened): https://www.jobbatical.com/blog/germany-shortage-occupations-bottleneck-professions-eu-blue-card]; FI Blue Card €3,937/month [Source (search result): https://info.jobzpeak.com/finland-eu-blue-card-2026/]; UK Skilled Worker general threshold £41,700 [Source (verified opened): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; HU (Budapest) rules not checked this round; postings say nothing about sponsorship. No entry-level roles in NL → starting from an NL student visa / zoekjaar means switching to another country's permit
+- **Salary range (Levels.fyi 2026-10 direct read, gross/year)**:
+
+| Location | Level | Base | Stock/yr | Bonus | Total | Sample | Source |
+|---|---|---|---|---|---|---|---|
+| Munich | IC2 | €80.4K | €35.4K | €0 | €116K | n=2 | [Levels.fyi (verified opened)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/munich-metro-region) |
+| Germany | IC2 | €77.4K | €25.8K | €2.2K | €105K | n=4 | [Levels.fyi (verified opened)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/germany) |
+| Finland (Helsinki) | IC2 | €73.3K | €33.6K | €0 | €107K | n=2 | [Levels.fyi (verified opened)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/finland) |
+| UK | IC3 (no IC2 data) | £71.8K | £35.4K | £1.6K | £109K | n=6 | [Levels.fyi (verified opened)](https://www.levels.fyi/companies/nvidia/salaries/software-engineer/locations/united-kingdom) |
+
+- **Corrections vs previous**: the old UK row "£95.9K base / £145K" was USD values mislabeled as GBP; the old Helsinki estimate (€70-85K base) is replaced by real Finland IC2 data; Munich IC2 uses the same source data as before ($92.1K base), the difference is FX. RSU vest 40/30/20/10 (quarterly) verified
+- **Application window**: no common deadline, reqs open and close ad hoc (the Budapest role posted 2026-02-09 is still open); US 2027 NCG reqs appeared in bulk from 2026-09-28. Inferred: any European 2027 NCG openings will be individual team reqs, not a common window
+- **Interview process**: 2026-09 NCG (verification) report: tech screen → 2 online panel rounds → 3 in-person panel rounds, Day 0 → Day 57 (~8 weeks) to offer; topics FIFO / round-robin arbiter / SVA / coverage + basic coding [Source (verified opened): https://prachub.com/interview-experiences/nvidia-new-grad-software-engineer-interview-experience-verification-role-offer-after-eight-weeks]; CUDA / computer-architecture deep dives are older community data, not re-checked
+- **Competition**: ≈ 1 public European NCG slot; the real main route is 2027 intern conversion: European 2027 internships are open (Munich / Berlin / Würselen / Bristol / Cambridge / Zurich / Warsaw / Courbevoie), e.g. Data Processing Developer Technology Intern - 2027 requires a current PhD / Master [Source (verified opened): https://jobs.nvidia.com/api/pcsx/position_details?position_id=893397551992&domain=nvidia.com&hl=en]
+- **Key links**: official EU Early Talent (verified opened): https://www.nvidia.com/en-eu/about-nvidia/careers/university-recruiting-new/ · job search: https://jobs.nvidia.com/careers · Budapest NCG posting: https://jobs.nvidia.com/careers/job/893392259212 · Workday: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
 
 ---
 

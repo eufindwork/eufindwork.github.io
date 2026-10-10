@@ -2,7 +2,7 @@
 
 > **Language**: [中文](palantir.md) | English
 >
-> Last updated: 2026-05-31
+> Updated: 2026-10-10
 > One-liner positioning: Foundry / Gotham / AIP platform company, dual government + commercial. **FDSE (Forward Deployed Software Engineer)** is Palantir's signature role, both writing code and following customers. UK Government FDSE is the bulk of London hiring. Medium-high friendliness for international students, complete UK Skilled Worker license, **has formal Launch (Spring insight) + Accelerate (intern) + New Grad three student pipelines**, student-friendly within frontier range.
 
 ---
@@ -21,38 +21,29 @@
 
 ## New Grad / Junior Roles
 
-- **Common role names**: Software Engineer (Backend / Frontend), Forward Deployed Software Engineer (FDSE), Forward Deployed Engineer (FDE), New Grad SWE, FDSE New Grad UK Government [Source (verified opened): https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a]
-- **European locations**: London most positions (UK Gov + Commercial); Munich (EU engineering + defence), Paris (French defence)
-- **Whether there is a standalone Graduate Programme**:
-  - **Yes — three student pipelines all open**:
-    - **Launch Program (Spring Insight)** — 4-day in-person London, April; on completion, expedited intern interview [Source (verified opened): https://www.palantir.com/careers/students/launch/]
-    - **Accelerate Internship** — 12-week Summer [Source (verified opened): https://www.palantir.com/careers/students/accelerate/]
-    - **New Grad SWE / FDSE** — direct full-time, often open req on Lever [Source (verified opened): https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a]
+> Checked: 2026-10-10 (live Lever API + WebFetch) | Information richness: ⭐⭐⭐⭐ (basis: full pull of 309 Lever roles + gov.uk sponsor register + direct Levels.fyi London read; no London new-grad-specific pay samples)
+> **2027 intake status**: **Rolling (Open)** — 6 New Grad reqs open in London; FDSE New Grad requires "Must be graduating in 2027 or before"; no deadline, no fixed start month [Source (verified opened): https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0]
+> 2026 H2: Q2 2026 revenue +93% y/y and full-year guidance raised (2026-08-03) [Source (search result): https://www.nasdaq.com/press-release/palantir-reports-q2-2026-us-comm-revenue-growth-149-y-y-and-revenue-growth-93-y-y]; Karp says commercial growth came with a "miniscule and shrinking" sales team (Business Insider, 2026-08-04) [Source (search result): https://www.msn.com/en-us/money/general/alex-karp-rings-the-alarm-for-salespeople-saying-palantir-s-teams-crushed-earnings-with-a-miniscule-and-shrinking-head-count/ar-AA29mJcX]; no layoff / hiring-freeze reports found
+
+- **Role names (London, open on 2026-10-10)** [Source (Lever API pulled via curl, 2026-10-10): https://api.lever.co/v0/postings/palantir?mode=json]:
+  - Software Engineer, New Grad (verified opened): https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e · Software Engineer, New Grad - Infrastructure: https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b
+  - Forward Deployed Software Engineer, New Grad - Commercial (verified opened): https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 · FDSE, New Grad - UK Government: https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a
+  - Forward Deployed Infrastructure Engineer, New Grad - UK Government (new on 2026-08-31, verified opened): https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6 · Product Designer, New Grad: https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7
+- **Eligibility window**: FDSE New Grad needs an "Engineering degree" + "Must be graduating in 2027 or before"; the SWE New Grad JD sets no graduation year / experience cap; Product Designer needs "Must be planning on graduating in 2027"; no foreign-language requirement for London roles. Levels.fyi has a single "Software Engineer" level → BSc / MSc join under the same title (inferred)
+- **European locations**: all New Grad reqs are in London; 0 new grad reqs on the continent — Munich FDSE needs "Fluency in German" + clearance, Oslo needs Norwegian, Madrid FDSE needs "1+ years of relevant, post-college work experience" + Spanish
+- **Programme structure**: no rotation, direct team placement; FDSE "Expect 25–50% travel"; offers must be answered "within two weeks of receiving your written offer"; hybrid. Launch (1-week London insight for 2027-graduating BSc/MSc) has no 2027 edition on Lever as of 2026-10-10 [Source (verified opened): https://www.jorb.ai/firms/palantir]; the UK Meritocracy Fellowship targets A-level school leavers (no prior undergraduate degree), not relevant for master's grads [Source (search result): https://www.simplyhired.co.uk/job/5s_bCEZsx8cejmUpSwfyTYltSDAYcvYS7EXob_bl1DaeXjbKhpsjFw]
 - **Non-EU visa (full-time)**:
-  - **UK Skilled Worker**: Palantir Technologies UK Limited holds sponsor license [Source (verified opened): https://huntukvisasponsors.com/company/palantir-technologies-uk-limited-k7ialkr8ud7o]; Juno rates 8.0/10 [Source (verified opened): https://juno.careers/does-palantir-uk-sponsor-visas]
-  - 2026 threshold £41,700, Palantir SWE base £85K+ far exceeds
-  - **DE Blue Card** (Munich): 2026 threshold €45,934 (shortage occupation), Palantir Munich SWE far exceeds
-  - **FR Passeport Talent** (Paris): 2 × SMIC, Palantir Paris meets
-  - GradSignal reports: UK Palantir new grad £65K-£85K base, **fully can issue Skilled Worker** [Source (verified opened): https://gradsignal.co.uk/blog/uk-tech-companies-visa-sponsorship-graduates-2026]
-- **Salary range (Levels.fyi UK 2026)**:
-  - **SWE UK all levels**: £94.5K - £220K, median £107,102 [Source (verified opened): https://www.levels.fyi/en-gb/companies/palantir/salaries/software-engineer/locations/united-kingdom]
-  - **SWE London median TC**: £136,124 [Source (verified opened): https://www.levels.fyi/companies/palantir/salaries/software-engineer/levels/software-engineer/locations/london-metro-area]
-  - **FDSE UK (Glassdoor 148 samples)**: £50,702 (P25) - £145,238 (P75)
-  - **UK overall (Levels.fyi avg)**: base £133,833 + stock $44,670 + bonus $1,560 → TC ~$180K
-  - **New grad / Launch → Intern → New Grad**: base £65K-£85K base [Source (verified opened): https://gradsignal.co.uk/blog/uk-tech-companies-visa-sponsorship-graduates-2026]
-  - **Equity**: PLTR public stock RSU (4 year vest + cliff), full liquidity; refresh evaluated annually
-- **Application window**:
-  - **Launch (Spring Insight)**: apply prior year Q3-Q4, April event (April 14-17, 2026 prior year reference)
-  - **Accelerate Intern**: rolling, the earlier the better (slots fill before fall)
-  - **New Grad / FDSE**: rolling
-- **Interview process differences vs full-time**: intern process slightly shorter (recruiter + 30 min HackerRank + decomp learning); full-time + decomp / re-engineering / system design / HM final
-- **Admission competition / international student friendliness**: Juno 8.0/10 sponsor reputation; **international student friendliness is one of the highest within frontier**; FDSE 60-day avg process, overall 28 days [Source (verified opened): https://www.glassdoor.com/Interview/Palantir-Technologies-FDSE-Intern-Interview-Questions-EI_IE236375.0,21_KO22,33.htm]
-- **Key links**:
-  - Careers: https://www.palantir.com/careers/
-  - Students & Early Talent: https://www.palantir.com/careers/students-and-early-talent/
-  - Launch: https://www.palantir.com/careers/students/launch/
-  - Accelerate: https://www.palantir.com/careers/students/accelerate/
-  - FDSE New Grad UK Gov: https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a
+  - UK: "Palantir Technologies UK Limited" and "Palantir UK Limited" are both Worker (A rating), Skilled Worker + GBM Senior or Specialist Worker (register edition 2026-10-09, CSV downloaded and grepped) [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; 2026 Skilled Worker threshold £41,700, new grad base is far above it
+  - **UK Government role limits**: FD Infrastructure Engineer New Grad states "Sole British National" + "Active or eligible for DV UK security clearance" → closed to non-British nationals; FDSE New Grad - UK Government needs "Security clearance or the ability to obtain a clearance" → high risk for non-British nationals (inferred). Non-EU new grads should target SWE New Grad / Infrastructure / FDSE Commercial
+  - NL zoekjaar does not help in the UK; a new Skilled Worker visa is needed (the company can issue a CoS)
+- **Pay range (gross/year)**:
+  - Levels.fyi London SWE (single level, samples typically 4–5 years of experience): median TC £150K = base £112K + stock £36.1K + bonus £1.2K; range £98.1K–£202K+; 2026-10-10 [Source (verified opened): https://www.levels.fyi/companies/palantir/salaries/software-engineer/locations/london-metro-area] (previous: London median TC £136,124; UK £94.5K–£220K, median £107,102, 2026-05)
+  - New grad base £65,000–£85,000 (GradSignal, re-checked 2026-10-10) [Source (verified opened): https://gradsignal.co.uk/blog/uk-tech-companies-visa-sponsorship-graduates-2026]
+  - RSU: 4-year (25% in year 1, then 2.08% monthly) or 5-year vesting [Source (verified opened): https://www.levels.fyi/en-gb/companies/palantir/salaries/software-engineer/locations/united-kingdom]
+- **Application window**: rolling, no deadline; the SWE New Grad / FDSE UK Gov reqs have been evergreen since 2021-07-01 (Lever createdAt), the newest New Grad req opened 2026-08-31; apply Oct–Dec (inferred)
+- **Interview process**: recruiter 30 min → technical screen (60 min Karat/CodePair or 90 min HackerRank) → onsite 3–4 rounds (Decomposition / Learning / Re-engineering / Coding / System Design) → HM 30–60 min; first contact to offer about 3–4 weeks; behavioural questions embedded 15–20 min per round (Prepfully, updated 2026-09-29) [Source (verified opened): https://prepfully.com/interview-guides/palantir-software-engineer]; the intern process is shorter (previous version)
+- **Competition**: Glassdoor returned 403 on 2026-10-10, not re-checked; hiring concentrated in London, and the new UK Gov req adds a nationality restriction → non-EU candidates realistically have 4 reqs
+- **Key links**: Students page (verified opened, JS-rendered, no body text): https://www.palantir.com/careers/students/ · Lever job board: https://jobs.lever.co/palantir
 
 ---
 

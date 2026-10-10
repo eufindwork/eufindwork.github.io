@@ -3,7 +3,7 @@
 > **Language**: 中文 | [English](drw.en.md)
 >
 
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London + Chicago 全 level 实数 + intern $175K base / $96.13/hr 公开 + Cumberland crypto 子单元独立 + 10 周流程 + 完整 4 stage 招聘明文 + Amsterdam Cumberland 现役)
 > 一句话定位: 1992 年 Don Wilson 在 Chicago Mercantile Exchange 创立的 prop trading firm (firm name = DRW 是创始人 initials), 全球 ~1,000+ 人, 业务覆盖 traditional finance + crypto (子单元 **Cumberland DRW** 2014 年起是全球最大 crypto OTC market maker 之一), London (43+ 岗位) 是欧洲主战场 + Amsterdam 是 Cumberland 欧陆桥头堡
 
@@ -26,46 +26,20 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London L2 $216K + Chicago L2 $203K + intern $96.13/hr / $175K base / $25K sign-on + $15K completion / 4 stage 流程明文 + Cumberland Amsterdam 现役 crypto MO 岗)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse API 全量下载; WebSearch 配额用尽) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 JD 毕业窗口直读 + Levels.fyi London L2 + UK / IND sponsor register 直读; 缺 2025-26 grad 面经)
+> **2027 Intake 状态**: **Open (rolling)** — London **Software Developer** (毕业 2026-12 ~ 2027-08, BSc/MSc/PhD, 2026-08-19 发布) + London **Quantitative Trading Analyst** (毕业 2026-12 ~ 2027-06, Summer 2027 入职, 2026-08-07 发布); 无公开截止日 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/drweng/jobs]
+> 2026 H2 动态: 2026-08-04 eFinancialCareers "DRW raised pay to £340k per head in London after hiring"; 2026-08-11 QumulusAI 与 DRW 签 GPU (Blackwell B300) 算力协议; (H1) 2026-06-16 北美 gas & power 主管在交易亏损后离职; 未见 layoff / hiring freeze 报道 [来源 (实际打开过, Google News RSS 标题): https://news.google.com/rss/search?q=%22DRW%22+trading+firm+when:120d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **常见岗位名**:
-  - **Software Developer Intern** (10 周 Summer, Chicago + London, historical Singapore)
-  - **Quantitative Trading Analyst Intern** ($175-200K base annualized)
-  - **Trading Intern** (本科末年, 走 trader pipeline)
-  - **Quant Strategist** (Junior FT, 介于 trader + dev 之间)
-  - **Software Engineer** (Junior FT, Technology 77 个 open 中相当部分)
-  - **Crypto Middle Office Engineer** / **Crypto Relationship Manager** (Cumberland 子单元, London/Amsterdam 现役)
-- **欧洲地点**: London (43+ open 2026-05, 主战场) / Amsterdam (Cumberland crypto, 现在有 e-Crypto Relationship Manager + Crypto Middle Office Engineer 岗) [来源 (搜索结果): https://www.drw.com/work-at-drw/listings; https://builtinlondon.uk/job/crypto-middle-office-engineer/3540658]
-- **是否有独立 Graduate Programme**: **Yes - DRW Internship Cohort** (10 周 summer + structured orientation + housing); 全职 Junior 走 "Graduates" 入口 https://www.drw.com/work-at-drw/graduates [来源 (实际打开过): https://www.drw.com/work-at-drw/interns]
-- **非EU签证 (全职)**:
-  - **London**: Skilled Worker £41,700 (2026); DRW London L2 SWE base ~£148K → 远超合规
-  - **Amsterdam**: Kennismigrant 2026 = €5,688/月 (30+ 岁) 或 €4,171/月 (<30 岁) base 门槛; Cumberland Amsterdam 岗 base 业内 €70-90K → 合规
-  - DRW 在英荷都有 sponsorship license (实际从 LinkedIn 多个岗位标 "visa sponsorship available" 可推)
-- **薪资结构 (量化特有, 关键)**:
-  - **SWE Intern (Chicago, Summer 2026)**: **$96.13/hr ≈ $16,663/月** + corporate housing + relocation + **$25K sign-on + $15K completion bonus** (即 10 周 ≈ $41,663 stipend + $40K bonus = ~$80K 总额) [来源 (实际打开过): https://www.levels.fyi/internships/DRW/Software-Engineer-Intern/]
-  - **SWE Intern (London, historical 2023)**: $61.90/hr ≈ £4.2k/月 (业内 2026 应该已涨到 £6-7k/月)
-  - **Quant Trading Analyst Intern**: $175-200K base annualized (即 10 周 ≈ $33-38K stipend) [来源 (搜索结果): https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981]
-  - **全职 New Grad SWE London (L2)**: **$216K total = $148K base + $67.1K bonus + $0 stock = £162K** (Levels.fyi 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/drw/salaries/software-engineer/locations/london-metro-area]
-  - **全职 New Grad SWE Chicago (L2)**: $203K total = $168K base + $4.4K stock/yr + $29.9K bonus
-  - **股权**: $0 RSU 大多数 level (DRW 私有, 不 IPO); London 全 level stock = $0; Chicago 仅 L2 显示 minor $4.4K stock
-- **申请窗口**:
-  - **Internship**: 8-10 月开放, 申请截至 10-12 月 (rolling 但早投有显著优势); Summer 入职 6 月
-  - **Graduate FT**: rolling, 经常先实习再转正
-- **面试流程差异 vs 实习**:
-  - **实习 (官方明文 4 stage)**: (1) Online application (2) Technical challenge (timed at-home) (3) Zoom interview (tech + behavioral) (4) **2-day final visit** (in-person, 多 tech + 多面试官)
-  - **全职**: 流程类似但更深, system design + 团队 fit 比例上升; LeetCode + brain teaser + 概率重
-- **录取竞争**: Chicago intern 是顶级 prop firm 第二梯队 (Jump/Citadel/Jane Street 之下), 但 stipend 已经接近顶级; London Quant Strategist 路径比 SWE 更难
-- **关键链接**:
-  - 官网 careers (实际打开过): https://www.drw.com/work-at-drw/listings
-  - DRW Internship 4 阶段明文 (实际打开过): https://www.drw.com/work-at-drw/interns
-  - Graduates 入口 (搜索结果): https://www.drw.com/work-at-drw/graduates
-  - Levels.fyi London L2 $216K (实际打开过): https://www.levels.fyi/companies/drw/salaries/software-engineer/locations/london-metro-area
-  - Levels.fyi US L2-L5 (实际打开过): https://www.levels.fyi/companies/drw/salaries/software-engineer
-  - Levels.fyi SWE Intern $96.13/hr (实际打开过): https://www.levels.fyi/internships/DRW/Software-Engineer-Intern/
-  - Quant Trading Analyst Intern $175-200K base (搜索结果): https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981
-  - Software Developer Intern $175K base (搜索结果): https://www.drw.com/work-at-drw/listings/software-developer-intern-3157977
-  - Cumberland 子单元入口 (搜索结果): https://www.drw.com/cumberland; https://www.cumberland.io/careers
-  - Crypto Middle Office Engineer (London, Built In, 搜索结果): https://builtinlondon.uk/job/crypto-middle-office-engineer/3540658
+- **岗位名称 (欧洲, 2026-10-10)**: 新人档 — Software Developer (London) https://job-boards.greenhouse.io/drweng/jobs/8007851 · Quantitative Trading Analyst (London) https://job-boards.greenhouse.io/drweng/jobs/7957241 · Associate Trader (Amsterdam, 学士+, 未写年限, 推断可接 grad) https://job-boards.greenhouse.io/drweng/jobs/8127674 · Software Engineer (Commodities Data Team, London, 学士/硕士 + Python, 未写年限) https://job-boards.greenhouse.io/drweng/jobs/8124601; 1-2 年档 — Quantitative Trading Analyst (London, "1–2 years") https://job-boards.greenhouse.io/drweng/jobs/7929846 · Data Analyst (London, "1-2 years") https://job-boards.greenhouse.io/drweng/jobs/8191531; Leadership Rotation Network Analyst (London) 明确要求 "Work authorisation in the United Kingdom without the need for sponsorship" → 需 sponsor 者不可投 https://job-boards.greenhouse.io/drweng/jobs/7957747
+- **资格窗口**: SWE 毕业 2026-12 ~ 2027-08; QTA 毕业 2026-12 ~ 2027-06; BSc / MSc / PhD 均可; 英语
+- **欧洲地点**: London (主) + Amsterdam (DRW Europe Derivatives B.V.; 当前 6 个 Amsterdam 岗无 Cumberland 标签) (旧版: Amsterdam 以 Cumberland crypto 岗为主, 2026-05)
+- **项目结构**: 无独立 grad scheme; 新人 "attend a robust training program" (SWE JD); 无 rotation
+- **非EU签证 (全职)**: UK register 2026-10-09 版: **DRW Investments (UK) Ltd** — Worker A rating, Skilled Worker + GBM Senior or Specialist Worker [来源 (实际打开过; CSV 下载 grep): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; IND register 2026-10-05 版: **DRW Europe Derivatives B.V.** (KvK 72007443) 为 recognised sponsor [来源 (实际打开过; 全表下载 grep): https://ind.nl/en/public-register-recognised-sponsors/public-register-work] → Amsterdam 岗可走 Kennismigrant; NL 毕业 / zoekjaar 后 reduced 门槛 €3,122 (<30 €4,357; ≥30 €5,942) [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements] (旧版: €4,171 / €5,688, 2026-05); SWE / QTA JD 未写 sponsor 条款
+- **薪资 (base / bonus / equity / TC, gross/年)**: London SWE L2 (entry, 5 条, 平均 0.8 YoE): TC £161K = base £111K + bonus £50.2K + stock £0 (= $216K, 与旧版一致); L3 £136K; London median £173K (L2, 0 YoE, 2025-08 offer) (2026-10-10 读) [来源 (实际打开过): https://www.levels.fyi/companies/drw/salaries/software-engineer/locations/london-metro-area]; UK JD 不披露薪资; 美国参考 (pay transparency): Chicago new-grad Software Developer base $225,000 (毕业 2026-12 ~ 2027-06) https://job-boards.greenhouse.io/drweng/jobs/7980165 · Chicago/NYC new-grad Quantitative Researcher base $250,000-$300,000 https://job-boards.greenhouse.io/drweng/jobs/8030406
+- **申请窗口**: 2027 cycle 自 2026-07-13 (intern) / 2026-08-07 (QTA) / 2026-08-19 (SWE) 起陆续发布, rolling, 无截止日 (宜早投, 推断)
+- **面试流程差异 vs 实习**: 官方 grad 页 4 步: (1) 简历 rolling 审 (2) technical challenge (概率 + 逻辑 / coding) (3) phone interview (4) 2 天 final (D1 technical challenge + D2 全天面试) — 与 intern 同流程 [来源 (实际打开过): https://www.drw.com/work-at-drw/graduates]
+- **录取竞争**: 2026-10-10 board 共 176 个 open role, 欧洲 0-2 年档仅 ~6 个 (推断: 名额少, 集中在 London SWE / QTA)
+- **关键链接**: grad 页 (实际打开过): https://www.drw.com/work-at-drw/graduates · Greenhouse API (实际打开过, 见上) · Levels.fyi London (实际打开过, 见上)
 
 ---
 

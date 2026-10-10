@@ -2,6 +2,8 @@
 
 > **Language**: [中文](klarna.md) | English
 >
+> Updated: 2026-10-10
+>
 > Scope: Software Engineer Intern, Machine Learning / Data Science Intern. Klarna's core engineering team is still in Stockholm; other offices (Berlin, London, Madrid, NYC) are mainly business/compliance/commercial.
 
 ---
@@ -25,47 +27,24 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Stockholm L1-L4 Levels.fyi data complete, IPO post-hc signal clear, jointaro / Glassdoor main interview experiences skew mid/senior, new grad independent interview experiences still few)
-> Distinct from internship: full-time entry-level (0-2 years experience); Klarna internal leveling is **L1-L4 (Junior → Senior)** [Source (verified opened): https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm via summary]; new grads usually L1/L2; no named graduate programme
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information richness: ⭐⭐⭐⭐ (basis: Deel job board + official careers / press pages + Levels.fyi Stockholm + Migrationsverket)
+> **2027 intake status**: **No programme** — the careers page has no graduate / internship / thesis / visa content and only links to the Deel job board [Source (verified opened): https://www.klarna.com/careers/]; on 2026-10-10 the board lists 101 roles (Stockholm 34 / London 25 / Milan 15 / Warsaw 7 / Amsterdam 2; Engineering 32), none titled Graduate / Intern / Thesis / Junior [Source (verified opened): https://jobs.deel.com/job-boards/klarna]
+> **2026 H2 news**: 2026-07-06 applied for a U.S. banking license [Source (search result): https://www.klarna.com/international/press/klarna-submits-application-for-u-s-banking-license/]; 2026-08-18 Q2 results: revenue $1.042B (+27% YoY), net income $9M, no headcount disclosed [Source (verified opened): https://www.klarna.com/international/press/klarna-reports-second-quarter-2026-results/]; CFO / CMO transitions announced the same day (search result); 2026-08-28 the CEO bought $10M of shares [Source (search result): https://www.klarna.com/international/press/klarna-ceo-sebastian-siemiatkowski-acquires-692-506-shares-for-10-million/]
 
-- **Common role names**: Software Engineer (L1 / L2), Associate Engineer; **Klarna official careers page explicitly states no dedicated Graduate Programme entry** [Source (verified opened): https://www.klarna.com/careers/] — hiring divided by 10 "competence" tracks, new grads and 1-2 years experience in same req
-- **European locations**: engineering core **Stockholm (Årsta HQ, currently ~3,800 employees, stabilized from 2022 5,000 peak)** [Source (verified opened): https://kitalent.com/articles/article-stockholm-fintech-talent-split/]; Berlin / Madrid / London mostly business / compliance / merchant ops, engineering hc extremely few; Junior SWE almost default Stockholm onsite/hybrid
-- **Whether there is a standalone Graduate Programme**: **No** — Klarna official careers page explicitly no graduate scheme; thesis internship (Master Thesis Intern) → Associate / Junior Engineer is most common new grad pipeline
-- **IPO + hiring status (major update)**:
-  - **Klarna 2025-09 completed US IPO**, stock first day +30%, valuation about **$19.65B** [Source (search result): mlq.ai summary]
-  - Actual IPO timeline: 2024 Q4 confidential SEC filing → 2025-09 listing (slight discrepancy from KiTalent article's "2026 listing", per summary IPO completed)
-  - **CEO Siemiatkowski publicly admitted AI replacement customer service went too far**, restarting customer service hiring (incl. "Uber-style" remote agent pilot); engineering hc synchronously restarted
-  - IPO listing will trigger **800-1,000 Stockholm employee equity liquidity event**, after lock-up expiration expect significant internal mobility release, freeing hc for external candidates
-- **Non-EU visa (full-time)**:
-  - **Sweden Work Permit**: Klarna is Migrationsverket **certified employer (same tier as Spotify)**, processing cycle **2-4 weeks** vs regular 1-3 months [Source (verified opened): https://www.eurotoptech.com/blog/visa-sponsorship-sweden-software-engineers-2026 via summary]; sponsor backend / payments / platform / data engineering
-  - **Important change**: from 2026-06-01 Sweden work visa salary threshold raised to Sweden median 90% (~SEK 35,600/month+), Klarna L2+ starting salary usually qualifies but L1 borderline
-  - **EU Blue Card (Sweden)**: threshold ~SEK 60,860/month (2026, median 1.5x), Klarna L3+ starting salary qualifies
-  - Clear contrast with internship policy: internship almost no sponsor, full-time sponsor is regular operation + certified fast track
-- **Salary range (Levels.fyi 2026-05 data)**:
-  - **Stockholm L1 (Junior)**: TC starting SEK 489K/year [Source (search result): https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm]
-  - **Stockholm L2 (Junior+)**: TC median SEK 558,503, range SEK 506K-620K+ [Source (verified opened): https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l2/locations/greater-stockholm]
-  - **Stockholm L3 (Engineer)**: TC median SEK 712,361, range SEK 632K-821K+ [Source (search result): https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l3/locations/greater-stockholm]
-  - **Stockholm L4 (Senior)**: TC median SEK 831,790, range SEK 728K-1.02M+ [Source (search result): https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l4/locations/greater-stockholm]
-  - **Overall Greater Stockholm SWE**: median SEK 697K, range SEK 489K-811K+
-  - Compared with Spotify Stockholm Engineer I (median SEK 624K), Klarna L2 slightly lower, L3 slightly higher; **post-IPO stock converted from RSU to public market (NYSE: KLAR), liquidity significantly improved** — new grads can get sign-on + equity combo
-- **Application window**: **Rolling year-round**; 2025-09 IPO followed by clear hc expansion, payments / risk / platform / GenAI are 2026 hiring hot points; **retention bonuses average 18-24 months base salary** given to critical tech roles → reflects talent war intensity
-- **Interview process differences vs internship**:
-  - Internship 6-7 rounds (incl. Kattis Logic Test), full-time **also retains Kattis + process 6-8 rounds**, take-home / design depth significantly rises
-  - Full-time System Design is required (intern occasional): payment idempotency / outbox pattern / event-driven SAGA / Kafka consumer consistency
-  - Bar Raiser round appears more frequently in full-time process
-  - Krew values behavioral weight same (7 values must-ask)
-  - DS / ML full-time adds one ML deep-dive + one product sense round
-- **Acceptance competition**: Klarna pass rate ~29-31% (Glassdoor consolidated), average process 36 days; international student friendliness medium-high (certified sponsor + raised salary threshold L1 entry pressure); IPO post prefers existing fintech / risk control / GenAI background; Master Thesis → Junior channel still highest ROI path for international students
-- **Key links**:
-  - Official Careers: https://www.klarna.com/careers/
-  - Klarna Engineering Careers: https://www.klarna.com/careers/our-competences/engineering/
-  - Klarna Application Process: https://www.klarna.com/careers/tips-and-tricks/application-process/
-  - Levels.fyi Klarna Stockholm L2: https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l2/locations/greater-stockholm
-  - Levels.fyi Klarna Stockholm L3: https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l3/locations/greater-stockholm
-  - Levels.fyi Klarna Stockholm L4: https://www.levels.fyi/companies/klarna/salaries/software-engineer/levels/l4/locations/greater-stockholm
-  - KiTalent Stockholm Fintech 2026: https://kitalent.com/articles/article-stockholm-fintech-talent-split/
-  - mlq.ai Klarna CEO admits AI cuts went too far (2025-09 post-IPO): https://mlq.ai/news/klarna-ceo-admits-aggressive-ai-job-cuts-went-too-far-starts-hiring-again-after-us-ipo/
-  - Euro Top Tech Sweden Visa Sponsorship 2026: https://www.eurotoptech.com/blog/visa-sponsorship-sweden-software-engineers-2026
+- **Role names**: generic **"Engineer"** role (Stockholm, posted 2026-09-02): text says "care more about what you've built than how long you've been building", no years / degree requirement [Source (verified opened): https://jobs.deel.com/klarna/job-details/32e481e6-16ef-48c2-8849-bd3f76304530/overview]; same title also in Milan / Warsaw; other engineering roles are mostly Senior / Lead. Klarna levels L1-L4 (Levels.fyi now labels L3 = Senior, L4 = Lead)
+- **Eligibility**: no graduate scheme / graduation-year rule; CV in English; old "Master Thesis → Junior" route: no thesis roles on the board on 2026-10-10, and the official application-process page now returns 404
+- **European locations**: Stockholm (engineering core) / Milan / Warsaw (Engineer roles) / London (mostly Senior / Lead); Amsterdam only has business roles such as Business Development Associate; hybrid, "Most teams currently meet in the office 2–3 days per week"
+- **Programme structure**: no cohort / rotation; direct hire into a role
+- **Non-EU visa (full-time)**: **Conditional** — the posting does not mention sponsorship / relocation
+  - Sweden work-permit floor from 2026-06-01 = 90% of median = SEK 34,470/month; software developers (SSYK 2512) are not exempt [Source (verified opened): https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html] → L1 base SEK 497K/year ≈ SEK 41,417/month clears it (previous: "~SEK 35,600/month, L1 borderline", 2026-05)
+  - EU Blue Card = 1.25 × average salary = SEK 53,625/month (since 2026-07-15) [Source (verified opened): https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/eu-blue-cards.html] → L1 / L2 base falls short (previous: "~SEK 60,860/month, 1.5x median", 2026-05 — corrected)
+  - UK: Klarna Bank AB UK Branch = A-rated Skilled Worker sponsor (checked in the 2026-10-09 register CSV); NL: Klarna B.V. is on the IND register (2026-10-05 version) but has no engineering roles in NL → NL zoekjaar is largely irrelevant
+- **Pay range (gross/year)**: ranges embedded in the job board (2026-10-10): Engineer Stockholm SEK 572,165–775,398 / Milan €43,256–58,620 / Warsaw PLN 337,470–554,315; Lead Engineer Stockholm SEK 798,970–1,183,345 [Source (verified opened): https://jobs.deel.com/job-boards/klarna]
+  - Levels.fyi Greater Stockholm (updated 2026-10-10, 312 data points): **L1 TC SEK 505K (base 497K + stock 8.6K)**, L2 SEK 576K, L3 SEK 758K, L4 SEK 856K, median SEK 720K [Source (verified opened): https://www.levels.fyi/companies/klarna/salaries/software-engineer/locations/greater-stockholm] (previous 2026-05: L1 from SEK 489K, L2 median SEK 558,503, L3 SEK 712,361, L4 SEK 831,790, median SEK 697K); inferred: new grads land at L1 / L2
+- **Application window**: rolling; the Engineer role was posted 2026-09-02 and is still open on 2026-10-10
+- **Interview process vs intern**: past loops (jointaro 2023-25, see §3): Kattis Logic Test → recruiter → take-home / live coding → tech deep-dive (system design mandatory for full-time) → Krew values → HM (+ bar raiser), 36 days on average; 2025-26 new reports: no public data (Glassdoor 403)
+- **Competition**: 32 of 101 roles are engineering, mostly Senior / Lead, only 3 entry-level "Engineer" roles → very few openings; since the 2025-09 NYSE: KLAR listing RSUs are tradable and their value moves with the share price
+- **Key links**: careers https://www.klarna.com/careers/ (verified opened) · Deel job board (verified opened, above) · Levels.fyi Stockholm (verified opened, above)
 
 ---
 

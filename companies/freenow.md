@@ -128,7 +128,7 @@
 
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
-- **核心 trade-off**: 已在 NL 持学生签 → 选 Free Now 意味着 **放弃 NL zoekjaar (€2,801 reduced HSM)**, 换 DE Blue Card / Skilled Worker
+- **核心 trade-off**: 已在 NL 持学生签 → 选 Free Now 意味着 **放弃 NL zoekjaar (€3,122 reduced HSM)**, 换 DE Blue Card / Skilled Worker
 - **Intern 可行性**: ❌ **低-零** — Working Student 模式必须 DE 学籍, 跨欧 intern 罕见 (sponsor 不明文)
 - **FT 可行性**:
   - **Hamburg / Berlin SWE → 高** — sponsor 明文 + DE Blue Card 短缺 €45,934 cover 远超 (Free Now 中位 €90K)

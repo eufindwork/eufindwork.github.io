@@ -2,7 +2,8 @@
 
 > **Language**: [中文](wise.md) | English
 >
-> Updated: 2026-06-01
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'sponsors international students / Skilled Worker is feasible' in the header and §2/§8 (the 2027 WiseStart grad JDs require existing UK/EU work rights and offer no sponsorship).
 > One-line positioning: cross-border payments fintech, **WiseStart Graduate Programme** + 10-week Summer Intern, Sep/Feb dual cohort, sponsor friendly to international students (London Skilled Worker active, Tallinn uses Estonian Digital Nomad/D-visa)
 
 ---
@@ -31,14 +32,28 @@
 
 ## NG (New Grad / Junior full-time) Path
 
-- **Role name**: **WiseStart Graduate Programme** — Backend Engineer / Platform Engineer / Data Engineer / Mobile (iOS/Android)
-- **Whether there's an independent cohort program**: ✅ Yes, 18 months rotation, **Feb + Sep dual cohort start**
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information density: ⭐⭐⭐⭐ (basis: 4 official grad JDs + Levels.fyi London / Tallinn by level + vacancy sitemap)
+> **2027 intake status**: **Upcoming (not open)** — the 2026-10-09 wise.jobs vacancy sitemap has no Graduate / Intern roles, only 2 Product Academy APM roles (≥2 years' experience required) [Source (verified opened): https://wise.jobs/vacanciessitemap.xml]; based on last cycle, London expected to open ~late 2026-10 and Tallinn / Budapest ~late 2027-01 (inferred, not announced)
+> **2026 H2 news**: no layoffs / hiring freeze / WiseStart changes found; 2026-07 to 2026-10 newsroom items are product launches only [Source (verified opened): https://newsroom.wise.com/en-NAM/]; context: 2026-05-11 Nasdaq primary listing (LSE kept as secondary) [Source (verified opened): https://en.wikipedia.org/wiki/Wise_(company)]
+
+- **Role name**: **WiseStart Graduate**, posted as individual JDs — "Graduate Program February 2026: Fullstack Engineer" (London) [Source (verified opened): https://wise.jobs/job/graduate-program-february-2026-fullstack-engineer-in-london-jid-2487], "Graduate Program September 2026: Backend Engineer" (London) [Source (verified opened): https://wise.jobs/job/graduate-program-september-2026-backend-engineer-in-london-jid-2477], "Graduate Software Engineer" (Tallinn / Budapest); graduate tracks also include Data Science / People / Finance & Servicing [Source (verified opened): https://wise.jobs/early-careers]
+- **Eligibility window**: BSc / MSc, CS or any STEM subject (technical degree not required); Feb 2026 cohort took 2024 / 2025 / early-2026 graduates, Sep 2026 cohort took 2025 / 2026 graduates; programme page: "last year of university or graduated a year ago" [Source (verified opened): https://wise.jobs/wisestart-programs]
+- **European locations**: London / Tallinn / Budapest (the three cities with 2026-cohort JDs); no NL locations among open roles
+- **Programme structure**: ✅ **Feb + Sep dual cohort** (Feb 2026 cohort started 2026-02-24; Sep 2026 cohort starts 2026-09-07); 2-day WiseStart Bootcamp + 9-month Engineering Academy + buddy; JD mentions no rotation [Source (verified opened): https://wise.jobs/job/graduate-software-engineer-in-tallinn-jid-2903] (previous: "18-month rotation", 2026-06 — not found in official JDs); cohort size: no public data
 - **Starting salary (base + bonus + equity)**:
-  - **London L2 (after graduation enters L1→L2)**: base £55K-65K + bonus + RSU, total TC median **£77,879** [Levels.fyi Wise L2 London (verified opened): https://www.levels.fyi/companies/wise/salaries/software-engineer/levels/l2/locations/london-metro-area]
-  - **Tallinn L3**: median TC **€87,651** (Estonia low tax, take-home advantage obvious) [Levels.fyi Wise L3 Tallinn (verified opened): https://www.levels.fyi/companies/wise/salaries/software-engineer/levels/l3/locations/tallinn-metropolitan-area]
-- **Sponsor policy (FT)**: **London uses UK Skilled Worker** (£41,700 NEC, Wise in MyVisaJobs UK sponsor list); **Tallinn uses Estonian Type-D** (Wise assists + recommends Estonian Startup Visa channel) [tarve.co.uk UK tech sponsors 2026 (verified opened): https://tarve.co.uk/blog/uk-tech-companies-sponsoring-visas-2026; MyVisaJobs Transferwise: https://www.myvisajobs.com/Visa-Sponsor/Transferwise]
-- **Application window**: Sep cohort application = 2025-09 opens → 2025-11-09 closes (2026 start); Feb cohort application = 2025-09 → 2025-11 closes — same window as intern [wise.jobs/wisestart-programs (verified opened): https://wise.jobs/wisestart-programs]
-- **Process differences vs intern**: WiseStart adds round of culture-fit + rotation preference, system design difficulty higher
+  - **London official**: **£47,000/year + RSUs** (Feb + Sep 2026 cohorts, JD posted 2025-10) [Source (verified opened): https://wise.jobs/job/graduate-program-september-2026-backend-engineer-in-london-jid-2477]
+  - **Tallinn official**: **from €3,070/month + RSU** (×12 ≈ €36,840/year, computed; Sep 2026 cohort) [Source (verified opened): https://wise.jobs/job/graduate-software-engineer-in-tallinn-jid-2903]
+  - **Budapest official**: **1,001,100 HUF/month + RSU** (Sep 2026 cohort) [Source (verified opened): https://wise.jobs/job/graduate-software-engineer-in-budapest-jid-2905]
+  - **Levels.fyi (2026-10)**: London **L1 "Junior Engineer (Entry Level)" TC £50.5K** (base £47.4K + stock £3K + bonus £173), L2 £78.4K [Source (verified opened): https://www.levels.fyi/companies/wise/salaries/software-engineer/locations/london-metro-area]; Tallinn **L1 TC €40.9K** (base €34.8K + stock €6K), L2 €66.9K, L3 €88.8K [Source (verified opened): https://www.levels.fyi/companies/wise/salaries/software-engineer/locations/tallinn-metropolitan-area]
+  - **Levelling**: new grads enter at **L1** (JD gives the same pay for BSc / MSc) (previous: "graduates enter L1→L2, London L2 TC £77,879; Tallinn L3 €87,651", 2026-06 — L2 / L3 are not entry levels)
+- **Sponsor policy (FT)**: ❌ **Graduate roles explicitly do not sponsor** — London JD: "Eligible to work in the UK without any sponsorship"; Tallinn JD: "Eligible to work in EU without any sponsorship" + "we are not able to offer visa & relocation sponsorship"; Budapest JD: no visa clause seen (links above)
+  - **From NL student visa / zoekjaar**: not feasible in practice — NL residence gives no right to work in the UK / Estonia, Wise has no NL roles, zoekjaar / reduced Kennismigrant do not apply (inferred); UK sponsor licence not re-checked this time (grad JDs already exclude sponsorship, conclusion unaffected)
+  - (previous: "London via Skilled Worker, Tallinn via Type-D, Wise assists", 2026-06 — contradicted by the 2026-cohort JD text, replaced)
+  - Product Academy APM (Tallinn, start 2027-03, €3,916/month + RSU) also requires "unrestricted right to work in Estonia" and ≥2 years' experience [Source (verified opened): https://wise.jobs/job/product-academy-associate-product-manager-in-tallinn-jid-4188]
+- **Application window (last cycle, actual)**: London (Feb + Sep 2026 cohorts): **2025-10-28 → 2025-11-09** (~12 days), interviews 2025-11 → 2026-01; Tallinn / Budapest (Sep 2026 cohort): **2026-01-26 → 2026-02-26**, interviews 2026-02 → mid 2026-03 (links above) (previous: "opens 2025-09 → closes 2025-11-09", 2026-06)
+- **Interview differences vs intern**: JD lists only Apply → Interview → Offer; Glassdoor reports 2025-01 to 2026-04: HackerRank OA (2 questions: DSA + RESTful API, 75 min) → video interview → pair programming → 1h final (2 engineers: 15 min values + 45 min pair programming, practical rather than competitive-style) [Source (search result): https://www.glassdoor.co.uk/Interview/Wise-Interview-E637715-RVW101354491.htm]
+- **Competition**: no public data on cohort size / acceptance rate; London window was only ~12 days, so apply on opening day (inferred)
+- **Key links**: [WiseStart programme page (verified opened): https://wise.jobs/wisestart-programs] · [Open-roles sitemap (verified opened): https://wise.jobs/vacanciessitemap.xml] · [Levels.fyi London (verified opened): https://www.levels.fyi/companies/wise/salaries/software-engineer/locations/london-metro-area]
 
 ---
 

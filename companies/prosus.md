@@ -40,11 +40,11 @@
   - **业务**: 给 Prosus 投资组合公司 (Delivery Hero / iFood / OLX / Stack Overflow / Swiggy / PayU 等) 提供 production AI 系统
   - **薪资**: **€3,500/月 + relocation support to Amsterdam** [来源 (实际打开过): https://jobs.eu.lever.co/prosus/05dbb818-d2b4-4512-9865-7415321c9d49]
 - **起薪 (base + bonus + equity)**:
-  - **Traineeship**: €3,500/月 = **€42K/年 (12 月制, 不计 holiday allowance)**, 折算后 **超 reduced HSM €2,801/月 阈值 (NL master grad)**, 但未达标准 HSM <30 €4,357 阈值 — 暗示 Traineeship 路径主要适合 NL master grad 或已有 NL 居留者
+  - **Traineeship**: €3,500/月 = **€42K/年 (12 月制, 不计 holiday allowance)**, 折算后 **超 reduced HSM €3,122/月 阈值 (NL master grad)**, 但未达标准 HSM <30 €4,357 阈值 — 暗示 Traineeship 路径主要适合 NL master grad 或已有 NL 居留者
   - **Junior FT (e.g. Junior Cybersecurity)**: 公开数据稀缺 (Levels.fyi 无 Prosus 单独条目, 推断 €55-75K base); 业内 AMS Junior SWE 中位 **€78,751-€134,109** range [来源 (搜索结果): https://www.levels.fyi/t/software-engineer/locations/greater-amsterdam-area]
   - **Senior ML Engineer LLM**: 当前 active req, 推断 €100-140K base + bonus + Prosus stock (NYSE/Euronext: PRX, 流动性高)
 - **Sponsor 政策 (FT)**: 
-  - **Traineeship €3,500/月** = €42K/年, **达到 reduced HSM €33,612/年 (€2,801/月)** for NL master grad — 即官方 stipend 已 calibrated 到 reduced HSM 阈值, 暗示**面向 NL master grad** 设计
+  - **Traineeship €3,500/月** = €42K/年, **达到 reduced HSM €37,464/年 (€3,122/月)** for NL master grad — 即官方 stipend 已 calibrated 到 reduced HSM 阈值, 暗示**面向 NL master grad** 设计
   - 标准 HSM <30 阈值 €4,357/月 (= €52.3K/年) Traineeship 不达标; 但 Senior IC 起薪 €100K+ 远超
   - 提供 **relocation support** (明文) → IND Recognised Sponsor 几乎确定
 - **申请窗口**: rolling 全年; Lever 平台 17 个 AMS 开放岗 (含 1 ML Eng Intern + 1 Junior Cybersec + 多个 Senior IC) [来源 (实际打开过): https://findmethatdamjob.nl/companies/prosus/]
@@ -60,7 +60,7 @@
   - **Senior IC**: 标准 HSM Kennismigrant
 - **Intern vs FT sponsor 差异**: 显著 — intern 路径几乎不办, Traineeship/FT 走完整 HSM 流程
 - **已知 sponsorship 案例**: 无直接 1point3acres / Reddit / Blind 实证; 官方 Traineeship 页 "relocation support" 是最强 secondary signal
-- **2026 阈值**: NL Kennismigrant <30 **€4,357/月** / 30+ €5,942/月 / **NL master grad reduced €2,801/月** [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]
+- **2026 阈值**: NL Kennismigrant <30 **€4,357/月** / 30+ €5,942/月 / **NL master grad reduced €3,122/月** [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]
 - **30% ruling**: Traineeship base €42K/年 — 2026 ruling 阈值 <30 €46,107, **不达标**; 但 Senior IC 起薪 €70K+ 普遍达标
 
 ---
@@ -168,7 +168,7 @@
   - **Senior-heavy hiring** — 17 active reqs 里只 1 个 intern + 1 个 junior, entry 名额紧
   - 投资控股母公司 + 应用 AI team — 不是纯 startup / 纯 AI lab, identity 略模糊
   - 中文社群信息匮乏 — 没有 mentor / 校友帮你预判流程, 全靠 Glassdoor + 官方 JD
-  - Traineeship €3,500/月 = €42K/年, **不达标准 HSM <30 €4,357**, 只达 reduced HSM €2,801 (NL master grad reduced 路径) — 暗示这个项目主要面向 NL 在读 master grad, 海外 from-scratch 申请可能困难
+  - Traineeship €3,500/月 = €42K/年, **不达标准 HSM <30 €4,357**, 只达 reduced HSM €3,122 (NL master grad reduced 路径) — 暗示这个项目主要面向 NL 在读 master grad, 海外 from-scratch 申请可能困难
 - **对国际学生友好度**: 中等
   - 对 NL 在读 (UvA / TU Delft / VU 等) MSc / PhD = **高** (学生签直接 cover intern; 毕业后走 Traineeship + reduced HSM)
   - 对海外 from-scratch master 申请 = **中-低** (Intern 不办 visa, Traineeship 阈值卡到 reduced HSM, 适合面已经在 NL 的 candidate)
@@ -178,7 +178,7 @@
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐⭐⭐
 
 - **Intern 可行性**: **零摩擦** — UvA 在读 + NL student visa, 学生签 16h/wk 学期 / 40h/wk 假期直接 cover, Nuffic convention 走完即可. Prosus HQ Gustav Mahlerplein **离 UvA Roeterseiland 校区骑车 ~25 分钟 / metro 15 分钟**. ML Engineering Intern LLM R&D 当前 active, 直接 Lever 申请
-- **FT (Traineeship) 可行性**: **零摩擦** — 毕业走 zoekjaar, Traineeship €3,500/月 = €42K/年, **超 reduced HSM €2,801/月 阈值**. 公司提供 relocation support (UvA 在 AMS, relocation 对你不必要但说明 sponsor 流程成熟). 30% ruling 不适用 (base 不到 €46K), 这是唯一负面点
+- **FT (Traineeship) 可行性**: **零摩擦** — 毕业走 zoekjaar, Traineeship €3,500/月 = €42K/年, **超 reduced HSM €3,122/月 阈值**. 公司提供 relocation support (UvA 在 AMS, relocation 对你不必要但说明 sponsor 流程成熟). 30% ruling 不适用 (base 不到 €46K), 这是唯一负面点
 - **FT (Senior IC) 可行性**: **零摩擦** — 起薪 €100K+ 远超所有阈值, 但你应届可能直接 senior IC 困难
 - **预计摩擦**: 
   - Intern: 零

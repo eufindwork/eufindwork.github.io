@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](photoroom.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §1 的 '每月强制线下' 已不适用于多数岗位.
 > 信息丰富度: ⭐⭐⭐ (Photoroom 公开数据偏少, 但 English-first / 30% international policy 明确)
 > 一句话定位: Paris 生成式图像 AI 头部 startup (Diffusion / on-device AI), CEO 强调 "international by design" — 30% 强制 international, English-first, visa assistance + relocation bonus.
 
@@ -23,28 +24,25 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**: Software Engineer (iOS / Android / Backend), ML Research Engineer, ML Engineer, Founding 类岗位 (small team)
-- **欧洲地点**: **Paris only** (monthly in-person 强制), 远程允许 within Europe 其他天数
-- **是否有独立 Graduate Programme**: **No** — 太小 (~45-100 人 2024-2026, YC), 无 cohort; junior 走 final-year M2 stage 转正 + 直接 hire
+> 核查日期: 2026-10-10 (实时 WebFetch + Ashby API) | 信息丰富度: ⭐⭐⭐ (依据: Ashby 14 岗 JD 全量 + Levels.fyi France 直读 + Tech.eu; 无 entry-level 薪资, Glassdoor 未复核)
+> **2027 Intake 状态**: **No programme** — 无 grad / junior / intern 岗; photoroom.com/careers 跳转 Ashby, 2026-10-10 共 14 岗 (Paris 12 / NYC 2; R&D 8), 最接近 junior 的是 Product ML Engineer (Paris, 2+ 年经验) [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/photoroom]
+> **2026 新动态**: 2026-09-01 联合创始人 / CTO Eliot Andres 卸任高管、转 board member, 由 2026 年初加入的 Javier Sotelo (ex-Groupon) 接任; 文中估值 €500M, 未提裁员 [来源 (实际打开过): https://tech.eu/2026/09/01/photoroom-co-founder-quits-executive-role/]; 官方博客 2026 以产品发布为主 (Visual Agents 等), 未见融资 / 裁员 [来源 (实际打开过): https://www.photoroom.com/inside-photoroom]
+
+- **岗位名称**: 无 new grad 专属岗; 2026-10-10 工程 / ML 岗仅 Product ML Engineer (2+ 年), Senior Backend Engineer (5+ 年), Head of GenAI Platform; 其余为 PM / Analyst / Sales / G&A
+- **资格窗口**: 不卡学位 (旧版 Sifted: "qualifications are not important" [来源 (实际打开过, 旧版 2026-05): https://sifted.eu/articles/how-to-get-a-job-at-photoroom]); JD 要求英语流利, "French isn't required"
+- **欧洲地点**: Paris HQ (hybrid, 多数 JD 写每周约 3 天到办公室); JD 提到欧洲其他国家员工走 EOR; 旧版 "monthly in-person" 已不适用于多数岗位
+- **项目结构**: 无 cohort / rotation; rolling 单岗招聘; JD 自述 "100+" 人, Series B, 300+ million users
 - **非EU签证 (全职)**:
-  - **France**: Passeport Talent – Salarié Qualifié €38,616/yr or French Tech Visa ~€43K/yr — Photoroom SWE 中位 ~€72K-€103K, 远超阈值 [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/photoroom/salaries/software-engineer]
-  - **Photoroom 公开承诺 "visa assistance" + relocation bonus** (Paris 搬家奖金) [来源 (实际打开过): https://www.photoroom.com/inside-photoroom/from-around-the-world-to-photoroom-how-we-attract-and-nurture-global-talent]
-  - 流传 €10K signing bonus (用户提供, 未在 CEO 文章 verify)
-- **薪资范围 (Levels.fyi 2026, France)**:
-  - SWE 全级别: **€72.4K-€103K range** [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/photoroom/salaries/software-engineer]
-  - 没有公开 entry-level cut, 估算 Junior base ~€55-65K + equity (BSPCE)
-- **申请窗口**: Rolling, hiring competitive
-- **面试流程差异 vs 实习**: 全职多 founder round (CEO Matt Rouif 或 CTO Eliot Andres 出场), values round 重于技术
-- **录取竞争 / 国际生 friendliness**:
-  - **极高竞争** — 公开声明 "hiring very competitive"
-  - **国际生友好度高** — 30% int'l 强制, English-first, **"qualifications are not important" (Sifted 报道)** [来源 (实际打开过): https://sifted.eu/articles/how-to-get-a-job-at-photoroom]
-  - **不要求大学文凭** — Photoroom 公开 talent guide: "we don't require college credentials, demonstrable real-world impact and passion are what get you hired"
-- **关键链接**:
-  - Company: https://www.photoroom.com/company
-  - Inside Photoroom blog (international 政策): https://www.photoroom.com/inside-photoroom/from-around-the-world-to-photoroom-how-we-attract-and-nurture-global-talent
-  - WTTJ Jobs: https://www.welcometothejungle.com/en/companies/photoroom/jobs
-  - Levels.fyi: https://www.levels.fyi/en-gb/companies/photoroom/salaries/software-engineer
-  - YC profile: https://www.ycombinator.com/companies/photoroom
+  - JD 原话: "Visa sponsorship and relocation support up to €10,000" (Product ML Engineer); "Relocation support (up to 10k) ... including apartment finding and visa assistance"; "Visa sponsorship and relocation support are only available for positions based in France. We cannot sponsor visas for remote positions outside of France." (同上 Ashby 来源)
+  - **"€10K signing bonus" 未获证实**: 14 份 JD 均无 "signing bonus" 字样, 该数字实为 relocation (含 visa) 支持上限 (旧版 "流传 signing bonus" 已更正); CEO 2023-07-07 文章只提 "visa assistance, language classes, and team events" [来源 (实际打开过): https://www.photoroom.com/inside-photoroom/from-around-the-world-to-photoroom-how-we-attract-and-nurture-global-talent]
+  - **NL**: Photoroom 不在 IND 名册 → zoekjaar / Kennismigrant 不适用, 需走 FR Passeport Talent; ⚠️ **待 web 验证**: FR 阈值 (旧版 Salarié Qualifié €38,616/yr, French Tech ~€43K/yr) 本次未复核, 勿用于决策
+- **薪资范围 (gross/年, Levels.fyi France 2026-10-10 直读; 样本少, 非 entry)**:
+  - SWE median €137K, range €87.2K–€137K+, 最高 €156,083; median 包为 Senior 9 YOE = base €104K + stock €32.8K [来源 (实际打开过): https://www.levels.fyi/companies/photoroom/salaries/software-engineer]
+  - 旧版 (2026-05): range €72.4K-€103K, 估 Junior base ~€55-65K + BSPCE (推断, 无来源); 唯一公开 JD 薪资为非工程岗 Senior User Acquisition Manager €60,000–€70,000 + BSPCE
+- **申请窗口**: rolling; 2027 无公告; 无上一轮 grad cycle
+- **面试流程 (JD 原文)**: Senior Backend: Talent Manager screen 30min → HM technical 45min → take-home + live review 45min → culture fit / meet the team (~3h) → reference + offer; Product ML: ML engineer screen → take-home + review → culture fit → reference + offer (同上 Ashby 来源); 旧版 Glassdoor: 平均 24 天, positive 30.8% (2026-05)
+- **录取竞争**: 极高; 当前仅 2 个 IC 工程 / ML 岗且要求 2+ / 5+ 年 → 新毕业生直申机会小 (推断); M2 final-year stage 转正仍是主要入口 (旧版)
+- **关键链接**: Careers (跳转 Ashby): https://www.photoroom.com/careers · Company (实际打开过): https://www.photoroom.com/company · Levels.fyi (实际打开过): https://www.levels.fyi/companies/photoroom/salaries/software-engineer
 
 ---
 

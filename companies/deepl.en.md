@@ -2,7 +2,8 @@
 
 > **Language**: [中文](deepl.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — the reduced Blue Card figure €41,041.80 and 'explicit Blue Card sponsor' in §2 (2026: €50,700 / €45,934.20; the official pages do not mention sponsorship); the header ⭐⭐⭐⭐ rating is superseded by ⭐⭐⭐ in the New Grad section.
 > Information richness: ⭐⭐⭐⭐ (Levels.fyi DeepL Berlin SWE €77-95K + median total €95.5K verified + Glassdoor SWE interviews 60% positive + Ashby ATS verified + DE Blue Card sponsor industry verification + Arbeitnow sponsor tag)
 > One-liner: 2017 Cologne-founded "industry-best NLP translation" company, launched **DeepL Translator** (40+ languages) + **DeepL Write** (writing assistant) + **DeepL Voice** (real-time voice translation, launched 2024); valuation $2B; 800+ employees, **explicitly Blue Card sponsor + relocation friendly**, one of EU's most commercially mature NLP companies.
 
@@ -38,41 +39,26 @@
 
 ## New Grad / Junior Roles
 
-> DeepL is EU's most commercially mature NLP company, **Blue Card sponsor publicly + multiple international student onboarding cases**; hiring emphasizes Python / PyTorch / backend engineering, Cologne ML / Berlin Engineering dual centers
+> Checked: 2026-10-10 (live WebFetch + Ashby API) | Information richness: ⭐⭐⭐ (basis: full official Ashby board + Levels.fyi Germany/Berlin direct read + IND register; no level-split entry pay, Glassdoor 403)
+> **2027 intake status**: **No programme, and no engineering openings right now** — no graduate programme; on 2026-10-10 Ashby lists only 7 roles (Sales 4 / Customer 1 / Marketing 1 / Finance 1), **0 engineering / research / junior / intern roles** [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/DeepL]
+> **2026 news**: 2026-05-07 announced ~250 layoffs (of 1,000+ staff, about 25%); the CEO called it an "AI-first" restructuring, affected teams not disclosed [Source (verified opened): https://www.heise.de/en/news/Cologne-AI-translator-DeepL-lays-off-a-quarter-of-its-workforce-11286250.html]; 2026-06-17 acquired SF real-time audio startup Mixhalo and is opening a SF Bay Area office [Source (verified opened): https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/]
 
-- **Common role names**:
-  - **Software Engineer / Software Developer** (Backend Python + Frontend React + Mobile iOS/Android)
-  - **Machine Learning Engineer** (Cologne main)
-  - **Research Scientist (NLP / MT / TTS)** (Cologne, PhD preferred)
-  - **Site Reliability Engineer**
-  - **Working Student** (DE only)
-- **European locations**: Cologne (ML/Research main) / Berlin (Engineering main) / Munich / Amsterdam / London / Paris / Warsaw / Tallinn
-- **Independent Graduate Programme**: **No structured cohort**, goes through standard SWE / ML Engineer hiring; but **Ashby has grad-level roles** (often labeled "0-2 yr experience")
+- **Role names**: no dedicated grad / junior role; historically hired via standard Software Engineer / ML Engineer / Research Scientist requisitions (previous: "Ashby often labels 0-2 yr", 2026-05, cannot be re-checked as no engineering roles are open); Working Student IT (Cologne, posted 2026-08-04) is closed [Source (verified opened): https://careers.atomico.com/companies/deepl/jobs/88608232-working-student-it-werkstudent]
+- **Eligibility window**: no programme → no common window; Working Student requires enrolment in a BSc/MSc (CS/IT) + English and German + ≤20h/week during term (same source)
+- **European locations**: Cologne (HQ) / Berlin / Munich / Amsterdam / London / Paris / Warsaw / Tallinn (previous list, 2026-05); open roles on 2026-10-10 only in Vienna / Munich / London (none in engineering)
+- **Programme structure**: no cohort / rotation; inferred: per-role rolling hiring when openings exist, no fixed start month
 - **Non-EU visa (full-time)**:
-  - **Cologne / Berlin / Munich (DE EU Blue Card)**: 2026 IT shortage €45,934/year; reduced (within 3yr post-graduation) €41,041.80; DeepL Berlin SWE median total **€95.5K** (Levels.fyi verified), base estimated €70-85K, fully meets
-  - **Amsterdam (NL Kennismigrant)**: 2026 <30 €4,357/month (€52.3K/year), DeepL NL SWE estimated meets
-  - **London (UK Skilled Worker)**: 2026 £41,700, DeepL London SWE estimated meets
-  - **Sponsorship verification**:
-    - Arbeitnow tagged sponsor (DE Blue Card list) [Source: arbeitnow.com general sponsor jobs filter]
-    - Glassdoor multiple international SWE onboarded (Indian/Brazilian/Chinese/Russian backgrounds common in Cologne/Berlin)
-    - DE Cologne / Berlin / Munich are EU top Blue Card sponsor hubs, DeepL is common sponsor among them
-- **Salary range (base, gross/year, Levels.fyi 2026-05-31 verified)**:
-  - **Berlin SWE median**: **total €95.5K**, base $111K USD (≈€102K?), L3 (note: Levels.fyi data has USD/EUR conversion, actual data point base close to total, indicating RSU/bonus very low)
-  - **Berlin SWE range**: **€77.1K - €95.5K+**
-  - **DeepL DE highest package**: **€150,709/year** (Levels.fyi FAQ cited, Senior level)
-  - **Equity**: Private startup ($2B valuation), RSU/option; but Levels.fyi data shows stock $0/yr in most reported data points — indicates RSU at entry-level is almost 0, comp mainly relies on base
-  - **bonus generally $0** (Levels.fyi verified)
-- **Application window**: rolling
-- **Interview process differences vs Intern**:
-  - Full-time SWE: 4-5 rounds (30min screening + 1h tech bg + 1h coding + system design + culture)
-  - Praktikum / Werkstudent: 2-3 rounds (HR + technical + team fit)
-- **Hiring competition / international student friendliness**:
-  - Glassdoor SWE difficulty 3/5, 60% positive, 20 days hire cycle (Cologne) — **EU tech fast tier**
-  - International student friendliness high (Cologne / Berlin international + Blue Card publicly)
-- **Key links**:
-  - DeepL Career Hub (verified opened): https://www.deepl.com/en/careers/hub
-  - Ashby ATS: https://jobs.ashbyhq.com/DeepL
-  - Levels.fyi (verified opened): https://www.levels.fyi/companies/deepl/salaries/software-engineer
+  - **NL**: **DeepL NL B.V. (KvK 84080930) is on the IND recognised-sponsor register** (register updated 2026-10-05) → Amsterdam roles could use Kennismigrant, with the reduced €3,122/month threshold during zoekjaar [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; but Amsterdam currently has 0 openings
+  - **DE Blue Card 2026**: general €50,700 / reduced €45,934.20 (shortage occupations incl. IT + graduates <3 years) [Source (verified opened): https://gpa.net/blogs/emea-1/germany-eu-blue-card-rules-for-2026-tightened-higher-salaries-expanded-talent-pool] (previous reduced €41,041.80 was an older year's figure, corrected)
+  - The official careers page on 2026-10-10 **does not mention** visa sponsorship / relocation [Source (verified opened): https://www.deepl.com/en/careers]; the "Blue Card sponsor" conclusion comes from third-party tags + employee backgrounds (previous inference, not officially confirmed)
+- **Salary range (gross/year, Levels.fyi direct read 2026-10-10; no level split, samples mostly mid/senior)**:
+  - Germany SWE: median €105K, range €78.3K–€105K+; median package = base €84.7K + stock €19.9K (Research Scientist, 5 YOE, Cologne) [Source (verified opened): https://www.levels.fyi/companies/deepl/salaries/software-engineer]
+  - Berlin SWE: median €107K, range €83.4K–€107K+, highest €156,802 (median package is Senior, 5 YOE) [Source (verified opened): https://www.levels.fyi/companies/deepl/salaries/software-engineer/locations/berlin-metropolitan-region]
+  - Previous (2026-05): Berlin median €95.5K, range €77.1K-€95.5K+; **no public entry-level data**, inferred BSc/MSc new grads sit below p10 (€78.3K)
+- **Application window**: rolling, no fixed window; nothing announced for 2027; no previous grad cycle to benchmark
+- **Interview process (full-time vs intern)**: Glassdoor snippets (2025-26): recruiter 30 min → 2 × 1h live coding (Google Doc, no IDE) → 1.5h system design (e.g. design the DeepL API) → EM 30 min; one 2026-04 report included an "AI round" (using AI to write tickets / scoping); no OA [Source (search result): https://www.glassdoor.ca/Interview/DeepL-Interview-E2426949-RVW104429136.htm]; Werkstudent 2-3 rounds (previous)
+- **Competition**: 0 engineering roles on the board after the layoffs (2026-10), inferred near-frozen engineering hiring and much tighter competition; NLP/MT background + German (Werkstudent) help
+- **Key links**: Ashby board: https://jobs.ashbyhq.com/DeepL (data verified via the API opened above) · Career Hub (verified opened): https://www.deepl.com/en/careers/hub · Levels.fyi (verified opened): https://www.levels.fyi/companies/deepl/salaries/software-engineer
 
 ---
 

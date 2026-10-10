@@ -73,7 +73,7 @@
   - **Limited-time €30K bonus** for select positions (senior roles)
 - **2026 thresholds**:
   - **LT**: National Visa / EU Blue Card LT threshold ≈ €2,178/month gross (1.2x avg, 2025 data), Academy €2,233 just satisfies
-  - **NL** (if applying Amsterdam): Kennismigrant <30 €4,357 / 30+ €5,942 / reduced €2,801
+  - **NL** (if applying Amsterdam): Kennismigrant <30 €4,357 / 30+ €5,942 / reduced €3,122
 - **Lithuanian language**: not required (Vinted internal work language English)
 
 ---

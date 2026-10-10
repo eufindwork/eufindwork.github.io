@@ -2,6 +2,8 @@
 
 > **Language**: [中文](snowflake.md) | English
 >
+> Updated: 2026-10-10
+>
 > US cloud data warehouse / Data Cloud giant (NYSE: SNOW). European engineering internships concentrated in **Berlin + Warsaw** two R&D hubs, London / Amsterdam / Dublin / Paris mainly GTM/Sales/Support, **almost no SWE intern**. OA uses HackerRank, questions "harder than FAANG" (mostly DP + system type), international student friendliness medium — Berlin / Warsaw engineering roles friendly to Blue Card sponsor, but entry-level new grad headcount low, main path is still intern → return offer.
 
 ---
@@ -25,40 +27,21 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐ (Berlin / Warsaw Levels.fyi data complete, but European dedicated Graduate Programme almost non-existent, info scattered)
+> Checked: 2026-10-10 (Ashby API + Levels.fyi WebFetch; "read directly" = official API / document read via curl, not WebFetch) | Information richness: ⭐⭐⭐ (basis: live JDs + Levels.fyi; no graduate programme in Europe)
+> **2027 Intake status**: **No programme (Europe)** — no new-grad / graduate programme in Europe; of 358 live Ashby jobs on 2026-10-10, the European engineering entry point = **Software Engineer Intern - Berlin (2027)** (posted 2026-09-29, "Target start dates: February 2027 and onward") + intern → return offer; regular Berlin / Warsaw SWE reqs mostly require 2+ / 3+ / 4+ years [Source (read directly): https://api.ashbyhq.com/posting-api/job-board/snowflake]
+> **2026 H2 news**: Q2 FY27 (2026-09-02) revenue $1.55B +35%, FY27 product revenue guidance $6,070M (+36%) [Source (read directly): https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm]; priced $3.75B of convertible notes on 2026-09-28 [Source (read directly): https://www.sec.gov/Archives/edgar/data/1640147/000164014726000043/exhibit992-pricingpressrel.htm]; no layoff / hiring-freeze announcement found
 
-- **Common role names**: Software Engineer (entry, IC1), Software Engineer Intern (Backend / AI-ML / Infra Automation / Engineering Systems / Document AI), Research Intern (AI); full-time entry-level occasional but in general SWE reqs, no "Graduate Programme" brand
-- **European locations (engineering)**: **Berlin** + **Warsaw**; London engineering mainly senior (Java Platform / Metadata IC4+), doesn't hire entry SWE
-- **Independent Graduate Programme**: **No (Europe)** — Snowflake globally only has US HQ's GenSWE (General Software Engineering Program) [Source (verified opened): https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram]; Europe goes via "intern → return offer" main path, ~70-80% strong interns convert [Source (search result): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]
-- **Non-EU visa (full-time)**:
-  - **Germany Blue Card (Berlin)**: 2025 threshold ~€48,300/year (normal) / €43,759 (shortage occupation, IT included), Snowflake Berlin IC1 base €94.6K, far above threshold, **explicit sponsor** (Berlin office is R&D hub, many international employees)
-  - **Poland Blue Card / Type A work permit (Warsaw)**: low threshold (~PLN 9,000/month = €2,100), Snowflake Warsaw IC1 base ~PLN 200K+/year, **can sponsor**
-  - **UK Skilled Worker (London)**: Snowflake UK has sponsor license (LinkedIn full-time senior roles say "sponsor available"), but London doesn't open entry-level SWE, low actual utilization
-  - **NL Kennismigrant (Amsterdam)**: Amsterdam engineering roles extremely few, mainly Commercial Solution Engineer, not international student SWE path
-  - **Ireland GE Permit (Dublin)**: same as NL, Dublin mainly Cloud Support roles, not SWE
-- **Salary range (base, gross/year)** (Levels.fyi 2026-05 update):
-  - **Berlin IC1**: base **€94.6K**, RSU **€43.8K/year** (4-yr vest, 25%/year), bonus €4.7K → **TC ~€143K** [Source (verified opened): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region]
-  - **Berlin IC2**: base **€117K**, RSU **€75K/year**, bonus €11.4K → **TC ~€203K**
-  - **Warsaw IC1**: base **~PLN 200K** (~$46.5K), RSU ~$15.5K/year, bonus ~$5.9K → **TC ~$68K** [Source (verified opened): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/warsaw-metropolitan-area]
-  - **London / Amsterdam / Dublin / Paris IC1**: **no data points on Levels.fyi** (because these offices basically don't hire entry SWE)
-  - Benefits: RSU is the bulk (listed company, NYSE good liquidity), Berlin/Warsaw also have Edenred meal voucher / health insurance / company stock ESPP 15% discount
-- **Application window**:
-  - Internship (Berlin/Warsaw): **opens Sep-Nov each year for next summer**, fall intern opens Sep-Oct, "early application advantage" (US Sep-Oct rolling in sync with Europe) [Source (search result): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]
-  - Full-time: Rolling year-round, mainly 1 wave each H1/H2
-- **Interview process differences vs intern**:
-  - Intern: HackerRank OA (3 questions 90-120 min) + 2-3 rounds technical (mainly coding)
-  - Full-time entry: same OA + 4 rounds (2 coding + 1 system design + 1 BQ), Snowflake **"system design is mandatory for IC1+"** (intern occasional), leans database internals rather than pure LeetCode
-  - Full panel 4 stages, **2-4 weeks to complete** [Source (search result): https://www.glassdoor.com/Interview/Snowflake-Berlin-Interview-Questions-EI_IE928471.0,9_IC2622109.htm]
-- **Hiring competition**: Acceptance rate ~6-8% (interns + new grads), slightly harder than FAANG, OA filters aggressively [Source (search result): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]; intern conversion is **team headcount-limited** (no floating pool), Glassdoor multiple reviews complain "no matter how much you contribute, if team has no headcount you can't get return"
-- **Key links**:
-  - Official University Recruiting: https://careers.snowflake.com/us/en/university
-  - GenSWE Program (US only): https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram
-  - Berlin office page: https://careers.snowflake.com/us/en/berlin-germany
-  - Warsaw office page: https://careers.snowflake.com/us/en/warsaw-poland
-  - Levels.fyi Berlin SWE: https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region
-  - Levels.fyi Warsaw SWE: https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/warsaw-metropolitan-area
-  - Levels.fyi Intern (global): https://www.levels.fyi/internships/Snowflake/Software-Engineer-Intern/
-  - Internship FAQ: https://careers.snowflake.com/us/en/blogarticle/snowflake-internship-faqs
+- **Role names**: no "Graduate Programme" brand; GenSWE is US only [Source (verified opened): https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram]. Non-senior SWE reqs live in Europe on 2026-10-10: Berlin "Software Engineer - Java Platform" (2026-09-25, only states "BS in Computer Science or equivalent experience", no years) [Source (read directly): https://jobs.ashbyhq.com/snowflake/23c94498-23c8-4d6e-a1d8-4355bf605663]; Berlin Dynamic Tables (2+ yrs), Warsaw Software Engineer (3+ yrs) / SnowCommand (2+ yrs) / Applied AI (3+ yrs) / AI Team (4+ yrs) → the only full-time req a new grad can realistically apply to is Java Platform (inferred)
+- **Eligibility**: Berlin intern (2027): must be enrolled during the internship (3rd-year bachelor up to MSc / PhD), 4 months minimum / 6 recommended / up to 12, C++ or Java, English [Source (read directly): https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8]; full-time after graduation depends on a return offer (JD: "Clear pathways for post-internship career opportunities, including full-time roles")
+- **European locations**: engineering = Berlin (Potsdamer Platz, "The official language for this office is English", "actively hiring software engineers from Europe and around the world") + Warsaw; London / Amsterdam / Paris are GTM only (Amsterdam: SDR / Solution Engineer / AE; London: Associate Solution Engineer posted 2026-09-22, SDR Intern)
+- **Programme structure**: no cohort, full-time hires go through regular IC1 reqs; interns also via Software Engineer Intern - Berlin (2026) (2026-06-02, still listed) and a Warsaw Security intern
+- **Non-EU visa (full-time)**: DE Blue Card 2026: €50,700 general / €45,934.20 for shortage occupations or graduates within 3 years [Source (verified opened): https://service.berlin.de/dienstleistung/324659/en/] — Berlin IC1 base is far above; NL: Snowflake Computing Netherlands B.V. (KvK 73059277) is on the IND recognised-sponsor register (2026-10-05 version) [Source (read directly): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], but Amsterdam has no engineering roles, so zoekjaar does not directly help on Snowflake's engineering path
+- ⚠️ **Pending web verification**: Poland (Warsaw) Blue Card / work-permit 2026 thresholds not verified this round (previous "~PLN 9,000/month"); do not use for visa decisions before re-checking
+- **Pay (Levels.fyi, 2026-10-10)**: Berlin IC1 €125K = base €82.6K + stock €38.2K + bonus €4.1K; IC2 €176K (base €102K) [Source (verified opened): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region] (previous: IC1 ~€143K / IC2 ~€203K, 2026-05); Warsaw IC1 PLN 256K = base PLN 176K + stock PLN 58.3K + bonus PLN 22.3K; IC2 PLN 345K [Source (verified opened): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/warsaw-metropolitan-area] (previous: IC1 ~$68K); RSU 4-year vest
+- **Application window**: Berlin intern (2027) posted 2026-09-29, no deadline (rolling); full-time is rolling with no fixed window
+- **Interview differences vs intern**: previous page (not re-verified): HackerRank OA 3 questions 90-120 min → 2 coding → system design (mandatory for full-time IC1+, database-internals flavoured) → BQ; about 2-4 weeks end to end; interns usually skip system design; use Java / C++ for the OA
+- **Competition**: intern conversion is limited by team headcount; the previous "acceptance ~6-8%" comes only from a search result [Source (search result): https://www.getsmartresume.com/article/snowflake-internship-new-graduate-opportunities]
+- **Key links**: [University Recruiting: https://careers.snowflake.com/us/en/university] · [Ashby job board (read directly): https://jobs.ashbyhq.com/snowflake] · [Levels.fyi Berlin (verified opened): https://www.levels.fyi/companies/snowflake/salaries/software-engineer/locations/berlin-metropolitan-region]
 
 ---
 

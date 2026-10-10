@@ -2,6 +2,8 @@
 
 > **Language**: [中文](cohere.md) | English
 >
+> Updated: 2026-10-10
+>
 > Cohere is a Canadian enterprise-grade LLM company, founder Aidan Gomez is one of the Transformer paper authors. **London is one of the core European offices**, mainly handling research + enterprise sales. 2024-2025 company revenue tripled, completed Paris office expansion (40 people). **ML/AI Intern interview bar extremely high, Research Intern requires PhD in progress + top venue papers**; non-PhD candidates may also enter via Engineering Intern channel, but still need solid ML engineering experience.
 
 ## 1. Company Snapshot
@@ -19,39 +21,20 @@
 
 ## New Grad / Junior Roles
 
-> Information density: ⭐⭐⭐⭐ (Levels.fyi London SWE 2026-05-27 verified has specific L3 MTS data points; Glassdoor UK MTS data sample relatively small, US data abundant, **London median £172K total / base ~£135K**)
-> Difference from internship: full-time entry-level (0-2 years experience) — Cohere is centered on "Member of Technical Staff" (MTS), internally graded L3/L4/L5 but title doesn't distinguish
+> Checked: 2026-10-10 (live WebFetch + Ashby API; this session's WebSearch quota was exhausted) | Information density: ⭐⭐⭐⭐ (basis: Levels.fyi London read directly on 2026-10-10, 57 samples + official newsroom + full Ashby posting list)
+> **2027 intake status**: **No programme (new grad); Cohere Labs Scholars = Upcoming** — no new grad / junior title, newcomers go through the MTS track; Scholars Program currently closed: "We are currently evolving the Research Scholars program. Applications are expected to open in Fall 2026" (not yet open on 2026-10-10) [Source (verified opened): https://cohere.com/research/scholars-program]
+> **2026 H2 news**: 2026-09-16 definitive business combination agreement with Aleph Alpha — dual HQ Berlin + Toronto, Heidelberg kept as a research centre, >1,000 people combined, subject to regulatory approval, expected to close this year [Source (verified opened): https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement]; 2026-10-05 PwC partnership, 2026-08-06 University of Waterloo talent partnership (Canada) [Source (verified opened): https://cohere.com/newsroom]; (H1 context) 2026-06-15 new London office at 100 New Oxford Street, 14,000+ sq ft, up to 100 people, growing AI engineering / applied ML / infrastructure / customer deployment [Source (verified opened): https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth]
 
-- **Common role names**: Member of Technical Staff (Research / Engineering), Machine Learning Engineer, Software Engineer, Research Engineer; **no "Junior" / "New Grad" explicit title** — new hires enter as L3 MTS, share same title with experienced candidates
-- **European locations**: London (core research + engineering hub, same as internship) + Paris (40-person new office, 2024 expansion, lean research + enterprise sales support); very few fully remote European roles
-- **Standalone Graduate Programme**: **No** — Cohere ~400 people, doesn't run cohort grad pipeline; everything goes through MTS channel, same as OpenAI / Anthropic model (paper + code > degree label)
-- **Non-EU visa (full-time)**:
-  - **London**: Cohere UK Ltd is **Skilled Worker licensed sponsor** (Home Office register confirmed [Source (search result): https://immigrationgpt.co.uk/company/Cohere-UK-Ltd]); can issue CoS to non-UK new grad
-  - **Key update**: UK Skilled Worker minimum base raised from £38,700 to £41,700 from 2025-07-22 (still effective 2026) [Source (search result): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; also New Entrant discount line £33,400; Cohere London L3 base ~£135K far exceeds
-  - **Paris**: Passeport Talent (salarié qualifié) available, base needs ≥ €43,243 (2026 SMIC × 1.8), Cohere Paris MTS base estimated €90K+ fully meets
-  - Completely different from internship (Student Visa / carte de séjour étudiant) path, **full-time more stable**
-- **Salary range (base, gross/year)**:
-  - **London MTS L3 median 2026-05-27 verified**: **base ~£135K ($176K USD) / total £172K ($230K USD) / stock ~£42K ($54.1K) / bonus 0** — Levels.fyi L3 median (median 4 years experience, 2 years tenure, slightly higher than pure new grad) [Source (verified opened): https://www.levels.fyi/en-gb/companies/cohere/salaries/software-engineer/locations/london-metro-area]
-  - **London SWE range**: £82.3K-£171K+ (Levels.fyi 2026-05 range) → **pure new grad L3 estimated falls in £100-130K base**
-  - **Glassdoor UK MTS average**: £44K base (sample extremely small, biased report, severely inconsistent with Levels.fyi — use Levels as standard) [Source (search result, WebFetch 403): https://www.glassdoor.co.uk/Salary/Cohere-Member-Of-Technical-Staff-Salaries-E6413613_D_KO7,32.htm]
-  - **US MTS average**: $240K base (Glassdoor US, 25-75 percentile $190K-$308K) — Europe London 0.7-0.75 discount roughly matches Levels.fyi data
-  - **Paris MTS L3** (estimated, no Levels data): €90-115K base + equity (higher than Mistral L3 €70-80K, on par with OpenAI Paris)
-  - **CEO Aidan Gomez publicly committed "extremely high salaries"** — same tier as Anthropic/OpenAI verified by Levels.fyi
-- **Application window**: rolling — open year-round, Ashby recruiting page continuously updated [Source (search result): https://cohere.com/careers]; **after paper deadlines (ICML / NeurIPS) Research MTS** roles released in batches
-- **Interview process difference vs internship**:
-  - One more round: **Paper Bar significantly heavier** (Research MTS must have 1-2 rounds paper deep dive, internship occasionally has)
-  - **System Design mandatory** (internship only ML Intern has): ChatGPT-class serving / training pipeline / multi-tenant inference
-  - Coding bar same as internship (Colab + ML implementation questions), but **total rounds 1-2 more** (5-7 rounds vs internship 4-5 rounds)
-  - OSS / paper at least one is **hard requirement** — Cohere For AI (C4AI) team especially values Aya / multilingual NLP contributions
-- **Acceptance competition**: Extremely high — Pass rate estimated 5-10% (vs internship 20-30%); competing for same batch as OpenAI / Anthropic / DeepMind; **international student OK** but needs paper or OSS hard currency, school brand is plus but not deciding
-- **Key links**:
-  - Official careers page: [cohere.com/careers](https://cohere.com/careers)
-  - Levels.fyi Cohere London SWE: [levels.fyi Cohere London](https://www.levels.fyi/en-gb/companies/cohere/salaries/software-engineer/locations/london-metro-area) (verified opened, 2026-05-27 data)
-  - Cohere UK Ltd Skilled Worker status: [immigrationgpt.co.uk](https://immigrationgpt.co.uk/company/Cohere-UK-Ltd)
-  - UK Skilled Worker 2026 £41,700 threshold: [Jobbatical](https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide)
-  - Cohere Paris expansion: [Sifted - Aidan Gomez interview](https://sifted.eu/articles/aidan-gomez-cohere-interview)
-  - Blind Cohere discussion: [teamblind.com/Cohere](https://www.teamblind.com/company/Cohere/posts/cohere-interview)
-  - Cohere Labs (research vs engineering distinction): [cohere.com/research](https://cohere.com/research)
+- **Role names**: Member of Technical Staff (Modeling / Post-Training / Pre-Training Data / Multilingual / Agent Code / RL Environments / Training Infra etc.), Software Engineer, Integrations, Forward Deployed Engineer (Europe / UK Public Sector / France); on 2026-10-10 Ashby has 119 postings, 46 include a European location (London 30 / Paris 16 / "Europe" 13 / UK 11 / Berlin 5 / Munich 3 / Brussels 2 etc.), 0 new grad / junior titles (full Ashby API parse via curl: https://api.ashbyhq.com/posting-api/job-board/cohere)
+- **Eligibility**: most MTS JDs state no years requirement (MTS Multilingual requires a PhD or equivalent experience); public-sector roles need UK security clearance or French citizenship (France TPM / CSM); some UK sales roles say "Existing right to work in the UK"; language: France public-sector roles require French, engineering roles English only
+- **European locations**: London (core research + engineering, new office 2026-06), Paris, Berlin (listed as a key office in postings; one of the dual HQs after the Aleph Alpha combination), Munich / Frankfurt / Brussels / Edinburgh (multi-location FDE postings), Heidelberg (research centre, pending close)
+- **Programme structure**: no cohort / rotation, newcomers join as L3 MTS with the same title as experienced staff (lowest public Levels.fyi London level = L3 "Member of Technical Staff"); Scholars Program = remote-first, full-time paid research programme (no relocation, no publication record required), length / stipend not stated on the page
+- **Non-EU visa (full-time)**: **UK**: Cohere UK Ltd on the official register = Worker (A rating), Skilled Worker [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers — 2026-10-09 CSV downloaded and searched] (previously only a search result); threshold £41,700 (£33,400 in specific cases) [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]. **FR**: Passeport Talent salarié qualifié €39,582 only for a master's obtained in France → non-French degrees use EU Blue Card €59,373 [Source (verified opened): https://www.service-public.gouv.fr/particuliers/vosdroits/F16922] (previous: "≥ €43,243", 2026-05). **DE (Berlin)**: Blue Card €50,700 / shortage occupations €45,934 (⚠️ Pending web verification: official pages blocked by Radware / 404, repo baseline values used). Scholars FAQ "Will Cohere Labs sponsor work permits?" → answered with remote-first, "no requirement to relocate" (no explicit sponsorship commitment). **NL student visa / zoekjaar**: no NL office, zoekjaar does not apply; Scholars is remote-first → may be doable remotely from NL (inferred, employment form to be confirmed)
+- **Pay range (gross/year)**: **Levels.fyi London SWE (2026-10-10, 57 entries)**: median £177K (exact £176,929), average £183,886, highest £261,527, range £82,900 – £177,000+; L3 MTS row: total £236K / base £152K / stock £25.3K / bonus £0 (sample 5 yrs experience; columns are the values Levels.fyi shows and need not add up) [Source (verified opened): https://www.levels.fyi/en-gb/companies/cohere/salaries/software-engineer/locations/london-metro-area] (previous: L3 base ~£135K / total £172K, 2026-05-27). Official postings only publish Canada / US ranges: MTS (Multilingual etc.) base CA$295K – CA$535K (Toronto/Montreal) / CA$250K – CA$460K (Canada) / $205K – $380K (US CA/NY/WA); SWE Integrations CA$215K – CA$270K / $180K – $225K; no GBP / EUR ranges. Paris MTS has no Levels data (previous estimate €90-115K, unverified)
+- **Application window**: full-time rolling; Scholars expected to open Fall 2026 (not open as of 2026-10-10); Winter 2027 internships (SWE / ML / Research) posted 2026-05, still open on 2026-10-10, incl. London/UK/Europe [Source (verified opened): https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254]
+- **Interview process difference vs internship**: MTS has 1-2 more rounds than internship (5-7 vs 4-5): Research MTS adds 1-2 paper deep-dive rounds, system design mandatory (serving / training pipeline / multi-tenant inference); coding same as internship (Colab + ML implementation tasks) (compiled 2026-05, no new reports found this round)
+- **Competition**: extremely high, pass rate estimated 5-10% (inferred); a paper or OSS work is close to a hard requirement; public-sector roles (clearance / citizenship) not feasible for non-EU candidates
+- **Key links**: Careers https://cohere.com/careers (verified opened) · Scholars https://cohere.com/research/scholars-program (verified opened) · Levels.fyi London (see above) · Aleph Alpha combination https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement (verified opened)
 
 ## 2. Internship Roles & Directions
 

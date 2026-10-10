@@ -2,6 +2,8 @@
 
 > **Language**: [中文](arm.md) | English
 >
+> Updated: 2026-10-10
+>
 > Arm Holdings (SoftBank-owned, NASDAQ IPO'd 2023) is at the core of global semiconductor IP — virtually every ARM-architecture SoC traces its roots to the Cambridge Fulbourn Road HQ. Arm is the flagship brand of UK "hard tech" internships, with an **extremely mature placement culture**, complete 3 / 6 / 12-month programmes + a 2-year Part-time Undergraduate Programme. Historically heavy hiring of Chinese / Indian students.
 
 ## 1. Company Snapshot
@@ -18,54 +20,21 @@
 
 ## New Grad / Junior Positions
 
-> Info richness: ⭐⭐⭐⭐⭐ (Arm Graduate Programme global 650+ grads / 21 locations / 11 countries publicly posted, Levels.fyi Grade 2-6 tiered 2026-05 real-time data complete, abundant Chinese/English/Indian community interview reports)
-> Distinction from internships: full-time entry-level (0-2 years experience); Arm has a named **Graduate Program** [Source (verified opened): https://careers.arm.com/graduates], spanning software engineering / microchip design / IP multiple functions
+> Checked: 2026-10-10 (live WebFetch + careers.arm.com search endpoint) | Info richness: ⭐⭐⭐⭐ (basis: official FAQ + 3 postings with pay + Levels.fyi 2026-10 direct read; 2026 H2 news not checked)
+> **2027 intake status**: **Europe Open / UK Upcoming** — official FAQ: Europe & Israel applications open 2026-09, UK interns/graduates open 2026-10 (no UK graduate role live as of 2026-10-10), rolling first-come-first-served [Source (verified opened): https://careers.arm.com/emerging-talent-faq]; the UK programme is 2 years and starts each September (inferred start 2027-09) [Source (verified opened): https://careers.arm.com/arm-united-kingdom]
+> ⚠️ **Pending web verification**: 2026 H2 news (layoffs / restructuring / own-chip strategy) not checked this round because the WebSearch quota was exhausted; do not infer hiring volume from this until re-checked.
 
-- **Common role names**: Graduate Engineer (general), Graduate Engineer - CPU Implementation (hardware), Graduate Software Engineer, Graduate ML Engineer, Graduate Architecture Engineer; the careers page uses explicit "Graduate" naming for each req
-- **EU locations**: HQ **Cambridge UK (Peterhouse Tech Park / Fulbourn Road)** — the largest Graduate cohort entry; other UK: **Manchester, Sheffield, Belfast, Warwick**; Europe: **Sophia Antipolis (France), Lund (Sweden), Trondheim (Norway)**; 21 locations across 11 countries globally [Source (verified opened): https://careers.arm.com/graduates]; majority of Graduate cohort in UK
-- **Independent Graduate Programme**: **Yes — Arm Graduate Program (global 650+ graduates)**
-  - Spans software engineering / microchip design / IP multiple functions
-  - **Degree**: Bachelor / Master / PhD all accepted ("all degree types") [Source (verified opened): same as above]
-  - Multiple tracks: **Software (Compilers / OS / Tools), Silicon (CPU Implementation / GPU / SoC), Machine Learning, Architecture, Research, System Performance (incl. AI/ML / computer vision / media / gaming workload analysis)**
-  - Cohort onboarding centralized (usually starts the next September); Bright Network lists 2026 Graduate SWE Cambridge still hiring [Source (search result): https://www.brightnetwork.co.uk/graduate-jobs/arm/graduate-software-engineer-cambridge-2026]
-  - Default conversion to Engineer after program; large Intern → Graduate → Engineer pipeline
-  - **Salary review frequency: 2x/year** [Source (verified opened): https://careers.arm.com/graduates]
-- **Non-EU visa (full-time) — 2026 major policy update**:
-  - **UK Skilled Worker Visa 2026 new threshold**: general threshold **£41,700** (up from £38,700, effective 2025-07); Software Developer industry going rate **£49,400** [Source (search result): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]
-  - **Graduate / new entrant lower threshold**: **£33,400** (young / recent grad / Student switcher), Arm Graduate Cambridge base £42K safely clears the new entrant route
-  - Arm UK is a licensed sponsor, **Graduate roles will sponsor Skilled Worker** (one of the most active hard-tech companies in the industry)
-  - **Graduate Visa (PSW)**: UK graduates 2 years (PhD 3 years), Arm accepts large numbers of PSW candidates who later convert to Skilled Worker
-  - **High Potential Individual (HPI) Visa**: Top 50 global universities, graduates within 5 years can apply for 2 years (PhD 3 years), Arm accepts
-  - Internships mostly use Student Visa, full-time sponsorship is routine — Arm is **one of the most international-student-friendly UK hard-tech sponsors**, historically hires large numbers of Chinese / Indian candidates
-- **Salary range (Levels.fyi 2026-05 data, Greater Cambridge Area)**:
-  - **Grade 2 (Graduate Engineer entry)**: TC median **£52,622**, base ~$61,488 (~£48K) + stock $12,319 + 0 bonus, range £41.7K-£68.5K+ [Source (verified opened): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-2/locations/greater-cambridge-area]
-  - **Grade 3 (Engineer)**: TC median **£74,064**, range £61.8K-£88.2K+ [Source (search result): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-3/locations/greater-cambridge-area]
-  - **Grade 4 (Senior Engineer)**: TC median **£110,962**, range £89.4K-£130K+ [Source (search result): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-4/locations/greater-cambridge-area]
-  - **Grade 5 (Principal)**: TC median **£158,279**, range £120K-£222K+
-  - **Grade 6 (Distinguished)**: TC median **£222,604**, range £182K-£298K+
-  - **Overall Cambridge SWE**: TC median £113K, range £55.3K-£227K+ [Source (search result): https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-cambridge-area]
-  - Benefits: RSU (Arm NASDAQ: ARM, RSU value realised after 2024-2025 stock price from $50 to $150+), annual bonus, pension 18% (extremely high industry-wise), health insurance, Arm Academy training, relocation budget
-  - Lower than FAANG London (Google L3 ~£70k base + RSU), but Cambridge has lower cost of living + excellent WLB
-- **Application window**: **Opens September-October** rolling assessment (first-come-first-evaluated), typically **fills by December - next January**; starts the following September; apprenticeships open in early spring 2026 with September start
-- **Interview process vs intern**:
-  - Intern 4 rounds (OA → tech chat → tech panel → manager), Graduate **5-6 rounds + Final Day onsite assessment**
-  - **Final Day onsite** includes: 2 rounds tech panel + behavioural + team fit (full day)
-  - System Design / architecture questions go deeper at Graduate level: SWE tests compiler pass design / OS scheduler / cache coherence; Silicon tests pipeline hazard + memory consistency + power optimization
-  - HireVue recording + personality test remain in Graduate flow
-  - Unlike FAANG: Arm rarely asks LeetCode hard, focuses on systems / architecture / C++ depth
-- **Selectivity**: Arm Graduate ~5-10% acceptance rate (5000+/year applicant pool), bar is moderate (vs FAANG), emphasis on systems / hardware depth; international student friendliness **top-tier in the industry** — best UK hard-tech grad entry for international students; high conversion rate
-- **Key links**:
-  - **Arm Graduate Program (official 2026)**: https://careers.arm.com/graduates
-  - Arm Graduate Job Listings: https://careers.arm.com/graduate-jobs
-  - Arm Graduate jobs by category: https://careers.arm.com/category/graduate-jobs/34601/8097056/1
-  - Arm UK Graduate & Intern Roles: https://careers.arm.com/arm-united-kingdom
-  - **Bright Network Arm Graduate SWE Cambridge 2026**: https://www.brightnetwork.co.uk/graduate-jobs/arm/graduate-software-engineer-cambridge-2026
-  - **Levels.fyi Arm Grade 2 Cambridge (2026-05)**: https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-2/locations/greater-cambridge-area
-  - Levels.fyi Arm Grade 3 Cambridge: https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-3/locations/greater-cambridge-area
-  - Levels.fyi Arm SWE All Levels Cambridge: https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-cambridge-area
-  - Glassdoor Arm Cambridge Graduate: https://www.glassdoor.com/Interview/ARM-Holdings-Graduate-Software-Engineer-Interview-Questions-EI_IE7834.0,12_KO13,39.htm
-  - **UK Skilled Worker 2026 threshold update**: https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide
-  - 1point3acres Arm interview compilation: https://www.1point3acres.com/interview/company/arm
+- **Role names**: 7 graduate roles open on 2026-10-10, 5 in Europe: Graduate Software Engineer (Munich) · Graduate Software Engineer, Graduate Engineer, System IP Engineering (Budapest) · Graduate Hardware Engineer, GPU Modelling Graduate Engineer (Trondheim); plus 1 each in Ra'anana and Austin; UK 0 [Source (read via curl): https://careers.arm.com/category/graduate-jobs/34601/8097056/1]
+- **Eligibility**: Bachelor's / Master's / PhD, must "hold, or be on track to complete, a degree by the start of your program"; no experience cap stated; English (explicit in the Budapest posting) [Source (verified opened): https://careers.arm.com/graduates]
+- **European locations**: UK (Cambridge / Manchester / Sheffield / Bristol, opening 2026-10) + Munich / Budapest / Trondheim (open) + Sophia Antipolis / Galway (interns only for now); official scale "650+ graduates over 21 locations in 11 countries" (footnote "Data accurate as of July 2025")
+- **Programme structure**: 2-year Graduate Program, permanent employee from day one, moves into a regular engineer role afterwards; pay reviewed twice a year [Source (verified opened): https://careers.arm.com/graduates]
+- **Non-EU visa (full-time)**: FAQ: "If you don't currently hold the right to work in the UK, Arm is authorised to sponsor individuals"; Budapest / Trondheim postings: "Visa sponsorship support is also available for candidates who require it"; the Munich posting does not mention sponsorship. UK Skilled Worker general threshold £41,700 [Source (search result): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide]; Munich starting pay €64,500 is above the DE Blue Card threshold (inferred Blue Card route). No NL roles in the list → starting from an NL student visa / zoekjaar means switching to another country's permit
+- **Pay (official postings, 2026-10)**: Munich Graduate SWE starting **€64,500** (range €54,800–€74,200) [Source (verified opened): https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704] · Trondheim Graduate HW: BSc NOK 695,000 / MSc NOK 715,000 (range NOK 609,300–824,300) [Source (verified opened): https://careers.arm.com/job/trondheim/graduate-hardware-engineer/33099/100604944128] · Budapest Graduate SWE starting HUF 10,950,000 (range HUF 10,340,000–13,990,000) [Source (verified opened): https://careers.arm.com/job/budapest/graduate-software-engineer/33099/101386258448]
+- **Pay (Levels.fyi Greater Cambridge, 2026-10)**: Grade 2 (graduate entry) average TC **£51,500** = base £45,446 + stock £5,943 + bonus £111, range £42.4K–£57.2K+ (n=17, YOE 0–2) [Source (verified opened): https://www.levels.fyi/companies/arm/salaries/software-engineer/levels/grade-2/locations/greater-cambridge-area] (previous: TC median £52,622, 2026-05); Grade 3 average TC £70.6K (n=10) [Source (read via curl): https://www.levels.fyi/companies/arm/salaries/software-engineer/locations/greater-cambridge-area]; Graduate Hardware Engineer average TC £50.0K (n=8) [Source (read via curl): https://www.levels.fyi/companies/arm/salaries/hardware-engineer/locations/greater-cambridge-area]
+- **Application window**: this cycle: Europe opened 2026-09, UK opens 2026-10, no common deadline ("first come/first served"); posted so far: Trondheim 2026-09-14, Budapest 2026-10-01, Munich 2026-10-09. Previous cycle: UK opened Sep-Oct and tended to fill by Dec-Jan (older community data, not re-checked)
+- **Interview process vs intern**: official 3 steps: application + profile review → initial interview (HireVue digital interview or phone; motivation / thinking / problem-solving) → final interview (meet teammates and leaders) [Source (verified opened): https://careers.arm.com/emerging-talent-faq]; the Trondheim posting requires a transcript; the older "5-6 rounds + Final Day" is community data, not re-checked
+- **Selectivity**: no official acceptance rate (the older "~5-10%" is a community estimate, not re-checked); non-UK European roles have only 1-2 reqs per city; the UK will have the most slots once it opens in October
+- **Key links**: Graduate Program (verified opened): https://careers.arm.com/graduates · Emerging Talent FAQ (verified opened): https://careers.arm.com/emerging-talent-faq · Arm UK early careers (verified opened): https://careers.arm.com/arm-united-kingdom · Graduate job list (read via curl): https://careers.arm.com/category/graduate-jobs/34601/8097056/1 · Glassdoor interviews: https://www.glassdoor.com/Interview/ARM-Holdings-Graduate-Software-Engineer-Interview-Questions-EI_IE7834.0,12_KO13,39.htm
 
 ---
 

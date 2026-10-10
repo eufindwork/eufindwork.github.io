@@ -2,7 +2,7 @@
 
 > **Language**: [中文](xtxmarkets.md) | English
 >
-> Updated: 2026-05-28
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (Wikipedia + official careers categorized / Levels.fyi London verified / official hiring announcements (Core SE intern Summer 2026) / Companies House registered; lacks 1point3acres Chinese interview experiences)
 > One-line positioning: **London HQ** pure electronic market-making firm (2015 GSA spinoff, Alex Gerko founded), uses machine learning to predict 50,000+ financial instrument prices; world's largest FX spot liquidity provider (2019+); ~290 people small but elite; **London is the base**, Skilled Worker sponsor active, SWE TC £188K (Levels.fyi London median)
 
@@ -24,52 +24,21 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Levels.fyi London £188K median + official explicit intern programme + AI Research $35k/month verified + Wikipedia HQ)
+> Checked: 2026-10-10 (live WebFetch; WebSearch quota exhausted, news = Google News RSS headlines only) | Information richness: ⭐⭐⭐ (basis: careers page + Greenhouse API + Levels.fyi London + UK sponsor register read directly; no 2025-26 grad interview reports)
+> **2027 intake status**: **No programme (rolling open roles)** — official JD wording "XTX does not run a graduate program, and the successful completion of an internship does not necessarily result in a full-time role upon graduation" [Source (verified opened, openquant mirror of official JD): https://openquant.co/job/core-software-engineering-intern-summer-2026-xtx-markets/2916]; on 2026-10-10 Greenhouse lists only 7 open roles firm-wide, 0 graduate / intern / junior [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs]
+> 2026 H2 news: 2026-08-29 several outlets report Gerko took a record £895m from XTX for 2025; 2026-09-01 FN "XTX Markets' top quants paid more than FTSE 100 CEOs"; 2026-09-25 YIT continues building the Kajaani (Finland) data-centre campus; no layoff / hiring-freeze reports found [Source (verified opened, Google News RSS headlines): https://news.google.com/rss/search?q=%22XTX+Markets%22+when:150d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **Common role names (key distinctions)**:
-  - **Core Software Engineering** (intern + FT): backend / data / operations technical platforms — doesn't directly interface with traders, easier entry than trading dev
-  - **Exchange Trading Development**: directly interfaces with exchange connectivity + low-latency
-  - **OTC Trading Development**: OTC / client connectivity
-  - **Post-trade Technology**: clearing / risk / financial systems
-  - **Quantitative Researcher**: designs statistical models (company core), PhD heavy
-  - **AI Research (XTY Labs)**: independent AI research lab, NY-based, $35K/month intern stipend = annualized **$420K** (one of industry's highest intern stipends)
-  - **Trading Analyst**: non-SWE path [Source (verified opened): https://www.xtxmarkets.com/careers/]
-- **European locations**: **London (main)** + Paris (post-Brexit EU access, opened 2018)
-- **Whether there's an independent Graduate Programme**: **No named grad scheme** — full-time New Grad goes through open roles with experienced; XTX officially explicit "intern not guaranteed FT conversion" (different from Jane Street); but AI Research top intern can consider NY / London full-time [Source (search result): https://jobs.weekday.works/xtx-markets-core-software-engineering-intern---summer-2026]
-- **Internship program breakdown (London applicable)**:
-  - **Core Software Engineering Internship — Summer 2026**: 10-12 weeks, **London 2 slots** (Core Tech team primary); application deadline 2025-09-21 (already passed); 2027 cycle pending opening [Source (search result): https://www.xtxmarkets.com/job/?role=Core-Software-Engineering-Intern-Summer-2026&id=6927305003]
-  - **Risk Internship Summer 2026** (London)
-  - **Finance Internship Summer 2026** (London, 10-12 weeks)
-  - **AI Research Internship — XTY Labs (NY-only)**: 12-14 weeks, PhD mid-stage (≥1 yr remaining), 4d/wk onsite, **$35K/month = $420K annualized**, top performance can convert NY/London FT research [Source (search result): https://www.xtxmarkets.com/job/?role=AI-Research-Internship-XTY-Labs&id=6274458003]
-- **Non-EU visa (full-time)**: XTX Markets Limited holds Skilled Worker license (Companies House 09415174); FT base £100K+ far exceeds 2026 threshold £41,700 + SOC 2136 going rate £55K; provides relocation support
-- **Salary structure (London, gross/year)**:
-  - **Intern (Core SE / Finance / Risk)**: public data scarce; industry estimate £4-5k/week (slightly lower than Jane Street/HRT but still industry top-tier); includes housing or provides stipend
-  - **Intern (AI Research, XTY Labs NY-only)**: **$35K/month = $420K annualized** (PhD-only, industry highest)
-  - **Full-time New Grad SWE (London L1-L3 range)**:
-    - **L3 (entry, Levels.fyi L1 data scarce, usually directly L3 start)**: TC £113K (low percentile) - **£188K (median)** - £358K (high percentile); base ≈ £150K + bonus ≈ £100K + stock $0 [Source (verified opened): https://www.levels.fyi/en-gb/companies/xtx-markets/salaries/software-engineer/locations/london-metro-area]
-    - **median TC £188K, max £358K** — slightly lower than Jane Street £245K median, but work-life significantly better
-  - **Quant Researcher New Grad**: TC £200K-£400K (per ML/PhD path expectation)
-  - **Bonus dominant**: base accounts for ~50-60% TC; **no RSU** (XTX private holding, Gerko 75%)
-  - **Indeed UK average SWE annual salary**: £155,050 (mixed level average)
-- **Application window**:
-  - **Summer 2027 Intern (Core SE / Finance / Risk London)**: ~2026-07/08 opens, application deadline usually September; 2026 cycle already passed (deadline 2025-09-21)
-  - **AI Research (XTY Labs NY)**: PhD-focused, rolling
-  - **Full-Time New Grad**: rolling, but fall recruiting is main battleground
-- **Interview process differences vs internship**:
-  - **OA on TestGorilla** (not HackerRank): coding + time/space complexity analysis
-  - One round senior engineer/researcher tech (problem-solving + domain)
-  - Second round deeper algorithms + DS
-  - **Panel 3-5 senior**: research + engineering + ops joint
-  - Some teams use whiteboard, some teams use take-home (varies by team)
-- **Hiring competition**: Glassdoor "Average 41-day process"; SWE rated "easier than Compliance/Software Developer" (relative — still quant magnitude difficulty); referral not popular (XTX anti-nepotism + company only 290 people, hiring through official site)
-- **Key links**:
-  - Official careers (verified opened): https://www.xtxmarkets.com/careers/
-  - Core SE Intern Summer 2026 announcement (search result): https://www.xtxmarkets.com/job/?role=Core-Software-Engineering-Intern-Summer-2026&id=6927305003
-  - AI Research XTY Labs (search result, $35k/month = $420K): https://www.xtxmarkets.com/job/?role=AI-Research-Internship-XTY-Labs&id=6274458003
-  - Finance Intern Summer 2026 (search result): https://www.xtxmarkets.com/job/?role=Finance-Internship-Summer-2026-&id=6688989003
-  - Levels.fyi London SWE (verified opened, median £188K): https://www.levels.fyi/en-gb/companies/xtx-markets/salaries/software-engineer/locations/london-metro-area
-  - Wikipedia (verified opened, 250+ employees, HQ R7 King's Cross, FX #1): https://en.wikipedia.org/wiki/XTX_Markets
-  - Glassdoor UK (search result): https://www.glassdoor.co.uk/Salary/XTX-Markets-Salaries-E2384243.htm
+- **Role names**: no named grad scheme; full-time entry is via open roles (Core SWE / Exchange & OTC Trading Development / Post-trade Technology / Quant Research / Trading Analysts etc.) [Source (verified opened): https://www.xtxmarkets.com/careers/]; on 2026-10-10 London openings are only Realtime Analytics and Controls Developer / Software Developer - Shared Engineering ("3+ years") / Technology Procurement Specialist — **no 0-2-year role**
+- **Eligibility window**: no published grad window; the last-cycle intern JD required "penultimate year of university study" (Maths / CS / Physics preferred) (same openquant source)
+- **European locations**: London (HQ) / Paris / Bristol / Kajaani (FI, data-centre roles) / Yerevan (AM, non-EU); boilerplate "over 300 employees based in London, Singapore, New York, Paris, Bristol, Mumbai, Yerevan and Kajaani" [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs/7835362003]; the careers-page location filter shows only London / New York
+- **Programme structure**: no rotation / cohort; hires join a team directly (open-role model)
+- **Non-EU visa (full-time)**: careers-page benefits list "Visa & Immigration Support" + "Relocation Support" (same careers source); on the UK register (2026-10-09 version) the licensed entity is **XTX Research LLP** (London, Worker A rating, Skilled Worker) (previous: XTX Markets Limited, 2026-05) [Source (verified opened; CSV downloaded and grepped): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; no XTX entity on the IND register → moving from NL zoekjaar means a new UK Skilled Worker visa (£41,700 threshold, not re-verified this round)
+- **Pay (London SWE, gross/yr)**: Levels.fyi median **£187,250** (the median entry: L3, 1 YoE, 2021-09 offer, base ≈ £112K + bonus ≈ £74.9K + stock £0); average £207,072, highest £307,887 (read 2026-10-10) (previous: median £188K, base ≈ £150K + bonus ≈ £100K, 2026-05; the last two figures do not match what the page now shows) [Source (verified opened): https://www.levels.fyi/en-gb/companies/xtx-markets/salaries/software-engineer/locations/london-metro-area]
+- **QR / firm-wide reference**: "XTX does not publish graduate pay in London"; London-market first-year QR estimate £160,000-£310,000 (not XTX-specific); XTX Markets Technologies Ltd 2025 pay per head £457,000 (127 staff) [Source (verified opened, updated 2026-09-28): https://www.tradermath.org/salaries/xtx-markets]
+- **Application window**: full-time rolling; last intern cycle: Core SWE Intern Summer 2026 posted 2025-09-02, closed 2025-09-21 (same openquant source); off-cycle internships (London / NY) opened 28 Jul, closed by 11 Aug (year inferred as 2026) [Source (verified opened): https://www.jorb.ai/firms/xtx-markets]
+- **Interview process vs internship**: ⚠️ **Pending web verification**: the previous version (search results) recorded OA (TestGorilla) → 2 technical rounds → 3-5-person panel, Glassdoor average 41 days; WebSearch quota exhausted this round and the official "how we interview" page is JS-rendered and unreadable, so not re-checked
+- **Competition**: ~300-person firm with only 7 open roles worldwide on 2026-10-10 → very few full-time entry seats (inferred)
+- **Key links**: Greenhouse board (linked from careers page): https://job-boards.greenhouse.io/xtxmarketstechnologies · careers (verified opened): https://www.xtxmarkets.com/careers/ · Levels.fyi London (verified opened, see above)
 
 ---
 

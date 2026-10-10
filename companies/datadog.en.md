@@ -2,7 +2,7 @@
 
 > **Language**: [中文](datadog.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐⭐
 > One-liner: NASDAQ-listed observability SaaS giant, EU team focused on LLM Observability / AI Agents Monitoring / AIOps, early career explicitly sponsor + multiple EU offices.
 
@@ -24,28 +24,21 @@
 
 ## New Grad / Junior Roles
 
-- **Common role names**: Software Engineer - Early Career, Software Engineer I, Site Reliability Engineer - Early Career, Solutions Engineer - Early Career
-- **European locations**: Paris (main), Madrid, Lisbon — Datadog official page explicitly says "New York, Boston, Denver, **Paris**, or **Madrid**" as early career sites [Source (verified opened): https://careers.datadoghq.com/early-careers/]; Lisbon Levels.fyi data complete (actually has EC class)
-- **Independent Graduate Programme**: **Yes (Early Career cohort)** — spring + multiple summer start dates, "majority of full-time early career cohort are former interns" [Source (verified opened): https://careers.datadoghq.com/early-careers/]
-- **Non-EU visa (full-time)**:
-  - **France**: French Tech Visa ~€43K/yr — Datadog SWE I Paris base already ≥ this; **JD explicitly "international candidates currently studying in France are eligible for sponsorship"** [Source (verified opened): https://jaabz.com/jobs/7637-software-engineer-early-career]
-  - **Portugal**: Tech Visa 1-3 month IAPMEI process, Lisbon Datadog has many H1B/EU simultaneously sponsored (no official statement, but Levels.fyi data high)
-  - **Spain**: Madrid uses Highly Qualified Professional (Ley 14/2013, low threshold)
-- **Salary range (Levels.fyi 2026)**:
-  - **SWE I Paris (Early Career)**: TC median **$82,986 (~€77K)** = base **$69,872 (~€65K)** + stock **$13,114 (~€12K)** [Source (verified opened): https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area]
-  - **SWE II Paris**: base €84.6K-€120K range, median ~€100K TC
-  - **SWE Paris (all levels)**: €71.1K-€145K range
-  - **SWE Lisbon**: median **€92,241 TC**, range €90.2K-€138K [Source (verified opened): https://www.levels.fyi/companies/datadog/salaries/software-engineer/locations/lisbon-metro-area] — **much higher than Paris L1**, Lisbon contrast big
-  - **SWE global**: $185K-$568K+ (incl. US)
-- **Application window**: **Reqs open every year in September**, summer intern + new grad same window; Sep-March main interview season [Source (verified opened): https://careers.datadoghq.com/early-careers/]
-- **Interview process differences vs internship**: New grad process has one more system design lite + half-day onsite than intern; intern leans coding
-- **Hiring competition / international student friendliness**: High (Paris ~€80K TC for Early Career is FR top), international students **explicitly friendly** — non-EU students studying in FR get direct sponsor
-- **Key links**:
-  - Early Careers entry: https://careers.datadoghq.com/early-careers/
-  - Paris office: https://careers.datadoghq.com/paris/
-  - Engineering JD index: https://careers.datadoghq.com/engineering/
-  - **Levels.fyi SWE I Paris**: https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area
-  - Levels.fyi Lisbon: https://www.levels.fyi/companies/datadog/salaries/software-engineer/locations/lisbon-metro-area
+> Checked: 2026-10-10 (Greenhouse API + WebFetch; "read directly" = official API / document read via curl, not WebFetch) | Information richness: ⭐⭐⭐⭐ (basis: official early-careers page + live JDs + Levels.fyi + IND register)
+> **2027 Intake status**: **Upcoming (full-time) / Open (intern→FT)** — of all 435 live Greenhouse jobs on 2026-10-10 there is **no "Software Engineer - Early Career" full-time req** (Europe early-career full-time = SDR only) [Source (read directly): https://boards-api.greenhouse.io/v1/boards/datadog/jobs]; the de facto European new-grad entry = Paris 6-month end-of-studies SWE intern (JD: "Targeting a 2027 full-time start date", starts Feb–Jun 2027) [Source (verified opened): https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186]
+> **2026 H2 news**: acquired Adaptive ML on 2026-06-30 (joins Datadog AI Research) [Source (verified opened): https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-adaptive-ml-to-accelerate-its-investment-in-ai-research-and-development/]; Q2 2026 (2026-08-06) revenue $1.12B +36%, FY2026 guidance $4.45–4.47B [Source (verified opened): https://www.sec.gov/Archives/edgar/data/0001561550/000162828026053829/ex-991x20260630x8k.htm]; no layoff / hiring-freeze announcement found
+
+- **Role names**: full-time Software Engineer - Early Career (historically posted in Lisbon: the 2025-start version was removed 2025-06-12 [Source (verified opened): https://builtin.com/job/software-engineer-early-career/4506799]; the 2026-start version [Source (search result): https://careers.datadoghq.com/detail/7646452] returns 404 via the API on 2026-10-10); open now (all posted 2026-09-08): Software Engineering Intern (Paris / Madrid), Applied Science Intern / Product Management Intern / IT Support Technician Intern (Paris)
+- **Eligibility**: Paris intern: enrolled in CS / SE or related, "Targeting a 2027 full-time start date", 6 months, starting Feb / Mar / Apr / May / Jun 2027; Madrid intern: "Expected to graduate in 2027 ... from a university in Spain", Feb 2027 start only [Source (read directly): https://boards-api.greenhouse.io/v1/boards/datadog/jobs/8114161]; past full-time EC JDs: "targeting a 20XX full-time start date", CS / SE degree or equivalent experience; CV must be in English
+- **European locations**: official early-career sites "New York, Boston, Denver, Paris, or Madrid" [Source (verified opened): https://careers.datadoghq.com/early-careers/]; Lisbon has a history of full-time EC reqs; Amsterdam / Dublin only SDR / front-desk type roles
+- **Programme structure**: "a spring start class and a couple of start dates in the summer", cohort-based; jobs "typically post ... in September" (same page)
+- **Non-EU visa (full-time)**: NL: Datadog Netherlands B.V. (KvK 77823664) is on the IND recognised-sponsor register (updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], but Amsterdam has no engineering early-career reqs; FR: the 2026-10 Paris intern JD has no sponsorship line (an older JD said "international candidates currently studying in France are eligible for sponsorship" [Source (verified opened): https://jaabz.com/jobs/7637-software-engineer-early-career]); Madrid intern is limited to Spanish universities → not applicable to students enrolled in NL; moving from NL zoekjaar to Paris / Lisbon needs a local work permit
+- ⚠️ **Pending web verification**: FR Passeport Talent / PT work-permit thresholds and Datadog's convention de stage requirement for interns from non-French schools were not verified this round; do not use for visa decisions before re-checking
+- **Pay (Levels.fyi, 2026-10-10)**: SWE I Paris median TC €76,690 = base €64,220 + stock €12,322 + bonus €148, range €71.9K–€82.9K+ [Source (verified opened): https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area] (previous: $82,986, 2026-05); Lisbon: SWE II €92.2K (base €72.2K), Senior €134K, SWE I insufficient data [Source (verified opened): https://www.levels.fyi/companies/datadog/salaries/software-engineer/locations/lisbon-metro-area] (the previous "Lisbon median €92,241" is actually SWE II level); RSU 4-year vest
+- **Application window**: interns posted 2026-09-08, no deadline (rolling); official interview season "September-March"; posting month of the full-time Lisbon EC req: no public data (2025 version removed 2025-06-12)
+- **Interview differences vs intern**: official 4-5 rounds, ~3-4 weeks (previous page) [Source (verified opened): https://careers.datadoghq.com/candidate-experience/]; 2025-26 Glassdoor FR search snippets (not opened): full-time Paris = recruiter → coding ×2 + system design + project & values presentation → team matching; intern = coding game + 1h live coding + team matching
+- **Competition**: the full-time cohort is mostly converted interns; no public acceptance rate
+- **Key links**: [Early Careers (verified opened): https://careers.datadoghq.com/early-careers/] · [Greenhouse live job list (read directly): https://boards-api.greenhouse.io/v1/boards/datadog/jobs] · [Levels.fyi SWE I Paris (verified opened): https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area]
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](meta.en.md)
 >
-> 更新时间: 2026-09-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐ (London 信息中等;Amsterdam 信息匮乏 — Meta 在 Amsterdam 是 sales/marketing 为主,工程实习几乎没有公开记录)
 > 一句话定位: London 是 Meta EU 主要工程实习地,薪资仅次于美国 + Zurich;PE intern 是更易切入的"后门"路径,但近两年 EU intern 招聘明显收紧
 
@@ -39,43 +39,28 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (London E3 Levels.fyi 2026-05 直读数据扎实, Dublin/Paris/Amsterdam 工程 NG 数据仍稀薄)
-> 区别于实习: 全职 entry-level **E3 级别** (Meta 第一个 IC level), 永久合同 + 完整 RSU (4 年 vest, 25% per year)
+> 核查日期: 2026-10-10 (实时 WebFetch) | 信息丰富度: ⭐⭐⭐ (依据: Levels.fyi E3 London / Dublin 直读 + 官方 sponsor 名单; EU 在招岗位无法实时列出)
+> **2027 Intake 状态**: **Rolling (无结构化项目; EU 在招岗位未能实时核实)** — metacareers 为 JS 渲染, students-and-grads 页 WebFetch 返回 HTTP 500 (2026-10-10), robots.txt 声明禁止自动抓取, 故未爬取; careerprograms/students 页 2026-10-10 的 featured 岗位只有 Research Engineer, AI (University Grad) — Montreal, 无欧洲岗位 [来源 (实际打开过, 原始 HTML 抓取): https://www.metacareers.com/careerprograms/students]。2026-09-26 曾见 Network Production Engineer (University Grad) — Dublin, Ireland (+1 地点) [来源 (实际打开过): https://www.metacareers.com/students-and-grads]
+> **2026 动态**: 2026-01 Reality Labs 裁约 10% (>1,000 人) [来源 (搜索结果): https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html]; 2026-03 约 700 人、2026-04 Bay Area 约 200 人; **2026-05 裁约 8,000 人 (约 10% workforce) 并关闭 6,000 个空缺岗位**, 理由为给 AI 支出腾空间; tracker (更新于 2026-10-09) 未见 2026-06 之后的新一轮 [来源 (实际打开过): https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-all-the-job-losses-across-xbox-apple-oracle-uber-tiktok-meta-and-others-144545528.html]; 二手来源称 2026-05-20 那轮引自 Bloomberg, 且 "下半年还有一轮已有信号但未定日期" (未经一手证实) [来源 (实际打开过): https://www.kore1.com/meta-layoffs-2026/]
 
-- **常见岗位名**: Software Engineer, University Grad (E3) / Production Engineer, University Grad / Research Scientist (PhD) / Data Scientist (Analytics) — Meta 公开招聘页用 "University Grad" tag 区分 entry-level vs 经验岗
-- **欧洲地点**: **London (主)** / Dublin (PE + Infra) / Paris (FAIR + AI infra) — Amsterdam **基本不招 SWE NG** (商业岗为主),Zurich 偶有 FAIR Research Scientist NG (PhD only)
-- **2026-09-26 招聘状态更新**: metacareers.com/students-and-grads 当前公开 University Grad 全职岗位含 **Network Production Engineer (University Grad) — Dublin, Ireland (+1 地点)**,确认 2027 届 NG 岗位在欧洲仍在开放投递中;页面未列出具体 deadline,SWE Intern 欧洲批次未见公开确认,建议直接用 metacareers.com/jobs 按 location 筛选核实最新在招岗位 [来源 (实际打开过): https://www.metacareers.com/students-and-grads]
-- **是否有独立 Graduate Programme**: **No** — Meta 全球没有结构化 graduate rotation。**"Meta University"** 是面向 underrepresented 学生的本科 summer intern 项目 (US 为主, 不是 FT NG),不要混淆。E3 NG 入职后 6 周 "Engineering Bootcamp" (London / Menlo Park) 是 onboarding 而非 graduate program。2026 cycle FT University Grad applications 通常 8-9 月开放, 2027 start dates [来源 (实际打开过): https://www.extern.com/post/faang-internship-guide-2026]
-- **非EU签证 (全职)**:
-  - UK: **Skilled Worker visa** — Meta UK 是注册 sponsor;E3 base £100K 远超 2026 general threshold £41,700 + SOC 2134 going rate ~£49,400 [来源 (实际打开过): https://www.jobbatical.com/blog/uk-skilled-worker-visa-minimum-salary-41700-threshold-employer-guide],sponsor 几乎自动批
-  - IE: **Critical Skills Employment Permit** (SWE 在 IE shortage list),Meta Dublin 是 IE top sponsor 之一
-  - FR: **Passeport Talent** (Salarié Qualifié),Meta Paris 用此通道
-  - 与实习区别: NG 走永久工签 (5 年 + 永居路径),intern 走 Tier 5 GAE / 学生签证 (短期, 不积累永居)
-- **薪资范围 (base, gross/年, E3 entry-level, 2026-05 Levels.fyi 直读)**:
-  | 城市 | Base | Stock (annual) | Bonus | Total Comp | 来源 |
-  |------|------|---------------|-------|-----------|------|
-  | London | **£78.3K (~$100.2K)** | £18.3K | £3K | **£94.7K - £127.4K range** (avg £127K) | [Levels.fyi Meta E3 London (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
-  | UK 整体 E3 | £82.7K base 中位 | £19K-£23K | £3K-£4K | £82.7K - £114K | [Levels.fyi Meta E3 UK (搜索结果)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/united-kingdom) |
-  | Dublin | €80K-€95K base (估算, 数据点 < 5) | ~€20K | low | €100K-€130K | 间接 Glassdoor + 1point3acres |
-  | Paris | €60K-€75K base | €15K-€20K | low | €85K-€110K | 间接 (TechPays + 1point3acres) |
-  - **Signing bonus**: London E3 historically $20K-$40K (Blind 数据);**RSU refresh**: Meta 高于 Google/Amazon, E3 → E4 promo 后 refresh 显著。Meta 全 UK SWE range £95.4K - £1.3M+ (E3-E8) [来源 (实际打开过): https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom]
-  - **London E3 vs Google L3**: Meta E3 base £78.3K vs Google L3 base £116K — **Google base 明显高**,但 Meta RSU 增长曲线更陡 (E4 跳跃后总包反超)
-- **申请窗口**: **Rolling** + 秋招 (8-9 月开放 2027 start) + 春招 (1-3 月)。Meta 倾向 University Grad 在毕业前 6-9 个月锁定。**Return offer (实习转 NG) 是主路径** — 2024-2025 conversion 率 ~40-50% (vs 2022 ~70%, Blind 数据)。海外应届直申 EU FT 几率显著低于 return [来源 (实际打开过): https://www.extern.com/post/faang-internship-guide-2026]
-- **面试流程差异 vs 实习**:
-  - 轮数: 实习 1 tech round → NG **5 rounds** (2 coding + 1 **system design** + 1 behavioral + 1 hiring manager/team match)
-  - System design: NG 强制有 1 轮 45 min (e.g., design Newsfeed / Notification),intern 没有
-  - Coding 难度: intern 1 题 medium → NG 每轮 2 题 medium (45 min),Meta tag 重合度仍 >80%
-  - Behavioral: 用 Meta 5 大价值观 (Move Fast, Be Bold, Focus on Impact, Build Awesome Things, Live in the Future) 评分,intern 此项轻
-- **录取竞争**: London E3 acceptance 估算 < 3% (Blind / 1point3acres NG 帖); **2023-2024 EU NG HC 持续紧缩** — onsite 通过后 team match 仍可能失败 (有 case 等 12 周+) 见 [1point3acres Meta NG SWE 求 team match](https://www.1point3acres.com/bbs/thread-1074805-1-1.html)。国际生 friendliness: 中等 (London visa 友好, 但 EU 学历 + return offer 优先级最高)
-- **关键链接**:
-  - 官方 University & Grad: [https://www.metacareers.com/careerprograms/students](https://www.metacareers.com/careerprograms/students)
-  - Meta Careers Jobs (Early Career filter): [https://www.metacareers.com/jobs](https://www.metacareers.com/jobs)
-  - Levels.fyi Meta E3 London (实际打开过): [https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area)
-  - Levels.fyi Meta UK SWE 综合 (实际打开过): [https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom](https://www.levels.fyi/companies/meta/salaries/software-engineer/locations/united-kingdom)
-  - Extern FAANG Internship Guide 2026 (实际打开过): [https://www.extern.com/post/faang-internship-guide-2026](https://www.extern.com/post/faang-internship-guide-2026)
-  - 1point3acres Meta 25 NG SDE 伦敦: [https://www.1point3acres.com/bbs/thread-1096596-1-1.html](https://www.1point3acres.com/bbs/thread-1096596-1-1.html)
-  - 1point3acres Meta NG SWE 伦敦 team match: [https://www.1point3acres.com/bbs/thread-1074805-1-1.html](https://www.1point3acres.com/bbs/thread-1074805-1-1.html)
-  - 1point3acres Meta DSA London 选组: [https://www.1point3acres.com/bbs/thread-1129134-1-1.html](https://www.1point3acres.com/bbs/thread-1129134-1-1.html)
+- **岗位名称**: Software Engineer (University Grad) / Production Engineer (University Grad) / Research Engineer, AI (University Grad) / Research Scientist (PhD); Meta 用 "(University Grad)" tag 区分 entry-level。示例 SWE (University Grad) req 写明学位须在入职前完成 [来源 (搜索结果): https://metacareers.com/jobs/8187200048015588] — 该 req 2026-10-10 WebFetch 返回 404 (推断已关闭)
+- **资格窗口**: BSc / MSc 应届 → **E3**; PhD 应届常见 E4 (推断, 社区口径, 未见官方说明); 无明确毕业年限上限公开
+- **欧洲地点**: **London (主)** / Dublin (PE + Infra) / Paris (FAIR + AI infra); Amsterdam 是 commercial hub, 基本不招 SWE NG; Zurich 偶有 PhD Research Scientist
+- **项目结构**: 无 graduate rotation; E3 入职后 Engineering Bootcamp 为 onboarding (旧版); "Meta University" 是美国本科暑期项目, 不是 FT NG
+- **非EU签证 (全职)**: UK 官方 register (2026-10-09) 列 Facebook UK — Worker (A rating), Skilled Worker [来源 (实际打开过, 原始文件抓取): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; 门槛 £41,700 或 going rate 取高者, E3 London base £74,828 远高于此 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; NL: Facebook Netherlands B.V. 在 IND recognised sponsor 名单 (更新于 2026-10-05) [来源 (实际打开过, 原始 HTML 抓取): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], 但 Amsterdam 无工程 NG, zoekjaar 转入只对商业岗有意义 (推断)。⚠️ 待 web 验证: IE (CSEP) / FR (Passeport Talent) 沿用旧版, 本次未复核
+- **薪资范围 (E3, Levels.fyi 平均值, 2026-10 直读)**:
+  | 城市 | Base | Stock/年 | Bonus | Avg TC | Title 区间 | 来源 |
+  |---|---|---|---|---|---|---|
+  | London (UK) | £74,828 | £18,538 | £1,869 | **£95,235** | £84.9K–£106K+ | [Levels.fyi E3 London (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/london-metro-area) |
+  | UK 整体 | £74,828 | £18,538 | £1,869 | **£95,235** (与 London 同) | £84.9K–£106K+ | [Levels.fyi E3 UK (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/united-kingdom) |
+  | Dublin (IE) | €75,756 | €21,602 | €7,646 | **€105,004** | €81.3K–€128K+ | [Levels.fyi E3 Ireland (实际打开过)](https://www.levels.fyi/companies/meta/salaries/software-engineer/levels/e3/locations/ireland) |
+  | Paris (FR) | 无公开直读数据 | — | — | — | — | ⚠️ 待 web 验证: 旧版间接估算 €60K-€75K base, 未复核 |
+  - 旧版对比: (旧版: London base £78.3K / avg TC £127K, 2026-05; UK base 中位 £82.7K, 搜索结果) — 本次直读更低, 以本表为准。同口径对比 Google L3 London avg TC £122,942 (见 google 页)
+  - Signing bonus / RSU refresh 说法 (London E3 历史 $20K-$40K, Blind) 沿用旧版, 本次未复核
+- **申请窗口**: Rolling; FT University Grad 通常 8-9 月开放下一年入职 [来源 (实际打开过): https://www.extern.com/post/faang-internship-guide-2026] (旧版, 2026-09); 2027 EU 批次是否开放: 无公开数据 (见上方状态行)
+- **面试流程差异 vs 实习**: NG 5 轮 (2 coding + 1 system design + 1 behavioral + team match), 实习 1-2 轮无 design (旧版, 未复核); onsite 通过后 team match 可能拖 12 周+ [来源 (搜索结果): https://www.1point3acres.com/bbs/thread-1074805-1-1.html]
+- **录取竞争**: 高; 2026-05 关闭 6,000 个空缺 + 裁 8,000 人后 headcount 偏紧, 非 AI 产品线 NG 名额预计更少 (推断); intern → return offer 仍是主路径
+- **关键链接**: 学生 / 应届入口 (实际打开过, 原始 HTML 抓取): https://www.metacareers.com/careerprograms/students · 岗位搜索 (JS, 需浏览器手动筛 London / Dublin): https://www.metacareers.com/jobs · 1point3acres Meta 25 NG SDE 伦敦: https://www.1point3acres.com/bbs/thread-1096596-1-1.html
 
 ---
 

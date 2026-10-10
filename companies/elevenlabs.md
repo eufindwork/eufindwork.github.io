@@ -3,7 +3,8 @@
 > **Language**: 中文 | [English](elevenlabs.en.md)
 >
 
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头 '$3.3B Series C' (2026-09 employee tender 估值 $22B); §1/§2/§5 引用的 Voice AI Fellowship、E4/R5 薪资、'senior ML visa' 说法在原文章中已不存在.
 > 一句话定位: 全球领先 voice AI / TTS / dubbing 公司, 2024-2025 Series C $3.3B+ 估值, **远程优先 + 三个 main hub: London (Shoreditch) / NYC / Warsaw**. **Eleven Labs Ltd 持 UK Skilled Worker license** [来源 (实际打开过): https://immigrationgpt.co.uk/company/Eleven-Labs-Ltd], 但 sponsor 实操偏 senior ML; intern / new grad 路径仍在演化.
 
 ---
@@ -25,33 +26,21 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**: Software Engineer, ML Engineer, Forward Deployed Engineer, Voice AI Fellow (research)
-- **欧洲地点**: London 为主, Warsaw 次之; remote 也开 (但 visa sponsorship 主要走 hub-based)
-- **是否有独立 Graduate Programme**:
-  - **Voice AI Fellowship** (6 mo, MSc/PhD) — 是命名 entry research 项目 [来源 (实际打开过): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]
-  - **SWE Internship** (12 wk) — 命名实习项目
-  - 没有 "Graduate Programme" cohort, new grad 走 SWE 同 pipeline
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker**: Eleven Labs Ltd 持牌 sponsor [来源 (实际打开过): https://immigrationgpt.co.uk/company/Eleven-Labs-Ltd]
-  - 2026 阈值 £41,700, ElevenLabs London SWE base £80K+ 安全达标
-  - **⚠️ sponsor 偏 senior ML talent**: jobsbyculture 写 "ElevenLabs provides Skilled-Worker visas for senior ML talent relocating to London" [来源 (实际打开过): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]; entry-level SWE sponsor 案例少
-  - **Poland** (Warsaw): EU 工作许可常规, 非EU需 Type A work permit + 居留卡
-- **薪资范围 (Levels.fyi 2026)**:
-  - **SWE London Median TC**: **£98.7K - £109K+** (P50-P75) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/elevenlabs/salaries/software-engineer/locations/london-metro-area]
-  - **SWE 全球 (Levels.fyi)**: £101K-£111K+ [来源 (实际打开过): https://www.levels.fyi/companies/elevenlabs/salaries/software-engineer]
-  - **Senior ML Engineer (E4)**: £90K-£110K base + ~0.05% equity + bonus [来源 (实际打开过): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]
-  - **Staff Research Scientist (R5)**: £120K-£140K base + 0.08% equity
-  - **Intern / Fellow stipend**: 公开数据仍缺 (2026-06 retry: ElevenLabs careers + Ashby 仍无 stipend 数字 list; Research Engineer JD 列 benefits 含 "annual discretionary stipend for L&D + social travel + co-working" 但不 disclose 数字). 业内估 SWE intern £5K-7K/月, Fellow 类似 (LLM frontier startup 都在 Anthropic SF $11K/月 区间内). jobsbyculture.com 总报 ElevenLabs 整体 comp $140K-$290K range, median $128K [来源 (实际打开过): https://jobsbyculture.com/blog/elevenlabs-compensation-2026]
-  - **股权**: Series C $3.3B 估值, illiquid; 0.05-0.08% range for E4-R5
-- **申请窗口**: Rolling. Fellowship 通常 cohort 制 (Spring / Fall)
-- **面试流程差异 vs senior**: Intern / new grad 走 take-home + 1-2 onsite (3-4 周); senior 加 system design + leadership + 产品 decomp
-- **录取竞争 / 国际生 friendliness**:
-  - 中高 — Glassdoor 50% positive, 难度 2.5/5 [来源 (实际打开过): https://www.glassdoor.com/Interview/ElevenLabs-Software-Engineer-Interview-Questions-EI_IE9081894.0,10_KO11,28.htm]
-  - 国际生 friendliness: London 中等 (sponsor 偏 senior); Warsaw 较 friendly (但 EU 优先)
-- **关键链接**:
-  - Careers: https://elevenlabs.io/careers
-  - Ashby (实时 reqs): https://jobs.ashbyhq.com/elevenlabs/
-  - Compensation breakdown: https://jobsbyculture.com/blog/elevenlabs-compensation-2026
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Ashby API 全量解析) | 信息丰富度: ⭐⭐⭐ (依据: 124 个在招 JD 逐条检索 + Levels.fyi London + UK/NL sponsor 登记; 缺 entry 薪资样本与 2026 应届面经)
+> **2027 Intake 状态**: **No programme (Rolling)** — 无 graduate / new grad / intern 项目, 无截止日期; 2026-10-10 Ashby 124 个在招岗位 0 个标题含 Intern / Graduate / Junior / Fellow [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/elevenlabs ]
+> **2026 H2 动态**: 2026-09-30 宣布 $300M 员工 tender offer, 估值 $22B (2026-02 Series D 为 $11B); 员工 800+, "almost 200 open positions across 53 locations"; 未见 layoff / hiring freeze 报道 [来源 (实际打开过): https://www.digitalmusicnews.com/2026/09/30/elevenlabs-tender-offer/ ]
+
+- **岗位名称**: 无 grad 职级 (JD 原文 "We don't have job titles"); 应届可投 8 个欧洲岗 (JD 不设经验门槛): Full-Stack Engineer 系列 5 个 ("We do not require any formal experience, certifications, or degrees", 看 projects / GitHub; 例 https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f ) + Forward Deployed Engineer - Software Engineer - United Kingdom (客户经验来自 "student clubs or side projects" 亦可; https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6 ) + Enterprise Solutions Engineer Sweden / Greece; Research Engineer 岗虽不要求学位, 但要 production ML serving 经验
+- **旧版更正**: "Voice AI Fellowship (6 mo)" / "SWE Internship (12 wk)" / E4-R5 薪资均引自 jobsbyculture; 2026-10-10 复核该文 (2026-05-14 发布) 无上述内容 → 视为未证实, 已移出本节 [来源 (实际打开过): https://jobsbyculture.com/blog/elevenlabs-compensation-2026 ]
+- **资格窗口**: 无学位 / 毕业年份 / 经验年限门槛; 看可展示作品 (project / GitHub); 工作语言英语
+- **欧洲地点**: remote-first; 在招主地点 United Kingdom 24 + London 7, 另 Sweden 7 / Germany 4 / Poland 3 等; 5 个 Full-Stack 系岗位把 Amsterdam / Netherlands 列为可选地点
+- **项目结构**: 无 cohort / rotation / 培训期, 直接进产品组
+- **非EU签证 (全职)**: UK — Eleven Labs Ltd Skilled Worker A rating, 2025-11-25 入册, 2026-10-09 仍在册 [来源 (实际打开过): https://immigrationgpt.co.uk/company/Eleven-Labs-Ltd ], 2026 阈值 £41,700; 但 124 个 JD 全文均无 visa / relocation 承诺, 需逐岗问 recruiter; NL — IND recognised sponsor register (2026-10-05 版) 查无 ElevenLabs 实体 [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work ], 而 Kennismigrant 要求雇主是 recognised sponsor [来源 (实际打开过): https://ind.nl/en/residence-permits/work/highly-skilled-migrant ] → 即使岗位列 Amsterdam, zoekjaar 后转 Kennismigrant 目前走不通 (推断)
+- **薪资范围 (TC, gross/年)**: Levels.fyi London SWE (2026-10-10 更新): 中位数 £158,759 (页面显示 £159K), 平均 £180,870, 最高 £288,252; 全公司 13 条 SWE 提交, 无 0-2 年经验样本 [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/elevenlabs/salaries/software-engineer/locations/london-metro-area ] (旧版: £98.7K - £109K+, 2026-05); entry-level: 无公开数据 (124 个 JD 均不披露 £ / € 薪资); 股权为 options, 2026-09 tender 按 $22B 定价
+- **申请窗口**: Rolling, 无截止日期; 2026-10-04 ~ 2026-10-09 仍有新欧洲工程岗发布
+- **面试流程 (无单独应届流程)**: recruiter → CoderPad 限时 coding screen (约 90 分钟, 2-3 道 medium) → behavioral (项目 deep-dive) → practical coding (客户场景) → product decomposition (UI 到 data model, 不写代码); 约 2-5 周 [来源 (实际打开过): https://www.aced.io/guides/elevenlabs-software-engineer-interview ]
+- **录取竞争**: 第三方指南称 2025 年 225,988 份申请 / 322 人入职 (约 0.14%, 原文未给出处) [来源 (实际打开过): https://www.extern.com/post/elevenlabs-internship-guide ]; ⚠️ **待 web 验证** (Glassdoor 本轮未复核): 旧数据 50% positive, 难度 2.5/5 (2026-05)
+- **关键链接**: Ashby 在招 https://jobs.ashbyhq.com/elevenlabs (JS 渲染, 数据经上方 API 读取) · Careers https://elevenlabs.io/careers (本轮未打开)
 
 ---
 

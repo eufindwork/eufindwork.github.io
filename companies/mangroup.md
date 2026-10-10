@@ -2,6 +2,8 @@
 
 > **Language**: 中文 | [English](mangroup.en.md)
 >
+> 更新时间: 2026-10-10
+>
 > 英国最老牌的 quant HF 之一, London HQ. AHL 是 systematic sub-unit (1987 成立, 与 Oxford-Man Institute 有渊源), GLG 是 discretionary 子品牌. 多个 rotational Grad Programme + 12-week Internship, 流程比 US HF 标准化.
 
 ---
@@ -22,38 +24,24 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Grad Programme 结构非常清晰)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse 公共 API 直读; WebSearch 配额中途用尽) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 programme 页 + 2027 实习 posting + Levels.fyi London; 缺 grad 官方薪资, 2027 grad 未发布)
+> **2027 Intake 状态**: **Upcoming (尚未发布)** — 2026-10-10 Greenhouse 在招 56 个岗位中无任何 2027 graduate programme [来源 (ATS API curl 直读): https://boards-api.greenhouse.io/v1/boards/mangroup/jobs?content=true]; 官方页 Technology Foundation 仍写 "Applications Open: Autumn 2025" (未更新) [来源 (实际打开过): https://www.man.com/graduate-programmes]
+> 2026 H2 动态: 2026-07-28 半年报 — 创纪录 AUM $253.6bn, 净流入 $7.1bn, 未提裁员 / 招聘冻结 [来源 (实际打开过): https://www.man.com/news-centre/trading-statement-30-june-2026]; 背景 (H1): 2026-02-11 与 Anthropic 合作把 Claude 嵌入投研 / 运营流程, 未提 headcount [来源 (实际打开过): https://www.man.com/news-centre/man-group-anthropic-partnership]
 
-- **常见岗位名**:
-  - **AHL Quant Talent Programme** — 18 月 / 3 个 6 月 rotation, 系统投资策略研究 (Quant Research)
-  - **AHL IDI Graduate Programme** — Investment & Data Implementation
-  - **Technology Foundation Programme** — Software / Platform Engineer 2 年 (C#/.NET 或 Python/C++/Java 双 track) + 3 月 bootcamp
-  - **Central Trading Graduate Programme** — Execution + quant trading
-  - **Solutions / Accountancy & Tax / Operations Graduate Programmes** — 非工程方向
-  - 直接申请的 senior 岗: Quant Developer - AHL, Senior Quantitative Researcher - Macro, Software Engineer
-- **欧洲地点**: London (主); Sofia (Bulgaria) 有 Python/Java Engineering team
-- **是否有独立 Graduate Programme**: **是** — 7 个 rotational programmes 覆盖技术 + 投研 + 运营 [来源 (实际打开过): https://www.man.com/graduate-programmes]
-- **非EU签证 (全职)**: UK Skilled Worker 2026 £41,700 / SOC 2134 ~£49,400. AHL Quant Dev grad £75k+ 远超阈值. Man Group 是 sponsor licence A 级持有者, 历史 sponsor 国际学生稳定.
-- **薪资结构**:
-  - **Intern (12-week summer placement)**: ~£4-5k/月 estimate (官方未公开, 比 G-Research 低)
-  - **全职 New Grad**:
-    - Junior **Quant Developer (AHL)**: ~£78k median (Glassdoor), 范围 £65-97k base + 10-30% bonus [来源 (实际打开过): https://www.glassdoor.co.uk/Salary/Man-Group-Junior-Quant-Developer-London-Salaries-EJI_IE234069.0,9_KO10,32_IL.33,39_IM1035.htm]
-    - AHL Quant Developer FT (mid): base ~£100-136k, 范围 £69-188k+ all-in (Levels.fyi/Glassdoor) [来源 (实际打开过): https://www.levels.fyi/companies/man-group/salaries/software-engineer/title/quantitative-developer]
-    - Technology Foundation Programme Y1 base: 公开数据少, estimate £55-70k base + bonus
-    - AHL Quant Research grad (PhD): base £100-130k + meaningful bonus
-- **申请窗口**:
-  - **Technology Foundation Programme**: Autumn 2025 open, 截止 **2026-02-27** [来源 (搜索结果): https://www.brightnetwork.co.uk/graduate-jobs/man-group/software-engineer-c-net-2026-technology-graduate-programme]
-  - 其他 grad programmes: Autumn 2026 open (for 2027 starts)
-  - Intern: 12 周, penultimate year, rolling 但秋季 close
-- **面试流程差异 vs 实习**: Grad programme 4 阶段固定 (CV → 2h homework + 30min video → 2h15min 3-engineer 技术面 → 45min manager final); Direct senior hire 流程更短.
-- **录取竞争**: Tech Foundation 据 community ~3-5% accept; AHL Quant Talent 顶 PhD pool 更激烈
-- **关键链接**:
-  - [Man Group Careers](https://www.man.com/careers)
-  - [Graduate Programmes 总览](https://www.man.com/graduate-programmes)
-  - [Students and Graduates](https://www.man.com/students-and-graduates)
-  - [Greenhouse 官方 board](https://job-boards.eu.greenhouse.io/mangroup)
-  - [AHL Quant Talent (Bright Network)](https://www.brightnetwork.co.uk/graduate-jobs/man-group/ahl-quant-research-graduate-programme)
-  - [Levels.fyi Quant Dev salary](https://www.levels.fyi/companies/man-group/salaries/software-engineer/title/quantitative-developer)
+- **岗位名称** (官方 7 个 grad programme): AHL IDI (2 年, 4×6 月 rotation, 目标 Junior Analyst) · AHL Quant Talent (3×6 月 rotation, quant research) · Central Trading (4×6 月 rotation) · Technology Foundation (Platform Engineer / SWE Python-C++-Java / SWE C#-.NET, 6 月 rotation, 最长 2 年) · Accountancy & Tax · Operations · Solutions [来源 (实际打开过): https://www.man.com/graduate-programmes]
+- **资格窗口**: Central Trading 收 Bachelor's 到 PhD (Maths / CS / Engineering / Physics); Technology 2026 cycle 要求 CS / Engineering / Maths / Physics 学位, 或应届, 或 1-2 年相关经验 [来源 (实际打开过): https://builtindublin.ie/job/technology-graduate-programme-c-net-python-java-c-platform/7305985]; 未见语言要求 (英语工作环境)
+- **欧洲地点**: London (主) + Sofia (Technology; 2026 cycle 有 Sofia Platform Engineer grad listing, "Application window: Throughout 2026", 2026-03-26 下架) [来源 (实际打开过): https://builtin.com/job/technology-graduate-programme-software-engineer-c/7822465]; Pfäffikon (CH) 只有业务岗
+- **项目结构**: Technology 先 3 月 bootcamp 再 rotation (2026 cycle listing), 可提前定岗; 入职月份 / cohort 规模未公开
+- **非EU签证 (全职)**: "Man Group Services Limited" (London) 在 UK sponsor 注册表 2026-10-09 版: Worker (A rating), Skilled Worker + GBM [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers; CSV 经 curl 下载核对]. 门槛 general £41,700 / SOC 2134 going rate £54,700 (旧版: ~£49,400) [来源 (实际打开过): https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes]. 2027 实习申请表直接问 "Do you require a visa...", 无明文 sponsor 政策 [来源 (实际打开过): https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101]. 推断: 无 NL 办公室, zoekjaar 不适用; Sofia (BG, EU) 非EU 工作许可规则本轮未核实
+- **薪资 (base + bonus, 无 equity)**:
+  - Levels.fyi London SWE (2026-10, 不分级): median TC £128K; UK 分位 (n=15): TC p10 £82.9K / p25 £111K, base p10 £67.8K / p25 £85.4K / p50 £94.3K; 推断 entry-level 落在 p10-p25 [来源 (实际打开过): https://www.levels.fyi/companies/man-group/salaries/software-engineer/locations/london-metro-area]
+  - Quant Developer UK (Levels.fyi, 2026-10): median £152K (n=9; 唯一可见点 L3 / 4 YOE: base £116K + bonus £35.4K), 非 entry (旧版: £100-136k median, 2026-06) [来源 (实际打开过): https://www.levels.fyi/companies/man-group/salaries/software-engineer/title/quantitative-developer]
+  - Junior Quant Developer (AHL) London: ~£78k median, base £65-97k + 10-30% bonus (旧版数据 2026-06, 本轮 Glassdoor 403 未复核) [来源 (实际打开过): https://www.glassdoor.co.uk/Salary/Man-Group-Junior-Quant-Developer-London-Salaries-EJI_IE234069.0,9_KO10,32_IL.33,39_IM1035.htm]
+  - ⚠️ **待 web 验证**: Technology Foundation Y1 base £55-70k + bonus、AHL Quant Research grad (PhD) base £100-130k 均为旧版估算, 无公开来源; 二次核实前勿用于薪资决策
+- **申请窗口**: 上一 cycle — 2026 Technology Graduate Programme 截止 2026-02-27 [来源 (搜索结果): https://www.brightnetwork.co.uk/graduate-jobs/man-group/software-engineer-c-net-2026-technology-graduate-programme]; 聚合站 listing 2025-10-07 已下架 → 推断上一 cycle 在 2025-09/10 前开放. 2027: 未发布, 推断 2026 Q4 - 2027 Q1. 侧门: 2027 Summer Technology Internship (2026-09-16 至 2026-10-30) 表现好可拿 Technology Foundation 全职 offer [来源 (实际打开过): https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101]
+- **面试流程 vs 实习**: 官方 grad 4 阶段: CV → Online Test → Technical Interview → Final Interview [来源 (实际打开过): https://www.man.com/graduate-programmes]; 2026 Sofia listing 多一轮 Test Review Interview; 旧版 London 描述: 2h homework + 30 min video → 2h15 三人技术面 → 45 min manager final. 2027 tech 实习更短: ≤1h homework → 1h 技术面 → 30 min final
+- **录取竞争**: 社区估算 Tech Foundation ~3-5% (旧版, 未核实); AHL Quant Talent 以 PhD 池为主, 更激烈
+- **关键链接**: [Graduate Programmes](https://www.man.com/graduate-programmes) (实际打开过) · [Greenhouse board](https://job-boards.eu.greenhouse.io/mangroup) · [2027 Technology Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) (实际打开过) · [Levels.fyi London SWE](https://www.levels.fyi/companies/man-group/salaries/software-engineer/locations/london-metro-area) (实际打开过)
 
 ---
 

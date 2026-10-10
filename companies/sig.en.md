@@ -2,7 +2,8 @@
 
 > **Language**: [中文](sig.md) | English
 >
-> Updated: 2026-05-28
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — CSEP €38K in §2 (2026: €40,904, or €36,848 for degrees from the last 12 months).
 > Information richness: ⭐⭐⭐⭐ (Levels.fyi Dublin SWE €101K-€162K direct + Glassdoor Trader Dublin data + official careers.sig.com 2026 Graduate multiple positions + Tradermath / Quant Blueprint process + WSO + eFinancialCareers UK data)
 > One-liner: Private quant MM founded 1987 in Bala Cynwyd (Philadelphia), global top 5 options MM, European HQ in Dublin (~1,000 people), also London + Amsterdam (small); recruiting culture known for **poker + decision theory** ("traders first learn poker"), not heavy on mental math like Optiver/IMC, more emphasis on expected value + game theory; Y1 grad TC is top in industry ($275K-$375K reported)
 
@@ -25,68 +26,28 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (careers.sig.com 2026 Quantitative Trader Graduate / Quant Systematic Trader Graduate / Software Developer Graduate / EU intern openings live + Levels.fyi Dublin SWE €101K-€162K + Glassdoor Quant Trader Dublin €131K / industry grad TC $275-375K)
+> Checked: 2026-10-10 (live WebFetch + careers.sig.com posting JSON-LD read directly) | Information richness: ⭐⭐⭐⭐ (basis: full scan of 2027 grad postings + Levels.fyi Dublin direct read + enterprise.gov.ie CSEP thresholds; still no first-hand trader / QR pay data)
+> **2027 intake status**: **Open (rolling)** — 8 Dublin + 5 London "Graduate: 2027" postings live; official: "We hire for our quantitative trading graduate programme on a rolling basis ... apply early"; QT grad posted 2026-07-15, June 2027 start [Source (verified opened): https://careers.sig.com/global-susquehanna/jobs/10840?lang=en-us]
+> 2026 H2 news: no SIG layoff / hiring-freeze reports found; the 2027 cycle adds two new technical grad tracks, Quantitative Strategy Developer / Trading Systems Engineer (Dublin + London, posted 2026-08-21); no grad / intern postings in Amsterdam
 
-- **Common role names (key distinction)**:
-  - **Quantitative Trader - Graduate: 2026 (Dublin)** — main quant trader track, careers.sig.com Job ID 9550
-  - **Quantitative Systematic Trader - Graduate: 2026 (Dublin)** — systematic sub-track (algorithmic), Job ID 9551
-  - **Software Developer Graduate: 2026 (Dublin)** — SWE track, Job ID 9726
-  - **Quantitative Strategist** — research / pricing model
-  - **2026 Summer Internship (Dublin) Software Development** — Job ID 9405 (EOI)
-  - SIG doesn't use "Engineer", uses "Developer" (Trinity College Dublin SCSS internal referral partnership)
-- **European locations**: **Dublin (primary, EU HQ)** / London (secondary, options + ETF) / Amsterdam (small, opened later)
-- **Independent Graduate Programme**: **Yes** — **SIG Education** (internal brand)
-  - Dublin trader cohort typically August start, 6-12 weeks SIG University (poker + decision theory + market making + trading game)
-  - SWE / Dev cohort runs concurrent with trader, partially shares SIG University culture courses
-  - Cohort size Dublin ~30-50 people / year (exact number not public)
-- **Non-EU visa (Ireland vs Netherlands):**
-  - **Critical Skills Employment Permit (CSEP) 2026**: SIG Dublin full-time default path — ICT professionals / professional engineers on Critical Skills list, processing fee €1,000, employer handles [Source (search result): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]
-  - After 2 years of CSEP can apply for Stamp 4 (permanent residency path), more lenient than Kennismigrant
-  - **Salary threshold 2026**: CSEP general €38,000/year start (within Critical Skills list), otherwise €64,000/year; SIG grad base €70-100K **all over threshold**
-  - **General Employment Permit (GEP)**: if CSEP doesn't apply, use GEP, threshold €34,000/year
-  - **Internship Employment Permit**: SIG Dublin intern typically via this route, must be critical skills related + must be academic requirement
-  - **Taxes**: Ireland personal income tax 20% (within €42K) / 40% (above); slightly worse than NL 30% ruling (NL <30 not 30% marginal)
-- **Salary structure (quant-specific, mandatory)**:
-  - **Intern (Dublin, 2026)**:
-    - Software Development Summer 2026 (Dublin office) EOI open [Source (search result): https://careers-sig.icims.com/jobs/9405/expression-of-interest---software-development-%E2%80%93-2026-summer-internship-(dublin-office)/job]
-    - Industry estimate €4,000-5,500/month + housing
-    - Trinity College Dublin (TCD SCSS) is main local sourcing pipeline [Source (search result): https://www.tcd.ie/scss/courses/undergraduate/internships-for-students/internship-roles/sig-susquehanna-international-group/]
-  - **Full-time New Grad (Quant Trader, Dublin, 2026)**:
-    - Industry compilation: Y1 total $275K-$375K (base $100K-$150K + sign-on + discretionary bonus)
-    - Glassdoor Trader Dublin: avg $204K ($153K-$285K) — but sample includes senior
-    - Glassdoor Quantitative Trader Ireland (3 data points from job postings): avg €131K (€115K-€148K) — this might be base only
-    - eFinancialCareers UK SIG: $686K-$1.1M per head (but includes trader all-level + long-term vesting bonus)
-    - Combined: **Dublin grad Trader Y1 base €70-100K + sign-on €15-30K + discretionary bonus €30-100K → total €120-230K Y1, Y2-3 top performers €300K+**
-  - **Full-time New Grad (SWE / Developer, Dublin)**:
-    - Levels.fyi Dublin SWE: range **€101K-€162K** (Software Engineer to Technical Lead), median €101K (i.e. entry estimate €100K total)
-    - Levels.fyi Ireland overall €93K-€167K
-    - Associate Software Engineer (entry): $151K total ≈ €140K
-    - **No stock** (private company), all cash + bonus
-  - **Sign-on bonus**: $15-30K is SIG Dublin grad standard
-- **Application window**:
-  - **Quantitative Trader Graduate 2026 Dublin**: open (careers.sig.com Job 9550, but icims link 404 — may have already closed H1 2026 cohort)
-  - **Quant Systematic Trader Graduate 2026 Dublin**: Job 9551 open
-  - **Software Developer Graduate 2026 Dublin**: Job 9726 open
-  - **Software Development Intern 2026 (Dublin)**: Job 9405 EOI open
-  - Generally **fall (Sep-Dec)** is application peak, August start is main cohort
-- **Interview process differences vs intern**:
-  - **SIG Quantitative Evaluation (SQE)**: 20-min OA, **logic + brain teaser** (linear equation systems, expected value, grid path-finding) — vs Optiver 80in8 / Flow Traders 75-in-10 — **SIG is the most academic OA in quant circle**
-  - HR phone call: 45 min vibe check + 3 probability / EV questions
-  - Trader Interview (60 min): probability-based math, expected value, market making game (cards / dice / coins), brain teaser
-  - **48h Take-Home Project**: analyze a trade sequence, any language to write strategy — unique to SIG
-  - Final Onsite: trader + HR "good cop bad cop", heavy EV questions + MM game with estimated fair value
-  - **Total process 2-3 months (5 rounds)** — one of the longest processes in industry, slower than Optiver / IMC
-- **Hiring competition**: Extremely high, Dublin cohort typically 30-50 people vs thousands of applications; Trader track is harder (requires IMO / Putnam / poker experience)
-- **Key links**:
-  - Official careers (verified opened, but sub-page detail limited): https://careers.sig.com/
-  - Quant Trader Graduate 2026 Dublin (search result): https://careers.sig.com/job/9550/Quantitative-Trader-Graduate-2026
-  - Quant Systematic Trader Graduate 2026 Dublin (search result): https://careers.sig.com/job/9551/Quantitative-Systematic-Trader-Graduate-2026
-  - Software Developer Graduate 2026 Dublin (search result): https://careers.sig.com/job/9726/Software-Developer-Graduate-2026
-  - EU Intern Openings (search result): https://careers.sig.com/eu-intern-openings
-  - Europe Student + Recent Grad Jobs (search result): https://careers.sig.com/europe-campus
-  - Quantitative Trading + Strategy Jobs (search result): https://careers.sig.com/quantitative-trading-strategy/jobs
-  - Levels.fyi Dublin SWE (search result): https://www.levels.fyi/companies/susquehanna-international-group/salaries/software-engineer/locations/greater-dublin-area
-  - Levels.fyi Ireland SWE (search result): https://www.levels.fyi/companies/susquehanna-international-group/salaries/software-engineer/locations/ireland
+- **Role names (2027; link = careers.sig.com/global-susquehanna/jobs/<ID>)**:
+  - Dublin: Quantitative Trader - Graduate (10840) / Quantitative Systematic Trader - Graduate (10842) / Quantitative Researcher - Graduate (10844) / Software Developer Graduate: September 2027 (11337) / Quantitative Strategy Developer Graduate (11343) / Trading Systems Engineer Graduate (11346) / Site Reliability Engineer Graduate (11429) / Trading Operations Analyst Graduate (11442, posted 2026-10-07)
+  - London: Quantitative Trader (11031) / Quantitative Systematic Trader (11032) / Quantitative Researcher (11033) / Quantitative Strategy Developer (11344) / Trading Systems Engineer (11347), all Graduate: 2027 [Source (verified opened): https://careers.sig.com/global-susquehanna/jobs/11031?lang=en-us]
+  - (previous 2026 cycle: Job 9550 / 9551 / 9726, 2026-05)
+- **Eligibility**: QT = "soon-to-be or recently graduated", any major, no finance background needed; QST / QR = research master's / PhD / post-doc (QR posting body says "June 2026", inferred typo); Software Developer = graduating 2027 with a STEM BSc/MSc (C# / C++ / Python); QSD / TSE = "Class of 2027" final-year BSc/MSc (QSD: Python + a compiled language; TSE: C++ / C / Rust) [Source (verified opened): https://www.kadoa.com/quant/job/sig-v2-trading-systems-engineer-graduate-2027-dublin-496a36d5]
+- **European locations**: Dublin (EU HQ, most roles) / London (5 grad tracks) / Amsterdam: no entry-level postings on 2026-10-10
+- **Programme structure**: QT / QST / QR start June 2027 → classroom education (options / ETF / game theory / weekly poker classes / mock trading) + on a desk managing risk within the first few months; QSD / TSE start August 2027 with a "multiweek education program", accommodation for joiners from outside Dublin; Software Developer / SRE start September 2027 with senior mentors [Source (verified opened): https://careers.sig.com/global-susquehanna/jobs/11337?lang=en-us]
+- **Non-EU visa (full-time)**: no posting mentions sponsorship. **IE CSEP** (official page, 2026-10): Critical Skills list roles €40,904; degree obtained within 12 months before applying €36,848; other roles €68,911; fee €1,000; Stamp 4 can be requested directly when the permit expires [Source (verified opened): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/] (previous: €38,000 / €64,000, 2026-05; new thresholds in force since 2026-03-01 [Source (search result): https://vialtopartners.com/regional-alerts/ireland-immigration-changes-to-employment-permit-salary-thresholds-from-1-march-2026])
+  - **UK**: Susquehanna Dublin Limited - UK Branch / Susquehanna International Securities Limited - UK Branch / Susquehanna UK Limited are all A-rated Skilled Worker sponsors (2026-10-09 register); Skilled Worker threshold £41,700 [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]
+  - **NL student visa / zoekjaar**: no NL grad roles, so it cannot be carried over; Dublin needs an employer-filed CSEP, London a Skilled Worker CoS (inferred: grad pay far above both thresholds)
+- **Pay (gross/yr, private firm, no equity)**:
+  - SWE Dublin (Levels.fyi, 2026-10-10): Associate SWE (entry) no data; Software Engineer level TC €106K = base €98.1K + bonus €7.5K (n=11, avg 4 YOE → new-grad pay inferred below this); Senior €168K; Technical Lead €205K; all-level median €147K [Source (verified opened): https://www.levels.fyi/companies/susquehanna-international-group/salaries/software-engineer/locations/greater-dublin-area] (previous: €101K-€162K, median €101K, 2026-05)
+  - ⚠️ **Pending web verification**: no official or Levels.fyi Dublin data for Trader / QR grads (postings only say "highly competitive"); previous (2026-05) industry estimate: Dublin grad Trader Y1 base €70-100K + sign-on €15-30K + bonus €30-100K; Glassdoor Quantitative Trader Ireland avg €131K; do not use for pay decisions until re-verified
+  - Reference: Susquehanna Dublin Limited UK branch 2024 accounts, average salaries and wages $686K per head (128 → 162 staff, all levels) [Source (search result): https://www.efinancialcareers.com/news/susquehanna-pay-uk-sig]
+- **Application window**: QT / QST / QR grad posted 2026-07-15; QSD / TSE / Software Developer 2026-08-21; SRE 2026-09-07; all rolling. JSON-LD validThrough: QT 2027-03-01 / QR 2027-04-30 / QST 2027-06-20 (system field, not an official deadline; inferred: apply early)
+- **Interview process**: SRE grad, official: Apply → Technical Screen → Recruiter Interview → Technical Interview(s) → Final Interview → Offer (posting body); QSD / TSE: coding + mathematics + system design + behavioural [Source (verified opened): https://www.kadoa.com/quant/job/sig-v2-quantitative-strategy-developer-graduate-2027-dublin-35df8b06]; QT (Dublin, 2025-11 report + summaries): 1h online maths / probability test → HR phone → trader video (betting / market-making probability questions) → data analysis take-home → final [Source (search result): https://static.glassdoor.com.hk/Interview/Susquehanna-International-Group-Interview-E24446-RVW104664176.htm]; grad and intern processes share the same structure
+- **Competition**: extremely high; no public cohort size (previous estimate Dublin 30-50/yr, unverified)
+- **Key links**: SRE grad (incl. interview process, verified opened): https://careers.sig.com/global-susquehanna/jobs/11429?lang=en-us · Europe campus page (verified opened, JS-rendered, no job list): https://careers.sig.com/europe-campus · all other postings read via direct curl of their JSON-LD on 2026-10-10 (datePosted / validThrough / body), not individually WebFetched
 
 ---
 

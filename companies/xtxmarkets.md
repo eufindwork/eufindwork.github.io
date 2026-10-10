@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](xtxmarkets.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (Wikipedia + 官方 careers 已分类拆出 / Levels.fyi London 直读 / 官方招聘公告 (Core SE intern Summer 2026) / Companies House registered; 缺 1point3acres 中文面经)
 > 一句话定位: **London 总部**的纯电子做市公司 (2015 GSA spinoff, Alex Gerko 创立), 用机器学习预测 50,000+ 金融工具价格; 全球最大 FX spot liquidity provider (2019+); ~290 人小而精; **London 是大本营**, Skilled Worker sponsor 积极, SWE TC £188K (Levels.fyi London median)
 
@@ -24,52 +24,21 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi London £188K median + 官方明确 intern programme + AI Research $35k/月直读 + Wikipedia HQ)
+> 核查日期: 2026-10-10 (实时 WebFetch; WebSearch 配额用尽, 新闻仅取 Google News RSS 标题) | 信息丰富度: ⭐⭐⭐ (依据: careers 页 + Greenhouse API + Levels.fyi London + UK sponsor register 直读; 缺 2025-26 grad 面经)
+> **2027 Intake 状态**: **No programme (rolling open roles)** — 官方 JD 原文 "XTX does not run a graduate program, and the successful completion of an internship does not necessarily result in a full-time role upon graduation" [来源 (实际打开过, openquant 转载官方 JD): https://openquant.co/job/core-software-engineering-intern-summer-2026-xtx-markets/2916]; 2026-10-10 Greenhouse 全公司仅 7 个 open role, 0 个 graduate / intern / junior [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs]
+> 2026 H2 动态: 2026-08-29 多家媒体报 Gerko 2025 年度从 XTX 获 £895m (创纪录); 2026-09-01 FN "XTX Markets' top quants paid more than FTSE 100 CEOs"; 2026-09-25 YIT 继续建 Kajaani (芬兰) 数据中心园区; 未见 layoff / hiring freeze 报道 [来源 (实际打开过, Google News RSS 标题): https://news.google.com/rss/search?q=%22XTX+Markets%22+when:150d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **常见岗位名 (区分关键)**:
-  - **Core Software Engineering** (intern + FT): 后台 / 数据 / 运营技术平台 — 不直接对接 trader, 比 trading dev 入门容易
-  - **Exchange Trading Development**: 直接对接交易所连接 + low-latency
-  - **OTC Trading Development**: 场外 / 客户连接
-  - **Post-trade Technology**: 清算 / 风控 / 财务系统
-  - **Quantitative Researcher**: 设计统计模型 (公司核心), PhD heavy
-  - **AI Research (XTY Labs)**: 独立 AI 研究室, NY-based, $35K/月 intern stipend = 年化 **$420K** (业内最高 intern stipend 之一)
-  - **Trading Analyst**: 非 SWE 路径 [来源 (实际打开过): https://www.xtxmarkets.com/careers/]
-- **欧洲地点**: **London (主)** + Paris (post-Brexit EU 接入, 2018 开)
-- **是否有独立 Graduate Programme**: **没有 named grad scheme** — 全职 New Grad 与有经验同走 open role; XTX 官方明确"intern 不保证转 FT" (与 Jane Street 不同); 但 AI Research 顶级 intern 可考虑 NY / London 全职 [来源 (搜索结果): https://jobs.weekday.works/xtx-markets-core-software-engineering-intern---summer-2026]
-- **实习项目细分 (London 可投)**:
-  - **Core Software Engineering Internship — Summer 2026**: 10-12 周, **London 2 个 slot** (Core Tech 团队主托); 申请截止 2025-09-21 (已过); 2027 cycle 待开 [来源 (搜索结果): https://www.xtxmarkets.com/job/?role=Core-Software-Engineering-Intern-Summer-2026&id=6927305003]
-  - **Risk Internship Summer 2026** (London)
-  - **Finance Internship Summer 2026** (London, 10-12 周)
-  - **AI Research Internship — XTY Labs (NY-only)**: 12-14 周, PhD 中段 (≥1 yr remaining), 4d/wk onsite, **$35K/月 = $420K 年化**, 顶级表现可转 NY/London FT research [来源 (搜索结果): https://www.xtxmarkets.com/job/?role=AI-Research-Internship-XTY-Labs&id=6274458003]
-- **非EU签证 (全职)**: XTX Markets Limited 持 Skilled Worker license (Companies House 09415174); FT base £100K+ 远超 2026 阈值 £41,700 + SOC 2136 going rate £55K; 提供 relocation support
-- **薪资结构 (London, gross/年)**:
-  - **Intern (Core SE / Finance / Risk)**: 公开数据少; 业内估 £4-5k/周 (比 Jane Street/HRT 略低但仍业内 top-tier); 包 housing 或提供 stipend
-  - **Intern (AI Research, XTY Labs NY-only)**: **$35K/月 = $420K 年化** (PhD-only, 业内最高)
-  - **全职 New Grad SWE (London L1-L3 range)**:
-    - **L3 (entry, Levels.fyi L1 数据少, 通常直接 L3 起步)**: TC £113K (低分位) - **£188K (median)** - £358K (高分位); base ≈ £150K + bonus ≈ £100K + stock $0 [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/xtx-markets/salaries/software-engineer/locations/london-metro-area]
-    - **median TC £188K, max £358K** — 较 Jane Street £245K median 略低, 但 work-life 显著更好
-  - **Quant Researcher New Grad**: TC £200K-£400K (按 ML/PhD 路径预期)
-  - **Bonus 主导**: base 占 TC ~50-60%; **无 RSU** (XTX 私人 holding, Gerko 75%)
-  - **Indeed UK 平均 SWE 年薪**: £155,050 (混 level 后均值)
-- **申请窗口**:
-  - **Summer 2027 Intern (Core SE / Finance / Risk London)**: ~2026-07/08 开, 申请截止通常 9 月; 2026 cycle 已过 (截 2025-09-21)
-  - **AI Research (XTY Labs NY)**: PhD-focused, rolling
-  - **Full-Time New Grad**: rolling, 但 fall recruiting 是主战场
-- **面试流程差异 vs 实习**:
-  - **OA on TestGorilla** (而非 HackerRank): coding + 时间空间复杂度分析
-  - 一轮 senior engineer/researcher tech (problem-solving + domain)
-  - 二轮 deeper algorithms + DS
-  - **Panel 3-5 senior**: research + engineering + ops 联合
-  - 有团队走 whiteboard, 有团队走 take-home (因团队而异)
-- **录取竞争**: Glassdoor "Average 41 天 process"; SWE 评 "easier than Compliance/Software Developer" (相对 — 仍然 quant 量级难); 内推不流行 (XTX 反 nepotism + 公司只 290 人, 招聘走官网)
-- **关键链接**:
-  - 官方 careers (实际打开过): https://www.xtxmarkets.com/careers/
-  - Core SE Intern Summer 2026 公告 (搜索结果): https://www.xtxmarkets.com/job/?role=Core-Software-Engineering-Intern-Summer-2026&id=6927305003
-  - AI Research XTY Labs (搜索结果, $35k/月 = $420K): https://www.xtxmarkets.com/job/?role=AI-Research-Internship-XTY-Labs&id=6274458003
-  - Finance Intern Summer 2026 (搜索结果): https://www.xtxmarkets.com/job/?role=Finance-Internship-Summer-2026-&id=6688989003
-  - Levels.fyi London SWE (实际打开过, median £188K): https://www.levels.fyi/en-gb/companies/xtx-markets/salaries/software-engineer/locations/london-metro-area
-  - Wikipedia (实际打开过, 250+ employees, HQ R7 King's Cross, FX #1): https://en.wikipedia.org/wiki/XTX_Markets
-  - Glassdoor UK (搜索结果): https://www.glassdoor.co.uk/Salary/XTX-Markets-Salaries-E2384243.htm
+- **岗位名称**: 无 named grad scheme, 全职走 open role (Core SWE / Exchange & OTC Trading Development / Post-trade Technology / Quant Research / Trading Analysts 等) [来源 (实际打开过): https://www.xtxmarkets.com/careers/]; 2026-10-10 London 在招仅 Realtime Analytics and Controls Developer / Software Developer - Shared Engineering ("3+ years") / Technology Procurement Specialist — **无 0-2 年岗**
+- **资格窗口**: 无公开 grad 窗口; 上一 cycle intern JD 要求 "penultimate year of university study" (Maths / CS / Physics 优先) (同上 openquant 来源)
+- **欧洲地点**: London (HQ) / Paris / Bristol / Kajaani (FI, 数据中心岗) / Yerevan (AM, 非 EU); boilerplate "over 300 employees based in London, Singapore, New York, Paris, Bristol, Mumbai, Yerevan and Kajaani" [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs/7835362003]; careers 页地点筛选仅 London / New York
+- **项目结构**: 无 rotation / cohort, 直接入组 (open role 模式)
+- **非EU签证 (全职)**: careers 页 benefits 列 "Visa & Immigration Support" + "Relocation Support" (同上 careers 来源); UK register 2026-10-09 版上的持牌实体为 **XTX Research LLP** (London, Worker A rating, Skilled Worker) (旧版: XTX Markets Limited, 2026-05) [来源 (实际打开过; CSV 下载 grep): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; IND register 无 XTX 实体 → 从 NL zoekjaar 转入 = 新办 UK Skilled Worker (£41,700 门槛, 本轮未复核)
+- **薪资 (London SWE, gross/年)**: Levels.fyi median **£187,250** (该 median 条目: L3, 1 YoE, 2021-09 offer, base ≈ £112K + bonus ≈ £74.9K + stock £0); average £207,072, highest £307,887 (2026-10-10 读) (旧版: median £188K, base ≈ £150K + bonus ≈ £100K, 2026-05; 后两数与页面现显示不符) [来源 (实际打开过): https://www.levels.fyi/en-gb/companies/xtx-markets/salaries/software-engineer/locations/london-metro-area]
+- **QR / 全员参考**: "XTX does not publish graduate pay in London"; London 市场 first-year QR 估 £160,000-£310,000 (非 XTX 专属); XTX Markets Technologies Ltd 2025 人均 pay £457,000 (127 人) [来源 (实际打开过, 2026-09-28 更新): https://www.tradermath.org/salaries/xtx-markets]
+- **申请窗口**: 全职 rolling; 上一 intern cycle: Core SWE Intern Summer 2026 于 2025-09-02 发布, 2025-09-21 截止 (同上 openquant 来源); off-cycle internships (London / NY) 28 Jul 开, 11 Aug 前关 (年份推断为 2026) [来源 (实际打开过): https://www.jorb.ai/firms/xtx-markets]
+- **面试流程差异 vs 实习**: ⚠️ **待 web 验证**: 旧版 (搜索结果) 记 OA (TestGorilla) → 2 轮 tech → 3-5 人 panel, Glassdoor 均 41 天; 本轮 WebSearch 配额用尽, 官方 "how we interview" 页为 JS 渲染未读到, 未复核
+- **录取竞争**: ~300 人公司, 2026-10-10 全球仅 7 个 open role → 全职新人名额极少 (推断)
+- **关键链接**: Greenhouse board (careers 页所链): https://job-boards.greenhouse.io/xtxmarketstechnologies · careers (实际打开过): https://www.xtxmarkets.com/careers/ · Levels.fyi London (实际打开过, 见上)
 
 ---
 

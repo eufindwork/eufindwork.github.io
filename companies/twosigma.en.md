@@ -2,6 +2,9 @@
 
 > **Language**: [中文](twosigma.md) | English
 >
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — the L2/L3 figures marked '£' in §5 are actually USD (about £182.6K / £241.3K); the SOC 2134 going rate is now £54,700, not ~£49,400.
+>
 > NYC-headquartered systematic / ML-driven HF, London is the European number-two site. Self-described as "tech company + HF", engineer ratio ~2/3. All-cash compensation (no stock), bonus is firm-wide P&L allocated, dispersion smaller than pod-shops.
 
 ---
@@ -22,32 +25,24 @@
 
 ## New Grad / Junior Roles
 
-> Information density: ⭐⭐⭐⭐
+> Checked: 2026-10-10 (live WebFetch + direct reads of official careers pages / Levels.fyi page data; WebSearch quota ran out mid-task) | Information density: ⭐⭐⭐⭐ (basis: official London campus role + Levels.fyi L1 London + gov.uk sponsor register / going rates)
+> **2027 intake status**: **Open (Rolling)** — "Software Engineering Full-Time Campus Hire - London" is live, no deadline stated, team matching happens 2-3 months before the start date [Source (verified opened): https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020]
+> 2026 H2 news: none found (latest item on the official news page is 2024-08-28 "Two Sigma Announces Leadership Changes") [Source (verified opened): https://www.twosigma.com/news-and-culture/]
 
-- **Common role names**:
-  - **Software Engineering Internship — London** (10-12 weeks, typically June-August)
-  - **Quantitative Researcher Intern** (London + NYC)
-  - **Modeling Engineer** (Quant Dev equivalent — bridging researchers and production)
-  - **Quantitative Researcher / Quantitative Trader — Two Sigma Securities UK** (FT, including MMIA / Market Making & Intraday Alpha team) [Source (verified opened): https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635]
-- **European locations**: London (sole EU SWE / Quant site)
-- **Independent Graduate Programme**: **No rotational programme**, but has targeted SWE Intern + FT new grad pipeline (sharing framework with NYC, joining team directly upon onboarding)
-- **Non-EU visa (full-time)**: UK Skilled Worker 2026 base threshold £41,700 / SOC 2134 going rate ~£49,400. Two Sigma London base far exceeds threshold, historically stable visa sponsor
-- **Salary structure (cash-only, no RSU/equity)**:
-  - **Intern**: SWE intern Levels.fyi shows ~$95/hr (NYC), London equivalent conversion ~£6-8k/mo; corporate housing + $5k relocation standard [Source (verified opened): https://www.levels.fyi/internships/Two-Sigma/Software-Engineer-Intern/]
-  - **Full-time New Grad (London)**:
-    - **SWE L1**: base ~£105k, total ~£146-167k+ (median L1 package £146k, no stock) [Source (verified opened): https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area]
-    - **Quant Researcher new grad**: base £125k + sign-on/Y1 guarantee £30-60k + Y1 bonus £40-100k = **Total Y1 £195-285k** (London) [Source (verified opened): https://www.quantt.co.uk/resources/two-sigma-salary]
-    - London pay 30-35% lower nominally than NYC for same role
-- **Application window**: SWE intern typically Aug-Sept (NYC) / fall opens London roles (rolling), 11-1 intense interview. Quant Research intern early, 9-10.
-- **Interview process differences vs internship**: internship goes through OA (HackerRank) → 1-2 phone → 1 half-day onsite/virtual; FT new grad adds 1-2 leadership / culture fit rounds.
-- **Admission competition**: applications in tens of thousands, accept rate estimated ~2-5% (from Quant Blueprint guide) [Source (verified opened): https://www.quantblueprint.com/guides/how-to-get-a-job-at-two-sigma]
-- **Key links**:
-  - [Two Sigma Careers](https://www.twosigma.com/careers/)
-  - [London Job Search](https://careers.twosigma.com/careers/SearchJobs/london)
-  - [Internships page](https://www.twosigma.com/careers/internships/)
-  - [Interviewing for SWE](https://www.twosigma.com/careers/interviewing-at-two-sigma/interviewing-for-software-engineering/)
-  - [Levels.fyi London L1](https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area)
-  - [Quantt London salary guide](https://www.quantt.co.uk/resources/two-sigma-salary)
+- **Role names**: the only London early-careers role = SWE Full-Time Campus Hire - London; the QR / AI Research Scientist / Data Scientist Campus Full-Time roles and all 2027 Summer internships (SWE / QR / AI RS / TSS Hardware) are NYC / Houston [Source (verified opened): https://careers.twosigma.com/careers/InternshipsAndEarlyCareers]. No rotational graduate programme; Modeling Engineer / London QR are experienced hires
+- **Eligibility**: Bachelor's / Master's / PhD in a technical or quantitative field, Java / C / C++ / Python etc.; the posting states no graduation window or experience cap (same 14020 page)
+- **European locations**: London only (no office in NL / other EU countries)
+- **Programme structure**: hired as a general SWE, matched to a team 2-3 months before starting; no rotations, no public cohort size
+- **Non-EU visa (full-time)**: "Two Sigma International Limited" (London) is on the UK sponsor register, 2026-10-09 edition: Worker (A rating), Skilled Worker + GBM [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers; CSV downloaded via curl and checked]. 2026 general threshold £41,700 [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; SOC 2134 going rate £54,700 (previous: ~£49,400) [Source (verified opened): https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes] → L1 base is far above. Inferred: NL zoekjaar / reduced Kennismigrant do not help here (UK needs a fresh CoS; the Graduate Route is only for UK degrees)
+- **Pay (cash-only, no equity)**:
+  - SWE L1 London (Levels.fyi, 2026-10): average TC £145,468 = base £107,866 + bonus £37,602; n=4, average YOE 0.25, no new submissions in the last 12 months [Source (verified opened): https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area]
+  - Note: Levels.fyi stores USD and the page converts to GBP at 0.749; the §5 figures on this page for L2 "£163k / £244k" and L3 "£175k / £147k / £322k" are actually the raw USD values — converted, roughly L2 TC £182.6K (n=2) / L3 TC £241.3K (n=4) [Source (page data read via curl): https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/locations/london-metro-area]
+  - QR new grad London (industry estimate, 2026-05): base £125,000 + sign-on / Y1 guarantee £30-60k + Y1 bonus £40-100k = Y1 £195-285k [Source (verified opened): https://www.quantt.co.uk/resources/two-sigma-salary]
+  - NYC reference (official pay disclosure, 2026-10): SWE Campus base $225,000 [Source (official page read via curl): https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014]; QR Campus base $300,000 (previous, Prosple: $200-220K) [Source (official page read via curl): https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946]
+- **Application window**: London SWE campus = rolling, no deadline stated; 2027 Summer internships are open but NYC only. No London open/close announcement for the last cycle; inferred: apply early in the autumn, seats fill first-come
+- **Interview process (official SWE)**: up to 3 rounds — phase one is 3×60 min technical interviews (DS / algorithms / OOD, shared codepair, C / C++ / Java / Python), phase two adds ~60 min interviews (experience + interests); quote: "Use of ChatGPT or any other AI tool is strictly prohibited", perceived use can mean DQ [Source (verified opened): https://www.twosigma.com/interviewing-for-software-engineering/] (old URL .../careers/interviewing-at-two-sigma/... now 404). No new 2025-26 FT interview reports could be opened this round (1point3acres / Glassdoor both 403), see §4
+- **Competition**: accept rate est. ~2-5% (Quant Blueprint, previous data) [Source (verified opened): https://www.quantblueprint.com/guides/how-to-get-a-job-at-two-sigma]; inferred: London has a single campus SWE entry point, far fewer seats than NYC
+- **Key links**: [London SWE Campus](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020) (verified opened) · [Early Careers list](https://careers.twosigma.com/careers/InternshipsAndEarlyCareers) (verified opened) · [Interviewing for SWE](https://www.twosigma.com/interviewing-for-software-engineering/) (verified opened) · [Levels.fyi L1 London](https://www.levels.fyi/companies/two-sigma/salaries/software-engineer/levels/l1/locations/london-metro-area) (verified opened)
 
 ---
 

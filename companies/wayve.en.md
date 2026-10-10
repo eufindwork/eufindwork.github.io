@@ -2,7 +2,8 @@
 
 > **Language**: [中文](wayve.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'Series C' in the header (Series D $1.2B in 2026-02); FirstStage / Greenhouse in §1/§6/§8 (now Ashby).
 > One-line positioning: UK self-driving + Embodied AI unicorn, end-to-end neural driving (different from Waymo/Cruise modular). 2024 SoftBank/NVIDIA/Microsoft led USD 1B+ Series C, London King's Cross HQ. **Skilled Worker A-rating license newly issued 2025-11** [Source (verified opened): https://immigrationgpt.co.uk/company/Wayve-Technologies-Ltd], sponsor path clear, company publicly states "relocation support with visa sponsorship" for intern.
 
 ---
@@ -21,35 +22,20 @@
 
 ## New Grad / Junior Roles
 
-> Wayve has no named Graduate Programme, but PhD intern → full-time RS/RE conversion path mature; **no Bachelor / Master direct-entry grad scheme**, new graduates mainly enter through MSc / PhD.
+> Checked: 2026-10-10 (live WebSearch + WebFetch + full Ashby API parse) | Info richness: ⭐⭐⭐ (basis: all 156 open JDs searched + Levels.fyi London + UK sponsor register + 2026 funding/operations news; missing entry-level pay samples and 2026 new-grad interview reports)
+> **2027 Intake status**: **No programme (Rolling)** — no graduate scheme; on 2026-10-10, 0 of 156 open Ashby roles are Intern / Graduate / Junior; the main new-grad route remains MSc/PhD intern → return offer [Source (verified opened): https://api.ashbyhq.com/posting-api/job-board/wayve ]
+> **2026 news**: 2026-02-25 Series D $1.2B at an $8.6B valuation [Source (verified opened): https://www.uktech.news/ai/wayve-valuation-massive-series-d-investment-20260225 ]; 2026-07-01 $85M employee tender ("retain talent"), ~1,200 employees [Source (verified opened): https://tech.eu/2026/07/01/wayve-undertakes-85m-employee-tender-offer-to-retain-talent/ ]; 2026-09-03 launched supervised robotaxi rides in London with Uber, planned expansion to 12 markets [Source (verified opened): https://investor.uber.com/news-events/news/press-release-details/2026/Wayve-and-Uber-Launch-First-Ever-Autonomous-Rides-in-the-UK-2026-VoFQI1WbQi/default.aspx ]; no layoff / hiring-freeze reports found
 
-- **Common role names**: Research Scientist Intern, ML Engineer Intern, Software Engineer Intern, Applied Science Intern, Field Engineer (Robotics) Graduate/Intern
-- **European locations**: all London (HQ-only)
-- **Whether there's an independent Graduate Programme**: **No formal grad scheme**; new graduates go one of these paths:
-  - **PhD intern → Research Scientist / Research Engineer** (main path, best during PhD)
-  - **MSc thesis collaboration** (collaborate with Wayve on thesis → intern → full-time)
-  - **Field Engineer Robotics (Graduate/Intern)** — only stable Bachelor/MSc direct-entry grad entrance [Source (verified opened): https://startup.jobs/field-engineer-robotics-graduate-intern-wayve-2861062]
-- **Non-EU visa (full-time)**:
-  - **UK Skilled Worker**: Wayve Technologies Ltd A-rating, license newly issued 2025-11 [Source (verified opened): https://immigrationgpt.co.uk/company/Wayve-Technologies-Ltd]
-  - 2026 threshold £41,700, Wayve SWE base £94K+ far exceeds [Source (verified opened): https://www.levels.fyi/companies/wayve/salaries/software-engineer]
-  - Wayve careers page publicly states "relocation support with visa sponsorship" for intern — rare, most companies only sponsor full-time
-- **Salary range (Levels.fyi 2026)**:
-  - **SWE London Median TC**: £94.8K - £131K+ (range), median ~£108K-£116K [Source (verified opened): https://www.levels.fyi/companies/wayve/salaries/software-engineer/locations/london-metro-area]
-  - **ML Engineer London Median**: £108,227 (median), highest £217,288 [Source (verified opened): https://www.levels.fyi/companies/wayve/salaries/software-engineer/title/machine-learning-engineer/locations/london-metro-area]
-  - **SWE Intern**: Levels.fyi number **$24.23/hr** (US sample, converted ~£18/hr) [Source (verified opened): https://www.levels.fyi/internships/Wayve/Software-Engineer-Intern/]; London estimated £4,000-5,500/month
-  - **Research Scientist Intern (London PhD)**: Glassdoor shows no clear public figure; industry estimate £5,000-7,500/month (PhD-tier)
-  > **2026-06 retry confirms**: Wayve careers + Built In London 2026-01 Research Scientist Intern (Data for Embodied AI) JD did not list numbers (job removed 2026-01-05); Levels.fyi still only lists SWE Intern $24.23/hr (US sample). DeepMind Research Intern Levels.fyi $72.12/hr as direct reference, Wayve PhD-tier £5,000-7,500/month estimate remains reasonable.
-  - **Equity**: Series C private ($4-5B valuation 2024 post-money), illiquid; senior full-time has equity refresh
-- **Application window**: PhD intern year-round rolling; Summer SWE intern usually previous year Q4-Q1 opens
-- **Interview process differences vs senior**: Intern process 3-4 rounds (recruiter + DL case study + PyTorch debug + coding); full-time RS adds panel + leadership
-- **Hiring competition / international student friendliness**:
-  - Glassdoor positive **26.7%**, difficulty 2.93/5 — on the strict side, ML Engineer hardest
-  - PhD Research roles slowest (~29 days)
-  - International student friendliness medium-high (Skilled Worker license + intern visa sponsor both public)
-- **Key links**:
-  - Careers: https://wayve.ai/careers/
-  - FirstStage real-time reqs: https://wayve.firststage.co/jobs
-  - Science team intro: https://wayve.ai/thinking/science-at-wayve/
+- **Role names**: no named grad role; all 28 London engineering roles target experienced hires (most say "strong production experience"); closest to junior: Platform Engineer, SDO (JD "2–5 years of experience") https://jobs.ashbyhq.com/wayve/c00ffab0-fa2d-4faf-9678-14d24f75e549 ; historical routes (previous version): PhD/MSc Research Scientist Intern → RS/RE return offer, MSc thesis collaboration; old Field Engineer Robotics (Graduate/Intern) link returned 403 this round, not re-checked
+- **Eligibility**: last cycle's intern JD required "Currently pursuing a PhD or Masters in Computer Science, Robotics, Electrical Engineering, or a related field" (closed) [Source (verified opened): https://jobs.firstminute.capital/companies/wayve/jobs/61573157-research-scientist-intern-reinforcement-learning ]; Leonberg roles often require German
+- **European locations**: London HQ 51 open roles + **Leonberg, Germany** 18 (App SW / ADAS / fleet operations; 9 JDs mention German); others Sunnyvale 60 / Tokyo 17 / Herzliya 4 / Detroit 4 / Yokohama 2 (previous: London HQ-only, 2026-05)
+- **Programme structure**: no cohort; internships 3-6 months (previous version)
+- **Non-EU visa (full-time)**: UK — Wayve Technologies Ltd Skilled Worker A rating, added 2025-11-25, still listed 2026-10-09 [Source (verified opened): https://immigrationgpt.co.uk/company/Wayve-Technologies-Ltd ], 2026 threshold £41,700; 138/156 JDs (London 47/51, Leonberg 12/18) state "Relocation support and visa sponsorship where applicable"; the careers page showed no visa wording this round [Source (verified opened): https://wayve.ai/careers/ ]; NL — no NL entity, not on the IND register (2026-10-05 version) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-work ] → zoekjaar / Kennismigrant does not apply; realistic routes = UK Skilled Worker or DE Blue Card (Leonberg)
+- **Pay (TC, gross/yr)**: Levels.fyi London SWE (updated 2026-10-10): median £130,556 (shown as £131K), average £128,181, highest £155,155; 49 SWE submissions company-wide, no 0-2 YOE samples; 4-year vest, 25% in year 1 [Source (verified opened): https://www.levels.fyi/companies/wayve/salaries/software-engineer/locations/london-metro-area ] (previous: £94.8K - £131K+, 2026-05); ⚠️ **Pending web verification** (not re-checked this round): ML Engineer London median £108,227 (2026-05 data); entry level: no public data (JDs disclose no pay)
+- **Application window**: full-time Rolling; last cycle's RS Intern roles were posted 2025-10/11 [Source (search result): https://jobs.eclipse.capital/companies/wayve/jobs/60731726-research-scientist-intern-embodied-ai ]; Summer 2027 intern roles not yet posted (inferred: 2026-10/11 if last cycle's timing repeats)
+- **Interview process**: recruiter → 1h problem solving (DL case) → 1h programming (DS&A) → 1h PyTorch debugging; one 2025-07 report describes two 1h rounds (ML + ML system design) [Source (search result): https://www.glassdoor.sg/Interview/Wayve-Interview-E2225260-RVW103202980.htm ]; full-time RS adds panel / leadership (previous version)
+- **Competition**: Glassdoor 26.7% positive, difficulty 2.93/5 (2026-05 data); ~1,200 employees, hiring skews experienced (inferred)
+- **Key links**: Ashby openings https://jobs.ashbyhq.com/wayve (JS-rendered; data read via the API above; old FirstStage / Greenhouse boards no longer used) · Careers https://wayve.ai/careers/ (verified opened)
 
 ---
 

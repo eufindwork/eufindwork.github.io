@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](asml.en.md)
 >
-> 更新时间: 2026-09-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (官方信息透明, 面经偏散但有 Glassdoor/JoinTaro/1point3acres 多源)
 > 公司背景: 全球极紫外光刻机 (EUV) 唯一供应商, 台积电/三星/Intel 的核心设备供应商. HQ 在 Veldhoven (Eindhoven 旁), 全球员工 ~40,000 人
 
@@ -32,47 +32,27 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (ASML 是 NL 最大单一招聘方之一, 官方 early-careers 入口 + Levels.fyi 实读 L6-L8 NL 数据 + Glassdoor 面经丰富; 注意 ASML 官方品牌**已从 "Starters / TDP" 偏向 "Early Career Programs" 通用伞**, 含 Management Traineeship / Manufacturing Gateway / IT Gateway / Supply Chain Graduate Acceleration 等具名子项目)
-> 区别于实习: 实习 6-9 个月走 GVVA 或 Nuffic 协议; **Starter / Graduate (新毕业生)** 全职合同, 走 Highly Skilled Migrant + 30% ruling, package 数量级跃升
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Workday API) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 early-career-programs 页 + 在招 graduate program 原文 + Workday 在招列表 + Levels.fyi 2026-10-10 + NL Times 2026 报道)
+> **2027 Intake 状态**: **Open (仅 1 个 programme)** — **Sourcing & Supply Chain Graduate Acceleration Program** (J-00353257, Veldhoven) 截止 **2026-10-18 23:59 CEST**, 首选 2027-01 入职, onsite selection day 2026-11-19 [来源 (实际打开过): https://www.asml.com/en/careers/find-your-job/sourcing-and-supply-chain-graduate-acceleration-program-j00353257]; **Management Traineeship / Gateway Program**: 官方页只有介绍、无日期, Workday 无在挂岗位 → Upcoming (未公布); 上一 cycle Management Traineeship - Technology 截止 2026-05-25 [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates/early-career-programs]
+> **2026 动态**: 2026-01-28 宣布裁 1,700 岗 (D&E + IT & Data, 理由 "inefficient and overly complex"); 2026-06-10 与工会定 social plan: 2026-06-01 至 2027-05-01 无强制裁员期, 受影响员工可申请内部空缺 [来源 (实际打开过): https://nltimes.nl/2026/06/10/asml-unions-finalize-social-plan-address-1700-job-cuts]; 2026-08-20 美国拟以 "Match Act" 迫使 NL 禁止 ASML 向中国出售 / 维护 DUV [来源 (实际打开过): https://nltimes.nl/2026/08/20/us-preparing-force-netherlands-ban-asml-selling-china]; 2026-09-08 Brainport Industries Campus North 动工, 远期 +20,000 岗 (NL 员工近翻倍), 2029 一期结束时至少 3,000 岗 [来源 (实际打开过): https://nltimes.nl/2026/09/08/asml-celebrates-start-campus-construction-will-open-extra-20000-jobs]
+> **在招快照 (Workday 2026-10-10)**: 全球 670 岗, Veldhoven 80 + Eindhoven 3 + Berlin 17; NL 全职岗中标 "0-1 year" 经验的仅 4 个 (Business Analyst J-00353962 / System performance engineer J-00281913 / EC Sequence Engineer J-00353646 / SC Graduate Acceleration J-00353257), 另有 24 个 NL 实习 [来源 (实际打开过, API 直读): https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/ASMLEXT1/jobs]; 推断: 内部安置期 (至 2027-05-01) 叠加外部 entry 岗稀少, 2026 H2 应届入口明显收窄
+> ⚠️ **待 web 验证**: 旧版 "每年 sponsor 2000+ Kennismigrant / 流程 2-4 周 / 60 天 corporate apartment"、"申请池 30,000+ / Starter 录取率 5-8%"、"实习转 Starter ~30-40%"、Starter 面试 "technical panel 3 Senior + 1 Architect" 本次均未重新核实 (WebSearch 预算耗尽), 数据基于旧版页面; 二次核实前勿用于薪资 / 截止日期决策.
 
-- **常见岗位名**: **Starter Software Engineer** / **Starter Design Engineer** / **Starter Mechatronics Engineer** / **Junior Computational Lithography Engineer** / Starter Process Engineer; **Management Traineeship - Technology** (3 年 rotational program, 2026 申请截止 5/25/2026) [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates]; 内部 "Starter" 仍是 0-1 yr 全职官方标签
-- **欧洲地点**: **Veldhoven (HQ, De Run 6501)** 占绝大多数 Starter 名额 (50%+ 总员工在 Veldhoven) [来源 (搜索结果): https://www.asml.com/en/careers/students-new-graduates]; Eindhoven city / Helmond / Berlin / Linkou (台湾) — 欧洲新 grad 几乎全部 Veldhoven
-- **是否有独立 Graduate Programme**: **Yes — Early Career Programs 伞** 含多个并行 program:
-  - **Management Traineeship - Technology** — 3 年 rotational, 跨多部门 + 战略 + 技术挑战 [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates]
-  - **Manufacturing Gateway Program** — 半导体制造 / 流程优化 / 质量控制 / 供应链方向
-  - **IT Gateway Program** — software dev / data analysis / IT infra
-  - **Sourcing & Supply Chain Graduate Acceleration Program** — 含 13th 月薪 + 8% holiday allowance + 40 天 PTO + pension [来源 (搜索结果): https://www.asml.com/en/careers/find-your-job]
-  - **Engineering Career Starter** — 直接全职 SWE / EE / Optics, 不轮岗
-  - **PhD-track Graduate** — 与 TU/e, TU Delft, Twente 合作
-- **非EU签证 (全职)**:
-  - ASML 是 IND **顶级 Recognised Sponsor**, 每年 sponsor 2000+ Kennismigrant; 流程 2-4 周
-  - 提供 **full relocation**: 单程机票 + 60 天 corporate apartment + 永久 BSN/银行/医保协助 + 配偶 search agency + 国际学校协助
-  - **30% ruling (NL 2026)**: Starter SWE 起薪 €82K base 远超 Kennismigrant 门槛 **€4,357/月 <30 岁 = €52.3K/年**, **100% 适用** [来源 (实际打开过): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]
-  - **EU Blue Card / Highly Skilled Migrant 双路径**: ASML 默认走 Kennismigrant (NL 国内最快), 但若有跨欧盟流动需求会改 Blue Card
-- **薪资范围 (base, gross/年)**:
-  - **NL Starter SWE (L6, entry)**: **$82.4K base + $9.6K bonus ≈ $92K total / 年** (Levels.fyi 2026-05-27 实读, USD 报价 ≈ €76K total); 全 NL median €99.3K (含高 level) [来源 (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
-  - **Eindhoven 区域 SWE 综合**: median €76.2K total, L6-L9 区间 €63.1K-€96.7K [来源 (搜索结果): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven]
-  - **L7 (1-2 yrs)**: $91K base + $14K bonus ≈ $105K total [来源 (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
-  - **L8 (mid)**: $116K base + $16.8K bonus ≈ $133K total
-  - 加 13 月薪 (8% holiday allowance)
-  - **Stock**: ASML.AS RSU, **L6 Starter 0 stock**, L7 ~$439/年 (微量), L8 起才有意义 grant [来源 (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
-  - **30% ruling 后实得**: €82K base → 实际到手约 €5.0K-€5.5K/月 net
-- **申请窗口**: **rolling year-round**, 没有固定 cohort 截止; 此前 Management Traineeship - Technology 2026 cycle 截止日期 (5/25/2026) 已过; 截至 2026-09-26 官方页面未公布新一轮具体截止日期, 仍以 career portal 持续开放岗位为准 [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates]; 实习转 Starter 转化率高 (公开 ~30-40%)
-- **面试流程差异 vs 实习**:
-  - 流程结构相似 (CV → Recruiter → Hiring Manager → Technical → Offer), 但**技术轮加深** — 多一轮 **technical panel (3 名 Senior + 1 名 Architect)**, 现场 whiteboard 系统设计
-  - **新增 culture / leadership behavior 轮** (基于 ASML "Challenge, Trust, Care, Collaborate, Have Fun" 五原则)
-  - 部分 Management Traineeship 流程要求 **48-hour case study** + presentation
-  - 整体 4-6 周, 比实习 (4 周) 略长
-- **录取竞争**: ASML Starter 在 NL 最有竞争力的 employer brand 之一 (Universum 排名 NL #1 Engineering employer), 申请池每年 30,000+, Starter 录取率 ~5-8%; **对国际生极 friendly** (公司本身 40% 员工是国际人才); 中国学生通过率高于 booking / adyen 因技术 fit > 业务 sense
-- **关键链接**:
-  - ASML Students & New Graduates 官方入口: https://www.asml.com/en/careers/students-new-graduates
-  - ASML Early Career Programs: https://www.asml.com/en/careers/students-new-graduates
-  - Career 总入口: https://www.asml.com/en/careers/find-your-job
-  - Levels.fyi ASML SWE Netherlands (2026-05-27 实读): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands
-  - Levels.fyi ASML SWE Eindhoven 区域: https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven
-  - GraduatesFirst ASML 2026 准备指南: https://www.graduatesfirst.com/asml-early-careers
-  - Glassdoor 面经 (Veldhoven 筛选): https://www.glassdoor.com/Interview/ASML-Eindhoven-Interview-Questions-EI_IE26494.0,4_IL.5,14_IC3057620.htm
-  - 1point3acres ASML tag: https://www.1point3acres.com/bbs/tag/asml-1186-1.html
+- **岗位名称**: Early Career Programs = **Sourcing & Supply Chain Graduate Acceleration Program** / **Management Traineeship** (- Technology) / **Gateway Program** (旧版细分 Manufacturing / IT Gateway) [来源 (实际打开过): https://www.asml.com/en/careers/students-new-graduates/early-career-programs]; 其余为直招岗 (旧称 "Starter"; 2026-10-10 Workday 无 "starter" / "junior" 标题的 NL 岗)
+- **资格窗口**: SC GAP: Bachelor / Master (SCM / logistics / IE 相关), 入职前须 "fully graduated", 相关工作经验 ≤6 个月 (实习不计), 英语流利 (同上 J-00353257 页); 直招岗按 Workday "0-1 year" 标签
+- **欧洲地点**: Veldhoven (HQ) 为主, Eindhoven 少量; Berlin 当前多为制造 / 物流岗
+- **项目结构**: SC GAP = 2 年发展项目 (~10 天/年软技能培训), 1 年合同且有意转无固定期限 (同上 J-00353257 页); Management Traineeship 旧版为 3 年 rotational
+- **非EU签证 (全职)**: ASML Netherlands B.V. (KvK 17052456) / ASML Holding N.V. (KvK 17085815) 等在 IND recognised sponsor register (2026-10-05 更新) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; 2026 HSM 门槛 €5,942 (≥30) / €4,357 (<30) / €3,122 (reduced, zoekjaar / recent graduates) gross/月 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]; 官方 relocation: temporary housing + 搬家服务 + relocation budget [来源 (实际打开过): https://www.asml.com/en/careers/working-at-asml/netherlands]; 从 NL 学生签 / zoekjaar 转 HSM 可行 (推断)
+  - **30% ruling**: 2026 salary norm €48,013 / <30 + master €36,497; 2027-01-01 起新 ruling 上限 27% [来源 (实际打开过): https://www.bakertilly.nl/en/inzichten/kennisartikel/new-threshold-amounts-for-expats-and-highly-skilled-migrants-in-2026]; 需入职前长期居住在距荷兰边境 >150 km 处 [来源 (实际打开过): https://www.iamexpat.nl/expat-info/taxation/30-percent-ruling] — 在 NL 读书后直接入职通常不满足 (推断) (旧版: "100% 适用")
+- **薪资 (gross/年)**:
+  - **Levels.fyi NL 2026-10-10**: L6 (Entry Level) €82.8K total (€74.4K base + €675.7 stock + €7.7K bonus); L7 €104K (€88.7K base + €0 stock + €15.5K bonus); L8 €128K; median €102K, 323 条; RSU 3 年每年 33% [来源 (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
+  - **Levels.fyi Eindhoven 区域 2026-10-10**: L6 €66.7K total (€59.9K base + €0 stock + €6.9K bonus); L7 €81.5K; L8 €105K — 与 NL 页 L6 相差 €16.1K, 两页口径不同, Eindhoven 区域更接近 Veldhoven 实况 (推断) [来源 (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven]
+  - 旧版 (2026-05-27): L6 $82.4K base + $9.6K bonus ≈ $92K; L7 $91K + $14K ≈ $105K; L8 $116K + $16.8K ≈ $133K; Eindhoven median €76.2K, L6-L9 €63.1K-€96.7K (旧版 "Starter 起薪 €82K base" 与新数据不符)
+  - 官方福利: 13th month + 8% holiday allowance + 40 天带薪假 (27 vacation + 13 ADV) + pension (同上 working-at-asml 页); BSc / MSc 起薪差异无公开数据
+- **申请窗口**: 直招岗 rolling; SC GAP 2026-10-07 发布 → 2026-10-18 截止 (同上 J-00353257 页); Management Traineeship 上一 cycle 截止 2026-05-25, 2027 cycle 未公布
+- **面试流程差异 vs 实习**: SC GAP: 申请 (截止后 1 周内通知) → 录制视频面试 (预设问题) → onsite selection day (2026-11-19) → offer (同上 J-00353257 页); 直招岗: CV → recruiter → hiring manager → technical → offer, 约 4-6 周 (旧版, 未重新核实)
+- **录取竞争**: 无官方数据; 2026-10 NL 对外 0-1 年全职岗仅 4 个, 竞争高于往年 (推断)
+- **关键链接**: Early Career Programs (实际打开过): https://www.asml.com/en/careers/students-new-graduates/early-career-programs · Students & graduates 入口 (实际打开过): https://www.asml.com/en/careers/students-new-graduates · Find your job: https://www.asml.com/en/careers/find-your-job · Levels.fyi NL (实际打开过): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands · Glassdoor: https://www.glassdoor.com/Interview/ASML-Eindhoven-Interview-Questions-EI_IE26494.0,4_IL.5,14_IC3057620.htm · 1point3acres: https://www.1point3acres.com/bbs/tag/asml-1186-1.html
 
 ---
 

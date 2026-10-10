@@ -117,7 +117,7 @@
 
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
-- **核心 trade-off**: 已在 NL 持学生签 → 选 Voi 意味着 **放弃 NL zoekjaar (€2,801 reduced HSM)**, 换 Sweden certified employer 快通道
+- **核心 trade-off**: 已在 NL 持学生签 → 选 Voi 意味着 **放弃 NL zoekjaar (€3,122 reduced HSM)**, 换 Sweden certified employer 快通道
 - **Intern 可行性**: ❌ **零** — 无正式 intern program; thesis worker 可走 KTH/Chalmers 渠道但默认要 SE 工签
 - **FT 可行性**:
   - **R&D senior → 中-高** — Sweden certified employer 2-4 周快, 起薪应 cover 90% median; 但当前 Stockholm 9 个 req 全 senior, **Junior/Grad 不友好**

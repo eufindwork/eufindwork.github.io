@@ -49,7 +49,7 @@
   - **Greater Amsterdam SWE range**: **€57.7K – €65.7K+** (Levels.fyi) [Source (verified opened): https://www.levels.fyi/companies/picnic/salaries/software-engineer/locations/greater-amsterdam-area]
   - **Equity**: private (still pre-IPO, EQT / Hoogvliet invested), equity minimal, mainly base
   - Plus **25 days vacation + pension + free weekly language classes + OpenUp psych counselling + gym + healthy lunch**
-- **Sponsor policy (FT)**: NL Kennismigrant. **Tech Academy base ≈ €54K = €4,500/month**, just meets <30 HSM threshold (€4,357). UvA master grad reduced HSM (€2,801) zero barrier.
+- **Sponsor policy (FT)**: NL Kennismigrant. **Tech Academy base ≈ €54K = €4,500/month**, just meets <30 HSM threshold (€4,357). UvA master grad reduced HSM (€3,122) zero barrier.
 - **Application window**: 2 intakes/year (March + September), opens 4-6 months ahead
 - **Process differences vs intern**:
   - Tech Academy: 5 stages (CV → Phone → Interviews → **Assessment Day** → Offer)
@@ -66,7 +66,7 @@
 - **Known sponsorship cases**:
   - workwithvisa.com lists Picnic + HSM sponsor + relocation details [Source: https://workwithvisa.com/companies/picnic]
   - Picnic official relocation page [Source (verified opened): https://jobs.picnic.app/en/relocation]: **flights for you + direct family + 1 month partner hotel + onboarding period accommodation**
-- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: Tech Academy base meets + overseas recruitment + residence ≥150km three conditions to apply
 
 ---
@@ -148,7 +148,7 @@ Similar 5 stages but compressed, usually take-home + on-site day
 ## 8. For UvA Students (NL student visa) — Specific Assessment ⭐
 
 - **Intern viability**: **zero friction** — UvA enrolled + NL student visa directly meets graduation internship requirements (NL enrolled). Student visa 16h semester / 40h vacation covers stage, Nuffic convention completes, **company doesn't need to handle work permit**
-- **FT viability**: **zero friction** — via zoekjaar then apply Tech Academy / Junior Java, base €54K far exceeds reduced HSM €2,801, also exceeds standard HSM €4,357. relocation already covered (but UvA local students don't need it)
+- **FT viability**: **zero friction** — via zoekjaar then apply Tech Academy / Junior Java, base €54K far exceeds reduced HSM €3,122, also exceeds standard HSM €4,357. relocation already covered (but UvA local students don't need it)
 - **Expected friction**: **zero** (both paths smooth)
 - **UvA advantage**:
   - Picnic HQ in Hoofddorp, ~20 km from UvA campus, ~30-40 min public transport / inconvenient by bike, but Picnic has Amsterdam Centraal shuttle

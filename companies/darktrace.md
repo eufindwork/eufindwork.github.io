@@ -135,7 +135,7 @@ Source: Glassdoor Darktrace Cambridge interview reports [实际打开过: https:
 
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
-- **核心 trade-off**: User 已在 NL 持学生签, Darktrace 选 UK 意味着放弃 zoekjaar (毕业后 1 年找工作) + reduced HSM (€2,801/月) 福利, 换 UK Skilled Worker (£41,700 阈值)
+- **核心 trade-off**: User 已在 NL 持学生签, Darktrace 选 UK 意味着放弃 zoekjaar (毕业后 1 年找工作) + reduced HSM (€3,122/月) 福利, 换 UK Skilled Worker (£41,700 阈值)
 - **Intern 可行性**: **极低**
   - CyberFirst 明确排除 non-UK student
   - 普通 8 周 intern 不开 Tier 5 / SW sponsor (UK intern 极罕见 case)

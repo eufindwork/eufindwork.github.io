@@ -2,7 +2,7 @@
 
 > **Language**: [中文](stripe.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
 > Information density: ⭐⭐⭐⭐⭐
 > One-line positioning: Founded by the Collison brothers, payments + AI infra, **Dublin is a real eng hub** (not ops), CSEP Trusted Partner (2–4 week visa), European pay benchmark (L1 €131k → L4 €436k).
 
@@ -19,24 +19,30 @@
 
 ## New Grad / Junior Roles
 
-- **Common role names**: Software Engineer (New Grad / L1), Site Reliability Engineer, ML Engineer, Data Engineer; **Apprenticeship Programme** (Dublin, for those without traditional CS background)
-- **European locations**: Dublin (primary), London (primary), occasionally remote within EU
-- **Independent Graduate Programme**: No "rotation programme", New Grad SWE directly joins a specific team; **Apprenticeship** is a separate product
-- **Non-EU visa (full-time)**: **Ireland CSEP Trusted Partner** (2–4 week fast track), salary threshold €40,904/year (starting 2026-03-01) — Stripe Dublin base far exceeds threshold; UK Skilled Worker £41,700 licensed
-- **Salary range (Levels.fyi Dublin)**:
-  - **L1**: median total €131,185 (base €70,884 + RSU €33,260 + bonus €12,086)
-  - **L2**: median total €167,115 (base €93,978 + RSU €41,437)
-  - **L3**: median total **€238,209**
-  - **L4**: median total **$436,667** (~€400k+)
-  - [Source (verified opened): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/greater-dublin-area] (updated 2026-03-31)
-- **Application window**: New Grad mainly in fall (Aug–Nov) + spring (Jan–Mar) two batches
-- **Interview process differences vs intern**: New Grad 5 rounds (including system design); intern 3–4 rounds (no system design)
-- **Admission competition / International student friendliness**: ⭐⭐⭐⭐⭐ Trusted Partner + Dublin eng heavy, Glassdoor Dublin rating 3.7/5
-- **Key links**:
-  - [Stripe Jobs University (verified opened): https://stripe.com/jobs/university]
-  - [Stripe Jobs full board: https://stripe.com/jobs]
-  - [TCD SCSS Stripe internship page (verified opened): https://www.tcd.ie/scss/courses/undergraduate/internships-for-students/internship-roles/stripe/]
-  - [Levels.fyi Dublin (verified opened): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/greater-dublin-area]
+> Checked: 2026-10-10 (live Greenhouse API + WebFetch) | Information density: ⭐⭐⭐⭐⭐ (basis: full pull of 728 Greenhouse roles + direct Levels.fyi Dublin / London level read + gov.uk register + DETE CSEP page)
+> **2027 intake status**: **Open (rolling)** — "Software Engineer, New Grad" in Dublin / London / Bucharest + "New Grad - Frontend" in Barcelona were all first published 2026-08-31; degree must be "obtained by summer 2027", with "no more than 18 months of professional experience (excluding internship experience)"; no deadline, start month not stated in the JD [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/stripe/jobs/8130881]
+> 2026 news: 2026-02-24 annual letter + employee tender offer at a $159B (€135B) valuation [Source (verified opened): https://stripe.com/newsroom/news/stripe-2025-update]; in H2 Stripe agreed to acquire OpenRouter (2026-08-19) and Parafin (2026-09-30) [Source (verified opened): https://stripe.com/newsroom/news]; no 2026 layoff announcement in the newsroom; New Grad JDs add an "Ability to leverage AI tools to accelerate development" requirement
+
+- **Role names (Europe, open on 2026-10-10)** [Source (Greenhouse API pulled via curl, 2026-10-10): https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true]:
+  - Software Engineer, New Grad — Dublin: https://stripe.com/jobs/search?gh_jid=8130881 · London: https://stripe.com/jobs/search?gh_jid=8130930 · Bucharest: https://stripe.com/jobs/search?gh_jid=8130922
+  - Software Engineer, New Grad - Frontend — Barcelona: https://stripe.com/jobs/search?gh_jid=8130927
+  - Security Engineer, New Grad — Dublin (first published 2026-10-07; JD says "graduating by Summer 2026", likely leftover wording): https://stripe.com/jobs/search?gh_jid=8257892
+  - Non-engineering: Junior Commercial Associate — Works in Progress (London, in office every day). "Software Engineer, Early Career — Immediate Start" is US / Toronto only; no apprenticeship open in Europe (previous: Dublin Apprenticeship)
+- **Eligibility window**: BSc / MSc (CS or directly related, or equivalent work experience), degree obtained by summer 2027, ≤ 18 months of full-time experience (internships excluded); no language requirement in the JD
+- **European locations**: Dublin (new HQ opened 2025-10-09) / London / Bucharest / Barcelona (frontend)
+- **Programme structure**: no rotation, direct team placement; official: "For full-time positions and apprenticeships, we hire continuously" (no fixed cohort) [Source (verified opened): https://stripe.com/jobs/university]
+- **Non-EU visa (full-time)**:
+  - IE: CSEP threshold €40,904 (critical skills occupations), **€36,848 for those who graduated within the 12 months before applying**, other occupations €68,911 [Source (verified opened): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]; Stripe is a CSEP Trusted Partner (checked 2026-05 in the previous version, not re-checked) [Source (verified opened): https://www.eurotoptech.com/blog/visa-sponsorship-ireland-software-engineers-2026]
+  - UK: "Stripe Payments UK Ltd" — Worker (A rating), Skilled Worker + GBM (register edition 2026-10-09, CSV downloaded and grepped) [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; London L1 base is far above £41,700
+  - Bucharest / Barcelona: JDs do not mention sponsorship, no public data. NL zoekjaar does not help in IE / UK; a new CSEP / Skilled Worker visa is needed
+- **Pay range (Levels.fyi, 2026-10-10)**:
+  - Dublin: L1 (0–1 years of experience) TC €111K = base €68.9K + stock €29.2K + bonus €12.8K; L2 €167K (base €109K + stock €47.6K + bonus €10.7K); L3 €252K; L4 €372K; median €165K [Source (verified opened): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/greater-dublin-area] (previous 2026-03-31: L1 €131,185 / L2 €167,115 / L3 €238,209 / L4 $436,667)
+  - London: L1 TC £97.2K = base £70.9K + stock £23K + bonus £3.4K; L2 £155K; L3 £198K; median £167K [Source (verified opened): https://www.levels.fyi/companies/stripe/salaries/software-engineer/locations/london-metro-area]
+  - BSc / MSc new grads both join at L1 (inferred: Levels.fyi L1 = 0–1 years; no public data on MSc entering at L2)
+- **Application window**: the 2027-cycle European New Grad roles opened 2026-08-31, rolling, no deadline (previous: two batches, fall Aug–Nov + spring Jan–Mar, not re-checked); apply early (inferred)
+- **Interview differences vs internship**: New Grad 5 rounds (incl. system design), intern 3–4 rounds (no system design) — previous-version info, not re-checked
+- **Competition**: Glassdoor Dublin rating 3.7/5 (previous version); four European cities open at once, Dublin / London most competitive (inferred)
+- **Key links**: Stripe University (verified opened): https://stripe.com/jobs/university · All Stripe jobs: https://stripe.com/jobs
 
 ---
 

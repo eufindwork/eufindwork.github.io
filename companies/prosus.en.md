@@ -40,11 +40,11 @@
   - **Business**: deliver production AI systems to Prosus portfolio companies (Delivery Hero / iFood / OLX / Stack Overflow / Swiggy / PayU, etc.)
   - **Salary**: **€3,500/month + relocation support to Amsterdam** [Source (verified opened): https://jobs.eu.lever.co/prosus/05dbb818-d2b4-4512-9865-7415321c9d49]
 - **Starting salary (base + bonus + equity)**:
-  - **Traineeship**: €3,500/month = **€42K/year (12-month basis, excl. holiday allowance)**, which **exceeds reduced HSM €2,801/month threshold (NL master grad)** but is **below standard HSM <30 €4,357 threshold** — implying Traineeship is designed primarily for NL master grads or those with existing NL residency
+  - **Traineeship**: €3,500/month = **€42K/year (12-month basis, excl. holiday allowance)**, which **exceeds reduced HSM €3,122/month threshold (NL master grad)** but is **below standard HSM <30 €4,357 threshold** — implying Traineeship is designed primarily for NL master grads or those with existing NL residency
   - **Junior FT (e.g. Junior Cybersecurity)**: public data sparse (Levels.fyi has no Prosus-specific entry, estimate €55-75K base); industry AMS Junior SWE median **€78,751-€134,109** range [Source (search result): https://www.levels.fyi/t/software-engineer/locations/greater-amsterdam-area]
   - **Senior ML Engineer LLM**: currently active req, estimate €100-140K base + bonus + Prosus stock (NYSE/Euronext: PRX, high liquidity)
 - **Sponsor policy (FT)**:
-  - **Traineeship €3,500/month** = €42K/year, **meets reduced HSM €33,612/year (€2,801/month)** for NL master grad — i.e. official stipend is calibrated to the reduced HSM threshold, implying **designed for NL master grad**
+  - **Traineeship €3,500/month** = €42K/year, **meets reduced HSM €37,464/year (€3,122/month)** for NL master grad — i.e. official stipend is calibrated to the reduced HSM threshold, implying **designed for NL master grad**
   - Standard HSM <30 threshold €4,357/month (= €52.3K/year) — Traineeship doesn't reach this; but Senior IC starting €100K+ far exceeds
   - Provides **relocation support** (explicit) → IND Recognised Sponsor virtually certain
 - **Application window**: rolling year-round; Lever has 17 active AMS roles (incl. 1 ML Eng Intern + 1 Junior Cybersec + multiple Senior IC) [Source (verified opened): https://findmethatdamjob.nl/companies/prosus/]
@@ -60,7 +60,7 @@
   - **Senior IC**: standard HSM Kennismigrant
 - **Intern vs FT sponsor difference**: significant — intern path almost never arranged, Traineeship/FT uses full HSM process
 - **Known sponsorship cases**: no direct 1point3acres / Reddit / Blind evidence; official Traineeship page "relocation support" is the strongest secondary signal
-- **2026 thresholds**: NL Kennismigrant <30 **€4,357/month** / 30+ €5,942/month / **NL master grad reduced €2,801/month** [Source (verified opened): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]
+- **2026 thresholds**: NL Kennismigrant <30 **€4,357/month** / 30+ €5,942/month / **NL master grad reduced €3,122/month** [Source (verified opened): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]
 - **30% ruling**: Traineeship base €42K/year — 2026 ruling threshold <30 €46,107, **does not meet**; but Senior IC starting €70K+ commonly meets
 
 ---
@@ -168,7 +168,7 @@
   - **Senior-heavy hiring** — 17 active reqs include only 1 intern + 1 junior, entry slots tight
   - Investment holding parent + applied AI team — not pure startup / pure AI lab, identity slightly ambiguous
   - Chinese community info sparse — no mentor / alumni to help predict process, fully relies on Glassdoor + official JD
-  - Traineeship €3,500/month = €42K/year, **does not meet standard HSM <30 €4,357**, only meets reduced HSM €2,801 (NL master grad reduced path) — implying this program mainly targets NL-studying master grads, from-scratch overseas applications may be difficult
+  - Traineeship €3,500/month = €42K/year, **does not meet standard HSM <30 €4,357**, only meets reduced HSM €3,122 (NL master grad reduced path) — implying this program mainly targets NL-studying master grads, from-scratch overseas applications may be difficult
 - **International student friendliness**: moderate
   - For NL-studying (UvA / TU Delft / VU etc.) MSc / PhD = **high** (student visa directly covers intern; post-grad uses Traineeship + reduced HSM)
   - For from-scratch overseas master applications = **medium-low** (intern doesn't arrange visa, Traineeship threshold tied to reduced HSM, suits candidates already in NL)
@@ -178,7 +178,7 @@
 ## 8. For UvA Students (NL Student Visa) — Specific Assessment ⭐⭐⭐
 
 - **Intern feasibility**: **zero friction** — UvA student + NL student visa, student visa 16h/wk semester / 40h/wk break directly covers, just complete Nuffic convention. Prosus HQ Gustav Mahlerplein **~25 min by bike / 15 min by metro from UvA Roeterseiland campus**. ML Engineering Intern LLM R&D currently active, apply directly on Lever
-- **FT (Traineeship) feasibility**: **zero friction** — graduate via zoekjaar, Traineeship €3,500/month = €42K/year, **exceeds reduced HSM €2,801/month threshold**. Company provides relocation support (UvA is in AMS, so relocation isn't needed for you but indicates sponsor process is mature). 30% ruling doesn't apply (base below €46K), this is the sole negative
+- **FT (Traineeship) feasibility**: **zero friction** — graduate via zoekjaar, Traineeship €3,500/month = €42K/year, **exceeds reduced HSM €3,122/month threshold**. Company provides relocation support (UvA is in AMS, so relocation isn't needed for you but indicates sponsor process is mature). 30% ruling doesn't apply (base below €46K), this is the sole negative
 - **FT (Senior IC) feasibility**: **zero friction** — starting €100K+ far exceeds all thresholds, but recent grads may struggle to land senior IC directly
 - **Expected friction**:
   - Intern: zero

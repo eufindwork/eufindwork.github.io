@@ -59,7 +59,7 @@
 - **Known sponsorship cases**: 
   - workwithvisa.com lists Miro
   - Miro historical Perm (Russia) office many Russian engineers relocated to Amsterdam (after 2022)
-- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 thresholds**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: SWE I base €115K fully meets condition, overseas hiring + residence ≥150km can apply. **From 2024 5-year ladder reduction** (30%→27%→20%→15%)
 
 ---
@@ -131,7 +131,7 @@
 ## 8. Specific Assessment for UvA Students (NL student visa) ⭐
 
 - **Intern feasibility**: **Low** — no public intern channel; even if you can get stage, company hiring slow during layoff period. Student visa technically covers, but value is limited
-- **FT feasibility**: **Zero friction (technically) / Medium (risk)** — UvA master graduates go through zoekjaar then apply SWE I, base €115K well above reduced HSM €2,801, also significantly above standard HSM. Company is IND sponsor, mature process. **But layoff risk needs assessment**
+- **FT feasibility**: **Zero friction (technically) / Medium (risk)** — UvA master graduates go through zoekjaar then apply SWE I, base €115K well above reduced HSM €3,122, also significantly above standard HSM. Company is IND sponsor, mature process. **But layoff risk needs assessment**
 - **Expected friction**:
   - Intern: high (no channel)
   - FT: low (technically zero friction, but weigh layoff risk)

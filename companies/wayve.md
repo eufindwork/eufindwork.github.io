@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](wayve.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头 'Series C' (2026-02 Series D $1.2B); §1/§6/§8 的 FirstStage / Greenhouse (现为 Ashby).
 > 一句话定位: 英国 self-driving + Embodied AI 独角兽, end-to-end neural driving (与 Waymo/Cruise 模块化不同). 2024 SoftBank/NVIDIA/Microsoft 领投 USD 1B+ Series C, London King's Cross HQ. **Skilled Worker A-rating license 2025-11 新发** [来源 (实际打开过): https://immigrationgpt.co.uk/company/Wayve-Technologies-Ltd], sponsor 路径明确, 公司公开写 "relocation support with visa sponsorship" 给 intern.
 
 ---
@@ -21,35 +22,20 @@
 
 ## New Grad / Junior 岗位
 
-> Wayve 没有命名 Graduate Programme, 但 PhD intern → full-time RS/RE 转正路径成熟; **没有 Bachelor / Master 直入的 grad scheme**, 应届主要走 MSc / PhD 入口.
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Ashby API 全量解析) | 信息丰富度: ⭐⭐⭐ (依据: 156 个在招 JD 逐条检索 + Levels.fyi London + UK sponsor 登记 + 2026 融资/运营新闻; 缺 entry 薪资样本与 2026 应届面经)
+> **2027 Intake 状态**: **No programme (Rolling)** — 无 graduate scheme; 2026-10-10 Ashby 156 个在招岗位 0 个 Intern / Graduate / Junior; 应届主路径仍是 MSc/PhD intern 转正 [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/wayve ]
+> **2026 动态**: 2026-02-25 Series D $1.2B, 估值 $8.6B [来源 (实际打开过): https://www.uktech.news/ai/wayve-valuation-massive-series-d-investment-20260225 ]; 2026-07-01 $85M 员工 tender ("retain talent"), 员工约 1,200 [来源 (实际打开过): https://tech.eu/2026/07/01/wayve-undertakes-85m-employee-tender-offer-to-retain-talent/ ]; 2026-09-03 与 Uber 在 London 上线 supervised robotaxi, 计划扩至 12 个市场 [来源 (实际打开过): https://investor.uber.com/news-events/news/press-release-details/2026/Wayve-and-Uber-Launch-First-Ever-Autonomous-Rides-in-the-UK-2026-VoFQI1WbQi/default.aspx ]; 未见 layoff / hiring freeze
 
-- **常见岗位名**: Research Scientist Intern, ML Engineer Intern, Software Engineer Intern, Applied Science Intern, Field Engineer (Robotics) Graduate/Intern
-- **欧洲地点**: 全部 London (HQ-only)
-- **是否有独立 Graduate Programme**: **No formal grad scheme**; 应届走以下路径之一:
-  - **PhD intern → Research Scientist / Research Engineer** (主路径, PhD 阶段在读最佳)
-  - **MSc thesis collaboration** (与 Wayve 合作做 thesis → 转 intern → full-time)
-  - **Field Engineer Robotics (Graduate/Intern)** — Bachelor/MSc 直入唯一稳定 grad 入口 [来源 (实际打开过): https://startup.jobs/field-engineer-robotics-graduate-intern-wayve-2861062]
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker**: Wayve Technologies Ltd A-rating, license 2025-11 新发 [来源 (实际打开过): https://immigrationgpt.co.uk/company/Wayve-Technologies-Ltd]
-  - 2026 阈值 £41,700, Wayve SWE base £94K+ 远超 [来源 (实际打开过): https://www.levels.fyi/companies/wayve/salaries/software-engineer]
-  - Wayve careers 页面公开 "relocation support with visa sponsorship" 给 intern — 罕见, 大多公司只 sponsor 全职
-- **薪资范围 (Levels.fyi 2026)**:
-  - **SWE London Median TC**: £94.8K - £131K+ (range), median ~£108K-£116K [来源 (实际打开过): https://www.levels.fyi/companies/wayve/salaries/software-engineer/locations/london-metro-area]
-  - **ML Engineer London Median**: £108,227 (median), 最高 £217,288 [来源 (实际打开过): https://www.levels.fyi/companies/wayve/salaries/software-engineer/title/machine-learning-engineer/locations/london-metro-area]
-  - **SWE Intern**: Levels.fyi 数字 **$24.23/hr** (US sample, 折算 ~£18/hr) [来源 (实际打开过): https://www.levels.fyi/internships/Wayve/Software-Engineer-Intern/]; London 估 £4,000-5,500/月
-  - **Research Scientist Intern (London PhD)**: Glassdoor 显示无明确公开 figure; 业内估 £5,000-7,500/月 (PhD-tier)
-  > **2026-06 retry confirm**: Wayve careers + Built In London 2026-01 Research Scientist Intern (Data for Embodied AI) JD 未挂数字 (job removed 2026-01-05); Levels.fyi 仍只显式 SWE Intern $24.23/hr (US sample). DeepMind Research Intern Levels.fyi $72.12/hr 直读为参照, Wayve PhD-tier 估 £5,000-7,500/月 维持合理.
-  - **股权**: Series C 私募 ($4-5B 估值 2024 post-money), illiquid; 全职 senior 有 equity refresh
-- **申请窗口**: PhD intern 全年 rolling; Summer SWE intern 通常前年 Q4-Q1 开
-- **面试流程差异 vs senior**: Intern 流程 3-4 轮 (recruiter + DL case study + PyTorch debug + coding); full-time RS 加 panel + leadership
-- **录取竞争 / 国际生 friendliness**:
-  - Glassdoor positive **26.7%**, 难度 2.93/5 — 偏严苛, ML Engineer 最难
-  - PhD Research roles 最慢 (~29 天)
-  - 国际生 friendliness 中高 (Skilled Worker license + intern visa sponsor 都公开)
-- **关键链接**:
-  - Careers: https://wayve.ai/careers/
-  - FirstStage 实时 reqs: https://wayve.firststage.co/jobs
-  - Science 团队介绍: https://wayve.ai/thinking/science-at-wayve/
+- **岗位名称**: 无命名 grad 岗; London 28 个工程岗均面向 experienced (多写 "strong production experience"); 最接近 junior: Platform Engineer, SDO (JD "2–5 years of experience") https://jobs.ashbyhq.com/wayve/c00ffab0-fa2d-4faf-9678-14d24f75e549 ; 历史入口 (旧版): PhD/MSc Research Scientist Intern → RS/RE 转正, MSc thesis 合作; Field Engineer Robotics (Graduate/Intern) 旧链接本次 403, 未复核
+- **资格窗口**: 上一轮 intern JD 要求 "Currently pursuing a PhD or Masters in Computer Science, Robotics, Electrical Engineering, or a related field" (已关闭) [来源 (实际打开过): https://jobs.firstminute.capital/companies/wayve/jobs/61573157-research-scientist-intern-reinforcement-learning ]; Leonberg 岗多要求德语
+- **欧洲地点**: London HQ 51 个在招 + **Leonberg, Germany** 18 个 (App SW / ADAS / 车队运营, 9 个 JD 提及 German); 其余 Sunnyvale 60 / Tokyo 17 / Herzliya 4 / Detroit 4 / Yokohama 2 (旧版: London HQ-only, 2026-05)
+- **项目结构**: 无 cohort; intern 3-6 个月 (旧版)
+- **非EU签证 (全职)**: UK — Wayve Technologies Ltd Skilled Worker A rating, 2025-11-25 入册, 2026-10-09 仍在册 [来源 (实际打开过): https://immigrationgpt.co.uk/company/Wayve-Technologies-Ltd ], 2026 阈值 £41,700; 138/156 个 JD (London 47/51, Leonberg 12/18) 写 "Relocation support and visa sponsorship where applicable"; careers 页本次未见 visa 文案 [来源 (实际打开过): https://wayve.ai/careers/ ]; NL — 无 NL 实体, IND register (2026-10-05 版) 查无 Wayve [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work ] → zoekjaar / Kennismigrant 不适用, 现实路径 = UK Skilled Worker 或 DE Blue Card (Leonberg)
+- **薪资范围 (TC, gross/年)**: Levels.fyi London SWE (2026-10-10 更新): 中位数 £130,556 (页面显示 £131K), 平均 £128,181, 最高 £155,155; 全公司 49 条 SWE 提交, 无 0-2 年经验样本; 4 年 vest, 首年 25% [来源 (实际打开过): https://www.levels.fyi/companies/wayve/salaries/software-engineer/locations/london-metro-area ] (旧版: £94.8K - £131K+, 2026-05); ⚠️ **待 web 验证** (本轮未复核): ML Engineer London 中位数 £108,227 (2026-05 旧数据); entry-level: 无公开数据 (JD 不披露薪资)
+- **申请窗口**: 全职 Rolling; 上一轮 RS Intern 岗 2025-10/11 发布 [来源 (搜索结果): https://jobs.eclipse.capital/companies/wayve/jobs/60731726-research-scientist-intern-embodied-ai ]; Summer 2027 intern 尚未发布 (推断: 若按上轮节奏为 2026-10/11)
+- **面试流程**: recruiter → 1h problem solving (DL case) → 1h programming (DS&A) → 1h PyTorch debugging; 2025-07 一份报告为两轮 1h (ML + ML system design) [来源 (搜索结果): https://www.glassdoor.sg/Interview/Wayve-Interview-E2225260-RVW103202980.htm ]; full-time RS 另加 panel / leadership (旧版)
+- **录取竞争**: Glassdoor 26.7% positive, 难度 2.93/5 (2026-05 旧数据); 员工约 1,200, 招聘以 experienced 为主 (推断)
+- **关键链接**: Ashby 在招 https://jobs.ashbyhq.com/wayve (JS 渲染, 数据经上方 API 读取; 旧版 FirstStage / Greenhouse 已不用) · Careers https://wayve.ai/careers/ (实际打开过)
 
 ---
 

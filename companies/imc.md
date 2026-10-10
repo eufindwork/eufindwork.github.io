@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](imc.en.md)
 >
-> 更新时间: 2026-09-26
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐ (官方 careers EU + Levels.fyi L1-L4 全 level + Glassdoor + 1point3acres + Tradermath + IMC 官方 recruitment process 页面)
 > 一句话定位: 1989 年阿姆斯特丹起家的 market maker, 与 Optiver 同档同城; 全球 ~1,400 人, Amsterdam (总部) + Chicago + Sydney + Mumbai; 自营 options + futures + ETF + crypto MM; "Graduate Traineeship" 是欧洲 quant 圈最系统化的 grad 项目之一 (Trading School 6 周 + 本地 traineeship 6-14 周)
 
@@ -24,55 +24,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi L1 €139K / L2 €145K / L4 €159K 直读 + 官方 SWE Graduate / Trader / QR 三轨命名 + Glassdoor + Blind 面经 + HackerRank OA 实测格式)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch) | 信息丰富度: ⭐⭐⭐⭐⭐ (依据: Greenhouse 官方岗位 API + 职位页 / 申请表 + 官方 recruitment process + prep guides + Levels.fyi 直读 + IND 注册表)
+> **2027 Intake 状态**: **Open (Rolling)** — 2027 graduate 岗 2026-07-31 起上线, 无公布截止日; 入职 February 或 August 2027 (Aarhus Graduate Trader 仅 August 2027) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/imc/jobs] [来源 (实际打开过): https://job-boards.eu.greenhouse.io/imc/jobs/4667814101]
+> 2026 H2: 未见 layoff / freeze 报道; 2026-08-11 新开 New York Systematic Equities office [来源 (实际打开过): https://www.imc.com/eu/news]
 
-- **常见岗位名 (区分关键)**:
-  - **Software Engineer Intern (2026)** / **Graduate Software Engineer / Software Engineering Graduate** — 主 SWE 路径
-  - **Trader Intern (2026) / Trader Graduate** — 走 IMC Trading School (6 周训练 + 6-14 周 traineeship)
-  - **Quantitative Trader Intern** / **Quant Researcher Intern** — research / QR 路径
-  - **Machine Learning Intern (2026)** — Amsterdam 单独开放 (2026-05 实时开放)
-  - **Hardware / FPGA Engineer** — Tech 子方向, 比 Optiver 偏少
-- **欧洲地点**: Amsterdam (主 EU HQ) / 全球还有 Chicago / Sydney / Mumbai
-- **是否有独立 Graduate Programme**: **Yes** — **IMC Graduate Traineeship** 是欧洲 quant 圈最结构化的 grad scheme:
-  - **每年 2 个 intake**: 2 月 (Feb) + 8 月 (Aug)
-  - **Trading School**: 6 周 (集中在 Amsterdam 总部 + 全球 cohort 一起)
-  - **Local traineeship**: 6-14 周 (回到 placement office), 之后正式转 FTE
-  - "dedicated schools for analysts, engineers, traders, and quants"
-- **非EU签证 (全职)**:
-  - **NL Kennismigrant 2026**: 同 Optiver — <30 €4,357/月, ≥30 €5,942/月, 硕士 reduced €2,801/月 — IMC L1 SWE base €100K+ 全部超线 [来源 (用户 MEMORY): NL Kennismigrant 2026 阈值]
-  - **30% ruling**: 适用 (Amsterdam 默认申请)
-  - **Intern 签证**: 走相同 case-by-case 路径; IMC 官方"arranges travel and accommodation for onsite assessments. Relocation assistance is available" [来源 (实际打开过): https://www.imc.com/eu/careers/recruitment-process]
-- **薪资结构 (量化特有, 必填)**:
-  - **Intern (Amsterdam, 2026)**:
-    - 10 周, "highly competitive compensation package, fully-furnished corporate accommodation, catered meals" (官方原文)
-    - 业内估月 €4,000-5,500 + housing 全包; 与 Optiver / Flow Traders 同档
-  - **全职 New Grad (Graduate SWE, Amsterdam, L1)**:
-    - Levels.fyi 2026-05-28 直读: **L1 total $162K ≈ €150K** (base $136K ≈ €126K + bonus $26.3K ≈ €24K + stock $0)
-    - L2 total $166K ≈ €154K (base $117K + bonus $49.3K — bonus 比例上升)
-    - L3 total $171K ≈ €158K (base $123K + bonus $48K)
-    - L4 cap €159K (median €145K)
-    - **No equity** — 全 cash compensation, 与 Flow Traders 同 (vs Optiver L3 有少量 stock)
-    - TechPays entry-level Netherlands: median €154K 总包 (5 数据点) [来源 (搜索结果): https://techpays.com/europe/netherlands/imc-trading/entry-level]
-  - **全职 New Grad (Trader, Amsterdam)**: 公开数据少, 业内传闻 base €70-90K + 巨型 PnL bonus (Y1 总包 €120-250K, 极优秀 Y2-3 飙到 €400K+)
-- **申请窗口**:
-  - **Software Engineer Intern 2026**: 通过 https://www.imc.com/eu/careers/jobs/4563168101 — 已开放, rolling
-  - **Graduate Software Engineer (2027, Amsterdam)**: 已开放, 适用 Feb 或 Aug 2027 全职入职 [来源 (实际打开过): https://job-boards.eu.greenhouse.io/imc/jobs/4667814101]
-  - **Machine Learning Research Intern (Summer 2027, Amsterdam/Chicago/Sydney)**: 已开放 [来源 (实际打开过): https://www.imc.com/eu/careers/students-graduates]
-  - **Trader Intern 2026 EOI**: Expression of Interest 滚动开放
-- **面试流程差异 vs 实习**:
-  - **HackerRank OA**: 2 道编程, 120 分钟, 两道都是 hard, 无摄像头 (类似 Optiver 但题目独立)
-  - 1-2 周内反馈 → video / HR / 技术 / Super Day
-  - **Trader 轨**: OA 是 "IMC numerical test" (类似 Optiver 80in8 但题量略少), 后续 Trading Game
-  - 全职 + intern 流程基本一致, 全职多一轮 culture fit
-- **录取竞争**: 业内传 OA 通过率 <20%, 全程 offer rate <3%; Blind / Glassdoor 2024-2026 帖子大量"OA 难度高于 LeetCode hard"
-- **关键链接**:
-  - 官方 EU careers (实际打开过): https://www.imc.com/eu/careers
-  - 官方 EU recruitment process (实际打开过): https://www.imc.com/eu/careers/recruitment-process
-  - 官方 EU internships (实际打开过): https://www.imc.com/eu/careers/students-graduates/internships
-  - 官方 EU 学生 + grad overview (搜索结果): https://www.imc.com/eu/careers/students-graduates
-  - Software Engineer Intern 2026 (搜索结果): https://www.imc.com/eu/careers/jobs/4563168101
-  - Trading Internship EU (搜索结果): https://www.imc.com/eu/careers/students-graduates/internships/trading-internship
-  - Levels.fyi Amsterdam SWE (实际打开过): https://www.levels.fyi/companies/imc/salaries/software-engineer/locations/greater-amsterdam-area
+- **岗位名称 (Europe, 2026-10-10)**: Graduate Software Engineer (2027) (Amsterdam / Aarhus) · Graduate Trader (Amsterdam) · AAR - 2027 - Graduate Trader (Aarhus) · Graduate Quantitative Researcher (Amsterdam) · Graduate Hardware Engineer (Amsterdam) · Graduate Deep Learning Researcher - London · Graduate Quant Researcher - Digital Assets (Zug); 另: Graduate Software Engineer (2026) 仍挂出; C++ Software Engineer, Early Careers (Amsterdam) 要求 2-3 年经验 [来源 (实际打开过): https://www.imc.com/eu/careers/students-graduates]
+- **资格窗口**: SWE / Trader / QR: "ultimate year of study" (QR 需 MSc / PhD), 2027 入职; SWE 需 C++ 或 Java (面试可选 Java / C++); Trader 编程非必需; DL Researcher London: 至少 MSc (PhD preferred), 2027 毕业
+- **欧洲地点**: Amsterdam (HQ) / Aarhus (DK) / London / Zug (CH, Digital Assets) (旧版: 仅列 Amsterdam, 2026-09)
+- **项目结构**: Global Trainee Programme — SWE / Hardware 5 周, Trader / QR 6 周, 与 EU / US / APAC 三区 graduates 同期, **含入职后不久赴美 mandatory training**, 之后回本地 office + mentor (旧版: "Trading School 6 周集中在 Amsterdam + local traineeship 6-14 周", 2026-09) [来源 (实际打开过): https://job-boards.eu.greenhouse.io/imc/jobs/4667815101]
+- **非EU签证 (全职)**: IMC B.V. / IMC Trading B.V. / IMC Netherlands Services B.V. 在 IND recognised sponsor 名单 (2026-10-05 更新) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; 2026 Kennismigrant 门槛: reduced €3,122/月, <30 €4,357/月, ≥30 €5,942/月 (旧版 reduced: €2,801, 2026-09) [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]; 官方 relocation: "we do all we can to assist you"; **关键限制**: 申请表问 "Will you require immigration sponsorship now or in the future?", 且 traineeship 需赴美 (U.S. business visa) — Russia / Belarus / Iran / Ukraine 护照无法进入 (双重国籍可联系 CampusEU@imc.com) → 从 NL 学生签 / zoekjaar 转入可行, 但须先确认能拿美国商务签
+- **30% ruling**: 最多 30% 免税, 最长 5 年; 2026 salary norm €48,013/年, <30 岁硕士 €36,497/年 [来源 (实际打开过): https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility]
+- **薪资 (gross/年)**:
+  - Graduate SWE Amsterdam L1 (0-3 年): TC €150K = base €115K + bonus €34.3K + stock €0; L2 €155K; L3 €149K; L4 €170K; median €149K, 216 数据点 (2026-10); 全现金无 equity (旧版 L1: $162K ≈ €150K, 2026-05) [来源 (实际打开过): https://www.levels.fyi/companies/imc/salaries/software-engineer/locations/greater-amsterdam-area]; TechPays NL entry-level median €154K (旧版) [来源 (搜索结果): https://techpays.com/europe/netherlands/imc-trading/entry-level]
+  - Trader / QR: Amsterdam 无可靠公开数据; US 锚点: Chicago graduate trader / researcher posted base $250,000, graduate SWE $200,000; tradermath 跨公司估计 Amsterdam 一年级 trader base + bonus €150,000-€300,000 (2026-09) [来源 (实际打开过): https://www.tradermath.org/salaries/imc]
+- **申请窗口**: 2026-07-31 起开放, 无 deadline (rolling); 未录取者须等下一季: SWE / QR / Hardware "Summer 2027", Trader "September 2027"
+- **面试流程差异 vs 实习**: 官方 5 步: 投递 → (online) assessment ("vary depending on the role") → first-round interview(s) → final-round (多 station) → offer, "feedback within a couple of days" [来源 (实际打开过): https://www.imc.com/eu/careers/recruitment-process]; prep guide: Tech 考 DSA / memory & computer architecture / concurrency + 全程 behavioural [来源 (实际打开过): https://cdn.sanity.io/files/l1io23s3/production/cf48d9c14a5315785738597ea3dda644331bac99.pdf]; Trading 考 EV / probability / market making game / brainteaser + mental math [来源 (实际打开过): https://cdn.sanity.io/files/l1io23s3/production/386c4a31665862232d285b19f53378d0d04dcfec.pdf]; 社区报告 (旧版, 本次未重新核实): HackerRank 2 题 120 分钟
+- **录取竞争**: 社区估计 OA 通过率 <20%, offer rate <3% (旧版, 未核实)
+- **Intern (次要)**: 2027 Amsterdam intern (SWE / Trader / QT / Hardware) 要求 2028 毕业的 penultimate year, 2027-06-28 入职 → 2027 毕业生不适用
 
 ---
 
@@ -184,4 +152,4 @@
 - linkjob IMC HackerRank guide (搜索结果): https://www.linkjob.ai/interview-questions/imc-hackerrank-questions/
 - amsterdamtradingjobs IMC salary guide 2026 (搜索结果): https://www.amsterdamtradingjobs.com/blog/imc-trading-amsterdam-salary-guide-2026
 - Tradermath IMC Quant Trader Intern (搜索结果): https://www.tradermath.org/firms/imc-trading/jobs/quantitative-trader-intern-2026-in-amsterdam-95f9e5
-- IND Kennismigrant 2026 thresholds (用户 MEMORY): NL <30 €4,357/月; ≥30 €5,942/月; reduced €2,801/月
+- IND Kennismigrant 2026 thresholds: NL <30 €4,357/月; ≥30 €5,942/月; reduced €3,122/月 [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]

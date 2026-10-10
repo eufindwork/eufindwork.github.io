@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](mollie.en.md)
 >
-> 更新时间: 2026-06-01
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐ (官方 careers 页 + Levels.fyi + Glassdoor 4.6★ 全部可溯源; intern 通道公开信息匮乏)
 > 一句话定位: 荷兰本土 fintech 独角兽, EU 第二大支付服务商 (PSP), Mollie Connect / Checkout / Payments API 直面 Adyen / Stripe 竞争; 850+ 员工分布在 Amsterdam HQ / Lisbon / Milan / Munich / London / Paris
 
@@ -35,22 +35,23 @@
 
 ## NG (New Grad / Junior 全职) 路径
 
-- **岗位命名**: **Graduate Engineer - Application** (Amsterdam / Lisbon / Milan 三地各 1 个 listing) [来源 (实际打开过): https://jobs.mollie.com/departments/engineering]
-- **是否有独立 cohort program**: **Yes — Engineering Graduate Program**
-  - **结构**: 15 个月项目, 2 次 rotation (第 1 次 9 个月, 第 2 次 6 个月) 覆盖 Security Engineering / Ops Efficiency / Platform / Data Engineering 等 scrum 团队
-  - **要求**: BSc / MSc CS / Engineering / 相关方向, **2025 或 2026 毕业**, 熟练至少 1 门 PHP / Java / Python
-  - **配 mentor + buddy**, tech + soft skill training
-  - [来源 (实际打开过): https://www.glassdoor.com/Reviews/Mollie-Software-Engineer-Reviews-EI_IE1366725.0,6_KO7,24.htm]
-- **起薪 (base + bonus + equity)** (Levels.fyi NL):
-  - **SWE 1 (Graduate)**: total **€77K** (base €71.4K + stock €1.7K + bonus €3.5K) [来源 (实际打开过): https://www.levels.fyi/companies/mollie/salaries/software-engineer]
-  - SWE 2: total ≈ €88K (base €83.7K + bonus €2.9K)
-  - Senior: total ≈ €107K (base €101.7K + bonus €4.6K)
-  - Staff: total ≈ €141K
-  - **median 全 level**: €95.6K (Levels.fyi)
-  - **股权**: Mollie 是 private (General Atlantic / TCV 投资), equity 非常少 (Levels.fyi 显示 SWE1 仅 €1.7K/年 stock); 主要靠 base
-- **Sponsor 政策 (FT)**: NL Kennismigrant. 2026 阈值 < 30 岁 €4,357/月 — Graduate base €71.4K / 12 ≈ €5,950/月, **大幅超过门槛**. 也适用 **reduced HSM for recent NL master grads (€2,801/月)**, 更轻松.
-- **申请窗口**: 一年 1 个主 cohort, 通常 12 月–3 月开放, 9 月入职
-- **流程差异 vs intern**: Grad 项目流程更标准化, 包含 OA + take-home + system design + behavioral; intern 通常压缩流程
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方职位页 + TCV 职位镜像 + Levels.fyi NL + IND / UK sponsor 登记册)
+> **2027 Intake 状态**: **Upcoming (未公布)** — 2026-10-10 jobs.mollie.com 共 47 个职位 (Engineering 12 个), 无 Graduate 岗; 2026 cohort 岗位已全部关闭 [来源 (实际打开过): https://jobs.mollie.com/vacancies]
+> **2026 H2 动态**: 2026-09-01 完成收购 GoCardless, 以 "GoCardless, a Mollie company" 运营, CEO Koen Köppen; 整合 "phased", 公告未提裁员 / 招聘计划 [来源 (实际打开过): https://gocardless.com/blog/mollie-and-gocardless-combine] [来源 (实际打开过): https://fintech.global/2026/09/01/mollie-completes-gocardless-acquisition-to-expand-payments-offering/]; 交易额 €1.1bn 仅见新闻标题 (BusinessCloud, 未打开)
+
+- **岗位名称**: **Engineering Graduate Program**. 2026 cohort 分轨: Graduate Engineer - Application (Amsterdam / Milan / Lisbon)、Graduate Program 2026 - Security (Amsterdam)、Graduate Engineer - Data 2026 (Lisbon) [来源 (实际打开过): https://portfoliojobs.tcv.com/companies/mollie/jobs/79848694-graduate-engineer-application-amsterdam]; 2025 cohort: Graduate Engineer - Platform Engineering (Amsterdam) [来源 (实际打开过): https://portfoliojobs.tcv.com/companies/mollie/jobs/48466597-graduate-engineer-platform-engineering]
+- **资格窗口**: BSc / MSc CS / Engineering 或相关 (Data 轨含 Econometrics / Maths), 2026 cohort 要求 **2025 或 2026 毕业**; PHP / Java / Python 至少 1 门; 英语书面 + 口语, 未要求荷兰语
+- **欧洲地点**: Amsterdam / Lisbon / Milan; 2026-10-10 唯一 entry 级工程岗: Machine Learning Platform Engineer I (Lisbon, 要求 "1+ year" ML 生产经验) [来源 (实际打开过): https://jobs.mollie.com/vacancies/ff439d94-cfb5-4523-8e99-a19edcb56ed6]; Amsterdam 工程岗均为 II 级或 manager
+- **项目结构**: 2 次 rotation, 9 月入职, mentor + buddy + tech / soft skill training; Platform 2025 = 15 个月 (9 + 6); Data 2026 = 12 个月 (6 + 6) [来源 (实际打开过): https://portfoliojobs.tcv.com/companies/mollie/jobs/84679371-graduate-engineer-data-2026]
+- **非EU签证 (全职)**: **Conditional — Graduate 岗不办签证**. Amsterdam 2026 原文 "For this role we do not sponsor relocation and visas."; Platform 2025 另加 "A Dutch work permit is required"; Milan 要求 "currently reside in Italy and be legally authorized to work there" [来源 (实际打开过): https://portfoliojobs.tcv.com/companies/mollie/jobs/79848699-graduate-engineer-application-milan]
+  - NL zoekjaar: "Work freely permitted, TWV not required", 1 年不可延 [来源 (实际打开过): https://ind.nl/en/residence-permits/work/residence-permit-for-orientation-year] → 推断: zoekjaar 期间可入职; 期满转 Kennismigrant 需公司申请, Grad 岗是否愿办无公开信息
+  - Mollie B.V. + Mollie Business B.V. 在 IND recognised sponsor 登记册 (2026-10-05 版) [来源 (实际打开过, 全文 curl 核对): https://ind.nl/en/public-register-recognised-sponsors/public-register-work]; UK: Mollie B.V. (London) 为 Skilled Worker A-rating sponsor (2026-10-09 登记册 CSV 核对)
+  - (旧版: "FT 办 Kennismigrant, 零摩擦", 2026-06 — 与 Grad 岗原文冲突, 已更正)
+- **薪资范围 (gross/年)**: Levels.fyi Netherlands (2026-10-10 更新, 57 条): **Software Engineer 1 TC €72.4K** (base €67.6K + stock €1.5K + bonus €3.3K); SWE 2 €84.2K; Senior €103K; median €97.7K [来源 (实际打开过): https://www.levels.fyi/companies/mollie/salaries/software-engineer/locations/netherlands]; 旧版全地点页 SWE 1 TC €77K (base €71.4K, 2026-06) [来源 (实际打开过): https://www.levels.fyi/companies/mollie/salaries/software-engineer]; 官方岗位不公开薪资. base €67.6K / 12 ≈ €5,633/月, 高于 Kennismigrant €4,357 (<30) 与 reduced €3,122
+- **申请窗口**: 2026 cohort 岗位于 2026-05-22 (Application Amsterdam / Milan) 和 2026-06-30 (Data Lisbon) 上架 TCV 镜像, 2026-10 已关闭; 推断: 2027 cohort 约 2027 Q2 开放、2027-09 入职 (旧版: "通常 12 月–3 月开放", 2026-06)
+- **面试流程差异 vs 实习**: 官方 3 步: Apply (2 周内回复) → Screening call → 2+ 轮面试 + technical assessment (见 ML Platform Engineer I 页); Grad 往届: recruiter → take-home (PHP / Java / Python) → 2 轮技术 → culture / HM (见 §3); 2025-26 新面经: 无公开数据 (Glassdoor 403)
+- **录取竞争**: 每轨每城仅 1 个 listing; 收购 GoCardless 后整合期 hc 走向未知 (推断)
+- **关键链接**: 职位页 https://jobs.mollie.com/vacancies (实际打开过) · Levels.fyi NL (实际打开过, 见上) · TCV 历届 Graduate 岗位镜像 (实际打开过, 见上)
 
 ---
 
@@ -61,7 +62,7 @@
   - Intern: 不办 work permit, 要求 candidate 已有 NL 学生签 / EU work rights (Nuffic convention 走完即可)
   - FT (Graduate / IC): 办 Kennismigrant
 - **已知 sponsorship 案例**: Dwayne Gefferie (NL fintech recruiter) 公开点名 Mollie 为 sponsor [来源 (实际打开过): https://www.linkedin.com/posts/dwaynegefferie_why-dutch-fintechs-adyen-mollie-and-bunq-activity-7185920215904309248-s52u]
-- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €2,801**
+- **2026 阈值**: NL Kennismigrant <30 €4,357 / 30+ €5,942 / **NL master grad reduced €3,122**
 - **30% ruling**: 2024 起 5 年期 30%→27%→20%→15% 阶梯下调, 2027 起进一步收紧. Grad base €71.4K 满足条件 + 居住地 ≥150km from NL border 可申
 
 ---
@@ -130,7 +131,7 @@
 ## 8. 对 UvA 学生 (NL student visa) 的具体评估 ⭐
 
 - **Intern 可行性**: **中** — Mollie 没有公开 intern listing, 但作为 UvA 在读学生 + NL student visa, 学生签 16h 学期 / 40h 假期可直接 cover, Nuffic convention 走完即可, **无需公司额外 visa 办理**. 建议通过 UvA career service 直接联系 talent@mollie.com 询问 spontaneous stage application
-- **FT 可行性**: **零摩擦** — 毕业走 zoekjaar 1 年, Grad offer base €71.4K 远超 reduced HSM €2,801/月 阈值, 也超标准 HSM €4,357. 公司是 IND Recognised Sponsor, 流程成熟
+- **FT 可行性**: **零摩擦** — 毕业走 zoekjaar 1 年, Grad offer base €71.4K 远超 reduced HSM €3,122/月 阈值, 也超标准 HSM €4,357. 公司是 IND Recognised Sponsor, 流程成熟
 - **预计摩擦**: 
   - Intern: 中 (因为无公开通道, 需自己 outreach)
   - FT: 零

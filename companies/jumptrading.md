@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](jumptrading.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐ (Levels.fyi London 2025 $14k/月 intern + Chicago $20.8k/月 + UK Skilled Worker sponsor 验证 + Amsterdam 2018 设立 + 全职 SWE median $430K 数据 + Quant Blueprint TC band 详)
 > 一句话定位: 1999 年 Chicago Mercantile Exchange floor trader Bill DiSomma + Paul Gurinas 创立的顶级 prop trading firm, 极致低延迟 + FPGA + AI 重押 (内部研究院 Jump Crypto + Jump AI), 全球小而精 (~1,300 人 vs DRW 1,000+); London + Amsterdam 是欧洲两大基地 (Amsterdam 2018 设立, 主导 European 交易); intern stipend 顶级 ($120/hr Chicago) = 业内 outlier
 
@@ -26,51 +26,24 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐⭐ (London $14k/月 intern + Chicago $20.8k/月 + Quant Blueprint FT TC band 明确 + UK sponsor 验证 + Amsterdam 2018 设立 + Conference Travel Grant 资助学术)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch; Greenhouse API jumptrading 直读) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 campus posting + IND / UK sponsor register + Levels.fyi London + eFC 2026-09; 缺 London / Amsterdam 官方 grad 薪资)
+> **2027 Intake 状态**: **Open (rolling)** — Europe campus 全职岗 2026-07-13 起发布 (Systems Engineer London 自 2025-09-26 常开), 无截止日, 入职月份未公开 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs]
+> **2026 H2 动态**: eFC 2026-09-29: Jump Trading International Limited (London) 2025 人均 $1.07m (£809k), 涨 55%, 336 人 (+36) [来源 (实际打开过): https://www.efinancialcareers.com/news/jump-trading-joins-the-1m-per-head-club-in-london-as-average-pay-rose-55]; 新闻标题: Bloomberg 2026-07-16 prediction markets 团队翻倍, OpenAI 2026-10-06 用 ChatGPT 扩展 quant research, CoinMarketCap 2026-10-01 "Jane Street and Jump Moving Away from Crypto" [来源 (搜索结果): https://news.google.com/rss/search?q=%22Jump+Trading%22+when:150d&hl=en-GB&gl=GB&ceid=GB:en]
 
-- **常见岗位名**:
-  - **Software Engineer Intern** (10 周 Summer, Chicago / NY / London / Shanghai)
-  - **Quantitative Researcher Intern** (Math/Physics/CS PhD 重)
-  - **FPGA Engineer Intern** (硬件极致低延迟)
-  - **Quantitative Trader / Quant Trader Intern** (业内 bar 极高)
-  - **AI Engineer** (Jump AI 子单元)
-  - **Quantitative Market Risk Manager** (现役全职)
-- **欧洲地点**: London (1 London Wall, 11th Floor, EC2Y 5EA) / Amsterdam (2018 起, 主管 European 交易, "small startup feel") [来源 (搜索结果): https://www.glassdoor.com/Location/Jump-Trading-Amsterdam-Location-EI_IE251744.0,12_IL.13,22_IC3064478.htm; https://immigrationgpt.co.uk/company/jump-trading-international-limited]
-- **是否有独立 Graduate Programme**: **有 "Students & New Grads" 入口**, 走 Internship cohort + FT new grad 双 pipeline; 不是 cohort-named programme 但有专门页面 https://www.jumptrading.com/hr/students-new-grads
-- **非EU签证 (全职)**:
-  - **London**: UK Skilled Worker active sponsor (Home Office license 2025-11-25 起, 2026-05-27 last verified) [来源 (实际打开过): https://immigrationgpt.co.uk/company/jump-trading-international-limited]; £41,700 2026 门槛, Jump London SWE base £150K+ → 远超
-  - **Amsterdam**: Kennismigrant; Amsterdam 是 European 主管 office, sponsorship 必走
-- **薪资结构 (量化特有, 关键 - INDUSTRY OUTLIER)**:
-  - **SWE Intern (Chicago Summer 2026)**: **$120.19/hr ≈ $20,833/月** + corporate housing + $20K sign-on (顶级 prop firm 第一梯队) [来源 (实际打开过): https://www.levels.fyi/internships/Jump-Trading/Software-Engineer-Intern/]
-  - **SWE Intern (London Summer 2025)**: **$80.77/hr ≈ $14,000/月 (~£11k/月)** + corporate housing + company-provided transportation
-  - **SWE Intern (Shanghai Summer 2026)**: $86.54/hr ≈ $15,000/月 (Chinese 文章引用频率高)
-  - **SWE Intern (Chicago 2023 historical)**: $138.46/hr ≈ $24,000/月 (历史峰值, 反映 2023 行业泡沫)
-  - **全职 SWE median $430K** (Levels.fyi 全 level, 2026-05-28) — Quant Researcher / Quant Trader 更高
-  - **全职 FT TC bands (Quant Blueprint)**:
-    - **Quant Trader**: $325K-$430K total ($170K-$200K base)
-    - **Quant Researcher**: $275K-$375K total ($165K-$195K base)
-    - **Quant Developer**: $240K-$330K total ($155K-$180K base)
-    - [来源 (实际打开过): https://www.quantblueprint.com/companies/jump-trading]
-  - **London FT 推断**: 业内 base £150-200K + bonus £80-150K = £230-350K total (Jump London 比 Chicago 略低 10-15%, 但仍 outlier)
-  - **股权**: $0 RSU (纯 prop, 不 IPO); 全靠 bonus + sign-on
-- **申请窗口**:
-  - **Internship**: 7-9 月开放, 10-12 月高峰 (early apply 关键, intern 数量小); Summer 入职 6 月
-  - **Graduate FT**: rolling, 业内常 PhD 直招 + 实习转正混合
-- **面试流程差异 vs 实习**:
-  - **OA**: HackerRank, LeetCode med-hard + 概率 + brain teaser
-  - **Tech 多轮**: C++ 深问 (memory model, undefined behavior, atomics), 系统设计 (低延迟 architecture)
-  - **Quant Researcher**: Stats + Probability + Math heavy, 期望 PhD background
-  - **Final/Onsite**: Chicago HQ 飞过去, multi-day
-- **录取竞争**: Bar 极高, 类似 HRT / Two Sigma; intern 录取率 < 1% 业内估; PhD prefer for Quant Researcher
-- **关键链接**:
-  - 官网 careers (HTTP 403, 直接 fetch 失败但可访问): https://www.jumptrading.com/careers
-  - Students & New Grads (HTTP 403): https://www.jumptrading.com/hr/students-new-grads
-  - Levels.fyi SWE Intern (实际打开过, $120/hr Chicago / $80/hr London): https://www.levels.fyi/internships/Jump-Trading/Software-Engineer-Intern/
-  - Levels.fyi SWE median $430K (实际打开过): https://www.levels.fyi/companies/jump-trading/salaries
-  - Quant Blueprint FT TC bands (实际打开过): https://www.quantblueprint.com/companies/jump-trading
-  - UK Skilled Worker sponsor verified (实际打开过): https://immigrationgpt.co.uk/company/jump-trading-international-limited
-  - Amsterdam 2018 设立 (搜索结果): https://www.glassdoor.com/Location/Jump-Trading-Amsterdam-Location-EI_IE251744.0,12_IL.13,22_IC3064478.htm
-  - Conference Travel Grant (搜索结果): https://www.jumptrading.com/conference-travel-grant
+- **岗位名称 (Europe campus 全职, 6 个)**: Campus Quantitative Researcher (Full-Time) (London; Amsterdam) | Campus Quantitative Trader (Full-Time) (London; Amsterdam) | Campus Systems Engineer (Full-Time) (London) + (Amsterdam) | Campus ML Research Engineer (Full-Time) (London) | Campus Crypto Researcher (Full-Time) (London) — **Europe 无 campus SWE 全职岗**, SWE 以 intern 转正为 "primary way" [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/7975026]
+- **资格窗口**: "top undergraduate and graduate programs" (BSc / MSc / PhD 同一岗位), 无需金融背景; Systems Engineer 需 CS / CE / IS 专业 + Linux + Python + 网络 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/8050796] [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/8008306]
+- **欧洲地点**: London (1 London Wall) + Amsterdam (QR / QT / Systems Engineer 全职) + Paris (仅 QR M1/M2 intern)
+- **项目结构**: QR 先做 training program (in-house 课程 + trading simulation: trading / stats / R / Python / C++ / ML) 再进 trading team; QT 含 mock trading + poker training
+- **非EU签证 (全职)**: ML Research Engineer posting 原文 "We sponsor work visas for full-time positions" [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/7977132]; UK register (2026-10-09 CSV): Jump Trading International Limited — Skilled Worker A rating, 门槛 £41,700 [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers] [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; **NL: Jump Trading Europe B.V. (KvK 70927359) 在 IND recognised sponsor register (2026-10-05; 整页 curl grep 确认, WebFetch 摘要截断)** → Amsterdam 岗可走 zoekjaar → reduced HSM (IND 2026 reduced criterion €3,122/月) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants] [来源 (实际打开过): https://ind.nl/en/required-amounts-income-requirements]
+- **薪资 (gross/年)**:
+  - SWE London (Levels.fyi, 全 level, 2026-10): median TC £221K; 最高 £270,821 [来源 (实际打开过): https://www.levels.fyi/companies/jump-trading/salaries/software-engineer/locations/london-metro-area]
+  - US 官方: Campus Systems Engineer (Chicago) base $200,000-$250,000 + discretionary bonus [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs/8008112]; London / Amsterdam campus posting 无薪资
+  - eFC 2026-09-15 (insider, 未注明地点): 部分 grad offer 超 $900k, 平均约 $750k [来源 (实际打开过): https://www.efinancialcareers.com/news/pay-for-electronic-trading-graduates-is-soaring-1m-at-hrt-850k-at-jane-street]
+  - 旧版 Quant Blueprint US band 保留 (QT $325K-$430K / QR $275K-$375K / QD $240K-$330K total); 旧版 London 推断 £230-350K 未验证; 无 RSU
+- **申请窗口**: 2027 cycle 2026-07-13 开, rolling; SWE intern London 接受 placement / 非夏季 intern
+- **面试流程**: HR screen → tech phone → onsite 4 轮 (3 technical + 1 technical/behavioral) (Glassdoor 2026 London 面经) [来源 (搜索结果): https://www.glassdoor.co.uk/Interview/Jump-Trading-Interview-E251744-RVW29310269.htm]; QR 偏 stats / 概率 / coding
+- **录取竞争**: 无官方数据; 旧版业内估 intern < 1% 保留
+- **Intern (次要)**: Summer 2027 Europe 约 12 个 campus intern 岗 Open; Levels.fyi London SWE intern 最新为 Summer 2025 $80.77/hr + housing [来源 (实际打开过): https://www.levels.fyi/internships/Jump-Trading/Software-Engineer-Intern/]
 
 ---
 

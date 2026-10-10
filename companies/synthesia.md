@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](synthesia.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §1/§6/§8 的 FirstStage / Greenhouse (现为 Ashby) 与 'junior 岗经常开放' (2026-10 无 junior 岗).
 > 一句话定位: 英国 AI 视频生成独角兽 (Series E, ~$4B 估值 2026), CEO Victor Riparbelli; London HQ 主导, 80% London 员工是 immigrants (CEO 原话). **UK Skilled Worker A-rating + 16 CoS 配额已发放** [来源 (实际打开过): https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/], 是 London 范围内 sponsor 信用最稳的 generative-video 中等规模公司 (~900 staff). **⚠️ 关键限制: 公司公开表示主要 sponsor 已经在 UK / EU 的人, 不做 from-scratch relocation**.
 
 ---
@@ -20,28 +21,22 @@
 
 ## New Grad / Junior 岗位
 
-> Synthesia 没有命名 Graduate Programme, 但 SWE entry-level / Junior 岗常开, 与 senior 走同 pipeline. 是欧洲 generative video 领域少数能给 sponsor 的公司.
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Ashby API 全量解析) | 信息丰富度: ⭐⭐⭐ (依据: 46 个在招 JD 逐条检索 + Levels.fyi London + UK/NL sponsor 登记; 缺 entry 薪资样本与 2026 应届面经)
+> **2027 Intake 状态**: **No programme (Rolling)** — 无 graduate scheme; 2026-10-10 Ashby 46 个在招岗位 0 个 Intern / Graduate / Junior, 17 个工程/研究岗几乎全为 Senior / Staff / Principal [来源 (实际打开过): https://api.ashbyhq.com/posting-api/job-board/synthesia ]
+> **2026 动态**: 2026-01-26 Series E $200M, 估值 $4B (GV 领投) + 员工 secondary [来源 (实际打开过): https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work ]; 2026-09-18 开 NYC 新美国总部, 美国员工 250+, 计划 2026 年底前再招 60+ 美国岗位 [来源 (实际打开过): https://www.unite.ai/synthesia-opens-50-000-square-foot-us-headquarters-in-new-york/ ]; 未见 layoff 报道
 
-- **常见岗位名**: Software Engineer, Software Engineer II, ML Engineer, Research Engineer
-- **欧洲地点**: 全部 London (HQ-only 欧洲, NY 是商业)
-- **是否有独立 Graduate Programme**: **No** — 没有 cohort grad programme, 应届走同一 SWE pipeline
-- **非EU签证 (全职)**:
-  - **UK Skilled Worker**: Synthesia Limited **A-rating sponsor**, 已发 16 CoS [来源 (实际打开过): https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/]
-  - 2026 阈值 £41,700, Synthesia SWE base £74K-£107K (Levels.fyi) 安全达标 [来源 (实际打开过): https://www.levels.fyi/companies/synthesia/salaries/software-engineer]
-  - **⚠️ 关键限制**: 多渠道 + 社群反馈 Synthesia **优先 sponsor 已在 UK / EU 的人 (留学转工签), 不做 from-scratch 国外 relocation**. 海外应届直接申命中率极低 — 建议先来 UK 读 MSc + Graduate Route 过渡
-- **薪资范围 (Levels.fyi 2026)**:
-  - **SWE London Median TC**: **£98,226** / **£109K** (略不同样本); 范围 £78.1K - £109K (P25-P75) [来源 (实际打开过): https://www.levels.fyi/companies/synthesia/salaries/software-engineer/locations/london-metro-area]
-  - **SWE UK Median**: £110,976; 最高 £200,840 [来源: https://www.levels.fyi/companies/synthesia/salaries/software-engineer]
-  - **应届/Junior SWE**: 估 base £65K-£85K + sign-on + equity → TC £85K-£110K
-  - **股权**: Series E 私募 ($4B 估值), illiquid 直到 IPO / acquisition; tender offer 历史有过
+- **岗位名称**: 当前无 junior 岗; 门槛最低之一的 ML Engineer - Roleplay Sessions 也写 "At least seven (7) years of experience"; Research Scientist 岗要求顶会论文 (旧版: "SWE entry-level / Junior 岗常开", 2026-05 — 本次未见)
+- **资格窗口**: 无公开 entry 门槛 / 无 grad 窗口
+- **欧洲地点**: London HQ; JD 列 hub: London / Amsterdam / Zurich / Munich / Copenhagen + "remote in Europe" (旧版: 全部 London, 2026-05)
+- **项目结构**: 无 cohort
+- **非EU签证 (全职)**: UK — Synthesia Limited Skilled Worker A rating, 2025-11-25 入册, 2026-10-09 仍在册 [来源 (实际打开过): https://immigrationgpt.co.uk/company/Synthesia-Limited ]; "Total COS issued: 16" (未注年份) [来源 (实际打开过): https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/ ]; 2026 阈值 £41,700; 欧洲远程岗 JD 写 "subject to compliance and right to work checks" → 远程岗默认需已有工作权
+  - **NL**: IND recognised sponsor register (2026-10-05 版) 收录 "Synthesia B.V." (KvK 82292132) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work ]; OpenCorporates: Active, Grote Bickersstraat 74, Amsterdam [来源 (实际打开过): https://opencorporates.com/companies/nl/82292132 ] → 推断为 Synthesia Amsterdam hub 实体 (隐私政策只列 Synthesia Limited / ApS, 未直接确认 [来源 (实际打开过): https://www.synthesia.io/legal/privacy-policy ]); 若属实, Amsterdam 岗可走 zoekjaar → Kennismigrant
+  - 旧版 "优先 sponsor 已在 UK/EU 的人" 为社群反馈, 本轮未复核
+- **薪资范围 (TC, gross/年)**: Levels.fyi London SWE (2026-10-10 更新): 中位数 £137,909 (页面显示 £138K), 平均 £131,602, 最高 £174,982, 区间 £81.1K - £138K+; 全公司 24 条 SWE 提交, 无 0-2 年经验样本; 4 年 vest, 首年 25% [来源 (实际打开过): https://www.levels.fyi/companies/synthesia/salaries/software-engineer/locations/london-metro-area ] (旧版: 中位数 £98,226, 区间 £78.1K - £109K, 2026-05); entry-level: 无公开数据 (旧版估 base £65K-£85K 无来源, 已移除)
 - **申请窗口**: Rolling
-- **面试流程差异 vs senior**: 应届流程更短 (recruiter → tech → take-home → HM, 3-4 轮); senior 加 design review + leadership
-- **录取竞争 / 国际生 friendliness**:
-  - 整体 friendly (80% London 员工 immigrants 是真数据)
-  - 但 **海外应届相对劣势** — sponsor 偏好 UK 在读 / EU 转岗; 海外申请前先邮件 recruiter 确认
-- **关键链接**:
-  - Careers: https://www.synthesia.io/careers
-  - Sponsor 验证: https://www.companyjobs.co.uk/blog/acadp_listings/synthesia-limited/
+- **面试流程**: ⚠️ **待 web 验证** (Glassdoor 403, 无 2026 H2 新面经): recruiter (会直接问 visa status) → HM → technical exercise (video pipeline design) → director (mid+); 平均约 26 天 (2026-05 旧数据)
+- **录取竞争**: 员工 900+; careers 页 CEO 原话 "roughly 80% of our staff in our London HQ are immigrants" [来源 (实际打开过): https://www.synthesia.io/careers ]; 当前无 junior 岗 → 应届机会只能靠偶发岗位 (推断)
+- **关键链接**: Ashby 在招 https://jobs.ashbyhq.com/synthesia (JS 渲染, 数据经上方 API 读取) · Careers https://www.synthesia.io/careers (实际打开过)
 
 ---
 

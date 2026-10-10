@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](README.en.md)
 >
-> 更新时间: 2026-06-01
+> 更新时间: 2026-10-10
+> 2026-10-10: 60 家公司 New Grad 段实时刷新 (2027 intake 状态 / 截止日期 / 入门薪资 / 签证), 见下方 🎓 节; 其余公司保持原更新日期
 > 覆盖公司: **111 家** (35 科技公司 + Snowflake + 18 量化金融 + 31 GenAI/Sponsor-friendly + 26 Cyber/Fintech/SaaS/Consumer 2026-06 + **1 Prosus 2026-06-09**)
 > 分类: 欧洲大厂 / 中型国际科技 / 欧洲本土 / AI/ML 专项 / 量化做市商 (MM) / 量化对冲基金 (HF) / GenAI Foundation Labs / **Cybersec/DevTools 2026-06**
 > **User 当前在 UvA 读硕士 (NL student visa)** — 公司按"对 UvA 摩擦"分级: NL Tier S (零摩擦) > DE/FR/IE/DK/SE Tier A (低) > UK 后 Brexit / CH Tier B (中-高)
@@ -22,6 +23,8 @@
 ---
 
 ## 🌍 综合对比表 (35 家)
+
+> 注: 本节为 intern 视角, 数据截至 2026-06 (未随本轮刷新); 全职 new grad 最新状态见下方 🎓 2027 Intake 速览.
 
 ### 1. 欧洲大厂 (Tier 1 — 最高薪资 / 最难进)
 
@@ -219,7 +222,7 @@
 | **Swisscom Rotterdam** (SDC) | Rotterdam | Cloud DevOps / IaC / SRE / Fullstack | **6mo IT Internship (2 月 / 9 月 intake)**, 官方要求 "studying or living in NL" | 6 个全职 open (Cloud DevOps / SRE) | sdcrotterdam.swisscom.ch/internship-projects; FT Kennismigrant 路径未官方明确, 申请时直接问 | **零 (perfect fit) / 中** ⭐⭐⭐ |
 | **Prosus** 🆕 | Amsterdam (HQ) | 投资控股 + **in-house AI Tech (PDT)** LLM / ML / Backend (Go) / Infra | **ML Engineering Intern LLM R&D** Lever active (year-round rolling) | **AI Traineeship €3,500/月 + relocation** (4 天 hands-on + 1 天 learning); Junior Cybersec active | Traineeship 明文 relocation support + €3,500/月 stipend = 强 sponsor 信号; IND register 几乎确定 [jobs.eu.lever.co/prosus] | **零 / 零** ⭐⭐⭐ |
 | **Mollie** | Amsterdam | Payments | 偶发 intern, 主要 Eng Grad Program | **Engineering Graduate Program 15mo rotation** (9mo+6mo), base €71.4K | IND Recognised Sponsor [linkedin.com/posts/dwaynegefferie] | 中 / 零 |
-| **Bunq** | Amsterdam | Challenger bank | 无 intern cohort | Entry €39K (卡 HSM <30 €4,357, reduced HSM €2,801 OK) | "primary choice for new skilled migrants to NL" [together.bunq.com/d/50760] | 低 / 中 (薪资 + Glassdoor 2.3★ 文化坑) |
+| **Bunq** | Amsterdam | Challenger bank | 无 intern cohort | Entry €39K (卡 HSM <30 €4,357, reduced HSM €3,122 OK) | "primary choice for new skilled migrants to NL" [together.bunq.com/d/50760] | 低 / 中 (薪资 + Glassdoor 2.3★ 文化坑) |
 | **Picnic** | (重复 — 见上) | | | | | |
 | **Miro** | Amsterdam | Collaboration whiteboard | Mid 为主, grad 稀少 | SWE I €133K 总包顶薪 | IND Recognised + WorkWithVisa | 低 / 低 (技术零摩擦, **2024 layoff 阴影**) |
 | **Vinted** | Vilnius LT + Berlin + AMS + Paris | 二手时尚 marketplace, LT 独角兽 | **Engineering Academy €2,233/月 (Vilnius only)** | Academy 入职即 FT 合同 | 官方 Relocate to Lithuania 页支持 visa + cost, 100+ 已 relocate | 低 / 中-高 (**AMS office 仅 1 个 Data Sci, eng 必 relocate LT**) |
@@ -282,96 +285,174 @@
 
 ---
 
-## 🎓 Graduate / Junior 全职路径对比 (35 家)
+## 🎓 New Grad / Graduate 全职路径 — 2027 Intake 速览 (2026-10-10 核查)
 
-> 数据更新: 2026-05-28. 全部 35 家公司 New Grad 段已完成实时 WebSearch + WebFetch 验证 (Levels.fyi 直读 / 官方 careers 页 / Glassdoor / TechPays). 详见各公司 .md 文件内 inline `[来源 (实际打开过): URL]` 标注. **薪资为 2026-05 快照, 二次核实前勿用于谈判** — 部分公司 (Klarna IPO post / Databricks RSU 取消 second trigger / Mistral 1000+ 扩张 / Delivery Hero TGP sponsor 收紧) 有重大变化, 见 Section D Insight.
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch, 官方 ATS / 签证登记表直读). 本轮刷新 60 家公司 (入门 TC / 品牌 / 成长性靠前, 且有可行签证路径) 的 New Grad 段, 每个数据点的来源见各公司文件 inline 标注; 其余 51 家保持原更新日期 (见 E 节). 薪资为 2026-10 快照, 二次核实前勿用于谈判.
+> 状态: **Open** = 2027 入职的 new grad 岗位在招 · **Upcoming** = 已知或预计开放 · **Rolling** = 有 junior / grad 岗但无固定批次 · **Closed** = 已下架 · **无项目** = 当前没有 new grad / junior 入口
+> 来源标注: `实际打开过` = WebFetch 打开 · `curl / API 直读` = 命令行直接读取原文、官方 ATS 或签证登记表 (同等可信) · `搜索结果` = 仅见于搜索摘要
 
-### A. 有独立 Graduate Programme 的公司 (结构化 cohort / rotational)
+### 截止日期与开放时间 (按日期)
 
-| 公司 | Programme 名称 | 时长 | 地点 | 入门 base (gross/年) | Sponsor 全职 | 文件 |
-|------|---------------|------|------|---------------------|--------------|------|
-| **Arm** | Arm Graduate Program (全球 650+ grads / 21 location / 11 country; Bachelor/Master/PhD 均收) | 2 年 cohort | Cambridge UK | Grade 2 base £52,622 median / Grade 3 £74,064 / Grade 4 £110,962 (Levels.fyi 2026-05 直读, 2 次/年 review) | ✅ Skilled Worker 2026 £41,700 (硬科技国际生最旗舰; ARM NASDAQ 上市后 RSU 价值实化) | [arm.md](companies/arm.md) |
-| **Booking** | Compass Graduate Programme (SE/DS/Product) | **12 个月 / 2 rotations** | Amsterdam + Manchester | Level E base **$78.6k (~€72-73k)** (Levels.fyi 直读); Level F post-grad jump 到 $110k base | ✅ Kennismigrant + 30% ruling | [booking.md](companies/booking.md) |
-| **Microsoft** | Aspire Experience (前 MACH, 2024 rebrand; 9月+2月双 intake) | 2 年 cohort | Dublin / Reading / Munich / Amsterdam | L59 base UK £70.8k / IE €66.5k / Munich €74.1k (Levels.fyi 2026-05 直读) | ✅ aggressive (与实习不同, intern 不 sponsor) | [microsoft.md](companies/microsoft.md) |
-| **Adyen** | "Next Gen" Program (direct-placement, 非传统 rotational) | 12-18 月发展弧 | Amsterdam | €55-70k + phantom stock (Y2 €45-55k 误传已修正) | ✅ Kennismigrant (录取率 3-5%) | [adyen.md](companies/adyen.md) |
-| **ASML** | "Early Career Programs" 伞 → Management Traineeship-Tech / Manufacturing & IT Gateway / Sourcing & SC Graduate Acceleration (原 TDP 改名) | 多并行项目 (Mgmt Trainee Tech 截止 2026-05-25) | Eindhoven / Veldhoven | L6 Starter base $82.4k + bonus $9.6k = $92k total (Levels.fyi 2026-05 直读, Eindhoven median €76.2k) | ✅ heavy sponsor + 30% ruling | [asml.md](companies/asml.md) |
-| **Criteo** | Criteo Graduate Programme + Apprenticeship (alternance) | 全职 CDI / alternance | Paris | €45-55k | ✅ Passeport Talent | [criteo.md](companies/criteo.md) |
-| **Revolut** | Rev-celerator Graduate Programme | 12 个月 (非 12-18; 2026 cohort 已 closed, 等 2027) | London / Krakow / Porto | UK £45-55k / EU €35-50k (官方 grid) | ⚠️ Skilled Worker 2026 £41,700; SOC going rate £49,400 (bar 高 + Toxic 标签延续) | [revolut.md](companies/revolut.md) |
-| **Delivery Hero** | Tech Graduate Program (TGP) | 6 月 + 12 周 capstone, Apr/Jul/Oct 三批 (2026 已截止 01/30, 02/06, 02/15) | Berlin | IC2 中位 €88,685 (Levels.fyi 2026-05) | ⚠️ **TGP 2026 收紧, 要求"已有 Germany/EU 工作权"** — 不再 sponsor Blue Card (此前判断已过时!) | [deliveryhero.md](companies/deliveryhero.md) |
-| **Signify** ⭐ | **Junior IT Program / Junior Digital Program (Graduate)** ⚠️ 旧版误写为 "Edison" (那是 GE 的项目) | 18-24 个月 | Eindhoven | 无 2026 公开数据; Glassdoor Eindhoven SWE median **€60.6k** 为城市基准 | ✅ Kennismigrant (2026 阈值 €4,357/月 &lt;30 岁) | [signify.md](companies/signify.md) |
-| **Amazon** | Amazon Pathways (MBA / PhD / Military, 7 国; 要求 Master+3yr work exp + CEFR B2) + SDE I (L4) 直招 | 多年 rotational | London / Dublin / Berlin / Lux / Madrid | SDE I 2026-05 Levels.fyi 直读: London £79.9k/£106k total / Dublin €94.6k/€117k / Berlin €82.1k/€101k / Lux €84k/€100.9k (median) | ✅ aggressive (Tier 1 最 friendly); DE Blue Card 2026 €45,934 shortage | [amazon.md](companies/amazon.md) |
-| **DeepMind** | AI Residency | 12 个月 cohort | London | £80-110k (Residency); RS fresh PhD £130-180k base | ✅ Global Talent + Skilled Worker | [deepmind.md](companies/deepmind.md) |
-| **Zalando** (semi) | Helsinki Future Talent / C5 直入 | 6-12 个月 | Berlin / Helsinki / Dublin | €55-70k + €6k relo + housing | ✅ Blue Card | [zalando.md](companies/zalando.md) |
+| 日期 | 公司 | 类型 | 事项 | 文件 |
+|------|------|------|------|------|
+| 2026-10-15 | Booking ⭐ | Intern | SWE Intern Amsterdam 开放 (9 周, 2027-07 入职; 需荷兰高校在读、2028 毕业) | [booking.md](companies/booking.md) |
+| 2026-10 中下旬 (推断) | Amazon | Graduate | SDE – 2027 (L4) new grad 预计发布 (上一轮 2025-10-16 首发); SDE – 2026 仍在招 (毕业 24 个月内可投) | [amazon.md](companies/amazon.md) |
+| 2026-10-18 | ASML | Graduate | Sourcing & Supply Chain Graduate Acceleration 截止 (Veldhoven, 2027-01 入职, 工作经验 ≤6 个月) | [asml.md](companies/asml.md) |
+| 2026-10-18 | Anthropic | Fellows | Fellows Program 2027-01 cohort 的 AI Safety & Security track 截止 (需已有 UK/US/CA 工作权) | [anthropic.md](companies/anthropic.md) |
+| 2026-10-23 | Google | Intern | EMEA SWE/SRE BS/MS Intern 2027 截止 (不 sponsor) | [google.md](companies/google.md) |
+| 2026-10-30 | Man Group | Intern | 2027 Tech internship (London / Sofia) 截止; 实习是进入 Technology Foundation 全职的主路径 | [mangroup.md](companies/mangroup.md) |
+| 2026-10 (官方 FAQ) | Arm | Graduate | UK Graduate 2027 开放 (Europe 已于 2026-09 开放, 先到先审) | [arm.md](companies/arm.md) |
+| 2026-10 下旬 (推断) | Wise | Graduate | WiseStart London 窗口 (上一轮 2025-10-28 → 11-09; grad 岗不 sponsor) | [wise.md](companies/wise.md) |
+| 2026-11 (推断) | Apple | Residency | AIML Residency 2027 预计公布 (2026 届于 2025-11-07 公布; 1 年, 面向高学历毕业生) | [apple.md](companies/apple.md) |
+| 2026-11-13 | Flow Traders | Graduate | Flow Quant Trading Days (12-07/08) 报名截止; 仅限 NL 高校 2026/27 STEM 毕业生, 可直通 Graduate Trader offer | [flowtraders.md](companies/flowtraders.md) |
+| 2026-12-06 17:00 CET | Optiver | Graduate | Career Kickstarter – Trading 2027 截止 (2027-03 举办, 直通 Graduate Trader offer) | [optiver.md](companies/optiver.md) |
+| 2026-12-13 | Google / DeepMind | Intern | Student Researcher 2027 截止 (Amsterdam 为可选地点; 需自有工作许可) | [google.md](companies/google.md) / [deepmind.md](companies/deepmind.md) |
+| 2026-12-31 | Nebius ⭐ | Early Talent | ETP Winter (2027-01 入职) 截止; 不办 visa | [nebius.md](companies/nebius.md) |
+| 2027-01-04 | Booking ⭐ | Graduate | Compass SE Graduate (Amsterdam) 开放, 2027-09 入职; 要求 2026/27 荷兰高校毕业 | [booking.md](companies/booking.md) |
+| 2027-02 | Booking ⭐ | Graduate | DS&A Graduate 开放 | [booking.md](companies/booking.md) |
+| 2027-03-01 / 04-30 | SIG | Graduate | Dublin QT / QR 2027 grad 岗位到期 (rolling 审核, 越早越好) | [sig.md](companies/sig.md) |
+| 2027-05-31 | Nebius ⭐ | Early Talent | ETP Summer (2027-06 入职) 截止 | [nebius.md](companies/nebius.md) |
 
-### B. 无 Programme 但有 New Grad / Junior 直招 (rolling)
+### A. 量化 (做市商 + 对冲基金)
 
-| 公司 | 主要地点 | 入门 base (gross/年) | Sponsor 全职? (与实习对比) | 文件 |
-|------|----------|---------------------|------------------------|------|
-| **Google** | Zurich / London / Munich / Warsaw / Dublin | Zurich L3 **base $180k (~CHF 165k) / total $226k** + Munich €94k base / €131k total (Levels.fyi 直读 2026-05); ⚠️ Engineering Residency **2021 已停**, 现仅 NORP US-only | ⚠️ team-by-team; 全职无 housing stipend (housing 仅 intern) | [google.md](companies/google.md) |
-| **Meta** | London (Amsterdam 仅商业) | £80k base / £127k total (E3) | ⚠️ Skilled Worker, EU HC 紧 | [meta.md](companies/meta.md) |
-| **Apple** | Munich / London | Munich ICT2 €89k base / London £78k | ⚠️ 倾向已有 visa | [apple.md](companies/apple.md) |
-| **Nvidia** | Munich / Helsinki / Cambridge | Munich IC2 €121k total (含前置 RSU 40/30/20/10) | ✅ Helsinki 最 visa-friendly | [nvidia.md](companies/nvidia.md) |
-| **Uber** | Amsterdam / Aarhus / Sofia / Lisbon | L3 Amsterdam $84.7k base + $10.5k RSU + $8.7k bonus = $104k (Levels.fyi 2026-05 直读); SWE I median €85k (TechPays €75.7k) | ✅ Kennismigrant + 30% ruling; 硕士新毕业 reduced €2,801/月 (NL 2026); 2026 Amsterdam Senior/Staff 为主, New Grad 名额收紧 | [uber.md](companies/uber.md) |
-| **Spotify** | Stockholm / London / Gothenburg | Engineer I Stockholm 中位 SEK 623,514 (Levels.fyi 2026-05); 整体 SWE 中位 SEK 1.16M | ✅ Sweden certified employer 2-4 周 sponsor (全职 sponsor — **与实习相反**); Tech Fellowship 18 周 bootcamp (NYC/London/Stockholm) 是唯一命名 entry program | [spotify.md](companies/spotify.md) |
-| **JetBrains** ⭐ | Munich / Amsterdam | €78-92k 估算 | ✅ 全职会 relocate/sponsor (**与实习相反!**) | [jetbrains.md](companies/jetbrains.md) |
-| **Databricks** | Amsterdam / Berlin | L3 base $86.6k / RSU $44.8k / bonus $6.8k = $138k total (Levels.fyi 2026-05 Amsterdam 直读; TechPays new grad €132.5k); **2025 取消 second trigger, vested RSU 直转 share** | ✅ + 30% ruling; $134B 估值, S-1 预计 2026 H2 | [databricks.md](companies/databricks.md) |
-| **Confluent** | London | L2 base $92.7k / RSU $45.8k / bonus $3.1k = $142k ≈ £106k (Levels.fyi 2026-05 UK 直读) | ✅ Skilled Worker (UK 2026 £41,700; 无 Grad scheme, 走标准 SWE) | [confluent.md](companies/confluent.md) |
-| **Snowflake** ⭐新增 | Berlin / Warsaw (R&D); London/AMS/Dublin/Paris GTM only | Berlin IC1 base €94.6k + RSU €43.8k + bonus €4.7k = TC ~€143k (Levels.fyi 2026-05 直读); Warsaw IC1 ~$68k TC | ✅ Berlin Blue Card (IC1 远超阈值); Warsaw Blue Card; **欧洲无独立 Grad scheme, 走 intern → return offer (~70-80% 转正)** | [snowflake.md](companies/snowflake.md) |
-| **Nebius** ⭐ | Amsterdam | **G16 base ~€94k + bonus $19k, total ~€114k** (Levels.fyi 直读 2026-05-27) | ⚠️ Early Talent FAQ 明确 "not at this stage"; 全职高级别 sponsor (HSM 阈值 €4,357/月) | [nebius.md](companies/nebius.md) |
-| **Klarna** | Stockholm | L1-L4 完整 grid (Levels.fyi 2026-05); **2025-09 已 IPO ($19.65B)**, post-IPO HC 重启 | ✅ Sweden certified employer 2-4 周 sponsor; 2026-06-01 工签门槛上调到中位 90% | [klarna.md](companies/klarna.md) |
-| **N26** | Berlin | L2 €75.8k / L3 €84.2k / L4 €105k / L5 €139k (Levels.fyi 2026-05 直读) | ✅ 工程 hc 实际未 freeze (此前判断已修正); Compliance/Risk 扩张最快; Mike Dargan 2026-04 上任 CEO | [n26.md](companies/n26.md) |
-| **Cohere** | London / Paris | London L3 MTS base **£135k** / total **£172k** (Levels.fyi 2026-05 直读, 远超原 £110-140k 估算) | ✅ Skilled Worker 2026 £41,700 (bar 极高, 5-10% pass) | [cohere.md](companies/cohere.md) |
-| **Hugging Face** | Paris / Remote | Paris L3 ~€75-78k base ($91.9k total) — Levels.fyi 单点 | ⚠️ Passeport Talent (OSS 主导) | [huggingface.md](companies/huggingface.md) |
-| **Mistral AI** | Paris | L2 TC €78.6k / L3 €134k (Levels.fyi 2026-05); **1,000+ 员工 + 164 active reqs** (远超此前 100-200 判断) | ✅ Passeport Talent; 公开 L1 入口 + BSPCE 期权 12.8% flat tax; CIFRE 续期成熟 | [mistral.md](companies/mistral.md) |
-| **Alan** | Paris | Junior SWE €55-70k (官方公开 grid) | ✅ Passeport Talent (无 take-home, 流程透明) | [alan.md](companies/alan.md) |
+| 公司 | 2027 状态 | 欧洲 new grad 岗位 | 入门薪资 (gross/年) | 签证 / NL 路径 | 文件 |
+|------|----------|-------------------|--------------------|---------------|------|
+| **Optiver** | Open (2026-08-17 起 rolling) | Grad SWE AMS/London, Grad QR AMS/London, Grad FPGA AMS; 2024-08 至 2027-08 毕业, ≤3 年经验; Trader 走 Career Kickstarter | AMS SWE L3 TC €206K (base €106K + bonus €100K) | ✅ IND sponsor, zoekjaar 可直转 | [optiver.md](companies/optiver.md) |
+| **IMC** | Open (2026-07-31 起) | Grad SWE / Trader AMS + Aarhus, Grad QR AMS (MSc/PhD), Grad Hardware AMS; 2027-02 或 08 入职; 培训含美国段 (需 US business visa) | AMS SWE L1 TC €150K | ✅ IND sponsor | [imc.md](companies/imc.md) |
+| **Jump Trading** | Open (2026-07-13 起) | QR / QT / Systems Eng London + **Amsterdam**, ML Research Eng London | London SWE median £221K; grad offer 均值约 $750K (eFC) | ✅ "We sponsor work visas"; Jump Trading Europe B.V. 在 IND 名单 | [jumptrading.md](companies/jumptrading.md) |
+| **DRW** | Open | London Software Developer (2026-12 至 2027-08 毕业), Quant Trading Analyst; Amsterdam Associate Trader | London L2 TC £161K | ✅ UK + DRW Europe Derivatives B.V. 在 IND 名单 | [drw.md](companies/drw.md) |
+| **Flow Traders** | Rolling | Graduate Trader (每年 4 批), PhD QR (2026-10-09 发布); Trading Days 12-07/08 | AMS 无 entry 数据 (median €125K) | ✅ 全职 sponsor (实习不 sponsor) | [flowtraders.md](companies/flowtraders.md) |
+| **Jane Street** | Open (2026-08-03 起) | London 8 个 New Grad 岗 (SWE / QT / QR / ML / FPGA 等) | London SWE L1 TC £244K | ✅ UK; NL 实体当前无岗位 | [janestreet.md](companies/janestreet.md) |
+| **Citadel / Citadel Securities** | Open (2026-07-19 起) | SWE / QT / QRA University Graduate (London, Dublin, Paris, Zurich) | London SWE median £318K | ✅ UK; Citadel Securities 2026-07 新开 Amsterdam 并进入 IND 名单, 暂无 grad 岗 | [citadel.md](companies/citadel.md) |
+| **HRT** | Open (2026-07-13 起) | Algo Dev / SWE 2027 Grads London, ETSE Dublin | London SWE median £239K (US 官方 base $300K) | ✅ UK + Dublin CSEP | [hrt.md](companies/hrt.md) |
+| **SIG** | Open | Dublin 8 个 + London 5 个 grad 岗 (QT / QR / QSD / TSE / SWE / SRE), 2027-06 至 09 入职 | Dublin SWE 级 €106K (无 entry 数据) | ✅ CSEP / UK | [sig.md](companies/sig.md) |
+| **G-Research** | Open | Graduate ML Engineer (2027-08-31 入职), QR Postgraduate (MSc/PhD) | London L1 TC £187.8K (base £100K) | ✅ UK | [gresearch.md](companies/gresearch.md) |
+| **Two Sigma** | Open | SWE Full-Time Campus Hire – London (欧洲唯一 grad 岗) | London L1 TC £145K | ✅ UK | [twosigma.md](companies/twosigma.md) |
+| **QRT** | Open (2026-09-08 起) | 主要经 final-year 实习转正; Infrastructure / FPGA grad 岗 London/Paris | Paris SWE L1 €131K; London QR £162K | ✅ UK / FR; 不在 IND 名单 | [qrt.md](companies/qrt.md) |
+| **Squarepoint** | Rolling | Graduate QD / SWE London, Trading Infra Graduate Programme (18 个月), Junior QR Paris | UK Junior QD £85.3K | ✅ UK | [squarepoint.md](companies/squarepoint.md) |
+| **Millennium** | 无直招 | 分析师从实习生中录用 (2027 实习 2026-08-03 开放) | UK SWE entry £146K | ✅ UK | [millennium.md](companies/millennium.md) |
+| **Man Group** | Upcoming | 7 个 grad programme, 2027 尚未发布 (上轮 Tech 截止 2026-02-27) | London SWE median £128K | ✅ UK | [mangroup.md](companies/mangroup.md) |
+| **D.E. Shaw** | 无 London new grad | 仅 Quant Systems Developer | NYC QA base $275K (London 无数据) | ✅ UK | [deshaw.md](companies/deshaw.md) |
+| **XTX Markets** | 无项目 | 官方: "does not run a graduate program" | London median £187K (样本 1) | ✅ UK | [xtxmarkets.md](companies/xtxmarkets.md) |
+| **Akuna** | 欧洲无 | London 仅 5+ 年岗位 | Chicago entry base $145K | — | [akuna.md](companies/akuna.md) |
 
-### C. Graduate 路径警告 / 不推荐
+### B. 大厂 + Frontier AI
 
-| 公司 | 问题 |
-|------|------|
-| **Canva London** | Early Talent 明确**不 sponsor** visa — 只能走 UK Graduate Visa (Master 毕业后 2 年) |
-| **TomTom** | Amsterdam Junior SWE hc frozen; 非 EU 仅 Łódź (波兰) 现实, €60k NL / PLN 100k PL |
-| **Elastic** | distributed-default 文化, entry-level 几乎不 sponsor (<1% 国际生录取率) |
-| **Improbable** | 2023 国防 pivot 后 grad hiring 已停, 仅零星 Junior reqs |
-| **Stability AI** | 2024 turmoil 杀掉 grad pipeline, post-restructure 无 sponsor commitment |
-| **Deezer** | 法语门槛高, less sponsor-friendly than Criteo, hc 财务波动大 |
+| 公司 | 2027 状态 | 欧洲 new grad 岗位 | 入门薪资 (gross/年) | 签证 / NL 路径 | 文件 |
+|------|----------|-------------------|--------------------|---------------|------|
+| **Google** | 无 EMEA 2027 UG 批次 | 全欧仅 1 个 early-level SWE (London SWE II) | L3 TC: Zurich CHF 189,863 / London £122,942 / Munich €121,342 / Dublin €127,778 | ✅ UK; NL 无工程 entry 岗 | [google.md](companies/google.md) |
+| **Meta** | Rolling (未能核实在招岗位) | E3 University Grad (London / Dublin) | E3 London £95.2K / Dublin €105K | ✅ UK; 2026-05 裁员约 8,000 | [meta.md](companies/meta.md) |
+| **DeepMind** | 无项目 | 0 个 early-level 岗; AI Residency 已不存在 | RE London base £64.8K (旧 Glassdoor 数据) | 经 Google UK | [deepmind.md](companies/deepmind.md) |
+| **Amazon** | Upcoming (推断 2026-10 中下旬) | SDE – 2026 (L4) 仍在招 (毕业 24 个月内); SDE – 2027 未发布; Pathways 需硕士 + 3 年经验 | L4 TC: UK £80K / IE €98.3K / DE €86.6K / LU €89.3K / ES €59.8K | Conditional (L4 超 UK/DE/IE/LU 门槛; NL 无 new grad SDE); 2026-10 再裁 <1,000 | [amazon.md](companies/amazon.md) |
+| **Microsoft** | Upcoming / Rolling | 欧洲暂无 new grad SWE 岗 (University Hire L59 + Aspire) | L59 TC: UK £57.3K / IE €68.7K / Munich €89.4K | Conditional (UK L59 base £49K 接近 going rate, 逐个核对); 2026-07 裁员 4,800 | [microsoft.md](companies/microsoft.md) |
+| **Apple** | 无项目 (各团队 rolling) | ICT2 SWE / ML / Silicon; AIML Residency 2027 预计 2026-11 公布 | ICT2 TC: UK £79.6K / Munich €100K | Conditional; NL 无工程岗 | [apple.md](companies/apple.md) |
+| **Nvidia** | 欧洲无项目 | 欧洲仅 1 个 NCG (Budapest Formal Verification); NCG 2027 只在 US / 中国 | IC2 Munich TC €116K | Conditional | [nvidia.md](companies/nvidia.md) |
+| **Anthropic** | 无 new grad / 无实习 | Fellows Program (2027-01, 4 个月, £2,310/周, 25-50% 转全职) | London RE base £260K-630K (需 4+ 年) | ✅ UK (Fellows 需已有工作权) | [anthropic.md](companies/anthropic.md) |
+| **OpenAI** | 欧洲无 | Applied Emerging Talent (2027) 仅 San Francisco | UK median £279K | ✅ UK | [openai.md](companies/openai.md) |
+| **Cohere** | 无 new grad 项目 | 经 MTS L3 进入; Cohere Labs Scholars 预计 2026 秋开放; 2026-09-16 宣布与 Aleph Alpha 合并 | London SWE median £177K | ✅ UK | [cohere.md](companies/cohere.md) |
+| **Mistral AI** | 无项目 (正在搭建 early careers) | 入口 = 6 个月 Paris 实习 / CIFRE; Amsterdam 有 4 个岗位 | Paris L2 TC €77.8K | ✅ Mistral AI NL B.V. 在 IND 名单 | [mistral.md](companies/mistral.md) |
+| **Hugging Face** | 无 | 6 个全职岗, 0 个 junior; NVIDIA 收购协议 (2026-09-02, 预计 2027 H1 完成) | Paris median €81.6K | ⚠️ 不在 IND / UK 名单 | [huggingface.md](companies/huggingface.md) |
+| **Helsing** | Open (2026-09-15) | Software Engineer (Early Careers) / Junior SWE, Berlin / London / Munich (视频 + 无简历筛选, 20+ 个岗) | Munich median €153K (无 junior 数据) | Conditional (relocation €2,500; 申请表问安全审查) | [helsing.md](companies/helsing.md) |
+| **ElevenLabs** | 无项目 | 8 个"无经验要求"岗 (含 Full-Stack, Amsterdam 可选) | London median £158.8K | Conditional (UK ✅, 不在 IND 名单) | [elevenlabs.md](companies/elevenlabs.md) |
+| **Wayve** | 无项目 | 主要经 MSc/PhD 实习 → return offer | London median £130.6K | ✅ UK | [wayve.md](companies/wayve.md) |
+| **Synthesia** | 无 (Senior 以上) | — | London median £137.9K | Conditional | [synthesia.md](companies/synthesia.md) |
+| **DeepL** | 无 (0 个工程岗; 2026-05 裁员约 25%) | — | DE median €105K | — | [deepl.md](companies/deepl.md) |
+| **Lovable** | 无 (要求 5-12+ 年) | — | Stockholm median SEK 965K | ✅ sponsor | [lovable.md](companies/lovable.md) |
+| **Photoroom** | 无 (要求 2+ / 5+ 年) | — | FR median €137K | ✅ FR | [photoroom.md](companies/photoroom.md) |
+| **Cradle** | 无 | 0 个工程岗 | — | ✅ IND | [cradle.md](companies/cradle.md) |
 
-### D. 关键 Insight (策略, 2026-05-28 更新)
+### C. 平台 / SaaS / NL-EU 科技
 
-1. **"实习不 sponsor 但全职 sponsor" 类**: JetBrains / Spotify / Nebius — 非 EU 学生策略应**直接跳过实习, 走 New Grad**, 反而更顺
-2. **结构化 Graduate Programme 最强 visa pipeline (Top 5)**: Arm (UK 硬科技旗舰, 650+ grads 全球) / Microsoft Aspire (9月+2月双 intake) / Booking Compass / Amazon Pathways (Master+3yr + B2) / Adyen Next Gen (录取率 3-5%)
-3. **AI 小厂 (Cohere / Mistral / HF)**: 几乎没有 "grad" 标签, 直接走 Member of Technical Staff (MTS) / L3 IC; bar 极高, paper / OSS contribution 主导, 不是 LeetCode 比拼; **Cohere London L3 实测 base £135k / total £172k (远超原估算)**, Mistral 已扩张到 1,000+ 员工
-4. **法国系 (Criteo / Alan / HF)**: convention de stage / CDI / Passeport Talent 三件套, 法国对非 EU 学生 grad 转正路径最丝滑; **Alan 2026-07 启用新 grid "one salary per level - no experience multiplier", 应明示问 recruiter 走新旧 grid**
-5. **荷兰系 (Booking / Adyen / Uber / Databricks / Nebius / JetBrains Amsterdam / Snowflake Amsterdam GTM)**: Kennismigrant + 30% ruling 双 buff; **NL 2026 阈值**: <30 €4,357/月, ≥30 €5,942/月, 硕士新毕业 reduced €2,801/月
-6. **薪资天花板 (更新)**: DeepMind RS PhD £200-350k total (AI talent war) > Google Zurich L3 $226k total > **Cohere London L3 £172k total** > Snowflake Berlin IC1 €143k total > Confluent UK L2 ~£106k base > Nvidia Munich IC2 €114-133k total
-7. **量化金融路径 (2026-05-28 新增)** — 与科技公司对比:
-   - **薪资天花板高一个数量级**: Jump Trading SWE median **$430k**, Citadel London L3 TC £280k, Two Sigma London L3 £322k, D.E. Shaw NYC base $275k + Y1 guaranteed bonus — 远超科技公司 (Cohere London £172k 顶尖)
-   - **Intern 标杆 (US baseline)**: Jump $120/hr ≈ $20.8k/月 > DRW $96/hr ($80k 总额 10 周 含 sign+completion) > Jane Street $144/hr > HRT $145/hr + 全包 housing > Akuna $62/hr; **London intern 普遍打 0.6-0.8 折** (e.g. Jump London £10.6k/月)
-   - **签证全 sponsor**: UK Skilled Worker / NL Kennismigrant / 爱尔兰 CSEP — 全职 base 均远超阈值. **唯一例外: Flow Traders intern 明确 NO sponsorship** (官方原文)
-   - **岗位区分关键**: SWE / Quant Dev / Quant Researcher / Trader 是 4 条不同薪资 + 不同筛选路径; Quant Dev 通常 = SWE 但 PnL 直接挂钩, TC 比纯 SWE 高 20-40%
-   - **OA 风格指纹**:
-     - **Optiver/Flow Traders mental math** (50/8, 75/10) 是 NL 量化 firstgate
-     - **Jane Street OCaml 现场学** 但 OCaml 不强求面试用 (品牌混淆)
-     - **Two Sigma brain teaser + statistics**, 明令禁止 AI tool
-     - **Akuna 3 题 80 min HackerRank** 是业内 OA 模板标杆
-     - **SIG 17 题 60 min SQE + 48h take-home + 5 轮 2-3 月** — 流程最长
-     - **Millennium 90秒/题 OA + 24-hr Jupyter take-home + pod-by-pod 不透明**
-   - **Cash-only no equity**: 所有量化厂 (除 DRW Chicago L2 minor $4.4k stock) RSU = $0 — 私有公司共性, TC 全靠 bonus + deferred (QRT 75% bonus 3-yr defer 是典型设计)
-   - **G-Research 是 UK 量化最 cohort 化 / Graduate Programme 最透明的厂** — 适合作为量化第一站投递
-   - **2026 时间窗已截止**: Citadel/Jane Street/HRT/XTX/DRW/Jump 2026 Summer Intern 全部 closed → 现在准备 **2027 Summer (~2026-08/09 开放)**
+| 公司 | 2027 状态 | 欧洲 new grad 岗位 | 入门薪资 (gross/年) | 签证 / NL 路径 | 文件 |
+|------|----------|-------------------|--------------------|---------------|------|
+| **Booking** ⭐ | Upcoming (2027-01-04 开放) | Compass SE Graduate Amsterdam, 12 个月 2 rotations, 2027-09 入职; 要求 2026/27 荷兰高校毕业 | NL Level E €68.3K (2026-10) | ✅ IND | [booking.md](companies/booking.md) |
+| **Adyen** | 未开放 | 学生页 404, 238 个岗位中无 grad / intern | NL SE1 TC €92.5K | ✅ IND | [adyen.md](companies/adyen.md) |
+| **ASML** | Open (仅 1 个项目) | Sourcing & SC Graduate Acceleration (10-18 截止); Management Traineeship / Gateway 待开 | NL L6 €82.8K (Eindhoven 页 €66.7K, 两页不一致) | ✅ IND | [asml.md](companies/asml.md) |
+| **JetBrains** ⭐ | Rolling, 无 grad 品牌 | 0 个 junior / grad 标题; 实习接收毕业 ≤1 年者 | AMS L2 €100K / Munich €65.4K | ✅ IND + relocation | [jetbrains.md](companies/jetbrains.md) |
+| **Nebius** ⭐ | Open (Early Talent Program) | Winter 2027-01 (12-31 截止) / Summer 2027-06 (2027-05-31 截止), 2-6 个月, 不办 visa | G16 ≈ €114K (2026-05) / 2026-10 均值 €102.9K | ETP ❌; 全职 ✅ IND | [nebius.md](companies/nebius.md) |
+| **Signify** ⭐ | Closed | Junior IT / Junior Digital Program (Graduate) 已下架 | NL median €55.9K | ✅ IND | [signify.md](companies/signify.md) |
+| **Uber** | 无 (欧洲 0 个 new grad SWE) | Amsterdam 6 个岗位均非工程 | AMS SWE I TC €94.6K | Conditional | [uber.md](companies/uber.md) |
+| **Arm** | Europe Open / UK Upcoming (2026-10) | Munich / Budapest / Trondheim grad 岗; UK 9 月入职 | Munich Graduate SWE €64,500 (官方); Cambridge G2 £51.5K | ✅ | [arm.md](companies/arm.md) |
+| **Databricks** | SWE new grad 未发布 | 仅 PM New Grad 2027 (AMS / Berlin / Belgrade) | AMS L3 TC €131K | ✅ IND | [databricks.md](companies/databricks.md) |
+| **Stripe** | Open (2026-08-31 起) | SWE New Grad Dublin / London / Bucharest, Frontend NG Barcelona, Security NG Dublin; 2027 夏前毕业, ≤18 个月经验 | Dublin L1 TC €111K / London L1 £97.2K | ✅ CSEP / UK | [stripe.md](companies/stripe.md) |
+| **Palantir** | Open | London 6 个 New Grad (SWE / SWE-Infra / FDSE-Commercial; UK Gov 岗限英国籍) | new grad base £65K-85K | ✅ UK | [palantir.md](companies/palantir.md) |
+| **Salesforce** | Open (Dublin Commercial Grad, 2027-02 入职) | Sales / SE 方向 + AI Builder Emerging Talent; SWE new grad 仅美国 | Dublin MTS €113K | Conditional (CSEP) | [salesforce.md](companies/salesforce.md) |
+| **Datadog** | 全职未发布 | 实际入口 = Paris 6 个月实习 (以 2027 全职为目标) | Paris SWE I TC €76.7K | Conditional | [datadog.md](companies/datadog.md) |
+| **Snowflake** | 欧洲无项目 | 入口 = Berlin SWE Intern 2027 (4-12 个月) | Berlin IC1 TC €125K | ✅ Blue Card | [snowflake.md](companies/snowflake.md) |
+| **Confluent** | 无 | 2026-03-17 被 IBM 收购 | UK L2 £106K (收购前数据) | ✅ UK | [confluent.md](companies/confluent.md) |
+| **Cloudflare** | 无 new grad | 2026-05 裁员约 20%; 2027 实习 London / Lisbon | London L1 £57.9K | ✅ UK Skilled Worker + NL IND | [cloudflare.md](companies/cloudflare.md) |
+| **Mollie** | Upcoming (2026 批次在 5-6 月发布) | Engineering Graduate Program 12-15 个月 | NL SWE1 TC €72.4K | ⚠️ grad JD 写明不 sponsor; zoekjaar 期间可直接入职 | [mollie.md](companies/mollie.md) |
+| **Spotify** | 无项目 | 新 Emerging Talent Program (2027 夏毕业的实习生延长 8 个月) | Stockholm Engineer I TC SEK 627K | Conditional | [spotify.md](companies/spotify.md) |
+| **Klarna** | 无项目 | 通用 "Engineer" 岗 (Stockholm / Milan / Warsaw) | L1 SEK 505K | Conditional | [klarna.md](companies/klarna.md) |
+| **Wise** | Upcoming (预计 2026-10 下旬) | WiseStart Graduate (2 月 / 9 月 cohort) | London £47,000 + RSU (官方) | ❌ grad 岗不 sponsor | [wise.md](companies/wise.md) |
+| **Wolt** | 无项目 | 6 个月实习 → 转正 | Finland SWE €5,400-8,000/月 | Conditional | [wolt.md](companies/wolt.md) |
+| **Bending Spoons** | Open (rolling) | Graduate SWE / AI SWE / Security / Data Scientist, Milan / London / Madrid / Warsaw | London £85,797-151,436; EU €66,065-107,837 (官方) | ✅ 按居住地 sponsor (NL 居民应符合, 推断) | [bendingspoons.md](companies/bendingspoons.md) |
 
-8. **2026 重大变化 (必读)**:
-   - **Databricks 已取消 RSU second trigger** (vested RSU 直转 share, $134B 估值, S-1 预计 2026 H2)
-   - **Klarna 2025-09 已 IPO** ($19.65B), HC 重启
-   - **Delivery Hero TGP 2026 不再 sponsor Blue Card** (要求已有 Germany/EU 工作权 — 之前判断已过时)
-   - **Mistral 1,000+ 员工, 164 active reqs** (远超之前 100-200 估算)
-   - **N26 工程 hc 实际未 freeze** (Compliance/Risk 扩张最快; Mike Dargan 2026-04 上任 CEO)
-   - **Revolut Rev-celerator 2026 cohort 已 closed**, 等 2027 申请窗口 (2025-06-01 ~ 2025-12-14)
-   - **TomTom 2025-06 第二轮裁员 300 人** (全球 10%, NL <半数, Łódź 不再绝对安全)
-   - **ASML 已 rebrand**: TDP → "Early Career Programs" 伞 + Management Traineeship-Tech / Manufacturing & IT Gateway / Sourcing & SC Graduate Acceleration
-   - **UK Skilled Worker 2026 £41,700** (从 £38,700 上调); SOC 2134 (Software Developer) going rate ~£49,400; new entrant £33,400
-   - **DE Blue Card 2026 €45,934 (shortage 含 IT)** / €50,700 (general); Finland Blue Card €3,937/月
-   - **Sweden 工签 2026-06-01 上调到中位 90%**
+### D. 关键 Insight (2026-10-10)
+
+1. **在 Amsterdam 本地可投的 2027 new grad 主要是量化**: Optiver / IMC / Jump (QR / QT / Systems) / DRW (Associate Trader) / Flow Traders (Graduate Trader), 都在 IND sponsor 名单, zoekjaar → Kennismigrant 可直接衔接. 科技公司 Amsterdam 的工程 entry 岗几乎为零 (Google / Meta / Uber / Databricks AMS 都没有 new grad SWE).
+2. **大厂 EU new grad 批次收缩**: Google 没有 EMEA 2027 UG 批次; Meta 2026-05 裁员约 8,000; Nvidia 欧洲只有 1 个 NCG; OpenAI / Anthropic 欧洲没有 new grad. 2027 届进大厂的主入口变成"实习 → return offer".
+3. **新出现的入口**: Helsing Early Careers (2026-09-15), Salesforce AI Builder Emerging Talent, Spotify Emerging Talent Program, Mistral 正在搭建 early careers, Citadel Securities 2026-07 新开 Amsterdam office.
+4. **关闭 / 收缩**: Signify Junior IT / Digital Program 已下架, Adyen 学生页 404, Confluent 被 IBM 收购, Cloudflare 2026-05 裁员约 20%, DeepL 2026-05 裁员约 25%, Hugging Face 将被 NVIDIA 收购.
+5. **"荷兰高校"条件对已在 NL 读书的人是优势**: Booking Compass 2027 和 SWE Intern 都要求荷兰高校; Flow Traders Trading Days 只收 NL 高校学生.
+6. **签证门槛 (2026, 已更正)**:
+   - NL reduced Kennismigrant (应届硕士 / zoekjaar) = **€3,122/月** (此前全仓库写 €2,801, 已按 IND 官网更正); <30 岁 €4,357; ≥30 岁 €5,942; NL Blue Card €5,942 (reduced €4,754)
+   - **30% ruling**: 要求入职前 24 个月中有 16 个月以上住在离荷兰边境 150 km 以外 — 在 NL 读完硕士直接入职通常不满足; 2027 起新 ruling 上限降为 27%
+   - UK Skilled Worker £41,700 (new entrant £33,400); SOC 2134 going rate £54,700 · IE CSEP €40,904 (近 12 个月毕业 €36,848) · Sweden 工签 SEK 34,470/月 (2026-06 起), Blue Card SEK 53,625 · DE Blue Card €50,700 / €45,934.20 (⚠️ 本轮未能在官方页核实) · FR Passeport Talent 各来源不一致 (€32,484 vs €39,582), 以申请时官方为准
+7. **Quant 仍是薪资天花板**: Optiver AMS 入门 TC €206K, Jane Street London £244K, G-Research £188K, IMC €150K; 科技公司对比 Stripe Dublin L1 €111K, Google Munich L3 €121K.
+
+### E. 本轮未刷新 (数据停留在 2026-05/06)
+
+> 本轮只刷新了上表 60 家. 下列公司 New Grad 数据保持原更新日期, 使用前请先自行核实.
+
+| 公司 | 原数据摘要 (2026-05/06) | 文件 |
+|------|------------------------|------|
+| **Criteo** | Criteo Graduate Programme + alternance, Paris, €45-55k, Passeport Talent | [criteo.md](companies/criteo.md) |
+| **Revolut** | Rev-celerator Graduate Programme 12 个月, London / Krakow / Porto, UK £45-55k / EU €35-50k; 上一轮窗口 2025-06-01 ~ 2025-12-14 | [revolut.md](companies/revolut.md) |
+| **Delivery Hero** | Tech Graduate Program (TGP), Berlin; 2026 起要求已有 Germany/EU 工作权, 不再 sponsor Blue Card | [deliveryhero.md](companies/deliveryhero.md) |
+| **Zalando** | Helsinki Future Talent / C5 直入, €55-70k + €6k relo | [zalando.md](companies/zalando.md) |
+| **N26** | Berlin L2 €75.8k / L3 €84.2k (Levels.fyi 2026-05) | [n26.md](companies/n26.md) |
+| **Alan** | Paris Junior SWE €55-70k (官方 grid; 2026-07 起新 grid) | [alan.md](companies/alan.md) |
+| **Canva London** | Early Talent 明确不 sponsor visa | [canva.md](companies/canva.md) |
+| **TomTom** | Amsterdam Junior SWE hc frozen; 2025-06 裁员 300 | [tomtom.md](companies/tomtom.md) |
+| **Elastic** | distributed-default, entry-level 几乎不 sponsor | [elastic.md](companies/elastic.md) |
+| **Improbable** | 2023 国防 pivot 后 grad hiring 停止 | [improbable.md](companies/improbable.md) |
+| **Stability AI** | 2024 动荡后无 grad pipeline | [stabilityai.md](companies/stabilityai.md) |
+| **Deezer** | 法语门槛高, hc 波动大 | [deezer.md](companies/deezer.md) |
+
+其余本轮未刷新的公司 (数据见各文件, 原更新日期 2026-05/06): Picnic, Swisscom, Prosus, Bunq, Miro, Vinted, Personio, Doctolib, BlaBlaCar, Trade Republic, OutSystems, Unbabel, Showpad, Collibra, King, Qonto, Pleo, Supercell, Voi, Free Now, Trivago, Aiven, Vercel, Darktrace, Sophos, Ocado, Snyk, Twilio, Workday, HubSpot, Notion, Algolia, Dataiku, Contentsquare, Celonis, Aleph Alpha, Black Forest Labs, Speechmatics, IQM. (其中 NL reduced Kennismigrant 门槛已统一更正为 €3,122)
+
+---
+
+## Intern 速览: 2027 实习现状 (2026-10-10 核查)
+
+> 仅列本轮 60 家中实习状态明确的公司. NL 学生签在读者: 在 NL 的实习走学校 internship agreement, 不需单独 work permit; NL 以外的实习通常需要当地工作许可, 注意下表"签证"一栏.
+
+| 公司 | 状态 | 地点 | 要点 | 文件 |
+|------|------|------|------|------|
+| **DRW** | Open | **Amsterdam** + London | SWE Intern 10 周, 含住宿; 2027-12 至 2028-08 毕业 | [drw.md](companies/drw.md) |
+| **QRT** | Open | **Amsterdam** / London / Paris | 2027 Quant Dev 实习 3-6 个月 (SWE 可 12 个月 placement); 要求 2:1 | [qrt.md](companies/qrt.md) |
+| **Jump Trading** | Open | London + **Amsterdam** | 约 12 个欧洲 campus 实习岗, QR / QT 实习 | [jumptrading.md](companies/jumptrading.md) |
+| **Amazon** | Open | **Amsterdam** (2026-10-05 发布) + UK / DE / LU / ES / PL / RO | 2027 SDE Intern, 2026-09-21 起陆续发布, 无截止日期 | [amazon.md](companies/amazon.md) |
+| **Booking** ⭐ | 2026-10-15 开放 | **Amsterdam** | SWE Intern 9 周, 2027-07; 需荷兰高校在读、2028 毕业 | [booking.md](companies/booking.md) |
+| **Nebius** ⭐ | Open (ETP) | **Amsterdam** / Prague | Winter 2027-01 (12-31 截止) / Summer 2027-06; 需已有工作权 | [nebius.md](companies/nebius.md) |
+| **Google / DeepMind** | Open (12-13 截止) | 含 **Amsterdam** | Student Researcher 2027, 12-24 周; 需自有工作许可 | [google.md](companies/google.md) / [deepmind.md](companies/deepmind.md) |
+| **Google** | Open (10-23 截止) | Zurich / Munich / Paris / Dublin / London | EMEA SWE/SRE BS/MS Intern 2027, ≥13 周; 不 sponsor | [google.md](companies/google.md) |
+| **Stripe** | Open | Dublin / London / Bucharest | SWE Intern (Summer / Winter) | [stripe.md](companies/stripe.md) |
+| **Microsoft** | Open | London / Dublin / Prague / Belgrade | 2027 SWE Intern (2026-10-07/08 发布); 实习通常不 sponsor | [microsoft.md](companies/microsoft.md) |
+| **HRT** | Open | London | Summer 2027, £4,350/周 + housing; Algo Dev 实习收 BSc/MSc | [hrt.md](companies/hrt.md) |
+| **SIG** | Open | Dublin / London | Summer 2027 QT / QR / QSD / TSE + Dublin Discovery Programme | [sig.md](companies/sig.md) |
+| **G-Research** | Open | London | SWE 2027-06-28 至 09-17 (2028 毕业) + DS / ML / QR | [gresearch.md](companies/gresearch.md) |
+| **Man Group** | Open (10-30 截止) | London / Sofia | 2027 Tech internship → Technology Foundation 全职 | [mangroup.md](companies/mangroup.md) |
+| **Cohere** | Open | London / Europe | Winter 2027 SWE / ML / Research; 需在读 | [cohere.md](companies/cohere.md) |
+| **Cloudflare** | Open | London / Lisbon | 2027-01 至 05 或 05 至 09; Lisbon €2,450/月; 需在读 | [cloudflare.md](companies/cloudflare.md) |
+| **Databricks** | Open | AMS / Berlin / Belgrade / Aarhus / London | SWE Intern 12 周; 2027 秋至 2028 夏毕业 | [databricks.md](companies/databricks.md) |
+| **Snowflake** | Open | Berlin | SWE Intern 2027, 2027-02 起 4-12 个月 | [snowflake.md](companies/snowflake.md) |
+| **Datadog** | Open | Paris | 6 个月 SWE 实习, 以 2027 全职为目标 | [datadog.md](companies/datadog.md) |
+| **Nvidia** | Open | Munich / Berlin / Cambridge / Zurich / Warsaw 等 | 欧洲 NCG 的主入口 | [nvidia.md](companies/nvidia.md) |
+| **Bending Spoons** | Open | Milan / London / Madrid / Warsaw | 2027-06 至 09; 按居住地 sponsor | [bendingspoons.md](companies/bendingspoons.md) |
+| **Arm** | EU Open / UK 2026-10 | Sophia Antipolis / Trondheim / Budapest / Munich / Galway | 先到先审 | [arm.md](companies/arm.md) |
+| **Optiver / IMC** | Open (仅限 2028 届) | Amsterdam | 2027 届毕业生不适用 | [optiver.md](companies/optiver.md) / [imc.md](companies/imc.md) |
 
 ---
 
@@ -382,7 +463,7 @@
 **核心优势**: 
 - 学生签 16h/wk 学期 / 40h/wk 假期, NL 公司 intern 走 Nuffic convention 零摩擦
 - 毕业可走 zoekjaar (orientation year) 1 年, 无薪资门槛
-- **Reduced Kennismigrant for recent NL master grads = €2,801/月 (2026)** (远低于标准 €4,357 <30 / €5,942 ≥30)
+- **Reduced Kennismigrant for recent NL master grads = €3,122/月 (2026)** (远低于标准 €4,357 <30 / €5,942 ≥30)
 
 **Tier S (零摩擦) — 强烈优先, 现在就投**:
 1. **Picnic Tech Academy** (AMS) — 6mo Sept/Mar intake, Java grad 通道, base €54K — [picnic.md](companies/picnic.md)
@@ -711,6 +792,7 @@
 
 ## 🔄 维护说明
 
+- **2026-10-10 刷新**: 60 家公司 New Grad 段 (20 个并行 agent, 实时 WebSearch / WebFetch / 官方 ATS 与签证登记表直读); 全仓库 NL reduced Kennismigrant 门槛 €2,801 → €3,122 (IND 2026); 22 家公司页头加 2026-10-10 勘误行, 指出其他段落中已过时的说法
 - 各公司文档已在 `companies/<name>.md` 中保留所有引用链接 (第 8 节)
 - 建议每 3-6 个月重跑此情报任务, 因为:
   - 大厂 EU intern HC 受裁员/AI-replacement 影响大 (Klarna / Meta / Spotify / N26 等明显)

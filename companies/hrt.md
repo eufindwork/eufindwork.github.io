@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](hrt.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 'London 是唯一欧洲办公室' (HRT 另有 Dublin 办公室, 招 ETSE).
 > 信息丰富度: ⭐⭐⭐⭐ (Wikipedia + 官方 student-opps + Levels.fyi + Companies House 财报 (£940k 均薪) + Quantt 角色拆分 + Glassdoor; 缺 London 单独 SWE TC breakdown)
 > 一句话定位: 2002 年纽约创立的算法交易公司, 全球 800+ / London ~150-152 人 (Companies House 三实体合计), 不是纯 HFT — 持仓 ~5 分钟均时 + 25% overnight; **特别强 FPGA / 硬件 + algo dev**; London 是欧洲核心, Skilled Worker sponsor 积极
 
@@ -24,51 +25,23 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Quantt 4 个 track 拆分 + Levels.fyi L1 $400K + Companies House £940k 均薪 + 官方 student-opportunities 状态确认)
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch; Greenhouse API wehrtyou 直读) | 信息丰富度: ⭐⭐⭐⭐⭐ (依据: 官方 posting 含 base 数字 + 官方 student-opportunities + Levels.fyi London + UK register + eFC 2026-09)
+> **2027 Intake 状态**: **Open (rolling)** — 2027 Grads 岗 2026-07-13 发布, 2026-10-07 仍在更新, 无截止日, 审核约 2 周; 只允许投 1 个岗位 (会被考虑所有 office / 岗位) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/8052122] [来源 (实际打开过): https://www.hudsonrivertrading.com/student-opportunities/]
+> **2026 H2 动态**: 2026-Q2 交易收入 $11.4B 单季纪录 (2026-08-19 报道; Q1 $6.4B; 2025 全年 $12.3B) [来源 (实际打开过): https://cryptobriefing.com/hudson-river-trading-11b-windfall/] [来源 (实际打开过): https://en.wikipedia.org/wiki/Hudson_River_Trading]; eFC 2026-09-15: new grad 首年包约 $1m (insider 来源, sign-on 最高 $400k) [来源 (实际打开过): https://www.efinancialcareers.com/news/pay-for-electronic-trading-graduates-is-soaring-1m-at-hrt-850k-at-jane-street]; 新闻标题 2026-09-23: HRT UK 员工 2025 人均 £820k [来源 (搜索结果): https://www.fnlondon.com/articles/hudson-river-trading-hikes-uk-staff-pay-after-volatility-windfall-46763a86]
 
-- **常见岗位名 (区分关键 — HRT 用 4 个 track)**:
-  - **Algorithm Developer** (≈ 别家的 "Quant Developer"): 设计 / 构建 / 优化交易系统, 直接对接 trader; **HRT 最有名的入口**; intern 称 "Algorithm Development Intern"
-  - **Software Engineer**: 通用工程, infrastructure / data pipeline / tooling; intern 称 "Software Engineering Intern"
-  - **Quantitative Researcher**: 数学 / ML 主导, PhD heavy
-  - **Quantitative Trader**: 监控 + 调参 live strategy, 非 SWE 路径
-  - **Hardware Engineer**: FPGA / ASIC 数字逻辑设计 — **HRT 区别于 Jane Street 的关键 niche**
-  - **Core Engineer**: foundation infra / monitoring
-  - **Systems and Networking**: 低延迟网络栈 [来源 (实际打开过): https://www.hudsonrivertrading.com/student-opportunities/]
-- **欧洲地点**: **London (唯一欧洲 office)**; 其他全球 NYC (HQ) / Chicago / Austin / Boulder / Singapore / Shanghai / Mumbai / Dublin
-- **是否有独立 Graduate Programme**:
-  - **Summer Internship** (10-12 weeks, late May - mid Aug): SE / Algo Dev / PhD Algo Dev 都开 London; 2027 grads 申请; **Summer 2026 已截止** (官方页面确认), 下一波 Summer 2027 ~2026-08/09 开
-  - **Sophomore Internship**: **仅 NYC**, 不在 London (2028 grads, 跨 algo + SE 轮岗) — 这是品牌混淆点
-  - **Winter Internship** (Jan, 2-4 周): **仅 NYC**
-  - **Women in Trading & Tech Internship**: **仅 NYC**
-  - 全职 New Grad 走 "Full-Time → New Grad" filter, 申请直接 [来源 (实际打开过): https://www.hudsonrivertrading.com/student-opportunities/]
-- **非EU签证 (全职)**: HRT London 持 Skilled Worker license (Companies House 三实体 + FCA registered firm); algo dev / SWE FT base 远超 UK 2026 阈值 £41,700 + SOC 2136 going rate £55K; sponsor 标准
-- **薪资结构 (London, gross/年)**:
-  - **Intern (SE / Algo Dev)**: 全球 Levels.fyi 报 **$145/hr ≈ $5,800/周** (NYC 基准); London 按 15-25% 折扣估 £4,200-£4,800/周, 11-12 周 ~£50-60k stipend; **fully-paid housing + travel allowance + 早午餐 chef-prepared + dinner stipend** [来源 (实际打开过): https://www.levels.fyi/internships/Hudson-River-Trading/Software-Engineer-Intern/]
-  - **全职 New Grad (London, 按 NY 15-25% 折扣)**:
-    - Algorithm Developer Junior: ~£200K-£280K TC (NY $200K-$350K USD × ~0.75-0.85)
-    - SWE / Core Engineer Junior: ~£150K-£230K TC (NY $180K-$300K)
-    - Quant Researcher Junior: ~£200K-£320K TC (NY $250K-$400K)
-    - 全球 Levels.fyi: L1 SWE $400K / L2 $516K / L3 $603K (NY 基准) [来源 (实际打开过): https://www.levels.fyi/companies/hudson-river-trading/salaries]
-  - **Bonus 主导**: senior 级别奖金占 TC 60-80%; **无 RSU** (HRT 私人公司)
-  - **Companies House 财报**: HRTSCV 102 人均薪 £508.8K, Hudson River Trading Europe 26 人均薪 £940k+ (合伙人 / senior trader 拉高); 三实体合计 £111.7M 利润 2024 (YoY 翻倍)
-- **申请窗口**:
-  - **Summer 2027 Intern**: ~2026-08/09 开 (官方说"check back next year"); 申请截止通常 2026-10 (rolling, 早投早占名额)
-  - **Sophomore (NY only)**: currently open
-  - **Full-Time New Grad**: rolling, 但 fall recruiting (Sep-Dec) 是主战场
-- **面试流程差异 vs 实习**:
-  - **Online Assessment** (engineer: coding LeetCode med-hard + 算法; researcher/trader: 概率 + 心算)
-  - 1-2 phone/video tech (45 min each)
-  - **Final onsite/virtual: 4-6 轮** (FT 比 intern 多 1-2 轮 system design / FPGA 实战 / trading game)
-  - **Algo dev 流程比 SWE 重**, 含 trading simulation / 概率题
-- **录取竞争**: efinancialcareers 报道 HRT NY intern **0.1% 命中率** (i.e. 1000 申请取 1); London 数据无公开但应类似严苛; offer 1-2 周内发 [来源 (搜索结果): https://www.efinancialcareers.com/news/hudson-river-trading-intern-pay]
-- **关键链接**:
-  - 官方 careers (实际打开过): https://www.hudsonrivertrading.com/careers/
-  - Student Opportunities (实际打开过, Summer 2026 截止 + 2027 待开): https://www.hudsonrivertrading.com/student-opportunities/
-  - Levels.fyi 全公司 (实际打开过, L1 $400K / L2 $516K): https://www.levels.fyi/companies/hudson-river-trading/salaries
-  - Levels.fyi SWE intern (实际打开过, $145/hr): https://www.levels.fyi/internships/Hudson-River-Trading/Software-Engineer-Intern/
-  - Quantt 2026 guide (实际打开过, 4-track 角色拆分 + comp 区间): https://www.quantt.co.uk/resources/hudson-river-trading-guide
-  - Wikipedia (实际打开过, 800 人 + 15% 美股交易量): https://en.wikipedia.org/wiki/Hudson_River_Trading
-  - eFinancialCareers London £940k (搜索结果): https://www.efinancialcareers.co.uk/news/hudson-river-trading-pay-uk-high-frequency-trading
+- **岗位名称 (Europe, 6 个)**: Algorithm Developer (Quant Research & Trading) – 2027 Grads (London / NY / SG) | 同名 – 2027 PhDs | Software Engineer (C++ or Python) – 2027 Grads (London 等 5 地) | Electronic Trading Support Engineer - 2026/2027 Grads (Dublin) | Junior Electronic Trading Support Engineer (Dublin / London 等) | Junior Trading Systems Engineer (London 等; 要求 2+ 年 Linux 经验) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs]
+- **资格窗口**: Algo Dev / SWE Grads: 全日制 BSc 或 MSc 在读, "eligible for full-time roles in 2027" (BSc / MSc 同一岗位, PhD 另设岗); Dublin ETSE: 应届或在读, 2026/2027 可入职; 面试 / OA 禁用 AI 工具
+- **欧洲地点**: London + Dublin (旧版: "London 唯一欧洲 office", 2026-05; Wikipedia: Dublin 2018 年起为 post-Brexit EU hub)
+- **项目结构**: 无 rotation 式 grad scheme, 直接进 team; Algo Dev 做统计建模 + 实盘模型
+- **非EU签证 (全职)**: UK register (2026-10-09 CSV): Hudson River Trading Europe Ltd. / HRT Research UK Ltd / HRTSVC Ltd 均为 Skilled Worker A rating [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; 门槛 £41,700 [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job]; Dublin 走 IE Critical Skills Employment Permit (€40,904; 学位 12 个月内 €36,848; 无 labour market test) [来源 (实际打开过): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]; 无 NL 实体, zoekjaar 无直接帮助
+- **薪资 (gross/年)**:
+  - Algo Dev / SWE 2027 Grads: 官方 "Base salary for US is $300,000", 其他地点 "similarly locally competitive" + sign-on + discretionary bonus; London base 无公开数字 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/8052050]
+  - Dublin ETSE Grads / Junior ETSE: base $100,000-150,000 USD (或当地等值) + bonus [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/8159996] [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/7900186]
+  - SWE London (Levels.fyi, 2026-10, 样本小, 全 level): median TC £239K; L2 £358K / L3 £270K [来源 (实际打开过): https://www.levels.fyi/companies/hudson-river-trading/salaries/software-engineer/locations/london-metro-area]; 旧版 NY L1 $400K (2026-05) 保留; 无 RSU
+- **申请窗口**: 2027 cycle 2026-07-13 开, rolling 无截止日; 上一 cycle (Summer 2026 intern) 已关闭
+- **面试流程**: coding test → 1-2 technical phone screens → onsite multi-round final (官方); Algo Dev 加概率 / 统计; FT 比 intern 多 system design 轮 (旧版信息保留)
+- **录取竞争**: 无 London 数据; 旧版 eFC NY intern 0.1% 命中率 (搜索结果) 保留
+- **Intern (次要)**: Summer 2027 Open (SWE / Algo Dev / Algo Dev PhD / Data Scientist, London); London 周薪 £4,350 + sign-on + housing [来源 (curl 直读 API): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/7964062]
 
 ---
 

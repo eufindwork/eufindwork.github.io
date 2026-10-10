@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](akuna.en.md)
 >
-> 更新时间: 2026-05-28
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §1/§2 的 'London 许可未确认' (Akuna Europe Limited 为 A-rated Skilled Worker sponsor, 2026-10-09 登记表).
 > 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi US Junior $215K + intern $62.50/hr 2026 / $96.15/hr 2024 历史 + 4 stage 流程明文 + London 2022 设立验证 + Akunacademy intern $130K annualized 2026 实际 listing + 493 人 2026-02 headcount; 缺 London-specific 公开 stipend 但有 OA 完整流程)
 > 一句话定位: 2011 年 Andrew Killion (前 SIG trader) 在 Chicago 创立的 options market making 专精 prop firm, 全球 5 office (Chicago HQ / Sydney 2018 / Shanghai 2014 / London 2022 / Singapore 2024) ~493 人, 招聘以 "Akunacademy" intern cohort 著名 (10 周, GPA 3.5+), HackerRank OA 3 题 80 分钟是业内 standard 模板
 
@@ -25,48 +26,26 @@
 
 ## New Grad / Junior 岗位
 
-> 信息丰富度: ⭐⭐⭐⭐ (Levels.fyi US SWE Junior $215K + Akunacademy $130K annualized base + 4 stage 官方流程 + OA 3 题 80 min 明文 + GPA 3.5+ 硬指标 + London 2022 设立)
+> 核查日期: 2026-10-10 (实时 WebFetch + Greenhouse API) | 信息丰富度: ⭐⭐⭐ (依据: Greenhouse 全部 41 个岗位直读 + UK sponsor register 直查; London 薪资无公开数据)
+> **2027 Intake 状态 (欧洲)**: **No programme** — 2026-10-10 Greenhouse 41 个岗位中 London 只有 1 个 Platform Engineer (要求 5+ 年经验, 2026-09-20 更新), 0 个 entry-level / intern; 所有 2027 entry-level + Summer 2027 intern 都在 Chicago (另有 Shanghai junior) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs]
+> 2026 H2 动态: ⚠️ **待 web 验证**: 搜索摘要称 Glassdoor 有 2026-09 涉及 layoff 的员工评论, 未能打开核实; 已知历史: 2023-01 全球裁 11%, 2023-06 APAC 裁 40% [来源 (搜索结果): https://en.wikipedia.org/wiki/Akuna_Capital]
 
-- **常见岗位名 (Akuna 招聘命名清晰, 区分严格)**:
-  - **Software Engineering Intern - Python** (Summer 2026, Akunacademy cohort)
-  - **Software Engineering Intern - C++** (Summer 2026, Akunacademy cohort)
-  - **Quantitative Development Intern** (并行 cohort)
-  - **Junior Software Engineer** / **Junior Quantitative Developer** (Akunacademy 转正)
-  - **Trading Intern** + **Junior Trader** (本科 quant trader 路径, 不在 SWE 路径)
-  - **FPGA Engineer** (Verilog/VHDL, deterministic-latency)
-- **欧洲地点**: **London only** (EU hub since 2022, 主要 30 Crown Place 现役); Akuna 暂无其他 EU 城市
-- **是否有独立 Graduate Programme**: **Yes - Akunacademy** (10 周 Summer Intern Cohort + 全职 Junior Engineer/QD 转正 pipeline); GPA 3.5+ 硬门槛, 必须 by August 2027 毕业 [来源 (实际打开过): https://openquant.co/job/software-engineer-intern-python-summer-2026-akuna-capital/2815]
+- **岗位名称 (2027 cycle, 均非欧洲)**: Chicago — Software Engineer (Entry-Level) - C++ / - Python, Junior Quantitative Developer & Strategist, Junior Quantitative Researcher, Junior Quantitative Risk Analyst; Shanghai — Junior Developer - C++ (0-2 年经验), Junior Quantitative Researcher - Deep Learning (Time Series); Trader 路径仅有 "Expression of Interest: 2027 Trading Sneak Peek Weeks" (Chicago)
+- **资格窗口**: SWE entry-level "Graduating by August 2027", 技术类 BSc / MSc / PhD, Python 岗要求 major GPA 3.5+; Junior QD / QR 学位须入职前完成; Shanghai junior 须 2027-07 前毕业 [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs/8013230]
+- **欧洲地点**: London (Akuna Europe Limited) — 2026-10-10 无 grad 岗; London Platform Engineer posting 原文让 "current student or recent graduate" 去看 Entry Level / Intern 岗 (实际全在 Chicago) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs/8207158]
+- **项目结构**: 无独立欧洲 graduate programme; Akunacademy = Chicago 10 周 intern cohort → 转正 pipeline (旧版信息, 2026-05)
 - **非EU签证 (全职)**:
-  - **London**: UK Skilled Worker £41,700 (2026); Akuna UK Ltd 业内估有 sponsorship (尚未在公开 worksponsors 列表显式确认 — 但 2022 设立 London hub + 国际员工高比例 → 有 license 概率极高)
-  - **Chicago**: Akunacademy 明文要求 "Legal authorization to work in the U.S. is required on the first day of employment" → **US intern 不办 H-1B sponsorship** (需 OPT/CPT 或 PR/Citizen)
-- **薪资结构 (量化特有, 关键)**:
-  - **SWE Intern (Chicago Summer 2026)**: **$62.50/hr ≈ $10,833/月** (Levels.fyi 最新, 比 2024 $96/hr 大幅降) — 实际 listing "minimum annualized base salary of $130K" 暗示具体 stipend 仍是 $130K/52 ≈ $2,500/周 ≈ $10,000/月 + housing/relocation [来源 (实际打开过): https://www.levels.fyi/internships/Akuna-Capital/Software-Engineer-Intern/; https://openquant.co/job/software-engineer-intern-python-summer-2026-akuna-capital/2815]
-  - **SWE Intern (Chicago 2024 historical 峰值)**: $96.15/hr ≈ $16,666/月 + corporate housing + relocation
-  - **SWE Intern (London)**: 业内 estimate £6-9k/月 (无公开 Levels.fyi London intern 数据, 但 Akunacademy 是统一 cohort, 推断与 US 同档 ratio)
-  - **全职 Junior SWE US**: **$215K total = $147K base + $66K bonus + $1.4K stock/yr** [来源 (实际打开过): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer]
-  - **全职 Mid SWE US**: $273K total = $167K base + $106K bonus
-  - **全职 Senior SWE US**: $479K total = $196K base + $283K bonus (bonus 比例 senior 翻倍是 prop firm 共性)
-  - **全职 London SWE (推断)**: £80-110K base + £30-60K bonus = £110-170K total (业内估, Akuna London 比 Chicago 略低 15-20%)
-  - **股权**: $0-1.4K minor stock (基本无, 业内常理 — prop firm 私有)
-- **申请窗口**:
-  - **Akunacademy (Summer Internship)**: 7-9 月开放, 10-12 月高峰 rolling close (热门 cohort, GPA 3.5+ → early apply 关键)
-  - **Junior FT**: rolling, 实习转正 + 直招混合
-- **面试流程差异 vs 实习 (Akuna 是业内 OA 模板, 流程极标准化)**:
-  - **OA**: HackerRank 3 题 80 min (LeetCode med, "Minimum Swaps" / "Delivery Management" / "Binary Circuit" 是典型) + 选择题 (基础概率/math)
-  - **Tech Phone 1**: 30 min, resume + Python trivia + 简短 behavioral
-  - **Tech Phone 2**: 15 min behavioral
-  - **Final / Super Day Chicago**: 4-5 个 45 min back-to-back + 团队 lunch + (trader 路径) trading game
-  - **决定**: Super Day 后 1 周
-- **录取竞争**: Akunacademy GPA 3.5+ 硬门槛 + "top preference" 限制 (不能同时投其他 Quant/Tech roles), 即 Akuna 要求候选人 "all-in"; 全程比 Jump 友好但比 DRW 严
-- **关键链接**:
-  - 官网 careers (实际打开过, dynamically loaded): https://akunacapital.com/careers/
-  - Akunacademy SWE Python Intern (实际打开过, GPA 3.5+ / $130K base / Chicago): https://openquant.co/job/software-engineer-intern-python-summer-2026-akuna-capital/2815
-  - Akunacademy SWE C++ Intern (搜索结果): https://openquant.co/job/software-engineer-intern-c-summer-2026-akuna-capital/2814
-  - Levels.fyi US Junior $215K (实际打开过): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer
-  - Levels.fyi SWE Intern $62.50/hr (实际打开过): https://www.levels.fyi/internships/Akuna-Capital/Software-Engineer-Intern/
-  - 4 stage 流程明文 (实际打开过): https://www.quantt.co.uk/resources/akuna-capital-interview
-  - HackerRank 3 题 80 min 流程 (实际打开过): https://www.linkjob.ai/interview-questions/akuna-capital-hackerrank-test
-  - Wikipedia Akuna (搜索结果, 2011 founded / 493 人 / 5 office): https://en.wikipedia.org/wiki/Akuna_Capital
+  - **UK**: Akuna Europe Limited (London) 在 register 上为 A-rated Skilled Worker + Global Business Mobility: Senior or Specialist Worker sponsor (2026-10-09) [来源 (实际打开过): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers] (旧版: "未在公开列表显式确认", 2026-05); Skilled Worker 门槛 £41,700 — 但当前无 London entry-level 岗可投
+  - **US**: "Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM" → 不办 day-1 sponsorship; 从 NL 学生签 / zoekjaar 出发**不可行**
+  - **NL**: 无 NL 办公室, zoekjaar / Kennismigrant 不适用
+- **薪资 (gross/年, 基本无 equity)**:
+  - **Chicago entry-level (官方 posting, 2026-10)**: SWE (Entry-Level) C++ / Python、Junior QD & Strategist、Junior QR "minimum base salary starts at $145,000"; Junior Quantitative Risk Analyst $90,000 (posting 未公开 bonus 金额)
+  - **US Junior SWE (Levels.fyi, 旧版 2026-05 实际打开过)**: $215K TC = $147K base + $66K bonus [来源 (实际打开过): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer]
+  - **London**: Levels.fyi London SWE 页面 2026-10-10 显示数据未解锁 ("4 more submissions"), 无公开数据 [来源 (实际打开过): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer/locations/london-metro-area]; ⚠️ **待 web 验证**: 旧版推断 £80-110K base + £30-60K bonus 无来源 (业内估), 二次核实前勿用于薪资决策
+- **申请窗口**: Chicago 2027 entry-level + Summer 2027 intern 均于 2026-07-13 首发, rolling; 一个 season 只能投一个 Quant/Tech 岗 ("top preference"); 2027 posting 新增: 使用 AI 工具 → 取消资格
+- **面试流程**: HackerRank OA (可能 2 轮) → technical screen (约 45 min, 自我介绍 + HackerRank 题, 如 LRU) → final day 4 场 back-to-back (technical + system design + fit); 2025-07 Singapore SWE 面经, 结果 no offer [来源 (实际打开过): https://prachub.com/interview-experiences/akuna-capital-software-engineer-hackerrank-oa-coding-rounds-and-final-day-76085515ca]; 另见 2025-10 Singapore SWE 面经 [来源 (搜索结果): https://www.jointaro.com/interviews/companies/akuna-capital/work-experiences/software-engineer-singapore-october-14-2025-5-51a5002b/]
+- **录取竞争**: 高; GPA 3.5+ + 单岗位独占申请; 对欧洲非EU 应届生而言, 当前 cycle 基本无可投岗位
+- **关键链接**: Greenhouse API (实际打开过): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs · 官网 careers (旧版实际打开过, JS 渲染): https://akunacapital.com/careers/
 
 ---
 

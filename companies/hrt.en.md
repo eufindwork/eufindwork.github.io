@@ -2,7 +2,8 @@
 
 > **Language**: [中文](hrt.md) | English
 >
-> Last updated: 2026-05-28
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'London is the only European office' (HRT also has a Dublin office hiring ETSE).
 > Information richness: ⭐⭐⭐⭐ (Wikipedia + official student-opps + Levels.fyi + Companies House filings (£940k average pay) + Quantt role breakdown + Glassdoor; missing London-only SWE TC breakdown)
 > One-line positioning: Algorithmic trading firm founded in NYC in 2002, global headcount 800+ / London ~150-152 (Companies House three entities combined), not pure HFT — average holding time ~5 minutes + 25% overnight; **particularly strong in FPGA / hardware + algo dev**; London is the European core, active Skilled Worker sponsor
 
@@ -24,51 +25,23 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Quantt 4-track breakdown + Levels.fyi L1 $400K + Companies House £940k average pay + official student-opportunities status confirmed)
+> Checked: 2026-10-10 (live WebSearch + WebFetch; Greenhouse API wehrtyou direct read) | Information richness: ⭐⭐⭐⭐⭐ (basis: official postings with base figures + official student-opportunities + Levels.fyi London + UK register + eFC 2026-09)
+> **2027 intake status**: **Open (rolling)** — 2027 Grads roles posted 2026-07-13, still updated 2026-10-07, no deadline, review takes ~2 weeks; only ONE application allowed (considered for all offices / roles) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/8052122] [Source (verified opened): https://www.hudsonrivertrading.com/student-opportunities/]
+> **2026 H2 news**: 2026-Q2 trading revenue $11.4B, a single-quarter record (reported 2026-08-19; Q1 $6.4B; full-year 2025 $12.3B) [Source (verified opened): https://cryptobriefing.com/hudson-river-trading-11b-windfall/] [Source (verified opened): https://en.wikipedia.org/wiki/Hudson_River_Trading]; eFC 2026-09-15: new-grad first-year package ~$1m (insider sources, sign-on up to $400k) [Source (verified opened): https://www.efinancialcareers.com/news/pay-for-electronic-trading-graduates-is-soaring-1m-at-hrt-850k-at-jane-street]; headline 2026-09-23: HRT paid UK staff £820k per head in 2025 [Source (search result): https://www.fnlondon.com/articles/hudson-river-trading-hikes-uk-staff-pay-after-volatility-windfall-46763a86]
 
-- **Common role names (key distinction — HRT uses 4 tracks)**:
-  - **Algorithm Developer** (≈ other firms' "Quant Developer"): designs / builds / optimizes trading systems, directly interfaces with traders; **HRT's most famous entry point**; intern is called "Algorithm Development Intern"
-  - **Software Engineer**: general engineering, infrastructure / data pipeline / tooling; intern is called "Software Engineering Intern"
-  - **Quantitative Researcher**: math / ML driven, PhD heavy
-  - **Quantitative Trader**: monitors + tunes live strategy, non-SWE path
-  - **Hardware Engineer**: FPGA / ASIC digital logic design — **HRT's key niche distinguishing it from Jane Street**
-  - **Core Engineer**: foundation infra / monitoring
-  - **Systems and Networking**: low-latency network stack [Source (verified opened): https://www.hudsonrivertrading.com/student-opportunities/]
-- **European locations**: **London (the only European office)**; other global offices NYC (HQ) / Chicago / Austin / Boulder / Singapore / Shanghai / Mumbai / Dublin
-- **Whether there is a standalone Graduate Programme**:
-  - **Summer Internship** (10-12 weeks, late May - mid Aug): SE / Algo Dev / PhD Algo Dev all open London; 2027 grads apply; **Summer 2026 already closed** (official page confirmed), next batch Summer 2027 opens ~2026-08/09
-  - **Sophomore Internship**: **NYC only**, not in London (2028 grads, cross algo + SE rotation) — this is a brand confusion point
-  - **Winter Internship** (Jan, 2-4 weeks): **NYC only**
-  - **Women in Trading & Tech Internship**: **NYC only**
-  - Full-time New Grad goes through "Full-Time → New Grad" filter, apply directly [Source (verified opened): https://www.hudsonrivertrading.com/student-opportunities/]
-- **Non-EU visa (full-time)**: HRT London holds Skilled Worker license (Companies House three entities + FCA registered firm); algo dev / SWE FT base far exceeds UK 2026 threshold £41,700 + SOC 2136 going rate £55K; standard sponsor
-- **Salary structure (London, gross/year)**:
-  - **Intern (SE / Algo Dev)**: Global Levels.fyi reports **$145/hr ≈ $5,800/week** (NYC baseline); London estimated at 15-25% discount £4,200-£4,800/week, 11-12 weeks ~£50-60k stipend; **fully-paid housing + travel allowance + chef-prepared breakfast/lunch + dinner stipend** [Source (verified opened): https://www.levels.fyi/internships/Hudson-River-Trading/Software-Engineer-Intern/]
-  - **Full-time New Grad (London, 15-25% discount from NY)**:
-    - Algorithm Developer Junior: ~£200K-£280K TC (NY $200K-$350K USD × ~0.75-0.85)
-    - SWE / Core Engineer Junior: ~£150K-£230K TC (NY $180K-$300K)
-    - Quant Researcher Junior: ~£200K-£320K TC (NY $250K-$400K)
-    - Global Levels.fyi: L1 SWE $400K / L2 $516K / L3 $603K (NY baseline) [Source (verified opened): https://www.levels.fyi/companies/hudson-river-trading/salaries]
-  - **Bonus-driven**: at senior level, bonus accounts for 60-80% of TC; **no RSU** (HRT is private)
-  - **Companies House filings**: HRTSCV 102 headcount average pay £508.8K, Hudson River Trading Europe 26 headcount average pay £940k+ (pulled up by partners / senior traders); three entities combined £111.7M profit 2024 (YoY doubled)
-- **Application windows**:
-  - **Summer 2027 Intern**: opens ~2026-08/09 (official says "check back next year"); application deadline usually 2026-10 (rolling, apply early to secure spots)
-  - **Sophomore (NY only)**: currently open
-  - **Full-Time New Grad**: rolling, but fall recruiting (Sep-Dec) is the main battleground
-- **Interview process differences vs internship**:
-  - **Online Assessment** (engineer: coding LeetCode med-hard + algorithm; researcher/trader: probability + mental math)
-  - 1-2 phone/video tech (45 min each)
-  - **Final onsite/virtual: 4-6 rounds** (FT has 1-2 more rounds than intern, system design / FPGA hands-on / trading game)
-  - **Algo dev process is heavier than SWE**, includes trading simulation / probability questions
-- **Acceptance competition**: efinancialcareers reports HRT NY intern **0.1% hit rate** (i.e. 1 out of 1000 applicants); London data not public but should be similarly stringent; offer issued within 1-2 weeks [Source (search result): https://www.efinancialcareers.com/news/hudson-river-trading-intern-pay]
-- **Key links**:
-  - Official careers (verified opened): https://www.hudsonrivertrading.com/careers/
-  - Student Opportunities (verified opened, Summer 2026 closed + 2027 pending): https://www.hudsonrivertrading.com/student-opportunities/
-  - Levels.fyi company-wide (verified opened, L1 $400K / L2 $516K): https://www.levels.fyi/companies/hudson-river-trading/salaries
-  - Levels.fyi SWE intern (verified opened, $145/hr): https://www.levels.fyi/internships/Hudson-River-Trading/Software-Engineer-Intern/
-  - Quantt 2026 guide (verified opened, 4-track role breakdown + comp range): https://www.quantt.co.uk/resources/hudson-river-trading-guide
-  - Wikipedia (verified opened, 800 headcount + 15% US equity volume): https://en.wikipedia.org/wiki/Hudson_River_Trading
-  - eFinancialCareers London £940k (search result): https://www.efinancialcareers.co.uk/news/hudson-river-trading-pay-uk-high-frequency-trading
+- **Role names (Europe, 6 roles)**: Algorithm Developer (Quant Research & Trading) – 2027 Grads (London / NY / SG) | same – 2027 PhDs | Software Engineer (C++ or Python) – 2027 Grads (London + 4 other sites) | Electronic Trading Support Engineer - 2026/2027 Grads (Dublin) | Junior Electronic Trading Support Engineer (Dublin / London etc.) | Junior Trading Systems Engineer (London etc.; requires 2+ years Linux experience) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs]
+- **Eligibility**: Algo Dev / SWE Grads: full-time BSc or MSc student "eligible for full-time roles in 2027" (BSc / MSc share one role, PhD has separate roles); Dublin ETSE: recent grad or current student, start 2026/2027; AI tools banned in interviews / OA
+- **European locations**: London + Dublin (previous: "London is the only European office", 2026-05; Wikipedia: Dublin has been the post-Brexit EU hub since 2018)
+- **Programme structure**: no rotational grad scheme, direct team placement; Algo Dev does statistical modelling + live models
+- **Non-EU visa (full-time)**: UK register (2026-10-09 CSV): Hudson River Trading Europe Ltd. / HRT Research UK Ltd / HRTSVC Ltd all Skilled Worker A rating [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers]; threshold £41,700 [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; Dublin uses the IE Critical Skills Employment Permit (€40,904; €36,848 if degree within 12 months; no labour market test) [Source (verified opened): https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/]; no NL entity, so zoekjaar gives no direct advantage
+- **Pay (gross/year)**:
+  - Algo Dev / SWE 2027 Grads: official "Base salary for US is $300,000", other locations "similarly locally competitive" + sign-on + discretionary bonus; no public London base figure [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/8052050]
+  - Dublin ETSE Grads / Junior ETSE: base $100,000-150,000 USD (or local equivalent) + bonus [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/8159996] [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/7900186]
+  - SWE London (Levels.fyi, 2026-10, small sample, all levels): median TC £239K; L2 £358K / L3 £270K [Source (verified opened): https://www.levels.fyi/companies/hudson-river-trading/salaries/software-engineer/locations/london-metro-area]; previous NY L1 $400K (2026-05) kept; no RSU
+- **Application window**: 2027 cycle opened 2026-07-13, rolling with no deadline; previous cycle (Summer 2026 intern) closed
+- **Interview process**: coding test → 1-2 technical phone screens → onsite multi-round final (official); Algo Dev adds probability / statistics; FT has extra system design rounds vs intern (kept from previous version)
+- **Competition**: no London data; previous eFC NY intern 0.1% hit rate (search result) kept
+- **Intern (secondary)**: Summer 2027 Open (SWE / Algo Dev / Algo Dev PhD / Data Scientist, London); London weekly base £4,350 + sign-on + housing [Source (curl API read): https://boards-api.greenhouse.io/v1/boards/wehrtyou/jobs/7964062]
 
 ---
 

@@ -128,7 +128,7 @@
 
 ## 8. Specific Assessment for UvA Students (NL student visa) ⭐
 
-- **Core trade-off**: already in NL holding student visa → choosing Free Now means **giving up NL zoekjaar (€2,801 reduced HSM)**, switch to DE Blue Card / Skilled Worker
+- **Core trade-off**: already in NL holding student visa → choosing Free Now means **giving up NL zoekjaar (€3,122 reduced HSM)**, switch to DE Blue Card / Skilled Worker
 - **Intern feasibility**: ❌ **low-zero** — Working Student mode must DE enrollment, cross-Europe intern rare (sponsor not explicit)
 - **FT feasibility**:
   - **Hamburg / Berlin SWE → high** — sponsor explicit + DE Blue Card shortage €45,934 cover far exceeds (Free Now median €90K)

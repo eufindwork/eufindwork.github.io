@@ -126,7 +126,7 @@
 
 ## 8. Specific Assessment for UvA Students (NL student visa) ⭐
 
-- **Core trade-off**: already in NL holding student visa → choosing King means **giving up NL zoekjaar (€2,801 reduced HSM)**, switching to SE certified employer / DE Blue Card / UK Skilled Worker / ES EU Blue Card
+- **Core trade-off**: already in NL holding student visa → choosing King means **giving up NL zoekjaar (€3,122 reduced HSM)**, switching to SE certified employer / DE Blue Card / UK Skilled Worker / ES EU Blue Card
 - **Intern feasibility**:
   - **Medium** — Kingternship policy open, but visa sponsor not explicit; big company may case-by-case, actively inquire students@king.com
   - Recommended strategy: spring/autumn Stockholm/Malmö intern, Sweden certified employer fast track, more stable than summer Barcelona/Berlin/London

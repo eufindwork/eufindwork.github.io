@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](bendingspoons.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — §1 'Milan 唯一办公' (现 Milan / London / Madrid / Warsaw); §2 的 sponsor 国家名单 (已删除中国 / 香港 / 俄罗斯, 新增加拿大 / 以色列); §3/§8 的流程 PDF 链接已 404, 新版: https://jobs.bendingspoons.com/docs/Culture%20&%20Policies%E2%80%94The%20Bending%20Spoons%20Selection%20Process.pdf
 > 信息丰富度: ⭐⭐⭐⭐
 > 一句话定位: 米兰 AI consumer app 收购方 (Splice / Evernote / WeTransfer / StreamYard / Komoot / Meetup), 是欧洲少数会主动给非EU学生 sponsor 签证的本土技术公司, intern 3/6 个月、ramping 阶段大量招 SWE / Recruiter / Cloud Eng intern.
 
@@ -19,18 +20,25 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**: Software Engineer (entry-level), Cloud Engineer, Data Scientist, ML Engineer, Recruiter; 没有独立的 "Graduate Programme" 命名 — entry-level full-time 直接发 SWE offer
-- **欧洲地点**: Milan (强制 first year 多回办公室, 之后可 remote)
-- **是否有独立 Graduate Programme**: **无**, 走标准 SWE 招聘流程, intern → return offer 转 FT 是常规路径
-- **非EU签证 (全职)**: **Italy Nulla Osta + Permesso di Soggiorno** (Decreto Flussi 配额制) 或 **UK Skilled Worker** (FAQ 明确 "we can sponsor a visa or residency permit for Italy or the UK"); EU Blue Card Italy 起薪门槛 ~€26k (highly qualified worker)
-- **薪资范围**: 公司 FAQ 仅写 "all Spooners get paid competitively", 不公开 base 数字. 第三方 Glassdoor / Joberty 报告 entry SWE base €40k–€55k + 年度调整 (Q4 review)
-- **申请窗口**: Rolling
-- **面试流程差异 vs 实习**: 与 intern 相同 (take-home + 几轮 HR + 1 个 Hiring Team technical)
-- **录取竞争 / 国际生 friendliness**: ⭐⭐⭐⭐ 高 — FAQ 列出 28 个 sponsor-eligible 国家 (含 China / Singapore / 全 EU / UK / US / Turkey / Ukraine 等), case-by-case 给其他国家. 米兰生活成本中等
-- **关键链接**:
-  - [Careers (实际打开过): https://bendingspoons.com/careers]
-  - [FAQ (实际打开过): https://jobs.bendingspoons.com/faq]
-  - [Work With Visa profile: https://workwithvisa.com/companies/bending-spoons/]
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 JD 首次公开薪资区间 + FAQ sponsor 条款 + 2026 选拔流程文档 + IR 新闻; 新面经未补 — 本轮搜索额度耗尽)
+> **2027 Intake 状态**: **Rolling (Open)** — 无固定 cohort / 截止日; 2026-10-10 在招 Graduate software engineer / Graduate AI software engineer / Graduate data scientist / Graduate security engineer 等, 入职日期灵活, 可毕业前 part-time 起步 [来源 (实际打开过): https://jobs.bendingspoons.com/positions/668e71387a24106d65888827]
+> **2026 H2 动态**: 2026-07-01 Nasdaq IPO (BSP), $29.00/股, 募资 $1.68B [来源 (实际打开过): https://en.wikipedia.org/wiki/Bending_Spoons]; 2026-09-04 完成收购 Airtable; 2026-09-10 签约以 $1.355B 收购 Miro; 2026-09-21 开设 Warsaw office ("Polish applications reach 50,000 in 2026") [来源 (实际打开过): https://investors.bendingspoons.com/]; 被收购公司常见大裁员 (Vimeo 2025-12 裁大部分员工, AOL 2026-02 裁 100+ 人) — 影响被收购方, 非 BS 自身 grad 招聘 (同 Wikipedia 链接)
+
+- **岗位名称**: 2026 起有明确 "Graduate ..." 命名岗 (旧版: "没有独立的 Graduate Programme 命名", 2026-05): Graduate software engineer [来源 (实际打开过): https://jobs.bendingspoons.com/positions/668e71387a24106d65888827], Graduate AI software engineer [来源 (实际打开过): https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d], Graduate data scientist [来源 (实际打开过): https://jobs.bendingspoons.com/positions/69d8b3196288fd924641f5df], Graduate security engineer [来源 (jobs 页面数据直读, 未 WebFetch): https://jobs.bendingspoons.com/positions/69ca9a9ff0efcb3563c31df4]; 另有 Graduate product manager / growth / sales 等非技术 grad 岗; 页面数据: 49 个 active 岗位中 29 个标 "suitable for students and new graduates" (2026-10)
+- **资格窗口**: 无学位 / 毕业年限硬门槛; "You don't need to wait until graduation to apply" + 可先 part-time 再转 full-time; 需英语 proficiency; 薪资下沿明示适用于 "little or no relevant experience"
+- **欧洲地点**: Milan / London / Madrid / Warsaw, 或从 eligible 国家 fully remote; 入职头几个月需多数时间在 Milan office (公司承担差旅住宿) (旧版: "Milan 唯一办公地点", 2026-05)
+- **项目结构**: 无 rotation / cohort; permanent 或 fixed-term 合同; 直接分配到产品团队
+- **薪资范围 (官方 JD, 2026-10)**: London **£85,797 - £151,436**/年, 欧洲其他地点 **€66,065 - €107,837**/年; 下沿 = 少 / 无相关经验; 顶格可至 £316,052 / €240,330; permanent 合同可选部分薪酬换折价公司 equity [来源 (实际打开过): https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d]
+  - Levels.fyi Italy (2026-10): median **€73.1K** (43 条), L2 €83.8K (1 年经验样例), 区间 €52.1K-€73.1K+ [来源 (实际打开过): https://www.levels.fyi/companies/bending-spoons/salaries/software-engineer]
+  - (旧版: "Glassdoor / Joberty entry SWE base €40k–€55k", 2026-05 — 与官方区间下沿 €66,065 矛盾, 已替换)
+- **非EU签证 (全职)**: **Yes (条件: 现居国)** — FAQ: "we can sponsor a visa or residency permit for Italy, Poland, Spain, or the UK, provided you're currently a resident of" All EU countries, Albania, Bosnia And Herzegovina, Canada, Egypt, Georgia, Iceland, Israel, Moldova, Montenegro, North Macedonia, Norway, San Marino, Serbia, Singapore, Switzerland, Turkey, Ukraine, United Kingdom, United States [来源 (实际打开过): https://jobs.bendingspoons.com/faq]
+  - (旧版: 28 国名单含 China / Hong Kong / Russian Federation 等, 目的国仅 Italy / UK, 2026-05 — 2026-10 名单已无 China / Hong Kong / Russian Federation, 新增 Canada / Israel, 目的国扩至 Poland / Spain)
+  - **NL 学生签 / zoekjaar 转入**: 条款按 "现居国" 而非国籍 → NL 居民属 "All EU countries", 字面可获 sponsor (推断; 申请表会问 "Will you require visa sponsorship...", 建议向 recruiter 确认); relocation package 含交通 + 临时住宿 + 行政手续; 无 NL office, zoekjaar / reduced Kennismigrant 不适用
+  - UK 路线: London 下沿 £85,797 远高于 Skilled Worker £41,700 (2026)
+- **申请窗口**: Rolling; JD 写 "a job may remain open for months or be reposted several times"
+- **面试流程差异 vs 实习**: 与 intern 同一流程 — screening → tasks (problem-solving / behavioral / role-specific, 合计 1-6 小时, 可能 proctored) → 通常 2-3 轮 interview → 可能 reference check → hiring committee 决定; 仅终轮候选人获反馈; 被拒 ≥1 年后可重投 [来源 (实际打开过): https://jobs.bendingspoons.com/docs/Culture%20&%20Policies%E2%80%94The%20Bending%20Spoons%20Selection%20Process.pdf]
+- **录取竞争**: 2025 年收 800,000 份申请, 录用 286 人 (≈0.036%, 推算); 员工 1,743 (2025 年底) vs 712 (2024) [来源 (实际打开过): https://en.wikipedia.org/wiki/Bending_Spoons]
+- **关键链接**: [Graduate SWE JD (实际打开过): https://jobs.bendingspoons.com/positions/668e71387a24106d65888827] · [FAQ (实际打开过): https://jobs.bendingspoons.com/faq] · [IR 新闻 (实际打开过): https://investors.bendingspoons.com/]
 
 ---
 

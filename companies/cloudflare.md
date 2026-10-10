@@ -2,7 +2,8 @@
 
 > **Language**: 中文 | [English](cloudflare.en.md)
 >
-> 更新时间: 2026-06-01
+> 更新时间: 2026-10-10
+> ⚠️ **2026-10-10 勘误**: 本页 New Grad 段已刷新; 下文其他段落中以下旧说法已过时, 以 New Grad 段为准 — 开头及 §2/§6/§7/§8 的 'London 仅 GBM、无 Skilled Worker' 与 '无 NL office' (2026-10-09 UK 登记表显示 Cloudflare Limited 持 Skilled Worker 许可, Cloudflare Netherlands B.V. 在 IND 名单); Lisbon 实习 stipend 官方为 €2,450/月, 非 €2,800-3,500.
 > 一句话定位: CDN / edge / zero-trust 巨头, 2026 宣布 "1,111 interns" 史诗级 intern 计划 (春/夏/秋 + 12 周 paid), London + Lisbon 是欧洲两大 hub. **关键陷阱**: UK Cloudflare Limited **只持 GBM Senior/Specialist Worker 牌** (£48,500 + 12 月海外工作经验), **非 Skilled Worker** — grad / intern 不能直接走. **Lisbon 走 Portugal Tech Visa (IAPMEI 认证)** 反而最简单, 是 NL student visa 用户的最优路径.
 
 ---
@@ -45,26 +46,20 @@
 
 ## NG (New Grad / Junior 全职) 路径
 
-- **岗位命名**: 
-  - "Software Engineer L1" / "Systems Engineer L1" — 全 hub
-  - "Engineer, New Grad" — periodic posting
-  - Lisbon: "Software Engineer L1, Lisbon"
-- **是否有独立 cohort program**: 无明确 grad scheme; new hire 走标准 onboarding bootcamp (2 weeks)
-- **起薪 (base + bonus + RSU)**: 
-  - **London L1 SWE base**: £62-75K [来源 (实际打开过): https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/london-metro-area]
-  - **London L2 median TC**: £88,122 (P50)
-  - **London L3 median TC**: £107,914
-  - **London full range**: £62K-£230K (L1 → L6)
-  - **Lisbon L1**: €45-55K base, TC ~€55-70K (含 RSU)
-  - **Lisbon senior (L5)**: clear €100K TC [eurotoptech 2026 数据]
-- **Sponsor 政策 (FT)**:
-  - **UK (London)**: 
-    - Cloudflare Limited 持 **GBM Senior/Specialist Worker** A-rated 牌, **不是** Skilled Worker [来源 (实际打开过): https://sponsorlist.co.uk/visa-sponsorship/cloudflare-limited/]
-    - GBM 要求: salary ≥ **£48,500** (or going rate, 取高), **12 月以上海外 Cloudflare 工作经验** (除非工资 >£73,900)
-    - **结果**: 新 grad **几乎不能直接** 拿 UK Cloudflare offer + visa — 必须先在 Cloudflare US / 其他 office 工作 12 月, 然后内部 transfer 到 London
-  - **Lisbon**: Portugal Tech Visa, IAPMEI 认证, 1-3 月处理; 还可享 IFICI 20% 平税 10 年 [eurotoptech 实际打开过]
-- **申请窗口**: 滚动, 10-2 月密集
-- **流程差异 vs intern**: 多一轮 system design + cross-team 与 staff/principal eng, total 5 轮
+> 核查日期: 2026-10-10 (实时 WebSearch + WebFetch + Greenhouse API) | 信息丰富度: ⭐⭐⭐⭐ (依据: Greenhouse 全量 424 岗检索 + 官方 blog + UK / IND 担保名册 + Levels.fyi 直读; 缺: 2025-26 欧洲 new-grad 面经)
+> **2027 Intake 状态**: **No programme (无独立 new grad 项目)** — 2026-10-10 Greenhouse 无任何 new grad / junior 岗; 早期人才入口仅 **Software Engineer Intern (2027)** (London + Lisbon, 2026-10-05 上线, rolling 至招满) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs/8245197]; 官方 blog (2026-10-05): 2026 年 >750 名 early-career 实习生分布在 48 个团队 (目标 1,111), "many of this year's interns are coming back to Cloudflare full-time", 未提独立 new grad 项目 [来源 (实际打开过): https://blog.cloudflare.com/one-year-later-1111-interns/]
+> **2026 动态**: 2026-05-08 宣布裁员 ~1,100 人 (~20%), 波及所有团队与地区, 有 quota 的 sales 岗豁免; CEO 称会继续招聘, 预计 2027 员工数超过 2026 任何时点 [来源 (实际打开过): https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/]
+
+- **岗位命名**: 无 "New Grad" 标题岗; 欧洲工程岗多要求 3+ 年 (e.g. Security Rules / Network Automation / MCP Portals); 无年限要求的泛化岗 "Software Engineer" (Lisbon / London) [来源 (命令行抓取): https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true]; 主要转正路径 = intern return offer (blog 同上)
+- **资格窗口**: intern 需 "Currently pursuing a degree", 且实习期间不能上课 (全职 40h/周, 3-5 天到岗) — 应届毕业后不能再走 intern; 全职 L1 无公开资格窗口
+- **欧洲地点**: Greenhouse 2026-10: London 78 岗 / Lisbon 43 / Amsterdam 7 (含 2 个 senior 工程岗) / Munich 7 / Paris 5 (同上 API)
+- **项目结构**: intern 12-14 周, 2027 两期: Winter/Spring (January - May 2027) / Summer (May - September 2027) (Lisbon 岗同上); new grad 无 cohort 项目
+- **非EU签证 (全职)**: **更正**: UK 名册 (2026-10-09 版) 显示 Cloudflare Limited 同时持 **Skilled Worker** 与 GBM Senior or Specialist Worker (A rating) [来源 (实际打开过): https://sponsorlist.co.uk/visa-sponsorship/cloudflare-limited/ , https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers] (旧版: "只持 GBM, 不持 Skilled Worker", 2026-06); Skilled Worker 门槛 £41,700, new entrant £33,400 (<26 岁等) [来源 (实际打开过): https://www.gov.uk/skilled-worker-visa/your-job , https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less]; 有牌照 ≠ 一定为 new grad 担保, 岗位页无 visa 声明; **NL**: Cloudflare Netherlands B.V. (KvK 82497060) 在 IND recognised sponsor 名册 [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants], 但 Amsterdam 目前仅 senior / sales 岗; **Lisbon**: "Cloudflare Lisbon" 列为 IAPMEI 认证 Tech Visa 雇主, 处理 1–3 个月, IFICI 20% 平税 10 年 (文章 2026-04-30) [来源 (实际打开过): https://www.eurotoptech.com/blog/visa-sponsorship-portugal-software-engineers-2026]
+- **起薪 (TC, gross/年)**: Greater London L1 **£57.9K = £50.8K base + £7.1K stock + £0 bonus**, L2 £84.7K (£72.8K base), L3 £120K, median £128K (2026-10) [来源 (实际打开过): https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/london-metro-area] (旧版: L1 base £62-75K, L2 £88,122, L3 £107,914); Portugal L1 **€44.2K = €39.8K base + €4.4K stock**, L2 €57.3K, L3 €74.9K, median €65K (2026-10) [来源 (实际打开过): https://www.levels.fyi/companies/cloudflare/salaries/software-engineer/locations/portugal] (旧版: Lisbon L1 base €45-55K); RSU 4 年 (首年 25%, 之后按季度) (Levels.fyi 同上)
+- **申请窗口**: new grad 无固定窗口; 2027 intern 2026-10-05 起 rolling (London 岗) [来源 (实际打开过): https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs/8245211]; 上一 cycle intern 自 2025-10-15 起滚动开放 (旧版记录)
+- **流程差异 vs intern**: 旧版: 全职多 1 轮 system design + cross-team, 共约 5 轮 (见 §3); 2025-26 新面经: 无公开数据 (本次未找到)
+- **录取竞争**: 2026 年裁员后仍招 intern (>750); 全职入门 headcount 数: 无公开数据
+- **关键链接**: Lisbon / London intern 岗、1111 一周年 blog、Levels.fyi London / Portugal (均实际打开过, 见上); 官方岗位页: https://www.cloudflare.com/careers/jobs/ (旧版链接, 本次未重新打开)
 
 ---
 

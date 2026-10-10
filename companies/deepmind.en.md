@@ -2,7 +2,7 @@
 
 > **Language**: [中文](deepmind.md) | English
 >
-> Updated: 2026-09-26
+> Updated: 2026-10-10
 > Information richness: ⭐⭐⭐⭐ (process/salary data sufficient, intern conversion specifics not public)
 > One-liner: World's top AI Lab, "Google DeepMind" after Google Research merger, internship is the most scarce entry ticket into LLM/AlphaFold/Gemini circles
 
@@ -40,47 +40,22 @@
 
 ## New Grad / Junior Roles
 
-> 2026-06 retry WebSearch confirmed: Glassdoor DeepMind Research Engineer London average £64,806 base / total £96K-£219K range (22 samples 2025-11) [Source (verified opened): https://www.glassdoor.co.uk/Salary/DeepMind-Research-Engineer-Salaries-E1596815_D_KO9,26.htm]; Levels.fyi Google AI overall L4 $280K-$360K / L5 $475K-$625K, London discount -30~40% in USD terms. Research Intern Levels.fyi $72.12/hr (London PhD £5,000-7,500/month estimate reasonable).
+> Checked: 2026-10-10 (live WebFetch + raw HTML fetch of Google Careers) | Information richness: ⭐⭐⭐ (basis: official careers page + live postings checked one by one; still no direct-read entry-level pay data)
+> **2027 Intake status**: **No programme (Rolling)** — the official careers page lists only the Student Researcher Program as an early-career programme, and all open roles link to Google Careers (company=DeepMind) [Source (verified opened): https://deepmind.google/careers/]; on 2026-10-10 DeepMind has 94 open roles worldwide, London 24 / Zurich 3 / Paris 1, London filtered to Early level returns 0, and a "Residency" search returns 0 [Source (verified opened, raw HTML fetch): https://www.google.com/about/careers/applications/jobs/results/?company=DeepMind&location=London%2C%20UK]
+> **2026 news**: hiring has fully moved to Google Careers; the old Greenhouse board https://job-boards.greenhouse.io/deepmind returns 404 (2026-10-10); the DeepMind blog for 2026-06 to 2026-10 has only model / research releases, no hiring / office / reorganisation announcements [Source (verified opened): https://deepmind.google/discover/blog/]; the layoff tracker (updated 2026-10-09) has no DeepMind entry [Source (verified opened): https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-all-the-job-losses-across-xbox-apple-oracle-uber-tiktok-meta-and-others-144545528.html]
 
-> Information richness: ⭐⭐⭐ (RE/RS NG process clear, but entry-level salary public data scarce, DeepMind not built in standard Levels.fyi schema independently, mostly Glassdoor synthesis estimate)
-> Differences vs internship: Full-time **Research Engineer (RE) / Research Scientist (RS) — new IC1/IC2 level** (DeepMind internal uses Google ladder, RS usually L5 starting for fresh PhD, RE can be L4); permanent contract + Google GSU 4-year vest
-
-- **Common role names**: **Research Engineer (RE, full-time)** / **Research Scientist (RS, full-time, PhD-only)** / **Software Engineer (DeepMind, infra/eval/safety teams)** / **AI Resident (12-month cohort, fellowship nature)**
-- **European locations**: **London (King's Cross, main HQ, 99% NG HC)** / Paris (Gemini multilingual + Robotics small team, very few NG) — Zurich is Google Research not DeepMind brand
-- **Independent Graduate Programme**: **Partially yes**
-  - **AI Residency / DeepMind Fellowship** (historical name changes): **12-month** cohort program, EU version similar to Google AI Residency, targeting **fresh PhD / strong Master with publications**; production target "produce 1 top-venue paper", completion fast-tracks RS / RE full-time internal transfer; London main, extremely few slots (<20 per year EU total)
-  - **RS / RE direct NG offer**: Most cases, fresh PhD directly interview RS full-time, no cohort, IC on join
-  - **Student Researcher → NG conversion**: After Student Researcher completes 6-12 months at DeepMind, strong perf can directly convert to NG offer (host endorsement is key)
-- **Non-EU visa (full-time)**:
-  - UK: **Skilled Worker visa** — DeepMind (under Google UK Limited) is top UK Skilled Worker sponsor; RS / RE base £80K-£140K far above £38,700 threshold; **Global Talent visa** is also PhD candidate channel (uses Royal Society / Royal Academy of Engineering endorsement, not dependent on employer, more flexible — DeepMind has employees who can endorse you)
-  - FR: **Passeport Talent — Chercheur** (researcher channel, used by DeepMind Paris)
-  - Difference vs intern: Intern level uses GAE / Tier 5, NG uses 5-year Skilled Worker or Global Talent (Global Talent not locked to employer, free to switch jobs)
-- **Salary range (base, gross/year, RS / RE entry-level fresh PhD)**:
-  | Role | Base | Total Comp (incl. GSU + bonus) | Sign-on | Source |
-  |------|------|----------------------------|---------|------|
-  | Research Engineer (RE) NG London | £100K-£140K | £150K-£250K | £30K-£60K | Glassdoor + Blind + Sundeep Teki guide |
-  | Research Scientist (RS) NG London (fresh PhD) | £130K-£180K | £200K-£350K (incl. big GSU) | £50K-£100K (post AI talent war) | Glassdoor RS L5 estimate, [1 Glassdoor sample £312K total range](https://www.glassdoor.com/Salary/Google-DeepMind-Research-Scientist-Intern-London-Salaries-EJI_IE1596815.0,15_KO16,41_IL.42,48_IM1035.htm), [Yahoo AI Talent Wars](https://finance.yahoo.com/news/ai-talent-wars-come-interns-103101646.html) |
-  | Senior RS (PhD + strong papers 5+ yr, reference) | £200K-£350K base | £500K-£1.5M+ | £200K+ | Blind / 1point3acres public data |
-  | AI Residency (12 mo) | £90K-£120K base (1-year contract nature) | £100K-£140K total | low | DeepMind Careers + Glassdoor estimate |
-  - **2024-2025 AI Talent War impact**: DeepMind to respond to OpenAI / Anthropic talent grabbing, **fresh PhD RS sign-on raised from £30K to £100K+** (rumored specific star PhD £500K total Y1)
-  - **vs Google L3 London**: DeepMind RS NG far above Google L3 (£200K+ vs £151K total), because RS starting level = Google L5 equivalent; RE roughly aligned with Google L4/L5 SWE
-- **Application window**: **Rolling, year-round open**, but PhD graduation season (Mar-Jun) is RS NG application peak. AI Residency / Fellowship **annual cohort**, usually Sep-Nov open deadline Dec. **Internship → NG conversion** extremely common (RE conversion rate > 50%, RS conversion rate lower due to publication requirements)
-- **Interview process differences vs internship**:
-  - Rounds: Intern 5-6 stages → NG **6-8 stages** (add 1-2 RS / RE pair second-opinion interview + 1 hiring committee chat)
-  - Research Interview: NG deeper than intern — requires candidate to discuss **3-5 research directions to do in next 1-2 years**, not just PhD work deep dive (intern only asks PhD)
-  - System / Infra: RE NG **must have 1 distributed training / scaling system design** (e.g., "design 1T-parameter training pipeline"), intern this part lite
-  - Coding: RE NG still LeetCode Medium + PyTorch tensor questions, but adds 1 production code review
-  - Culture: DeepMind emphasizes **alignment / safety** value, NG expected to have informed opinion on AI safety (intern light touch)
-  - Hiring committee: Google-style committee decision, slower than intern process (NG usually 8-12 weeks to offer)
-- **Hiring competition**: **Extremely competitive**, **RE NG acceptance < 1%** (Sundeep Teki data, same as intern); **RS NG almost hard requires top-venue (NeurIPS/ICML/ICLR) first author + h-index 10+**. Host match still the effective threshold — without a PI willing to host, even passing tech gets rejected. **International student friendliness**: ⭐⭐⭐⭐ (UK Skilled Worker + Global Talent dual channels, sponsor standardized; overseas PhD entering via visa is standard)
-- **Key links**:
-  - Official DeepMind Careers: [https://deepmind.google/careers/](https://deepmind.google/careers/)
-  - Official Student Researcher (NG pipeline): [https://deepmind.google/student-researcher-program/](https://deepmind.google/student-researcher-program/)
-  - Glassdoor DeepMind RS London salary: [https://www.glassdoor.com/Salary/Google-DeepMind-Research-Scientist-Intern-London-Salaries-EJI_IE1596815.0,15_KO16,41_IL.42,48_IM1035.htm](https://www.glassdoor.com/Salary/Google-DeepMind-Research-Scientist-Intern-London-Salaries-EJI_IE1596815.0,15_KO16,41_IL.42,48_IM1035.htm)
-  - Sundeep Teki AI RE Interview Guide 2026 (NG-level prep): [https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs](https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs)
-  - Yahoo Finance AI Talent Wars: [https://finance.yahoo.com/news/ai-talent-wars-come-interns-103101646.html](https://finance.yahoo.com/news/ai-talent-wars-come-interns-103101646.html)
-  - Quora RS salary London: [https://www.quora.com/What-is-the-salary-of-a-research-scientist-in-Google-DeepMind-in-London](https://www.quora.com/What-is-the-salary-of-a-research-scientist-in-Google-DeepMind-in-London)
-  - Andrey Zharkov 2025 ML RE UK synthesis interviews: [https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk](https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk)
+- **Role names**: Research Engineer (RE) / Research Scientist (RS, essentially PhD) / Software Engineer (DeepMind). The London RE roles closest to entry level: Research Engineer, Biosecurity (Bachelor's + 2 years ML experience) [Source (verified opened, raw HTML fetch): https://www.google.com/about/careers/applications/jobs/results/99615121633878726]; Research Engineer, Gemini Omni (London / Zurich, Master's + industry project experience + diffusion training experience) [Source (verified opened, raw HTML fetch): https://www.google.com/about/careers/applications/jobs/results/75480114480980678]; the other RE roles ask for 3-5 years (Energy Grids / Frontier Safety Mitigations)
+- **AI Residency**: **not found in 2026-10** — absent from both the official careers page and Google Careers (previous: "AI Residency / DeepMind Fellowship 12-month cohort, £90K-£120K base", sourced from estimates; treated as not valid)
+- **Eligibility**: no new-grad-specific reqs; RE roles generally ask for BSc / MSc + 2+ years of experience, so MSc new grads can only target RE roles without a stated year requirement (e.g. Gemini Omni); RS is in practice PhD-first
+- **European locations**: **London (King's Cross, main hub)** / Zurich (a few Gemini roles) / Paris (only 1 Staff role on 2026-10-10); no DeepMind office in NL
+- **Programme structure (Student Researcher, closest entry to NG)**: 12-24 weeks, 5 days a week (previous: minimum 4 days/week), in person at a Google office, enrolled BSc / MSc / PhD students, the official page refers to the "2026-2027 cycle" [Source (verified opened): https://deepmind.google/student-researcher-program/]; the EMEA posting "Student Researcher, 2027" closes 2026-12-13, locations include London / Zurich / Paris / Amsterdam and more, matching across DeepMind / Google Research / Cloud, student status must be maintained and valid work authorization is required [Source (verified opened, raw HTML fetch): https://www.google.com/about/careers/applications/jobs/results/86733690079453894-student-researcher-2027] — for non-EU students enrolled in NL, Amsterdam is the only NL location (inferred: feasible while still enrolled, not after graduation)
+- **Non-EU visa (full-time)**: the official UK register (2026-10-09) has no "DeepMind" entity, only Google (UK) Limited — Worker A (Premium), Skilled Worker → inferred that London roles are sponsored by Google (UK) Limited [Source (verified opened, raw file fetch): https://assets.publishing.service.gov.uk/media/6ac8b5bfab368efeb4c93428/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv]; Skilled Worker threshold £41,700 or the going rate, whichever is higher [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job]; Global Talent covers academia / research and digital technology, and the official page does not mention needing a job offer [Source (verified opened): https://www.gov.uk/global-talent]; FR Passeport Talent (previous version, not re-checked)
+- **Pay**: Levels.fyi has no DeepMind company page (both slugs 404 on 2026-10-10) and Glassdoor returns 403 → no new direct read this time. Previous data from 2026-06: Glassdoor DeepMind Research Engineer London average base £64,806, total £96K-£219K (22 samples, 2025-11) [Source (verified opened): https://www.glassdoor.co.uk/Salary/DeepMind-Research-Engineer-Salaries-E1596815_D_KO9,26.htm]. Reference: DeepMind uses the Google ladder; Google L3 London avg TC £122,942 (Levels.fyi 2026-10, see google page; the mapping is inferred)
+  - ⚠️ Pending web verification: previous-version estimates (RE NG base £100K-£140K / TC £150K-£250K; RS fresh PhD base £130K-£180K / TC £200K-£350K; sign-on £30K-£100K) are a blend of Glassdoor + Blind + blogs with no single verifiable source; do not use for pay decisions until re-checked
+- **Application window**: Rolling (individual reqs, no cohort); Student Researcher 2027 closes 2026-12-13; RS applications peak in PhD graduation season (previous version)
+- **Interview differences vs internship**: the previous description (6-8 stages, research talk, a mandatory distributed training / scaling design round for RE, hiring committee with offers after 8-12 weeks) was not re-checked this time
+- **Competition**: very high; on 2026-10-10 London has no Early-level DeepMind roles and RE roles mostly ask for 2-5 years of experience, so new grads mainly get in via Student Researcher / internship conversion (inferred)
+- **Key links**: official careers: https://deepmind.google/careers/ · Student Researcher: https://deepmind.google/student-researcher-program/ · Sundeep Teki AI RE interview guide (previous version): https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs · 2025 ML RE UK interview write-up (previous version): https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk
 
 ---
 

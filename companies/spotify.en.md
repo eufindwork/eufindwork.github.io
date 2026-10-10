@@ -2,6 +2,8 @@
 
 > **Language**: [中文](spotify.md) | English
 >
+> Updated: 2026-10-10
+>
 > Scope: Backend Engineering Intern, Machine Learning Engineering Intern, Mobile (iOS / Android) Engineering Intern. Focuses on Stockholm (Sweden) and London (UK) offices, with comparison to NYC.
 
 ---
@@ -36,42 +38,23 @@
 
 ## New Grad / Junior Roles
 
-> Information richness: ⭐⭐⭐⭐ (Stockholm / London Levels.fyi + Glassdoor data thick, Tech Fellowship is Spotify's only publicly named entry-level program; post-2025 hc tightening obvious, new grad direct hire mainly via Engineer I rolling)
-> Distinct from internship: full-time entry-level (0-2 years experience), Spotify internal leveling usually falls at **Engineer I** or **Engineer II**; Spotify has no traditional "structured rotational grad program", only named entry-level program is **Tech Fellowship** (18 weeks, NYC / London / Stockholm), but positioned as bootcamp / self-taught / community college grads, not university new grads
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information richness: ⭐⭐⭐⭐ (basis: Lever job board + official lifeatspotify pages + Levels.fyi Stockholm / UK + Migrationsverket / GOV.UK)
+> **2027 intake status**: **No programme (no dedicated grad scheme for university graduates)** — new grads apply to rolling roles; the official students page says "Information regarding our 2027 internship opportunities coming soon" and lists an **Emerging Talent Program** = an 8-month extension for "Graduating summer 2027 Spotify interns in Product & Technology" [Source (verified opened): https://www.lifeatspotify.com/students]
+> **2026 H2 news**: no layoff / hiring-freeze news found (Google News check, 2026-10-10); H1 only: 2026-03 podcast division change affecting ~15 people [Source (search result): https://www.interviewpal.com/layoffs/spotify]
 
-- **Common role names**: Backend Engineer I / II, Mobile (iOS / Android) Engineer I, ML Engineer I, Data Engineer I, Associate Engineer; hiring page directly lists "Engineer" + level, no "New Grad" independent req — new grads and 1-2 years experience apply same posting
-- **European locations**: **Stockholm (HQ, ~2,500 engineers, Spotify's largest R&D center)** [Source (verified opened): https://kitalent.com/articles/article-stockholm-ai-cloud-talent-scale-gap/], **London (Ads / Marketplace / Podcast / Audiobook), Gothenburg (small)**; Engineer I mainly in Stockholm; Fellowship 3 cities synced (NYC / London / Stockholm) [Source (verified opened): https://fellowship.spotify.com/]
-- **Independent Graduate Programme**:
-  - **Spotify Tech Fellowship Program** (named entry-level program): 18 weeks (3 weeks onboarding + 8 weeks squad project + 6 weeks team embed), reaches Associate Engineer standard at end default converts to full-time + 1 week paid leave; positioned for self-taught / bootcamp / community college grads (not traditional university new grad); 100+ Spotifiers serve as mentors, **2026 applications currently CLOSED, wait for next opening** [Source (verified opened): https://fellowship.spotify.com/]
-  - University new grads no independent grad scheme, go via Engineer I rolling req + Onboarding Bootcamp
-- **Non-EU visa (full-time)**:
-  - **Sweden Work Permit**: Spotify is Migrationsverket "highly qualified" certified employer, processing cycle **2-4 weeks** (general application 1-3 months); tech roles salary threshold ~SEK 35,000/month (≥ 80% industry median), Engineer I actual starting salary far exceeds [Source (verified opened): https://www.eurotoptech.com/blog/visa-sponsorship-sweden-software-engineers-2026]
-  - **UK Skilled Worker**: Spotify London is licensed sponsor; from 2025 Skilled Worker going rate raised to £38,700, some new entries can go via new entrant lower threshold
-  - Clear contrast with internship policy: intern not sponsored, full-time sponsor is standard operation
-- **Salary range (Levels.fyi 2026-05 data)**:
-  - **Stockholm Engineer I**: median TC SEK 623,514/year [Source (search result): https://www.levels.fyi/companies/spotify/salaries/software-engineer/levels/engineer-i/locations/greater-stockholm]; Greater Stockholm Engineer I overall TC range SEK 508K - SEK 847K+ [Source (search result): same as above]
-  - **Stockholm overall SWE (Engineer I-Staff)**: TC SEK 611K - SEK 1.68M+, median SEK 1.16M [Source (verified opened): https://www.levels.fyi/companies/spotify/salaries/software-engineer/locations/greater-stockholm via summary]
-  - **Stockholm Engineer II**: TC SEK 729K - SEK 1.02M+ [Source (search result): https://www.levels.fyi/companies/spotify/salaries/software-engineer/levels/engineer-ii/locations/sweden]
-  - **Compensation structure**: Pick & Mix incentive — can choose RSU / ATM ESO / OTM ESO / cash [Source (verified opened): https://www.eurotoptech.com/blog/software-engineer-salary-sweden-2026 via summary]
-  - **London / NYC**: North America premium still obvious, NYC Engineer III base ~$170-185k (historical Levels.fyi data, 2026 not separately verified)
-- **Application window**: **rolling year-round**, no batch; 2026-05 LinkedIn / startup.jobs shows Spotify 200+ open positions, but Stockholm Engineering mainly Senior Backend / Senior Client level (Engineer I public reqs fewer, mostly via internal / Fellowship / Intern → FT channels) [Source (verified opened): https://startup.jobs/company/spotify]
-- **Interview process differences vs intern**:
-  - Intern 4 final rounds, full-time **4-5 final rounds + 1 hiring manager round** (5-6 rounds total)
-  - **System Design difficulty significantly increases**: intern only tests high-level, full-time Engineer I/II requires detail on storage choice / sharding / consistency / replication
-  - Mobile full-time IDE round stricter than intern — requires on-the-spot design of scalable modular code + performance optimization
-  - Values behavioral interview weight same (Spotify 5 values scored in all rounds), full-time ownership / leadership story depth requirement higher
-  - ML role adds 1 ML system design round (online serving / feature store / A/B)
-- **Hiring competition**: Stockholm acceptance rate lower than NYC (HC tight + internal transfer prioritized); international student friendliness medium-high — Spotify is Sweden certified sponsor fast-track, but post-layoff prefers already-EU candidates to reduce relocation cycle; ML / Personalization / Audio Infra still actively hiring
-- **Key links**:
-  - Official careers: https://www.lifeatspotify.com/jobs
-  - Spotify Engineering Jobs: https://engineering.atspotify.com/jobs
-  - **Spotify Tech Fellowship (named entry-level program)**: https://fellowship.spotify.com/
-  - Levels.fyi Spotify Engineer I Stockholm: https://www.levels.fyi/companies/spotify/salaries/software-engineer/levels/engineer-i/locations/greater-stockholm
-  - Levels.fyi Spotify Engineer II Sweden: https://www.levels.fyi/companies/spotify/salaries/software-engineer/levels/engineer-ii/locations/sweden
-  - Euro Top Tech: Sweden SWE Salary 2026: https://www.eurotoptech.com/blog/software-engineer-salary-sweden-2026
-  - Euro Top Tech: Sweden Visa Sponsorship 2026: https://www.eurotoptech.com/blog/visa-sponsorship-sweden-software-engineers-2026
-  - startup.jobs Spotify (active check): https://startup.jobs/company/spotify
-  - rampatra Backend Engineer II Stockholm interview: https://blog.rampatra.com/spotify-interview-backend-engineer-ii
+- **Role names**: Associate Engineer / Engineer I / Engineer II (Levels.fyi levels); no "New Grad" req on the job board. On 2026-10-10 Lever lists 85 roles worldwide (primary location London 28 / Stockholm 12); the Stockholm filter shows 31, **none titled Graduate / Associate / Junior / Intern / Engineer I** [Source (verified opened): https://jobs.lever.co/spotify?location=Stockholm]; closest to entry level: Backend Engineer - Data Platform / Platform Security (ask for "solid experience", read via Lever API)
+- **Eligibility**: rolling roles state no degree / graduation-year rule and assess experience; Emerging Talent is only for P&T interns graduating in 2027; the Summer internship requires graduating or penultimate year
+- **European locations**: mainly Stockholm (HQ) / London (most roles are Stockholm-or-London, hybrid); Lever also has non-engineering roles in Paris / Brussels
+- **Programme structure**: **Tech Fellowship**: 18 weeks (3 onboarding + 8 project + 6 embed), paid, historically "80% participants hired full time", aimed at self-taught / bootcamp / community college candidates; the site only lists the 2023 NYC / 2022 Europe cohorts, "Applications are closed", no relocation / visa, existing London / Stockholm / NYC work authorization required [Source (verified opened): https://fellowship.spotify.com/] (previous: "2026 applications currently CLOSED", 2026-05 — in fact not reopened since 2022/2023)
+- **Non-EU visa (full-time)**: **Conditional** (full-time roles can be sponsored; Fellowship / internships are not)
+  - Sweden: from 2026-06-01 the work-permit salary floor = 90% of median = **SEK 34,470/month** (first-time applicants); software developers (SSYK 2512) are not on the 75% exemption list [Source (verified opened): https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html] (previous: ~SEK 35,000/month, 2026-05); EU Blue Card = 1.25 × average salary = **SEK 53,625/month** (since 2026-07-15) [Source (verified opened): https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/eu-blue-cards.html]; Engineer I base SEK 526,723/year ≈ SEK 43,894/month → clears the work-permit floor, not the Blue Card
+  - UK: Spotify Limited = A-rated Skilled Worker sponsor (checked in the 2026-10-09 register CSV); threshold £41,700 or the going rate, whichever is higher, as low as £33,400 in some cases [Source (verified opened): https://www.gov.uk/skilled-worker-visa/your-job] (previous: £38,700, 2026-05)
+  - NL zoekjaar does not apply (engineering roles are not in NL; Spotify Netherlands B.V. is on the IND register, 2026-10-05 version); the Migrationsverket certified-employer 2-4 week fast track is previous data (2026-05), not re-checked
+- **Pay range (gross/year)**: Stockholm Engineer I (Levels.fyi, 2026-10): average TC SEK 627,159 = base SEK 526,723 + stock SEK 86,869 + bonus SEK 13,567, range SEK 511K–852K+ [Source (verified opened): https://www.levels.fyi/companies/spotify/salaries/software-engineer/levels/engineer-i/locations/greater-stockholm] (previous: median SEK 623,514, 2026-05); UK (updated 2026-10-10, 1,050 data points): Associate Engineer TC £56.8K (base £49.7K + stock £7K), **Engineer I TC £73.5K (base £63.3K + stock £10.3K)**, Engineer II £107K (base £85K), median £113K [Source (verified opened): https://www.levels.fyi/companies/spotify/salaries/software-engineer/locations/united-kingdom]; equity via Pick & Mix (RSU / stock options / cash)
+- **Application window**: rolling; on 2026-10-10 neither Stockholm nor London lists an entry-level role; inferred: the main new-grad route = Summer 2027 internship → Emerging Talent Program → FT
+- **Interview process vs intern**: full-time: recruiter → tech screen → 4-round final (Values / DS&A / System Design / case or IDE) + HM, with deeper system design than the intern loop (see §3); 2025-26 new reports: no public data (Glassdoor 403, Taro needs JS rendering)
+- **Competition**: only 85 public roles worldwide on Lever (2026-10-10), European engineering roles are mostly Senior / Staff → very few entry-level openings (inferred: more competitive than past years)
+- **Key links**: official careers https://www.lifeatspotify.com/jobs · students page (verified opened, above) · Fellowship (verified opened, above) · Levels.fyi Stockholm / UK (verified opened, above)
 
 ---
 

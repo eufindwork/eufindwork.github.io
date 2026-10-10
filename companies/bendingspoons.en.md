@@ -2,7 +2,8 @@
 
 > **Language**: [中文](bendingspoons.md) | English
 >
-> Updated: 2026-05-31
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'Milan is the only office' in §1 (now Milan / London / Madrid / Warsaw); the sponsor country list in §2 (China / Hong Kong / Russia removed, Canada / Israel added); the process PDF linked in §3/§8 returns 404, current version: https://jobs.bendingspoons.com/docs/Culture%20&%20Policies%E2%80%94The%20Bending%20Spoons%20Selection%20Process.pdf
 > Information density: ⭐⭐⭐⭐
 > One-liner: Milan-based AI consumer app acquirer (Splice / Evernote / WeTransfer / StreamYard / Komoot / Meetup), one of the few European native tech companies that actively sponsors visas for non-EU students, intern 3/6 months, in ramping phase hiring lots of SWE / Recruiter / Cloud Eng intern.
 
@@ -19,18 +20,25 @@
 
 ## New Grad / Junior Roles
 
-- **Common role names**: Software Engineer (entry-level), Cloud Engineer, Data Scientist, ML Engineer, Recruiter; no standalone "Graduate Programme" naming — entry-level full-time directly receives SWE offer
-- **European location**: Milan (mandatory first year to return to office often, remote later possible)
-- **Standalone Graduate Programme**: **None**, follows standard SWE recruiting process, intern → return offer to FT is the regular path
-- **Non-EU visa (full-time)**: **Italy Nulla Osta + Permesso di Soggiorno** (Decreto Flussi quota-based) or **UK Skilled Worker** (FAQ explicitly says "we can sponsor a visa or residency permit for Italy or the UK"); EU Blue Card Italy starting salary threshold ~€26k (highly qualified worker)
-- **Salary range**: Company FAQ only says "all Spooners get paid competitively", does not publish base numbers. Third-party Glassdoor / Joberty reports entry SWE base €40k–€55k + annual adjustment (Q4 review)
-- **Application window**: Rolling
-- **Interview process difference vs intern**: Same as intern (take-home + a few rounds HR + 1 Hiring Team technical)
-- **Acceptance competition / international student friendliness**: ⭐⭐⭐⭐ High — FAQ lists 28 sponsor-eligible countries (incl. China / Singapore / all EU / UK / US / Turkey / Ukraine etc.), case-by-case for other countries. Milan cost of living moderate
-- **Key links**:
-  - [Careers (verified opened): https://bendingspoons.com/careers]
-  - [FAQ (verified opened): https://jobs.bendingspoons.com/faq]
-  - [Work With Visa profile: https://workwithvisa.com/companies/bending-spoons/]
+> Checked: 2026-10-10 (live WebSearch + WebFetch) | Information density: ⭐⭐⭐⭐ (basis: official JDs now publish pay ranges + FAQ sponsorship clause + 2026 selection-process document + IR news; no new candidate reports added — search quota exhausted this round)
+> **2027 intake status**: **Rolling (Open)** — no fixed cohort / deadline; on 2026-10-10 hiring Graduate software engineer / Graduate AI software engineer / Graduate data scientist / Graduate security engineer etc., flexible start dates, can start part-time before graduating [Source (verified opened): https://jobs.bendingspoons.com/positions/668e71387a24106d65888827]
+> **2026 H2 news**: 2026-07-01 Nasdaq IPO (BSP), $29.00/share, raised $1.68B [Source (verified opened): https://en.wikipedia.org/wiki/Bending_Spoons]; 2026-09-04 completed the Airtable acquisition; 2026-09-10 definitive agreement to acquire Miro for $1.355B; 2026-09-21 opened a Warsaw office ("Polish applications reach 50,000 in 2026") [Source (verified opened): https://investors.bendingspoons.com/]; acquired companies often see deep layoffs (Vimeo 2025-12 most staff, AOL 2026-02 100+ people) — affects the acquired companies, not BS's own grad hiring (same Wikipedia link)
+
+- **Role names**: since 2026 there are explicitly named "Graduate ..." roles (previous: "no standalone Graduate Programme naming", 2026-05): Graduate software engineer [Source (verified opened): https://jobs.bendingspoons.com/positions/668e71387a24106d65888827], Graduate AI software engineer [Source (verified opened): https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d], Graduate data scientist [Source (verified opened): https://jobs.bendingspoons.com/positions/69d8b3196288fd924641f5df], Graduate security engineer [Source (jobs page data read directly, not WebFetch): https://jobs.bendingspoons.com/positions/69ca9a9ff0efcb3563c31df4]; plus non-tech grad roles (Graduate product manager / growth / sales etc.); page data: 29 of 49 active roles flagged "suitable for students and new graduates" (2026-10)
+- **Eligibility window**: no hard degree / graduation-year cutoff; "You don't need to wait until graduation to apply" + can start part-time then move to full-time; English proficiency required; pay floor explicitly applies to "little or no relevant experience"
+- **European locations**: Milan / London / Madrid / Warsaw, or fully remote from eligible countries; first few months mostly in the Milan office (travel and accommodation covered) (previous: "Milan sole office", 2026-05)
+- **Programme structure**: no rotation / cohort; permanent or fixed-term contract; placed directly in product teams
+- **Salary range (official JD, 2026-10)**: London **£85,797 - £151,436**/year, elsewhere in Europe **€66,065 - €107,837**/year; floor = little or no relevant experience; top offers up to £316,052 / €240,330; permanent contracts can take part of pay as discounted company equity [Source (verified opened): https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d]
+  - Levels.fyi Italy (2026-10): median **€73.1K** (43 data points), L2 €83.8K (sample with 1 yr experience), range €52.1K-€73.1K+ [Source (verified opened): https://www.levels.fyi/companies/bending-spoons/salaries/software-engineer]
+  - (previous: "Glassdoor / Joberty entry SWE base €40k–€55k", 2026-05 — contradicted by the official €66,065 floor, replaced)
+- **Non-EU visa (full-time)**: **Yes (condition: country of residence)** — FAQ: "we can sponsor a visa or residency permit for Italy, Poland, Spain, or the UK, provided you're currently a resident of" All EU countries, Albania, Bosnia And Herzegovina, Canada, Egypt, Georgia, Iceland, Israel, Moldova, Montenegro, North Macedonia, Norway, San Marino, Serbia, Singapore, Switzerland, Turkey, Ukraine, United Kingdom, United States [Source (verified opened): https://jobs.bendingspoons.com/faq]
+  - (previous: 28-country list incl. China / Hong Kong / Russian Federation, destinations Italy / UK only, 2026-05 — the 2026-10 list no longer has China / Hong Kong / Russian Federation, adds Canada / Israel, and destinations now include Poland / Spain)
+  - **From NL student visa / zoekjaar**: the clause is based on current residence, not nationality → NL residents fall under "All EU countries", so sponsorship applies on a literal reading (inferred; the application form asks "Will you require visa sponsorship...", confirm with the recruiter); relocation package covers transport + temporary accommodation + paperwork; no NL office, so zoekjaar / reduced Kennismigrant do not apply
+  - UK route: London floor £85,797 is far above the Skilled Worker £41,700 (2026)
+- **Application window**: Rolling; JD says "a job may remain open for months or be reposted several times"
+- **Interview process difference vs intern**: same process as interns — screening → tasks (problem-solving / behavioral / role-specific, 1-6 hours in total, may be proctored) → typically 2-3 interviews → possible reference check → hiring-committee decision; only final-stage candidates get feedback; reapply after ≥1 year if rejected [Source (verified opened): https://jobs.bendingspoons.com/docs/Culture%20&%20Policies%E2%80%94The%20Bending%20Spoons%20Selection%20Process.pdf]
+- **Competition**: 800,000 applications in 2025, 286 hires (≈0.036%, computed); headcount 1,743 (end of 2025) vs 712 (2024) [Source (verified opened): https://en.wikipedia.org/wiki/Bending_Spoons]
+- **Key links**: [Graduate SWE JD (verified opened): https://jobs.bendingspoons.com/positions/668e71387a24106d65888827] · [FAQ (verified opened): https://jobs.bendingspoons.com/faq] · [IR news (verified opened): https://investors.bendingspoons.com/]
 
 ---
 

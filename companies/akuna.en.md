@@ -2,7 +2,8 @@
 
 > **Language**: [中文](akuna.md) | English
 >
-> Updated: 2026-05-28
+> Updated: 2026-10-10
+> ⚠️ **2026-10-10 correction**: the New Grad section of this page was refreshed; these older statements elsewhere on the page are outdated, the New Grad section takes precedence — 'London licence unconfirmed' in §1/§2 (Akuna Europe Limited is an A-rated Skilled Worker sponsor, 2026-10-09 register).
 > Information richness: ⭐⭐⭐⭐ (Levels.fyi US Junior $215K + intern $62.50/hr 2026 / $96.15/hr 2024 historical + 4-stage process explicit + London 2022 establishment verified + Akunacademy intern $130K annualized 2026 actual listing + 493 headcount 2026-02; lacks London-specific public stipend but has full OA process)
 > One-liner: Options market making specialist prop firm founded 2011 by Andrew Killion (ex-SIG trader) in Chicago, 5 global offices (Chicago HQ / Sydney 2018 / Shanghai 2014 / London 2022 / Singapore 2024) ~493 headcount, famous for "Akunacademy" intern cohort (10 weeks, GPA 3.5+), HackerRank OA 3 problems 80 min is the industry standard template
 
@@ -25,48 +26,26 @@
 
 ## New Grad / Junior Positions
 
-> Information richness: ⭐⭐⭐⭐ (Levels.fyi US SWE Junior $215K + Akunacademy $130K annualized base + 4-stage official process + OA 3 problems 80 min explicit + GPA 3.5+ hard indicator + London 2022 establishment)
+> Checked: 2026-10-10 (live WebFetch + Greenhouse API) | Information richness: ⭐⭐⭐ (basis: all 41 Greenhouse postings read directly + UK sponsor register checked directly; no public London pay data)
+> **2027 intake status (Europe)**: **No programme** — of 41 Greenhouse postings on 2026-10-10, London has only 1 Platform Engineer (5+ years' experience, updated 2026-09-20) and 0 entry-level / intern roles; every 2027 entry-level role and Summer 2027 internship is in Chicago (plus Shanghai junior roles) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs]
+> 2026 H2 news: ⚠️ **Pending web verification**: search snippets mention 2026-09 Glassdoor employee reviews about layoffs, could not open to verify; known history: 2023-01 global cut of 11%, 2023-06 APAC cut of 40% [Source (search results): https://en.wikipedia.org/wiki/Akuna_Capital]
 
-- **Common position names (Akuna recruiting naming clear, strictly differentiated)**:
-  - **Software Engineering Intern - Python** (Summer 2026, Akunacademy cohort)
-  - **Software Engineering Intern - C++** (Summer 2026, Akunacademy cohort)
-  - **Quantitative Development Intern** (parallel cohort)
-  - **Junior Software Engineer** / **Junior Quantitative Developer** (Akunacademy conversion)
-  - **Trading Intern** + **Junior Trader** (undergrad quant trader path, not on SWE path)
-  - **FPGA Engineer** (Verilog/VHDL, deterministic-latency)
-- **EU locations**: **London only** (EU hub since 2022, mainly 30 Crown Place active); Akuna currently has no other EU cities
-- **Independent Graduate Programme**: **Yes - Akunacademy** (10-week Summer Intern Cohort + full-time Junior Engineer/QD conversion pipeline); GPA 3.5+ hard threshold, must graduate by August 2027 [Source (verified opened): https://openquant.co/job/software-engineer-intern-python-summer-2026-akuna-capital/2815]
+- **Role names (2027 cycle, none in Europe)**: Chicago — Software Engineer (Entry-Level) - C++ / - Python, Junior Quantitative Developer & Strategist, Junior Quantitative Researcher, Junior Quantitative Risk Analyst; Shanghai — Junior Developer - C++ (0-2 years' experience), Junior Quantitative Researcher - Deep Learning (Time Series); the trader path only has "Expression of Interest: 2027 Trading Sneak Peek Weeks" (Chicago)
+- **Eligibility**: SWE entry-level "Graduating by August 2027", technical BSc / MSc / PhD, Python roles require a major GPA of 3.5+; Junior QD / QR degree must be completed before starting; Shanghai junior must graduate by 2027-07 [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs/8013230]
+- **European locations**: London (Akuna Europe Limited) — no grad roles on 2026-10-10; the London Platform Engineer posting tells "current student or recent graduate" readers to look at Entry Level / Intern roles (all in Chicago) [Source (verified opened): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs/8207158]
+- **Programme structure**: no stand-alone European graduate programme; Akunacademy = Chicago 10-week intern cohort → conversion pipeline (previous info, 2026-05)
 - **Non-EU visa (full-time)**:
-  - **London**: UK Skilled Worker £41,700 (2026); Akuna UK Ltd industry estimate has sponsorship (not yet explicitly confirmed on public worksponsors list — but 2022 London hub establishment + high international employee ratio → very likely has license)
-  - **Chicago**: Akunacademy explicitly requires "Legal authorization to work in the U.S. is required on the first day of employment" → **US intern does not sponsor H-1B** (need OPT/CPT or PR/Citizen)
-- **Salary structure (quant-specific, key)**:
-  - **SWE Intern (Chicago Summer 2026)**: **$62.50/hr ≈ $10,833/month** (Levels.fyi latest, substantial drop from 2024 $96/hr) — actual listing "minimum annualized base salary of $130K" implies specific stipend is still $130K/52 ≈ $2,500/week ≈ $10,000/month + housing/relocation [Source (verified opened): https://www.levels.fyi/internships/Akuna-Capital/Software-Engineer-Intern/; https://openquant.co/job/software-engineer-intern-python-summer-2026-akuna-capital/2815]
-  - **SWE Intern (Chicago 2024 historical peak)**: $96.15/hr ≈ $16,666/month + corporate housing + relocation
-  - **SWE Intern (London)**: industry estimate £6-9k/month (no public Levels.fyi London intern data, but Akunacademy is unified cohort, inferred same tier as US)
-  - **Full-time Junior SWE US**: **$215K total = $147K base + $66K bonus + $1.4K stock/yr** [Source (verified opened): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer]
-  - **Full-time Mid SWE US**: $273K total = $167K base + $106K bonus
-  - **Full-time Senior SWE US**: $479K total = $196K base + $283K bonus (bonus ratio senior doubling is prop firm commonality)
-  - **Full-time London SWE (inferred)**: £80-110K base + £30-60K bonus = £110-170K total (industry estimate, Akuna London 15-20% lower than Chicago)
-  - **Equity**: $0-1.4K minor stock (essentially none, industry standard — prop firm private)
-- **Application window**:
-  - **Akunacademy (Summer Internship)**: opens 7-9 months, peak rolling close 10-12 months (hot cohort, GPA 3.5+ → early apply key)
-  - **Junior FT**: rolling, intern conversion + direct hiring mix
-- **Interview process differences vs intern (Akuna is industry OA template, process highly standardized)**:
-  - **OA**: HackerRank 3 problems 80 min (LeetCode med, "Minimum Swaps" / "Delivery Management" / "Binary Circuit" typical) + multiple choice (basic probability/math)
-  - **Tech Phone 1**: 30 min, resume + Python trivia + brief behavioral
-  - **Tech Phone 2**: 15 min behavioral
-  - **Final / Super Day Chicago**: 4-5 × 45 min back-to-back + team lunch + (trader path) trading game
-  - **Decision**: 1 week after Super Day
-- **Acceptance competition**: Akunacademy GPA 3.5+ hard threshold + "top preference" restriction (can't apply to other Quant/Tech roles simultaneously), i.e. Akuna requires candidates to be "all-in"; overall friendlier than Jump but stricter than DRW
-- **Key links**:
-  - Official careers (verified opened, dynamically loaded): https://akunacapital.com/careers/
-  - Akunacademy SWE Python Intern (verified opened, GPA 3.5+ / $130K base / Chicago): https://openquant.co/job/software-engineer-intern-python-summer-2026-akuna-capital/2815
-  - Akunacademy SWE C++ Intern (search results): https://openquant.co/job/software-engineer-intern-c-summer-2026-akuna-capital/2814
-  - Levels.fyi US Junior $215K (verified opened): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer
-  - Levels.fyi SWE Intern $62.50/hr (verified opened): https://www.levels.fyi/internships/Akuna-Capital/Software-Engineer-Intern/
-  - 4-stage process explicit (verified opened): https://www.quantt.co.uk/resources/akuna-capital-interview
-  - HackerRank 3 problems 80 min process (verified opened): https://www.linkjob.ai/interview-questions/akuna-capital-hackerrank-test
-  - Wikipedia Akuna (search results, 2011 founded / 493 / 5 offices): https://en.wikipedia.org/wiki/Akuna_Capital
+  - **UK**: Akuna Europe Limited (London) is on the register as an A-rated Skilled Worker + Global Business Mobility: Senior or Specialist Worker sponsor (2026-10-09) [Source (verified opened): https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers] (previous: "not explicitly confirmed on public list", 2026-05); Skilled Worker threshold £41,700 — but there is currently no London entry-level role to apply for
+  - **US**: "Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM" → no day-1 sponsorship; **not feasible** starting from an NL student visa / zoekjaar
+  - **NL**: no NL office, zoekjaar / Kennismigrant not applicable
+- **Pay (gross/yr, essentially no equity)**:
+  - **Chicago entry-level (official postings, 2026-10)**: SWE (Entry-Level) C++ / Python, Junior QD & Strategist, Junior QR "minimum base salary starts at $145,000"; Junior Quantitative Risk Analyst $90,000 (bonus amount not disclosed in postings)
+  - **US Junior SWE (Levels.fyi, previous 2026-05, verified opened)**: $215K TC = $147K base + $66K bonus [Source (verified opened): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer]
+  - **London**: Levels.fyi London SWE page on 2026-10-10 shows data still locked ("4 more submissions"), no public data [Source (verified opened): https://www.levels.fyi/companies/akuna-capital/salaries/software-engineer/locations/london-metro-area]; ⚠️ **Pending web verification**: the previous inferred £80-110K base + £30-60K bonus has no source (industry estimate); do not use for pay decisions until re-verified
+- **Application window**: Chicago 2027 entry-level + Summer 2027 intern roles first published 2026-07-13, rolling; one Quant/Tech role per season ("top preference"); new in 2027 postings: using AI tools → disqualification
+- **Interview process**: HackerRank OA (possibly 2 rounds) → technical screen (~45 min, self-intro + HackerRank questions, e.g. LRU) → final day of 4 back-to-back interviews (technical + system design + fit); 2025-07 Singapore SWE report, outcome no offer [Source (verified opened): https://prachub.com/interview-experiences/akuna-capital-software-engineer-hackerrank-oa-coding-rounds-and-final-day-76085515ca]; see also a 2025-10 Singapore SWE report [Source (search results): https://www.jointaro.com/interviews/companies/akuna-capital/work-experiences/software-engineer-singapore-october-14-2025-5-51a5002b/]
+- **Competition**: high; GPA 3.5+ plus single-role exclusive application; for non-EU new grads in Europe there is essentially nothing to apply for this cycle
+- **Key links**: Greenhouse API (verified opened): https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs · official careers (previously verified opened, JS-rendered): https://akunacapital.com/careers/
 
 ---
 

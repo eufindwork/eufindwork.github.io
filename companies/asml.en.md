@@ -2,7 +2,7 @@
 
 > **Language**: [中文](asml.md) | English
 >
-> Updated: 2026-09-26
+> Updated: 2026-10-10
 > Info richness: ⭐⭐⭐⭐ (official info is transparent, interview reports scattered but multi-sourced via Glassdoor/JoinTaro/1point3acres)
 > Company background: sole global supplier of extreme ultraviolet (EUV) lithography systems, core equipment supplier to TSMC/Samsung/Intel. HQ in Veldhoven (next to Eindhoven), global ~40,000 employees
 
@@ -32,47 +32,27 @@
 
 ## New Grad / Junior Positions
 
-> Info richness: ⭐⭐⭐⭐ (ASML is one of NL's largest single recruiters, official early-careers entry + Levels.fyi real-read L6-L8 NL data + abundant Glassdoor interview reports; note ASML official branding **has shifted from "Starters / TDP" toward "Early Career Programs" umbrella**, including Management Traineeship / Manufacturing Gateway / IT Gateway / Supply Chain Graduate Acceleration named sub-programs)
-> Distinction from internships: internships 6-9 months via GVVA or Nuffic agreement; **Starter / Graduate (new grad)** full-time contract, via Highly Skilled Migrant + 30% ruling, package jumps an order of magnitude
+> Checked: 2026-10-10 (live WebSearch + WebFetch + Workday API) | Info richness: ⭐⭐⭐⭐ (basis: official early-career-programs page + live graduate-programme posting text + Workday open-roles list + Levels.fyi 2026-10-10 + NL Times 2026 coverage)
+> **2027 intake status**: **Open (one programme only)** — **Sourcing & Supply Chain Graduate Acceleration Program** (J-00353257, Veldhoven) closes **2026-10-18 23:59 CEST**, preferred start 2027-01, onsite selection day 2026-11-19 [Source (verified opened): https://www.asml.com/en/careers/find-your-job/sourcing-and-supply-chain-graduate-acceleration-program-j00353257]; **Management Traineeship / Gateway Program**: the official page has descriptions only, no dates, and nothing is posted on Workday → Upcoming (not announced); last cycle's Management Traineeship - Technology deadline was 2026-05-25 [Source (verified opened): https://www.asml.com/en/careers/students-new-graduates/early-career-programs]
+> **2026 news**: 2026-01-28 ASML announced 1,700 job cuts (D&E + IT & Data, reason "inefficient and overly complex"); 2026-06-10 social plan agreed with unions: no forced layoffs from 2026-06-01 to 2027-05-01, affected staff can apply for internal vacancies [Source (verified opened): https://nltimes.nl/2026/06/10/asml-unions-finalize-social-plan-address-1700-job-cuts]; 2026-08-20 the US is preparing to use the "Match Act" to force NL to ban ASML DUV sales / servicing in China [Source (verified opened): https://nltimes.nl/2026/08/20/us-preparing-force-netherlands-ban-asml-selling-china]; 2026-09-08 construction started on Brainport Industries Campus North, eventually +20,000 jobs (almost doubling NL headcount), at least 3,000 jobs by the end of phase 1 in 2029 [Source (verified opened): https://nltimes.nl/2026/09/08/asml-celebrates-start-campus-construction-will-open-extra-20000-jobs]
+> **Open-roles snapshot (Workday 2026-10-10)**: 670 roles worldwide, Veldhoven 80 + Eindhoven 3 + Berlin 17; only 4 NL full-time roles tagged "0-1 year" experience (Business Analyst J-00353962 / System performance engineer J-00281913 / EC Sequence Engineer J-00353646 / SC Graduate Acceleration J-00353257), plus 24 NL internships [Source (verified opened, API read): https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/ASMLEXT1/jobs]; inferred: the internal redeployment period (until 2027-05-01) plus few external entry roles means a much narrower new-grad entry in 2026 H2
+> ⚠️ **Pending web verification**: carried-over items not re-verified this time (WebSearch budget exhausted): "sponsors 2000+ Kennismigrant a year / 2-4 week process / 60-day corporate apartment", "30,000+ applicants / Starter acceptance 5-8%", "intern → Starter ~30-40%", Starter interview "technical panel 3 Senior + 1 Architect"; based on the previous page version; do not use for salary / deadline decisions until re-checked.
 
-- **Common role names**: **Starter Software Engineer** / **Starter Design Engineer** / **Starter Mechatronics Engineer** / **Junior Computational Lithography Engineer** / Starter Process Engineer; **Management Traineeship - Technology** (3-year rotational program, 2026 deadline 5/25/2026) [Source (verified opened): https://www.asml.com/en/careers/students-new-graduates]; internally "Starter" remains the official 0-1 yr FT tag
-- **EU locations**: **Veldhoven (HQ, De Run 6501)** holds the vast majority of Starter slots (50%+ of all employees in Veldhoven) [Source (search result): https://www.asml.com/en/careers/students-new-graduates]; Eindhoven city / Helmond / Berlin / Linkou (Taiwan) — European new grads almost entirely in Veldhoven
-- **Independent Graduate Programme**: **Yes — Early Career Programs umbrella** with multiple parallel programs:
-  - **Management Traineeship - Technology** — 3-year rotational, across multiple departments + strategy + technical challenges [Source (verified opened): https://www.asml.com/en/careers/students-new-graduates]
-  - **Manufacturing Gateway Program** — semiconductor manufacturing / process optimization / quality control / supply chain direction
-  - **IT Gateway Program** — software dev / data analysis / IT infra
-  - **Sourcing & Supply Chain Graduate Acceleration Program** — includes 13th-month salary + 8% holiday allowance + 40 days PTO + pension [Source (search result): https://www.asml.com/en/careers/find-your-job]
-  - **Engineering Career Starter** — direct FT SWE / EE / Optics, no rotation
-  - **PhD-track Graduate** — partnerships with TU/e, TU Delft, Twente
-- **Non-EU visa (full-time)**:
-  - ASML is an IND **top Recognised Sponsor**, sponsors 2000+ Kennismigrant annually; process 2-4 weeks
-  - Provides **full relocation**: one-way flight + 60-day corporate apartment + permanent BSN/banking/health insurance assistance + spouse search agency + international school assistance
-  - **30% ruling (NL 2026)**: Starter SWE starting salary €82K base well above Kennismigrant threshold **€4,357/month <30 yrs = €52.3K/year**, **100% applicable** [Source (verified opened): https://www.jobbatical.com/blog/netherlands-highly-skilled-migrant-salary-thresholds-2026]
-  - **EU Blue Card / Highly Skilled Migrant dual path**: ASML defaults to Kennismigrant (fastest within NL), but can switch to Blue Card if cross-EU mobility needed
-- **Salary range (base, gross/year)**:
-  - **NL Starter SWE (L6, entry)**: **$82.4K base + $9.6K bonus ≈ $92K total / year** (Levels.fyi 2026-05-27 real read, USD quote ≈ €76K total); NL median €99.3K (incl. higher levels) [Source (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
-  - **Eindhoven SWE composite**: median €76.2K total, L6-L9 range €63.1K-€96.7K [Source (search result): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven]
-  - **L7 (1-2 yrs)**: $91K base + $14K bonus ≈ $105K total [Source (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
-  - **L8 (mid)**: $116K base + $16.8K bonus ≈ $133K total
-  - Plus 13-month salary (8% holiday allowance)
-  - **Stock**: ASML.AS RSU, **L6 Starter 0 stock**, L7 ~$439/year (negligible), L8+ has meaningful grant [Source (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
-  - **Net after 30% ruling**: €82K base → ~€5.0K-€5.5K/month net
-- **Application window**: **rolling year-round**, no fixed cohort deadline; the previous Management Traineeship - Technology 2026 cycle deadline (5/25/2026) has passed; as of 2026-09-26 the official page has not published a specific deadline for the next cycle, so the continuously-open career portal remains the reference [Source (actually opened): https://www.asml.com/en/careers/students-new-graduates]; intern → Starter conversion high (publicly ~30-40%)
-- **Interview process diff vs intern**:
-  - Process structure similar (CV → Recruiter → Hiring Manager → Technical → Offer), but **technical round deepens** — one extra round of **technical panel (3 Senior + 1 Architect)**, on-site whiteboard system design
-  - **New culture / leadership behavior round** (based on ASML "Challenge, Trust, Care, Collaborate, Have Fun" five principles)
-  - Some Management Traineeship flows require **48-hour case study** + presentation
-  - Overall 4-6 weeks, slightly longer than intern (4 weeks)
-- **Selectivity**: ASML Starter is one of NL's most competitive employer brands (Universum #1 NL Engineering employer), 30,000+ applicants annually, Starter ~5-8% acceptance; **extremely international-friendly** (40% of employees are international talent); Chinese students have higher pass rates than booking / adyen because technical fit > business sense
-- **Key links**:
-  - ASML Students & New Graduates official portal: https://www.asml.com/en/careers/students-new-graduates
-  - ASML Early Career Programs: https://www.asml.com/en/careers/students-new-graduates
-  - Careers main entry: https://www.asml.com/en/careers/find-your-job
-  - Levels.fyi ASML SWE Netherlands (2026-05-27 real read): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands
-  - Levels.fyi ASML SWE Eindhoven region: https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven
-  - GraduatesFirst ASML 2026 prep guide: https://www.graduatesfirst.com/asml-early-careers
-  - Glassdoor interview reports (Veldhoven filter): https://www.glassdoor.com/Interview/ASML-Eindhoven-Interview-Questions-EI_IE26494.0,4_IL.5,14_IC3057620.htm
-  - 1point3acres ASML tag: https://www.1point3acres.com/bbs/tag/asml-1186-1.html
+- **Common role names**: Early Career Programs = **Sourcing & Supply Chain Graduate Acceleration Program** / **Management Traineeship** (- Technology) / **Gateway Program** (previously split into Manufacturing / IT Gateway) [Source (verified opened): https://www.asml.com/en/careers/students-new-graduates/early-career-programs]; everything else is direct hiring (formerly "Starter"; on 2026-10-10 Workday has no NL role titled "starter" / "junior")
+- **Eligibility window**: SC GAP: Bachelor / Master (SCM / logistics / IE related), must be "fully graduated" before starting, ≤6 months relevant work experience (internships excluded), fluent English (same J-00353257 page); direct roles follow the Workday "0-1 year" tag
+- **EU locations**: mainly Veldhoven (HQ), a few in Eindhoven; Berlin roles are currently mostly manufacturing / logistics
+- **Programme structure**: SC GAP = 2-year development programme (~10 soft-skill training days a year), 1-year contract with the intention of an indefinite contract (same J-00353257 page); the Management Traineeship was previously a 3-year rotational programme
+- **Non-EU visa (full-time)**: ASML Netherlands B.V. (KvK 17052456) / ASML Holding N.V. (KvK 17085815) and others are on the IND recognised sponsor register (updated 2026-10-05) [Source (verified opened): https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants]; 2026 HSM thresholds €5,942 (≥30) / €4,357 (<30) / €3,122 (reduced, zoekjaar / recent graduates) gross/month [Source (verified opened): https://ind.nl/en/required-amounts-income-requirements]; official relocation: temporary housing + moving services + relocation budget [Source (verified opened): https://www.asml.com/en/careers/working-at-asml/netherlands]; switching from an NL student permit / zoekjaar to HSM is feasible (inferred)
+  - **30% ruling**: 2026 salary norm €48,013 / <30 + master €36,497; new rulings capped at 27% from 2027-01-01 [Source (verified opened): https://www.bakertilly.nl/en/inzichten/kennisartikel/new-threshold-amounts-for-expats-and-highly-skilled-migrants-in-2026]; requires having lived >150 km from the Dutch border before starting [Source (verified opened): https://www.iamexpat.nl/expat-info/taxation/30-percent-ruling] — people starting right after studying in NL usually do not qualify (inferred) (previous: "100% applicable")
+- **Salary (gross/year)**:
+  - **Levels.fyi NL 2026-10-10**: L6 (Entry Level) €82.8K total (€74.4K base + €675.7 stock + €7.7K bonus); L7 €104K (€88.7K base + €0 stock + €15.5K bonus); L8 €128K; median €102K, 323 entries; RSU vests 33% a year over 3 years [Source (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands]
+  - **Levels.fyi Eindhoven region 2026-10-10**: L6 €66.7K total (€59.9K base + €0 stock + €6.9K bonus); L7 €81.5K; L8 €105K — L6 is €16.1K below the NL page; the two pages use different samples, and the Eindhoven region is closer to Veldhoven reality (inferred) [Source (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/metropoolregio-eindhoven]
+  - Previous (2026-05-27): L6 $82.4K base + $9.6K bonus ≈ $92K; L7 $91K + $14K ≈ $105K; L8 $116K + $16.8K ≈ $133K; Eindhoven median €76.2K, L6-L9 €63.1K-€96.7K (the previous "Starter starting salary €82K base" does not match the new data)
+  - Official benefits: 13th month + 8% holiday allowance + 40 days paid leave (27 vacation + 13 ADV) + pension (same working-at-asml page); no public data on BSc vs MSc starting pay
+- **Application window**: direct roles rolling; SC GAP posted 2026-10-07 → closes 2026-10-18 (same J-00353257 page); Management Traineeship last cycle closed 2026-05-25, 2027 cycle not announced
+- **Interview process diff vs intern**: SC GAP: application (notification within 1 week of the deadline) → recorded video interview (set questions) → onsite selection day (2026-11-19) → offer (same J-00353257 page); direct roles: CV → recruiter → hiring manager → technical → offer, about 4-6 weeks (previous version, not re-verified)
+- **Selectivity**: no official data; in 2026-10 only 4 external NL full-time roles accept 0-1 years, so competition is higher than in earlier years (inferred)
+- **Key links**: Early Career Programs (verified opened): https://www.asml.com/en/careers/students-new-graduates/early-career-programs · Students & graduates portal (verified opened): https://www.asml.com/en/careers/students-new-graduates · Find your job: https://www.asml.com/en/careers/find-your-job · Levels.fyi NL (verified opened): https://www.levels.fyi/companies/asml/salaries/software-engineer/locations/netherlands · Glassdoor: https://www.glassdoor.com/Interview/ASML-Eindhoven-Interview-Questions-EI_IE26494.0,4_IL.5,14_IC3057620.htm · 1point3acres: https://www.1point3acres.com/bbs/tag/asml-1186-1.html
 
 ---
 

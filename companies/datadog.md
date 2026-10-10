@@ -2,7 +2,7 @@
 
 > **Language**: 中文 | [English](datadog.en.md)
 >
-> 更新时间: 2026-05-31
+> 更新时间: 2026-10-10
 > 信息丰富度: ⭐⭐⭐⭐⭐
 > 一句话定位: 美股观察性 SaaS 巨头, EU 团队主攻 LLM Observability / AI Agents Monitoring / AIOps, 早期职业明确 sponsor + 多个 EU offices.
 
@@ -24,28 +24,21 @@
 
 ## New Grad / Junior 岗位
 
-- **常见岗位名**: Software Engineer - Early Career, Software Engineer I, Site Reliability Engineer - Early Career, Solutions Engineer - Early Career
-- **欧洲地点**: Paris (主), Madrid, Lisbon — Datadog 官方页明确写 "New York, Boston, Denver, **Paris**, or **Madrid**" 作为 early career 站点 [来源 (实际打开过): https://careers.datadoghq.com/early-careers/]; Lisbon Levels.fyi 数据齐 (实际有 EC class)
-- **是否有独立 Graduate Programme**: **Yes (Early Career cohort)** — 春季 + 多个夏季 start dates, "majority of full-time early career cohort 是 former interns" [来源 (实际打开过): https://careers.datadoghq.com/early-careers/]
-- **非EU签证 (全职)**:
-  - **France**: French Tech Visa ~€43K/yr — Datadog SWE I Paris base 已 ≥ 此; **JD 明确 "international candidates currently studying in France are eligible for sponsorship"** [来源 (实际打开过): https://jaabz.com/jobs/7637-software-engineer-early-career]
-  - **Portugal**: Tech Visa 1-3 个月 IAPMEI 流程, Lisbon Datadog 大量 H1B/EU 同时 sponsor (未官方表态, 但 Levels.fyi 数据高)
-  - **Spain**: Madrid 走 Highly Qualified Professional (Ley 14/2013, 阈值低)
-- **薪资范围 (Levels.fyi 2026)**:
-  - **SWE I Paris (Early Career)**: TC 中位 **$82,986 (~€77K)** = base **$69,872 (~€65K)** + stock **$13,114 (~€12K)** [来源 (实际打开过): https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area]
-  - **SWE II Paris**: base €84.6K-€120K range, 中位 ~€100K TC
-  - **SWE Paris (全级别)**: €71.1K-€145K range
-  - **SWE Lisbon**: 中位 **€92,241 TC**, range €90.2K-€138K [来源 (实际打开过): https://www.levels.fyi/companies/datadog/salaries/software-engineer/locations/lisbon-metro-area] — **比 Paris L1 高很多**, Lisbon 反差大
-  - **SWE 全球**: $185K-$568K+ (含 US)
-- **申请窗口**: **每年 9 月开 reqs**, summer intern + new grad 同窗; Sep-March 主面试季 [来源 (实际打开过): https://careers.datadoghq.com/early-careers/]
-- **面试流程差异 vs 实习**: New grad 流程比 intern 多一轮 system design lite + half-day onsite; intern 偏 coding
-- **录取竞争 / 国际生 friendliness**: 高 (Paris ~€80K TC for Early Career 是 FR top), 国际生**明确友好** — 在 FR 学习的非 EU 学生直接 sponsor
-- **关键链接**:
-  - Early Careers 入口: https://careers.datadoghq.com/early-careers/
-  - Paris office: https://careers.datadoghq.com/paris/
-  - Engineering JD index: https://careers.datadoghq.com/engineering/
-  - **Levels.fyi SWE I Paris**: https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area
-  - Levels.fyi Lisbon: https://www.levels.fyi/companies/datadog/salaries/software-engineer/locations/lisbon-metro-area
+> 核查日期: 2026-10-10 (Greenhouse API + WebFetch; "原文直读" = curl 读取官方 API / 原文, 非 WebFetch) | 信息丰富度: ⭐⭐⭐⭐ (依据: 官方 early-careers 页 + 在招 JD + Levels.fyi + IND 名单)
+> **2027 Intake 状态**: **Upcoming (全职) / Open (intern→FT)** — 2026-10-10 Greenhouse 全部 435 个在招中**无 "Software Engineer - Early Career" 全职 req** (欧洲 early-career 全职仅 SDR) [来源 (原文直读): https://boards-api.greenhouse.io/v1/boards/datadog/jobs]; 欧洲 new grad 实际入口 = Paris 6 个月 end-of-studies SWE intern (JD: "Targeting a 2027 full-time start date", Feb–Jun 2027 起) [来源 (实际打开过): https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186]
+> **2026 H2 动态**: 2026-06-30 收购 Adaptive ML (并入 Datadog AI Research) [来源 (实际打开过): https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-adaptive-ml-to-accelerate-its-investment-in-ai-research-and-development/]; Q2 2026 (2026-08-06) 营收 $1.12B +36%, FY2026 指引 $4.45–4.47B [来源 (实际打开过): https://www.sec.gov/Archives/edgar/data/0001561550/000162828026053829/ex-991x20260630x8k.htm]; 未发现 layoff / hiring freeze 公告
+
+- **岗位名称**: 全职 Software Engineer - Early Career (历年挂在 Lisbon: 2025 start 版于 2025-06-12 下线 [来源 (实际打开过): https://builtin.com/job/software-engineer-early-career/4506799]; 2026 start 版 [来源 (搜索结果): https://careers.datadoghq.com/detail/7646452] 2026-10-10 API 返回 404); 现开 (均 2026-09-08 发布): Software Engineering Intern (Paris / Madrid), Applied Science Intern / Product Management Intern / IT Support Technician Intern (Paris)
+- **资格窗口**: Paris intern: 在读 CS / SE 或相关, "Targeting a 2027 full-time start date", 6 个月, Feb / Mar / Apr / May / Jun 2027 起; Madrid intern: "Expected to graduate in 2027 ... from a university in Spain", 仅 Feb 2027 起 [来源 (原文直读): https://boards-api.greenhouse.io/v1/boards/datadog/jobs/8114161]; 全职 EC 历史 JD: "targeting a 20XX full-time start date", CS / SE 学位或 equivalent experience; CV 须英文
+- **欧洲地点**: 官方 early career 站点 "New York, Boston, Denver, Paris, or Madrid" [来源 (实际打开过): https://careers.datadoghq.com/early-careers/]; Lisbon 有全职 EC req 历史; Amsterdam / Dublin 仅 SDR / 前台类
+- **项目结构**: "a spring start class and a couple of start dates in the summer", cohort 制; jobs "typically post ... in September" (同上页)
+- **非EU签证 (全职)**: NL: Datadog Netherlands B.V. (KvK 77823664) 在 IND recognised sponsor 名单 (2026-10-05 更新) [来源 (实际打开过): https://ind.nl/en/public-register-recognised-sponsors/public-register-work], 但 Amsterdam 无工程 early-career req; FR: 2026-10 Paris intern JD 未写 sponsorship (旧版 JD 曾写 "international candidates currently studying in France are eligible for sponsorship" [来源 (实际打开过): https://jaabz.com/jobs/7637-software-engineer-early-career]); Madrid intern 限西班牙院校 → NL 在读者不适用; 从 NL zoekjaar 转 Paris / Lisbon 需当地工作许可
+- ⚠️ **待 web 验证**: FR Passeport Talent / PT 工作签门槛与 Datadog 对 "非法国院校" intern 的 convention de stage 要求本轮未核实; 二次核实前勿用于 visa 决策
+- **薪资范围 (Levels.fyi, 2026-10-10)**: SWE I Paris TC 中位 €76,690 = base €64,220 + stock €12,322 + bonus €148, range €71.9K–€82.9K+ [来源 (实际打开过): https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area] (旧版: $82,986, 2026-05); Lisbon: SWE II €92.2K (base €72.2K), Senior €134K, SWE I 数据不足 [来源 (实际打开过): https://www.levels.fyi/companies/datadog/salaries/software-engineer/locations/lisbon-metro-area] (旧版 "Lisbon 中位 €92,241" 实为 SWE II 水平); RSU 4 年 vest
+- **申请窗口**: intern 2026-09-08 发布, 无截止日 (rolling); 官方面试季 "September-March"; 全职 Lisbon EC 发布月份无公开数据 (2025 版 2025-06-12 下线)
+- **面试流程差异 vs 实习**: 官方 4-5 轮, ~3-4 周 (旧版) [来源 (实际打开过): https://careers.datadoghq.com/candidate-experience/]; 2025-26 Glassdoor FR 搜索摘要 (未打开): 全职 Paris = recruiter → coding ×2 + system design + project & values presentation → team matching; intern = coding game + 1h live coding + team matching
+- **录取竞争**: 全职 cohort 以 intern 转正为主; 公开录取率无数据
+- **关键链接**: [Early Careers (实际打开过): https://careers.datadoghq.com/early-careers/] · [Greenhouse 在招列表 (原文直读): https://boards-api.greenhouse.io/v1/boards/datadog/jobs] · [Levels.fyi SWE I Paris (实际打开过): https://www.levels.fyi/companies/datadog/salaries/software-engineer/levels/software-engineer-i/locations/greater-paris-area]
 
 ---
 
